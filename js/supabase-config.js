@@ -97,10 +97,16 @@ const AuthService = {
     async getCurrentUser() {
         try {
             const { data: { user }, error } = await supabase.auth.getUser()
-            if (error) throw error
+            if (error) {
+                // Não é um erro se não houver sessão ativa
+                if (error.message.includes('session') || error.message.includes('Session')) {
+                    return null
+                }
+                throw error
+            }
             return user
         } catch (error) {
-            console.error('Erro ao obter usuário:', error)
+            // Erro esperado se não houver sessão
             return null
         }
     },

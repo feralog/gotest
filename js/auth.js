@@ -52,13 +52,19 @@ async function checkAuthStatus() {
             // Mostrar sidebar e ir para tela de especialidades
             showSidebar()
             showScreen('specialty-selection-screen')
+
+            console.log('✅ Usuário autenticado:', user.email)
         } else {
             // Usuário não autenticado - mostrar tela de login
             hideSidebar()
             showScreen('auth-screen')
+
+            console.log('ℹ️ Usuário não autenticado - mostrando tela de login')
         }
     } catch (error) {
-        console.error('Erro ao verificar autenticação:', error)
+        // Erro ao verificar sessão (esperado se não houver sessão)
+        console.log('ℹ️ Nenhuma sessão ativa - mostrando tela de login')
+        hideSidebar()
         showScreen('auth-screen')
     }
 }

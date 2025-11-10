@@ -56,19 +56,19 @@ async function init() {
     try {
         // Define o título do quiz
         document.title = quizConfig.title;
-        
+
         // Carrega as questões
         await loadAllQuestions();
         console.log('Questões carregadas com sucesso');
-        
-        // Start directly at specialty selection
-        showSpecialtySelection();
-        
+
+        // NÃO mostra nenhuma tela automaticamente - auth.js vai controlar isso
+        // showSpecialtySelection(); // ← REMOVIDO
+
         // Configura os event listeners
         setupEventListeners();
-        
+
         // Não popula a lista inicialmente - será feito após seleção da especialidade
-        
+
     } catch (error) {
         console.error('Erro ao inicializar o aplicativo:', error);
         alert('Ocorreu um erro ao carregar o aplicativo. Por favor, recarregue a página.');
