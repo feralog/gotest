@@ -196,15 +196,13 @@ function updateSidebarUserInfo() {
 }
 
 function handleSpecialtyNavigation(specialty) {
-    // Esta função será integrada com o app.js existente
-    // Por enquanto, apenas mostra a tela de especialidade
-    showScreen('specialty-selection-screen')
-
-    // Disparar evento customizado que app.js pode escutar
-    const event = new CustomEvent('sidebarSpecialtySelected', {
-        detail: { specialty }
-    })
-    document.dispatchEvent(event)
+    // Chama diretamente a função selectSpecialty do app.js
+    if (typeof selectSpecialty === 'function') {
+        selectSpecialty(specialty)
+    } else {
+        console.error('selectSpecialty function not found')
+        showScreen('specialty-selection-screen')
+    }
 }
 
 // ============================================
