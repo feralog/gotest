@@ -1392,11 +1392,51 @@ body {
     line-height: 1.5 !important;
     border: 1px solid #ced4da !important;
     border-radius: 0.25rem !important;
+    background-color: white !important;
+    min-height: 38px !important;
 }
 
 #auth-screen .form-label {
     display: inline-block !important;
     margin-bottom: 0.5rem !important;
+    font-weight: 500 !important;
+}
+
+#auth-screen .tab-pane {
+    display: block !important;
+}
+
+#auth-screen .tab-pane:not(.show) {
+    display: none !important;
+}
+
+#auth-screen .tab-pane.show.active {
+    display: block !important;
+}
+
+#auth-screen form {
+    display: block !important;
+}
+
+#auth-screen .mb-3 {
+    margin-bottom: 1rem !important;
+    display: block !important;
+}
+
+#auth-screen button[type="submit"] {
+    display: block !important;
+    width: 100% !important;
+}
+
+#auth-screen .d-grid {
+    display: grid !important;
+}
+
+#auth-screen input,
+#auth-screen button,
+#auth-screen label {
+    visibility: visible !important;
+    opacity: 1 !important;
 }
 
 /* ============================================
