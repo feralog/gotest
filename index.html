@@ -13,12 +13,14 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+    <!-- Botão de Toggle da Sidebar - Sempre visível, fora da sidebar -->
+    <button id="sidebar-toggle" class="sidebar-toggle-btn d-none">
+        <i class="fas fa-bars"></i>
+    </button>
+
     <!-- Barra Lateral (Sidebar) - Aparece após login -->
     <div id="sidebar" class="sidebar d-none">
         <div class="sidebar-header">
-            <button id="sidebar-toggle" class="sidebar-toggle-btn">
-                <i class="fas fa-bars"></i>
-            </button>
             <div class="sidebar-user-info">
                 <i class="fas fa-user-circle"></i>
                 <span id="sidebar-username">Usuário</span>

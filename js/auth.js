@@ -149,11 +149,17 @@ function setupSidebarListeners() {
 
 function showSidebar() {
     const sidebar = document.getElementById('sidebar')
+    const toggleBtn = document.getElementById('sidebar-toggle')
     const mainContent = document.getElementById('main-content')
 
     if (sidebar && mainContent) {
         sidebar.classList.remove('d-none')
         mainContent.classList.add('with-sidebar')
+
+        // Mostrar botão de toggle
+        if (toggleBtn) {
+            toggleBtn.classList.remove('d-none')
+        }
 
         // Atualizar nome do usuário na sidebar
         updateSidebarUserInfo()
@@ -162,11 +168,17 @@ function showSidebar() {
 
 function hideSidebar() {
     const sidebar = document.getElementById('sidebar')
+    const toggleBtn = document.getElementById('sidebar-toggle')
     const mainContent = document.getElementById('main-content')
 
     if (sidebar && mainContent) {
         sidebar.classList.add('d-none')
         mainContent.classList.remove('with-sidebar', 'with-sidebar-collapsed')
+
+        // Esconder botão de toggle
+        if (toggleBtn) {
+            toggleBtn.classList.add('d-none')
+        }
     }
 }
 
