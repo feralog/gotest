@@ -325,7 +325,7 @@ function selectMode(mode) {
  * Inicia o quiz para um módulo específico
  * @param {string} module - ID do módulo
  */
-function startQuiz(module) {
+async function startQuiz(module) {
     currentModule = module;
 
     // Obtém as questões do módulo
@@ -337,10 +337,35 @@ function startQuiz(module) {
         return;
     }
 
+    // ============================================
+    // VERIFICA PROGRESSO SALVO NO SUPABASE
+    // ============================================
+    let savedProgress = null;
+    let shouldContinue = false;
+
+    if (typeof loadProgressFromSupabase === 'function' && AuthState && AuthState.isAuthenticated) {
+        savedProgress = await loadProgressFromSupabase(currentSpecialty, currentSubcategory || null, module);
+
+        if (savedProgress && savedProgress.current_question_index > 0) {
+            // Tem progresso salvo, perguntar se quer continuar
+            shouldContinue = askContinueOrRestart(savedProgress);
+        }
+    }
+
     // Reinicia as variáveis do quiz
-    currentQuestionIndex = 0;
-    correctAnswers = 0;
-    incorrectAnswers = 0;
+    if (shouldContinue && savedProgress) {
+        // CONTINUAR de onde parou
+        currentQuestionIndex = savedProgress.current_question_index;
+        correctAnswers = savedProgress.correct_answers || 0;
+        incorrectAnswers = savedProgress.incorrect_answers || 0;
+
+        console.log(`✅ Continuando do progresso salvo - Questão ${currentQuestionIndex + 1}`);
+    } else {
+        // RECOMEÇAR do zero
+        currentQuestionIndex = 0;
+        correctAnswers = 0;
+        incorrectAnswers = 0;
+    }
 
     // Reinicia os dados de navegação livre
     userAnswers = {};
@@ -353,7 +378,7 @@ function startQuiz(module) {
         questionStates[i] = 'unanswered';
         questionConfirmed[i] = false;
     }
-    questionStates[0] = 'current';
+    questionStates[currentQuestionIndex] = 'current';
 
     // Mostra a tela do quiz
     showQuizScreen();
@@ -364,7 +389,7 @@ function startQuiz(module) {
     // Gera a navegação de questões
     generateQuestionNavigation();
 
-    // Carrega a primeira questão
+    // Carrega a questão (pode ser a primeira ou a salva)
     loadQuestion();
 }
 
@@ -577,6 +602,11 @@ function navigateToQuestion(questionIndex) {
 
     // Atualiza navegação
     updateNavigationStates();
+
+    // ✅ SALVA PROGRESSO AUTOMATICAMENTE
+    if (typeof autoSaveProgress === 'function') {
+        autoSaveProgress();
+    }
 }
 
 /**
@@ -801,6 +831,11 @@ function handleAnswer(selectedIndex) {
 
     // Atualiza botões de navegação (inclui botão confirmar do modo mentor)
     updateQuizNavigationButtons();
+
+    // ✅ SALVA PROGRESSO AUTOMATICAMENTE
+    if (typeof autoSaveProgress === 'function') {
+        autoSaveProgress();
+    }
 }
 
 /**
