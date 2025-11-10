@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Qual a principal diferença entre a COX-1 e a COX-2 em relação à sua presença no organismo?",
+    "options": [
+      "A COX-1 é induzida apenas em células especiais do pulmão, enquanto a COX-2 está presente em todo o organismo",
+      "A COX-1 é continuamente estimulada no organismo, enquanto a COX-2 é induzida",
+      "Ambas são induzidas apenas em situações específicas",
+      "Ambas são continuamente estimuladas no organismo",
+      "A COX-1 é induzida e a COX-2 é continuamente estimulada"
+    ],
+    "correctIndex": 1,
+    "explanation": "A COX-1 é continuamente estimulada no organismo e constitutiva (sua concentração se mantém estável), enquanto a COX-2 é induzida (normalmente não está presente nas células) e é estimulada somente como parte da resposta imune.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os tecidos onde a COX-2 é constitutiva, segundo o conteúdo apresentado?",
+    "options": [
+      "Fígado, pâncreas e baço",
+      "Estômago, intestino e rins",
+      "Pulmão, coração e músculos",
+      "Pele, olhos e articulações",
+      "Tecido nervoso, ósseo e renal"
+    ],
+    "correctIndex": 4,
+    "explanation": "Conforme apresentado, a COX-2 é constitutiva (está sempre presente) no tecido nervoso, ósseo e renal, diferentemente de outros tecidos onde ela só é expressa durante processos inflamatórios.",
+    "type": "raciocínio"
+  }
+]

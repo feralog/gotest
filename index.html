@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- O título será atualizado dinamicamente pelo JavaScript a partir de quizConfig.title. -->
+    <title>Quizzes</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <!-- Tela de Login REMOVIDA -->
+
+        <!-- Tela de Seleção de Especialidade -->
+        <div id="specialty-selection-screen" class="screen d-none">
+            <div class="container-fluid px-4">
+                <div class="specialty-header text-center mb-4 mt-4">
+                    <h2 style="color: #000000;">Selecione a Especialidade</h2>
+                    <p style="color: #6b7280;" class="mb-0">Escolha a área de estudo</p>
+                </div>
+
+                <div class="specialty-grid">
+                    <button id="go-specialty-btn" class="specialty-card btn-outline-primary" data-specialty="go">
+                        <i class="fas fa-venus"></i>
+                        <div class="specialty-card-content">
+                            <strong>Ginecologia e Obstetrícia</strong>
+                            <small class="text-muted">Resumos, Guias e Quiz</small>
+                        </div>
+                    </button>
+
+                    <button id="cardio-specialty-btn" class="specialty-card btn-outline-danger" data-specialty="cardio">
+                        <i class="fas fa-heartbeat"></i>
+                        <div class="specialty-card-content">
+                            <strong>Cardiologia e Pneumologia</strong>
+                            <small class="text-muted">Quiz</small>
+                        </div>
+                    </button>
+
+                    <button id="tc-specialty-btn" class="specialty-card btn-outline-success" data-specialty="tc">
+                        <i class="fas fa-scalpel"></i>
+                        <div class="specialty-card-content">
+                            <strong>Técnicas Cirúrgicas</strong>
+                            <small class="text-muted">Resumos, Guias e Quiz</small>
+                        </div>
+                    </button>
+
+                    <button id="ped-specialty-btn" class="specialty-card btn-outline-info" data-specialty="ped">
+                        <i class="fas fa-baby"></i>
+                        <div class="specialty-card-content">
+                            <strong>Pediatria</strong>
+                            <small class="text-muted">Quiz</small>
+                        </div>
+                    </button>
+
+                    <button id="clinica-specialty-btn" class="specialty-card btn-outline-warning" data-specialty="clinica">
+                        <i class="fas fa-user-md"></i>
+                        <div class="specialty-card-content">
+                            <strong>Clínica Cirúrgica</strong>
+                            <small class="text-muted">Resumos, Guias e Quiz</small>
+                        </div>
+                    </button>
+
+                    <button id="ligaCardio-specialty-btn" class="specialty-card btn-outline-danger" data-specialty="ligaCardio">
+                        <i class="fas fa-heart-pulse"></i>
+                        <div class="specialty-card-content">
+                            <strong>Liga de Cardiologia</strong>
+                            <small class="text-muted">Quiz</small>
+                        </div>
+                    </button>
+                </div>
+
+                <div class="text-center mt-4">
+                    <button id="specialty-back-btn" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left me-2"></i>Voltar
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tela de Seleção de Subcategoria com Tabs -->
+        <div id="subcategory-selection-screen" class="screen d-none">
+            <div class="container-fluid px-4">
+                <div class="mt-4 mb-4">
+                    <button id="subcategory-back-btn" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left me-2"></i>Voltar
+                    </button>
+                </div>
+
+                <div class="text-center mb-4">
+                    <div class="d-flex align-items-center justify-content-center gap-3 mb-2">
+                        <span id="subcategory-specialty-icon" style="font-size: 2.5rem;"></span>
+                        <h2 id="subcategory-specialty-title" class="mb-0" style="color: #000000; font-weight: 600;">Selecione a Categoria</h2>
+                    </div>
+                    <p id="subcategory-specialty-subtitle" style="color: #6b7280;">Selecione uma subcategoria para acessar os módulos</p>
+                </div>
+
+                <!-- Specialty Actions (Resumos/Guias buttons) -->
+                <div id="subcategory-specialty-actions" class="mb-4" style="max-width: 600px; margin: 0 auto;">
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-center">
+                        <button id="subcategory-resumos-btn" class="btn btn-info btn-lg flex-fill d-none">
+                            <i class="fas fa-book me-2"></i>Resumos
+                        </button>
+                        <button id="subcategory-guias-btn" class="btn btn-success btn-lg flex-fill d-none">
+                            <i class="fas fa-map me-2"></i>Guias
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Tabs Container -->
+                <div class="tabs-container" style="max-width: 900px; margin: 0 auto;">
+                    <div class="tabs-list" id="subcategory-tabs">
+                        <!-- Tabs will be added dynamically -->
+                    </div>
+                </div>
+
+                <!-- Tab Contents -->
+                <div id="subcategory-tab-contents">
+                    <!-- Tab contents will be added dynamically -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Tela de Seleção de Modo -->
+        <div id="mode-selection-screen" class="screen d-none">
+            <div class="container-fluid px-4 py-5">
+                <div class="text-center mb-5">
+                    <button id="mode-back-btn" class="btn btn-secondary mb-4">
+                        <i class="fas fa-arrow-left me-2"></i>Voltar
+                    </button>
+                    <h2 id="mode-module-title" style="color: #000000; font-weight: 600;">Selecione o Modo de Estudo</h2>
+                </div>
+
+                <div class="row justify-content-center g-4" style="max-width: 1000px; margin: 0 auto;">
+                    <div class="col-md-6">
+                        <button id="quiz-mode-btn" class="mode-card-new">
+                            <i class="fas fa-trophy mode-icon-new"></i>
+                            <h4>Modo Quiz</h4>
+                            <p class="mode-subtitle">Teste seus conhecimentos</p>
+                            <ul class="mode-features">
+                                <li>✓ Responda todas as questões</li>
+                                <li>✓ Veja o resultado no final</li>
+                                <li>✓ Sem feedback imediato</li>
+                                <li>✓ Ideal para simulados</li>
+                            </ul>
+                        </button>
+                    </div>
+
+                    <div class="col-md-6">
+                        <button id="mentor-mode-btn" class="mode-card-new">
+                            <i class="fas fa-chalkboard-teacher mode-icon-new"></i>
+                            <h4>Modo Mentor</h4>
+                            <p class="mode-subtitle">Aprenda com feedback imediato</p>
+                            <ul class="mode-features">
+                                <li>✓ Feedback imediato</li>
+                                <li>✓ Explicação após cada resposta</li>
+                                <li>✓ Não pode mudar resposta confirmada</li>
+                                <li>✓ Ideal para aprendizado</li>
+                            </ul>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tela do Quiz -->
+        <div id="quiz-screen" class="screen d-none">
+            <div class="row justify-content-center">
+                <div class="col-md-10 col-lg-8">
+                    <div class="card shadow-lg mt-3">
+                        <div class="card-header bg-primary text-white">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <h3 id="quiz-title">Quiz</h3>
+                                <div>
+                                    <span id="timer" class="me-3"><i class="fas fa-clock me-1"></i>00:00</span>
+                                    <button id="quit-quiz-btn" class="btn btn-sm btn-light">Voltar</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Question Navigation Bar -->
+                        <div id="question-navigation" class="question-nav-container">
+                            <div class="question-nav-scroll-container">
+                                <button id="nav-arrow-left" class="question-nav-arrow" disabled>
+                                    <i class="fas fa-chevron-left"></i>
+                                </button>
+                                <div class="question-nav-scroll">
+                                    <div class="question-nav-wrapper">
+                                        <!-- Navigation buttons will be generated dynamically -->
+                                    </div>
+                                </div>
+                                <button id="nav-arrow-right" class="question-nav-arrow">
+                                    <i class="fas fa-chevron-right"></i>
+                                </button>
+                            </div>
+                        </div>
+
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between mb-3">
+                                <div>
+                                    <span class="badge bg-info" id="question-type"></span>
+                                    <span class="badge bg-secondary ms-2" id="question-number"></span>
+                                </div>
+                                <div>
+                                    <span class="badge bg-primary" id="answered-count">Respondidas: 0/20</span>
+                                </div>
+                            </div>
+                            
+                            <div id="question-container">
+                                <h4 id="question-text" class="mb-4"></h4>
+                                <div id="question-image-container" class="mb-4 d-none text-center">
+                                    <img id="question-image" src="" alt="Imagem da questão" class="img-fluid question-image">
+                                </div>
+                                <div id="options-container" class="mb-4"></div>
+
+                                <!-- Explanation Container (Mentor Mode only) -->
+                                <div id="mentor-explanation-container" class="d-none mentor-explanation">
+                                    <h6><i class="fas fa-lightbulb me-2"></i>Explicação</h6>
+                                    <p id="mentor-explanation-text"></p>
+                                </div>
+                            </div>
+
+                            <!-- Quiz Navigation (3 botões: Anterior/Confirmar/Próxima) -->
+                            <div class="quiz-navigation">
+                                <div class="quiz-nav-left">
+                                    <button id="previous-question-btn" class="btn btn-outline-secondary btn-quiz-nav" disabled>
+                                        <i class="fas fa-arrow-left me-2"></i>Anterior
+                                    </button>
+                                </div>
+
+                                <div class="quiz-nav-center">
+                                    <!-- Confirm Button (Mentor Mode only) -->
+                                    <button id="confirm-answer-btn" class="btn btn-primary btn-quiz-nav d-none">
+                                        Confirmar
+                                    </button>
+                                </div>
+
+                                <div class="quiz-nav-right">
+                                    <!-- Next Question Button (shown on all questions except last) -->
+                                    <button id="next-question-btn" class="btn btn-primary btn-quiz-nav">
+                                        Próxima<i class="fas fa-arrow-right ms-2"></i>
+                                    </button>
+
+                                    <!-- Finish Quiz Button (only shown on last question) -->
+                                    <button id="finish-quiz-btn" class="btn btn-success btn-quiz-nav d-none">
+                                        <i class="fas fa-flag-checkered me-2"></i>Finalizar
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tela de Revisão Completa -->
+        <div id="review-screen" class="screen d-none">
+            <div class="row justify-content-center">
+                <div class="col-md-12 col-lg-10">
+                    <div class="card shadow-lg mt-3">
+                        <div class="card-header bg-primary text-white">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <h2>Revisão do Quiz</h2>
+                                <div class="text-end">
+                                    <div id="final-score-summary" class="mb-2">
+                                        <span id="final-score-circle" class="score-badge">0%</span>
+                                    </div>
+                                    <div>
+                                        <span class="badge bg-light text-dark me-2">
+                                            <i class="fas fa-check text-success me-1"></i>
+                                            <span id="final-correct-count">0</span> Corretas
+                                        </span>
+                                        <span class="badge bg-light text-dark">
+                                            <i class="fas fa-times text-danger me-1"></i>
+                                            <span id="final-incorrect-count">0</span> Incorretas
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card-body">
+                            <div class="review-summary mb-4">
+                                <div class="row text-center">
+                                    <div class="col-md-4">
+                                        <div class="summary-item">
+                                            <i class="fas fa-clock text-primary"></i>
+                                            <div>
+                                                <strong id="final-total-time">00:00</strong>
+                                                <small class="d-block text-muted">Tempo Total</small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="summary-item">
+                                            <i class="fas fa-percentage text-success"></i>
+                                            <div>
+                                                <strong id="final-score-percentage">0%</strong>
+                                                <small class="d-block text-muted">Aproveitamento</small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="summary-item">
+                                            <i class="fas fa-star text-warning"></i>
+                                            <div>
+                                                <strong id="performance-level">-</strong>
+                                                <small class="d-block text-muted">Desempenho</small>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Review Questions Container -->
+                            <div id="review-questions-container">
+                                <!-- Questions will be populated dynamically -->
+                            </div>
+
+                            <div class="d-grid gap-2 d-md-flex justify-content-md-center mt-4">
+                                <button id="retry-module-btn" class="btn btn-primary btn-lg">
+                                    <i class="fas fa-redo me-2"></i>Tentar Novamente
+                                </button>
+                                <button id="return-to-modules-btn" class="btn btn-secondary btn-lg">
+                                    <i class="fas fa-arrow-left me-2"></i>Voltar para Módulos
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tela de Seleção de Resumos -->
+        <div id="resumos-selection-screen" class="screen d-none">
+            <div class="row justify-content-center">
+                <div class="col-md-8 col-lg-6">
+                    <div class="card shadow-lg mt-5">
+                        <div class="card-header bg-info text-white">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <h2>Resumos</h2>
+                                <button id="resumos-back-btn" class="btn btn-sm btn-light">Voltar</button>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="list-group" id="resumos-list">
+                                <!-- Os resumos serão adicionados dinamicamente pelo JavaScript -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tela de Seleção de Guias -->
+        <div id="guias-selection-screen" class="screen d-none">
+            <div class="row justify-content-center">
+                <div class="col-md-8 col-lg-6">
+                    <div class="card shadow-lg mt-5">
+                        <div class="card-header bg-success text-white">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <h2>Guias</h2>
+                                <button id="guias-back-btn" class="btn btn-sm btn-light">Voltar</button>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="list-group" id="guias-list">
+                                <!-- Os guias serão adicionados dinamicamente pelo JavaScript -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tela de Leitura de Arquivo -->
+        <div id="file-reading-screen" class="screen d-none">
+            <div class="row justify-content-center">
+                <div class="col-md-10 col-lg-8">
+                    <div class="card shadow-lg mt-3">
+                        <div class="card-header text-white" id="file-header">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <h3 id="file-title">Arquivo</h3>
+                                <button id="file-back-btn" class="btn btn-sm btn-light">Voltar</button>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div id="file-content" class="markdown-content">
+                                <!-- Content will be loaded here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Zoom para Imagens -->
+    <div id="image-modal" class="image-modal">
+        <span class="image-modal-close" id="modal-close">&times;</span>
+        <div class="image-modal-content">
+            <img id="modal-image" src="" alt="Imagem ampliada">
+        </div>
+    </div>
+
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom JS -->
+    <script src="js/config.js"></script>
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

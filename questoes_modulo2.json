@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Qual é o principal neurotransmissor envolvido na doença de Parkinson?",
+    "options": [
+      "GABA",
+      "Dopamina",
+      "Acetilcolina",
+      "Glutamato",
+      "Serotonina"
+    ],
+    "correctIndex": 1,
+    "explanation": "A dopamina é o principal neurotransmissor envolvido na doença de Parkinson. A degeneração dos neurônios dopaminérgicos na substância negra leva aos sintomas motores característicos da doença.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual medicamento é um precursor da dopamina usado no tratamento da doença de Parkinson?",
+    "options": [
+      "Entacapona",
+      "Amantadina",
+      "Selegilina",
+      "Bromocriptina",
+      "Levodopa"
+    ],
+    "correctIndex": 4,
+    "explanation": "A levodopa é um precursor da dopamina que atravessa a barreira hematoencefálica e é convertida em dopamina no cérebro, sendo o tratamento mais eficaz para os sintomas motores da doença de Parkinson.",
+    "type": "conteudista"
+  }
+]
