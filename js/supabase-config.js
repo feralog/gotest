@@ -302,7 +302,8 @@ const DataSyncService = {
                     times_correct: stats.timesCorrect,
                     times_incorrect: stats.timesIncorrect,
                     last_seen_at: new Date().toISOString(),
-                    last_answer_correct: stats.lastAnswerCorrect
+                    last_answer_correct: stats.lastAnswerCorrect,
+                    selected_answer: stats.selectedAnswer
                 }, {
                     onConflict: 'user_id,specialty,subcategory,module_id,question_index'
                 })
