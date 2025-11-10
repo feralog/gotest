@@ -360,11 +360,15 @@ async function startQuiz(module) {
         incorrectAnswers = savedProgress.incorrect_answers || 0;
 
         console.log(`✅ Continuando do progresso salvo - Questão ${currentQuestionIndex + 1}`);
+        console.log(`🔄 Carregando respostas anteriores...`);
 
         // Carrega as respostas salvas
         if (typeof loadUserAnswers === 'function' && AuthState?.isAuthenticated) {
             userAnswers = await loadUserAnswers(currentSpecialty, currentSubcategory || null, module);
+            console.log(`📊 userAnswers carregado:`, userAnswers);
+            console.log(`   Total de respostas: ${Object.keys(userAnswers).length}`);
         } else {
+            console.log(`⚠️ loadUserAnswers não disponível ou usuário não autenticado`);
             userAnswers = {};
         }
     } else {
@@ -373,6 +377,7 @@ async function startQuiz(module) {
         correctAnswers = 0;
         incorrectAnswers = 0;
         userAnswers = {};
+        console.log(`🆕 Iniciando quiz do zero`);
     }
 
     // Reinicia os dados de navegação livre
@@ -747,10 +752,19 @@ function loadQuestion() {
     // Se a questão já foi respondida, pré-seleciona a resposta
     if (userAnswers[currentQuestionIndex] !== undefined) {
         const selectedIndex = userAnswers[currentQuestionIndex];
+        console.log(`🔵 Q${currentQuestionIndex + 1} já foi respondida: Opção ${selectedIndex}`);
+
         const optionButtons = document.querySelectorAll('.option-btn');
+        console.log(`   Total de botões encontrados: ${optionButtons.length}`);
+
         if (optionButtons[selectedIndex]) {
             optionButtons[selectedIndex].classList.add('selected');
+            console.log(`   ✅ Botão ${selectedIndex} marcado como selecionado`);
+        } else {
+            console.log(`   ❌ Botão ${selectedIndex} não encontrado!`);
         }
+    } else {
+        console.log(`⚪ Q${currentQuestionIndex + 1} ainda não foi respondida`);
     }
 }
 
@@ -826,11 +840,13 @@ function handleAnswer(selectedIndex) {
 
     // Armazena a resposta do usuário
     userAnswers[currentQuestionIndex] = selectedIndex;
+    console.log(`📝 Q${currentQuestionIndex + 1}: Usuário selecionou opção ${selectedIndex}`);
 
     // Salva a resposta no Supabase (individual question tracking)
     if (typeof saveQuestionAnswer === 'function' && AuthState?.isAuthenticated) {
         const question = currentQuestions[currentQuestionIndex];
         const isCorrect = selectedIndex === question.correctIndex;
+        console.log(`💾 Salvando resposta no Supabase...`);
         saveQuestionAnswer(
             currentSpecialty,
             currentSubcategory || null,
@@ -839,6 +855,8 @@ function handleAnswer(selectedIndex) {
             selectedIndex,
             isCorrect
         );
+    } else {
+        console.log(`⚠️ saveQuestionAnswer não disponível ou usuário não autenticado`);
     }
 
     // Atualiza estado da questão (apenas no modo quiz)
