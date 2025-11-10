@@ -219,7 +219,12 @@
                     showScreen('specialty-selection-screen');
                 }, 500);
             } else {
-                showAuthAlert('Erro: ' + result.error, 'danger');
+                // Mensagem especial para email não confirmado
+                if (result.error.includes('Email not confirmed')) {
+                    showAuthAlert('Por favor, confirme seu email antes de fazer login. Verifique sua caixa de entrada.', 'danger');
+                } else {
+                    showAuthAlert('Erro: ' + result.error, 'danger');
+                }
             }
         }
 
@@ -246,9 +251,9 @@
             const result = await AuthService.signUp(email, password, username, name);
 
             if (result.success) {
-                showAuthAlert('Conta criada! Você já pode fazer login.', 'success');
+                showAuthAlert('Conta criada! Confirme seu email para fazer login.', 'success');
                 document.getElementById('register-form').reset();
-                setTimeout(showLoginForm, 2000);
+                setTimeout(showLoginForm, 3000);
             } else {
                 showAuthAlert('Erro: ' + result.error, 'danger');
             }
