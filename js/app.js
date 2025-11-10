@@ -360,22 +360,30 @@ async function startQuiz(module) {
         incorrectAnswers = savedProgress.incorrect_answers || 0;
 
         console.log(`✅ Continuando do progresso salvo - Questão ${currentQuestionIndex + 1}`);
+
+        // Carrega as respostas salvas
+        if (typeof loadUserAnswers === 'function' && AuthState?.isAuthenticated) {
+            userAnswers = await loadUserAnswers(currentSpecialty, currentSubcategory || null, module);
+        } else {
+            userAnswers = {};
+        }
     } else {
         // RECOMEÇAR do zero
         currentQuestionIndex = 0;
         correctAnswers = 0;
         incorrectAnswers = 0;
+        userAnswers = {};
     }
 
     // Reinicia os dados de navegação livre
-    userAnswers = {};
     questionStates = {};
     questionConfirmed = {};
     navScrollOffset = 0;
 
     // Inicializa estados das questões
     for (let i = 0; i < currentQuestions.length; i++) {
-        questionStates[i] = 'unanswered';
+        // Marca como respondida se já temos uma resposta salva
+        questionStates[i] = (userAnswers[i] !== undefined) ? 'answered' : 'unanswered';
         questionConfirmed[i] = false;
     }
     questionStates[currentQuestionIndex] = 'current';
@@ -818,6 +826,20 @@ function handleAnswer(selectedIndex) {
 
     // Armazena a resposta do usuário
     userAnswers[currentQuestionIndex] = selectedIndex;
+
+    // Salva a resposta no Supabase (individual question tracking)
+    if (typeof saveQuestionAnswer === 'function' && AuthState?.isAuthenticated) {
+        const question = currentQuestions[currentQuestionIndex];
+        const isCorrect = selectedIndex === question.correctIndex;
+        saveQuestionAnswer(
+            currentSpecialty,
+            currentSubcategory || null,
+            currentModule,
+            currentQuestionIndex,
+            selectedIndex,
+            isCorrect
+        );
+    }
 
     // Atualiza estado da questão (apenas no modo quiz)
     if (currentMode === 'quiz') {
