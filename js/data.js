@@ -75,8 +75,9 @@ function loadAllQuestions() {
     });
 
     const promises = allModules.map(module => {
-        // CORREÇÃO: Remove a barra inicial para buscar arquivos na mesma pasta
-        return fetch(`${module.file}.json`)
+        // Codifica a URL corretamente para lidar com espaços e caracteres especiais
+        const encodedPath = encodeURI(`${module.file}.json`);
+        return fetch(encodedPath)
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
@@ -90,7 +91,8 @@ function loadAllQuestions() {
             })
             .catch(error => {
                 console.error(`Erro ao carregar o módulo ${module.id}:`, error);
-                alert(`Erro ao carregar o módulo ${module.name}. Verifique se o arquivo ${module.file}.json existe.`);
+                // Apenas loga o erro, não mostra alert para não interromper o carregamento
+                console.warn(`Arquivo não encontrado: ${module.file}.json`);
             });
     });
 
