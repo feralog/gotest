@@ -70,96 +70,190 @@
 
     <!-- Main Content -->
     <div id="main-content" class="main-content">
-        <!-- Tela de Login/Registro -->
-        <div id="auth-screen" class="screen">
-            <div class="container-fluid">
-                <div class="row justify-content-center align-items-center min-vh-100">
-                <div class="col-md-5 col-lg-4">
-                    <div class="card shadow-lg">
-                        <div class="card-header bg-primary text-white text-center">
-                            <h2 id="auth-title">Bem-vindo!</h2>
-                            <p class="mb-0 small">Faça login ou crie sua conta</p>
-                        </div>
-                        <div class="card-body p-4">
-                            <!-- Tabs de Login/Registro -->
-                            <ul class="nav nav-tabs mb-4" id="authTabs" role="tablist">
-                                <li class="nav-item flex-fill" role="presentation">
-                                    <button class="nav-link active w-100" id="login-tab" data-bs-toggle="tab" data-bs-target="#login-panel" type="button" role="tab">
-                                        Login
-                                    </button>
-                                </li>
-                                <li class="nav-item flex-fill" role="presentation">
-                                    <button class="nav-link w-100" id="register-tab" data-bs-toggle="tab" data-bs-target="#register-panel" type="button" role="tab">
-                                        Registrar
-                                    </button>
-                                </li>
-                            </ul>
+        <!-- Tela de Login/Registro - REESCRITA SIMPLES -->
+        <div id="auth-screen" class="screen" style="display: block; min-height: 100vh; background: linear-gradient(135deg, #f0e6ff 0%, #e8f0fe 50%, #e3f2fd 100%); padding: 40px 20px;">
+            <div style="max-width: 450px; margin: 0 auto; padding-top: 50px;">
 
-                            <div class="tab-content">
-                                <!-- Painel de Login -->
-                                <div class="tab-pane fade show active" id="login-panel" role="tabpanel">
-                                    <form id="login-form">
-                                        <div class="mb-3">
-                                            <label for="login-email" class="form-label">Email</label>
-                                            <input type="email" class="form-control" id="login-email" required autocomplete="email">
-                                        </div>
-                                        <div class="mb-3">
-                                            <label for="login-password" class="form-label">Senha</label>
-                                            <input type="password" class="form-control" id="login-password" required autocomplete="current-password">
-                                        </div>
-                                        <div class="d-grid">
-                                            <button type="submit" class="btn btn-primary btn-lg">
-                                                <i class="fas fa-sign-in-alt me-2"></i>Entrar
-                                            </button>
-                                        </div>
-                                    </form>
-                                </div>
+                <!-- Card Principal -->
+                <div style="background: white; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); overflow: hidden;">
 
-                                <!-- Painel de Registro -->
-                                <div class="tab-pane fade" id="register-panel" role="tabpanel">
-                                    <form id="register-form">
-                                        <div class="mb-3">
-                                            <label for="register-name" class="form-label">Nome Completo</label>
-                                            <input type="text" class="form-control" id="register-name" required>
-                                        </div>
-                                        <div class="mb-3">
-                                            <label for="register-username" class="form-label">Nome de Usuário</label>
-                                            <input type="text" class="form-control" id="register-username" required pattern="[a-zA-Z0-9_]+" title="Apenas letras, números e underscore">
-                                            <small class="text-muted">Apenas letras, números e underscore (_)</small>
-                                        </div>
-                                        <div class="mb-3">
-                                            <label for="register-email" class="form-label">Email</label>
-                                            <input type="email" class="form-control" id="register-email" required autocomplete="email">
-                                        </div>
-                                        <div class="mb-3">
-                                            <label for="register-password" class="form-label">Senha</label>
-                                            <input type="password" class="form-control" id="register-password" required minlength="6" autocomplete="new-password">
-                                            <small class="text-muted">Mínimo 6 caracteres</small>
-                                        </div>
-                                        <div class="mb-3">
-                                            <label for="register-password-confirm" class="form-label">Confirmar Senha</label>
-                                            <input type="password" class="form-control" id="register-password-confirm" required minlength="6" autocomplete="new-password">
-                                        </div>
-                                        <div class="d-grid">
-                                            <button type="submit" class="btn btn-success btn-lg">
-                                                <i class="fas fa-user-plus me-2"></i>Criar Conta
-                                            </button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-
-                            <!-- Alert para mensagens -->
-                            <div id="auth-alert" class="alert alert-dismissible fade d-none mt-3" role="alert">
-                                <span id="auth-alert-message"></span>
-                                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-                            </div>
-                        </div>
+                    <!-- Header -->
+                    <div style="background: #2563eb; color: white; padding: 30px; text-center;">
+                        <h2 style="margin: 0 0 10px 0; font-size: 28px;">Bem-vindo!</h2>
+                        <p style="margin: 0; opacity: 0.9;">Faça login ou crie sua conta</p>
                     </div>
-                </div>
+
+                    <!-- Body -->
+                    <div style="padding: 30px;">
+
+                        <!-- Botões Toggle -->
+                        <div style="display: flex; gap: 10px; margin-bottom: 30px;">
+                            <button id="show-login-btn" onclick="showLoginForm()" style="flex: 1; padding: 12px; background: #2563eb; color: white; border: none; border-radius: 8px; font-size: 16px; cursor: pointer; font-weight: 500;">
+                                Login
+                            </button>
+                            <button id="show-register-btn" onclick="showRegisterForm()" style="flex: 1; padding: 12px; background: #e5e7eb; color: #6b7280; border: none; border-radius: 8px; font-size: 16px; cursor: pointer; font-weight: 500;">
+                                Registrar
+                            </button>
+                        </div>
+
+                        <!-- FORMULÁRIO DE LOGIN -->
+                        <div id="login-form-container" style="display: block;">
+                            <form id="login-form" onsubmit="handleLoginSubmit(event)">
+                                <div style="margin-bottom: 20px;">
+                                    <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #374151;">Email</label>
+                                    <input type="email" id="login-email" required autocomplete="email"
+                                           style="width: 100%; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 16px; box-sizing: border-box;">
+                                </div>
+                                <div style="margin-bottom: 20px;">
+                                    <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #374151;">Senha</label>
+                                    <input type="password" id="login-password" required autocomplete="current-password"
+                                           style="width: 100%; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 16px; box-sizing: border-box;">
+                                </div>
+                                <button type="submit" style="width: 100%; padding: 14px; background: #2563eb; color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 600; cursor: pointer;">
+                                    Entrar
+                                </button>
+                            </form>
+                        </div>
+
+                        <!-- FORMULÁRIO DE REGISTRO -->
+                        <div id="register-form-container" style="display: none;">
+                            <form id="register-form" onsubmit="handleRegisterSubmit(event)">
+                                <div style="margin-bottom: 15px;">
+                                    <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #374151;">Nome Completo</label>
+                                    <input type="text" id="register-name" required
+                                           style="width: 100%; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 16px; box-sizing: border-box;">
+                                </div>
+                                <div style="margin-bottom: 15px;">
+                                    <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #374151;">Nome de Usuário</label>
+                                    <input type="text" id="register-username" required pattern="[a-zA-Z0-9_]+"
+                                           style="width: 100%; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 16px; box-sizing: border-box;">
+                                    <small style="color: #6b7280; font-size: 14px;">Apenas letras, números e underscore</small>
+                                </div>
+                                <div style="margin-bottom: 15px;">
+                                    <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #374151;">Email</label>
+                                    <input type="email" id="register-email" required autocomplete="email"
+                                           style="width: 100%; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 16px; box-sizing: border-box;">
+                                </div>
+                                <div style="margin-bottom: 15px;">
+                                    <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #374151;">Senha</label>
+                                    <input type="password" id="register-password" required minlength="6" autocomplete="new-password"
+                                           style="width: 100%; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 16px; box-sizing: border-box;">
+                                    <small style="color: #6b7280; font-size: 14px;">Mínimo 6 caracteres</small>
+                                </div>
+                                <div style="margin-bottom: 20px;">
+                                    <label style="display: block; margin-bottom: 8px; font-weight: 500; color: #374151;">Confirmar Senha</label>
+                                    <input type="password" id="register-password-confirm" required minlength="6" autocomplete="new-password"
+                                           style="width: 100%; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 16px; box-sizing: border-box;">
+                                </div>
+                                <button type="submit" style="width: 100%; padding: 14px; background: #10b981; color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 600; cursor: pointer;">
+                                    Criar Conta
+                                </button>
+                            </form>
+                        </div>
+
+                        <!-- Alert de Mensagens -->
+                        <div id="auth-alert" style="display: none; margin-top: 20px; padding: 12px; border-radius: 8px; font-size: 14px;"></div>
+                    </div>
                 </div>
             </div>
         </div>
+
+        <script>
+        // Funções inline para toggle de formulários
+        function showLoginForm() {
+            document.getElementById('login-form-container').style.display = 'block';
+            document.getElementById('register-form-container').style.display = 'none';
+            document.getElementById('show-login-btn').style.background = '#2563eb';
+            document.getElementById('show-login-btn').style.color = 'white';
+            document.getElementById('show-register-btn').style.background = '#e5e7eb';
+            document.getElementById('show-register-btn').style.color = '#6b7280';
+        }
+
+        function showRegisterForm() {
+            document.getElementById('login-form-container').style.display = 'none';
+            document.getElementById('register-form-container').style.display = 'block';
+            document.getElementById('show-login-btn').style.background = '#e5e7eb';
+            document.getElementById('show-login-btn').style.color = '#6b7280';
+            document.getElementById('show-register-btn').style.background = '#10b981';
+            document.getElementById('show-register-btn').style.color = 'white';
+        }
+
+        function showAuthAlert(message, type) {
+            const alert = document.getElementById('auth-alert');
+            alert.textContent = message;
+            alert.style.display = 'block';
+
+            if (type === 'success') {
+                alert.style.background = '#dcfce7';
+                alert.style.color = '#166534';
+            } else if (type === 'danger' || type === 'error') {
+                alert.style.background = '#fee2e2';
+                alert.style.color = '#991b1b';
+            } else {
+                alert.style.background = '#dbeafe';
+                alert.style.color = '#1e40af';
+            }
+
+            setTimeout(() => {
+                alert.style.display = 'none';
+            }, 5000);
+        }
+
+        async function handleLoginSubmit(e) {
+            e.preventDefault();
+            const email = document.getElementById('login-email').value;
+            const password = document.getElementById('login-password').value;
+
+            showAuthAlert('Entrando...', 'info');
+
+            const result = await AuthService.signIn(email, password);
+
+            if (result.success) {
+                showAuthAlert('Login realizado!', 'success');
+                AuthState.currentUser = result.user;
+                AuthState.isAuthenticated = true;
+                AuthState.currentProfile = await AuthService.getUserProfile();
+
+                setTimeout(() => {
+                    showSidebar();
+                    showScreen('specialty-selection-screen');
+                }, 500);
+            } else {
+                showAuthAlert('Erro: ' + result.error, 'danger');
+            }
+        }
+
+        async function handleRegisterSubmit(e) {
+            e.preventDefault();
+            const name = document.getElementById('register-name').value;
+            const username = document.getElementById('register-username').value;
+            const email = document.getElementById('register-email').value;
+            const password = document.getElementById('register-password').value;
+            const confirmPassword = document.getElementById('register-password-confirm').value;
+
+            if (password !== confirmPassword) {
+                showAuthAlert('As senhas não coincidem!', 'danger');
+                return;
+            }
+
+            if (password.length < 6) {
+                showAuthAlert('A senha deve ter no mínimo 6 caracteres!', 'danger');
+                return;
+            }
+
+            showAuthAlert('Criando conta...', 'info');
+
+            const result = await AuthService.signUp(email, password, username, name);
+
+            if (result.success) {
+                showAuthAlert('Conta criada! Você já pode fazer login.', 'success');
+                document.getElementById('register-form').reset();
+                setTimeout(showLoginForm, 2000);
+            } else {
+                showAuthAlert('Erro: ' + result.error, 'danger');
+            }
+        }
+        </script>
 
         <!-- Tela de Seleção de Especialidade -->
         <div id="specialty-selection-screen" class="screen d-none">

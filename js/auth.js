@@ -74,17 +74,7 @@ async function checkAuthStatus() {
 // ============================================
 
 function setupAuthListeners() {
-    // Login Form
-    const loginForm = document.getElementById('login-form')
-    if (loginForm) {
-        loginForm.addEventListener('submit', handleLogin)
-    }
-
-    // Register Form
-    const registerForm = document.getElementById('register-form')
-    if (registerForm) {
-        registerForm.addEventListener('submit', handleRegister)
-    }
+    // Login e Register agora são inline no HTML
 
     // Logout Button
     const logoutBtn = document.getElementById('logout-btn')
@@ -93,83 +83,7 @@ function setupAuthListeners() {
     }
 }
 
-// ============================================
-// LOGIN HANDLER
-// ============================================
-
-async function handleLogin(e) {
-    e.preventDefault()
-
-    const email = document.getElementById('login-email').value.trim()
-    const password = document.getElementById('login-password').value
-
-    showAuthAlert('Entrando...', 'info')
-
-    const result = await AuthService.signIn(email, password)
-
-    if (result.success) {
-        showAuthAlert('Login realizado com sucesso!', 'success')
-
-        // Atualizar state
-        AuthState.currentUser = result.user
-        AuthState.isAuthenticated = true
-        AuthState.currentProfile = await AuthService.getUserProfile()
-
-        // Limpar form
-        document.getElementById('login-form').reset()
-
-        // Mostrar sidebar e ir para especialidades
-        setTimeout(() => {
-            showSidebar()
-            showScreen('specialty-selection-screen')
-        }, 500)
-    } else {
-        showAuthAlert('Erro ao fazer login: ' + result.error, 'danger')
-    }
-}
-
-// ============================================
-// REGISTER HANDLER
-// ============================================
-
-async function handleRegister(e) {
-    e.preventDefault()
-
-    const name = document.getElementById('register-name').value.trim()
-    const username = document.getElementById('register-username').value.trim()
-    const email = document.getElementById('register-email').value.trim()
-    const password = document.getElementById('register-password').value
-    const confirmPassword = document.getElementById('register-password-confirm').value
-
-    // Validar senha
-    if (password !== confirmPassword) {
-        showAuthAlert('As senhas não coincidem!', 'danger')
-        return
-    }
-
-    if (password.length < 6) {
-        showAuthAlert('A senha deve ter no mínimo 6 caracteres!', 'danger')
-        return
-    }
-
-    showAuthAlert('Criando conta...', 'info')
-
-    const result = await AuthService.signUp(email, password, username, name)
-
-    if (result.success) {
-        showAuthAlert('Conta criada com sucesso! Você já pode fazer login.', 'success')
-
-        // Limpar form
-        document.getElementById('register-form').reset()
-
-        // Mudar para tab de login
-        setTimeout(() => {
-            document.getElementById('login-tab').click()
-        }, 1500)
-    } else {
-        showAuthAlert('Erro ao criar conta: ' + result.error, 'danger')
-    }
-}
+// Login e Register handlers estão inline no HTML
 
 // ============================================
 // LOGOUT HANDLER
@@ -452,15 +366,7 @@ function showScreen(screenId) {
 // ALERT HELPERS
 // ============================================
 
-function showAuthAlert(message, type = 'info') {
-    const alert = document.getElementById('auth-alert')
-    const alertMessage = document.getElementById('auth-alert-message')
-
-    if (alert && alertMessage) {
-        alert.className = `alert alert-${type} alert-dismissible fade show mt-3`
-        alertMessage.textContent = message
-    }
-}
+// showAuthAlert agora está inline no HTML
 
 function showProfileAlert(message, type = 'info') {
     const alert = document.getElementById('profile-alert')
