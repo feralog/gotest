@@ -16,8 +16,8 @@
 // CONFIGURAÇÃO DO SUPABASE
 // ============================================
 
-const SUPABASE_URL = 'https://SEU-PROJETO-ID.supabase.co'
-const SUPABASE_ANON_KEY = 'sua-anon-key-aqui'
+const SUPABASE_URL = 'https://lhoioxybjlzgjsxlbbyf.supabase.co'
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxob2lveHliamx6Z2pzeGxiYnlmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI3OTg5NjIsImV4cCI6MjA3ODM3NDk2Mn0.Ta2kvaFYBecb8jrSRlAjMTDkL3xp3Dh8nZrPGKufP-M'
 
 // Inicializar cliente Supabase
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY)
