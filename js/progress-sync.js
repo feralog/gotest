@@ -15,29 +15,14 @@
 async function loadProgressFromSupabase(specialty, subcategory, moduleId) {
     // Verificar autenticação
     if (!AuthState || !AuthState.isAuthenticated) {
-        console.log('⚠️ Usuário não autenticado - não há progresso para carregar')
         return null
     }
 
     try {
-        console.log(`🔍 Carregando progresso: ${specialty}/${subcategory || 'sem-avc'}/${moduleId}`)
-
         const progress = await DataSyncService.getModuleProgress(specialty, subcategory, moduleId)
-
-        if (progress) {
-            console.log('✅ Progresso encontrado:', {
-                questaoAtual: progress.current_question_index + 1,
-                totalQuestoes: progress.total_questions,
-                questoesRespondidas: progress.questions_completed,
-                percentual: progress.completion_percentage + '%'
-            })
-            return progress
-        } else {
-            console.log('ℹ️ Nenhum progresso salvo encontrado')
-            return null
-        }
+        return progress
     } catch (error) {
-        console.error('❌ Erro ao carregar progresso:', error)
+        console.error('Erro ao carregar progresso:', error)
         return null
     }
 }
@@ -69,13 +54,9 @@ async function saveProgressToSupabase(specialty, subcategory, moduleId, progress
             completionPercentage: Math.round(completionPercentage * 100) / 100
         }
 
-        console.log(`💾 Salvando progresso: Questão ${data.currentQuestionIndex + 1}/${data.totalQuestions}, ${questionsCompleted} respondidas`)
-
         await DataSyncService.saveModuleProgress(specialty, subcategory, moduleId, data)
-
-        console.log('✅ Progresso salvo com sucesso')
     } catch (error) {
-        console.error('❌ Erro ao salvar progresso:', error)
+        console.error('Erro ao salvar progresso:', error)
     }
 }
 
@@ -125,13 +106,10 @@ function autoSaveProgress() {
 async function saveQuestionAnswer(specialty, subcategory, moduleId, questionIndex, selectedAnswer, isCorrect) {
     // Verificar autenticação
     if (!AuthState || !AuthState.isAuthenticated) {
-        console.log('⚠️ Não autenticado - resposta não será salva')
         return
     }
 
     try {
-        console.log(`💾 Salvando resposta: Q${questionIndex + 1} = Opção ${selectedAnswer} (${isCorrect ? 'CORRETA' : 'INCORRETA'})`)
-
         // Buscar estatísticas existentes
         const allStats = await DataSyncService.getQuestionStats(specialty, subcategory, moduleId)
         const existingStat = allStats.find(s => s.question_index === questionIndex)
@@ -142,28 +120,19 @@ async function saveQuestionAnswer(specialty, subcategory, moduleId, questionInde
             timesCorrect: (existingStat?.times_correct || 0) + (isCorrect ? 1 : 0),
             timesIncorrect: (existingStat?.times_incorrect || 0) + (isCorrect ? 0 : 1),
             lastAnswerCorrect: isCorrect,
-            selectedAnswer: selectedAnswer  // 🔑 CAMPO CHAVE!
+            selectedAnswer: selectedAnswer
         }
 
-        console.log(`   └─ Stats:`, stats)
-
         // Salvar no Supabase
-        const result = await DataSyncService.saveQuestionStats(
+        await DataSyncService.saveQuestionStats(
             specialty,
             subcategory,
             moduleId,
             questionIndex,
             stats
         )
-
-        if (result.success) {
-            console.log(`   ✅ Resposta da Q${questionIndex + 1} salva com sucesso`)
-        } else {
-            console.error(`   ❌ Erro ao salvar resposta:`, result.error)
-        }
     } catch (error) {
-        console.error('❌ Erro ao salvar resposta da questão:', error)
-        console.error('   Stack:', error.stack)
+        console.error('Erro ao salvar resposta:', error)
     }
 }
 
@@ -177,38 +146,23 @@ async function saveQuestionAnswer(specialty, subcategory, moduleId, questionInde
 async function loadUserAnswers(specialty, subcategory, moduleId) {
     // Verificar autenticação
     if (!AuthState || !AuthState.isAuthenticated) {
-        console.log('⚠️ Não autenticado - sem respostas para carregar')
         return {}
     }
 
     try {
-        console.log(`🔍 Carregando respostas salvas: ${specialty}/${subcategory || 'sem-avc'}/${moduleId}`)
-
         const stats = await DataSyncService.getQuestionStats(specialty, subcategory, moduleId)
         const answers = {}
-        let count = 0
 
         // Reconstruir userAnswers a partir das estatísticas
         stats.forEach(stat => {
-            // Só adiciona se temos uma resposta selecionada salva
             if (stat.selected_answer !== undefined && stat.selected_answer !== null) {
                 answers[stat.question_index] = stat.selected_answer
-                count++
-                console.log(`   ├─ Q${stat.question_index + 1}: Opção ${stat.selected_answer}`)
             }
         })
 
-        if (count > 0) {
-            console.log(`✅ ${count} resposta${count > 1 ? 's' : ''} carregada${count > 1 ? 's' : ''}`)
-            console.log('   Respostas:', answers)
-        } else {
-            console.log('ℹ️ Nenhuma resposta salva encontrada')
-        }
-
         return answers
     } catch (error) {
-        console.error('❌ Erro ao carregar respostas:', error)
-        console.error('   Stack:', error.stack)
+        console.error('Erro ao carregar respostas:', error)
         return {}
     }
 }
@@ -243,12 +197,3 @@ window.autoSaveProgress = autoSaveProgress
 window.saveQuestionAnswer = saveQuestionAnswer
 window.loadUserAnswers = loadUserAnswers
 window.askContinueOrRestart = askContinueOrRestart
-
-console.log('✅ Progress Sync carregado com sucesso!')
-console.log('   Funções disponíveis:')
-console.log('   - loadProgressFromSupabase()')
-console.log('   - saveProgressToSupabase()')
-console.log('   - autoSaveProgress()')
-console.log('   - saveQuestionAnswer()')
-console.log('   - loadUserAnswers()')
-console.log('   - askContinueOrRestart()')
