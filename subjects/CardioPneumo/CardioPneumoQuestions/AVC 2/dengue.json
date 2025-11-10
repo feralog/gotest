@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual a classificação etiológica correta do vírus da dengue e quantos sorotipos imunologicamente distintos são conhecidos?",
+    "options": [
+      "Vírus RNA da família Bunyaviridae com 5 sorotipos: DEN-1, DEN-2, DEN-3, DEN-4, DEN-5",
+      "Vírus DNA da família Togaviridae com 3 sorotipos: DEN-A, DEN-B, DEN-C",
+      "Vírus RNA da família Orthomyxoviridae com 4 sorotipos: DEN-H1, DEN-H2, DEN-H3, DEN-N1",
+      "Vírus RNA da família Flaviviridae com 4 sorotipos: DEN-1, DEN-2, DEN-3, DEN-4",
+      "Vírus DNA da família Herpesviridae com 2 sorotipos: DEN-alfa, DEN-beta"
+    ],
+    "correctIndex": 3,
+    "explanation": "O vírus da dengue é um VÍRUS RNA pertencente à família FLAVIVIRIDAE (mesma família do vírus da febre amarela, Zika e vírus do Oeste do Nilo). Existem 4 SOROTIPOS imunologicamente DISTINTOS: DEN-1, DEN-2, DEN-3 e DEN-4. Cada sorotipo possui complexos antigênicos distintos com variação genética interna que pode gerar diferentes graus de virulência. A classificação correta é fundamental para compreender a epidemiologia e o risco de infecções secundárias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 28 anos teve dengue confirmada por DEN-2 há 2 anos. Atualmente apresenta novo quadro febril agudo com suspeita de dengue. Qual a relação entre a infecção prévia e a atual quanto aos sorotipos?",
+    "options": [
+      "Infecção prévia por DEN-2 confere imunidade permanente apenas para DEN-2, mas suscetibilidade a DEN-1, DEN-3 e DEN-4",
+      "Infecção prévia por DEN-2 confere imunidade temporária por 12 meses, podendo reinfectar inclusive com DEN-2",
+      "Infecção prévia por DEN-2 confere imunidade permanente para DEN-2 e DEN-3 por relação filogenética próxima",
+      "Infecção prévia por qualquer sorotipo impede reinfecção pelos demais via imunidade celular de linfócitos T CD8+",
+      "Infecção prévia por DEN-2 confere imunidade cruzada permanente para todos os 4 sorotipos de dengue"
+    ],
+    "correctIndex": 0,
+    "explanation": "A infecção por um sorotipo de dengue confere imunidade PERMANENTE e ESPECÍFICA para aquele sorotipo. Quem teve DEN-2 nunca mais terá DEN-2, mas CONTINUA SUSCETÍVEL aos outros 3 sorotipos (DEN-1, DEN-3, DEN-4). NÃO há imunidade cruzada duradoura entre sorotipos. Existe imunidade cruzada TEMPORÁRIA (2-3 meses) após infecção aguda, mas depois o indivíduo volta a ser suscetível aos demais. IMPORTANTE: infecção por segundo sorotipo diferente (infecção secundária) é principal fator de risco para dengue hemorrágica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a diferença fundamental entre os 4 sorotipos do vírus da dengue em relação aos complexos antigênicos e à virulência?",
+    "options": [
+      "Sorotipos possuem complexos antigênicos similares; apresentam virulência uniforme independente da variação genética",
+      "Sorotipos possuem complexos antigênicos conservados; virulência depende apenas da carga viral inicial na picada",
+      "Sorotipos possuem complexos antigênicos idênticos; diferem apenas na proteína de envelope sem impacto na virulência",
+      "Sorotipos possuem complexos antigênicos variáveis; virulência é determinada exclusivamente pela resposta imune do hospedeiro",
+      "Sorotipos possuem complexos antigênicos distintos; variação genética pode gerar diferentes graus de virulência"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os 4 sorotipos (DEN-1, DEN-2, DEN-3, DEN-4) possuem COMPLEXOS ANTIGÊNICOS DISTINTOS, o que explica a ausência de imunidade cruzada duradoura. Dentro de cada sorotipo, existe VARIAÇÃO GENÉTICA (diferentes linhagens/genótipos) que pode gerar DIFERENTES GRAUS DE VIRULÊNCIA. Por exemplo: certas linhagens de DEN-2 e DEN-3 estão associadas a maior ocorrência de formas graves. Essa variação genética é importante para vigilância epidemiológica e compreensão de surtos com maior gravidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o conjunto de características que define corretamente o Aedes aegypti como principal vetor da dengue?",
+    "options": [
+      "Mosquito macho e fêmea hematófagos, hábito vespertino, vivem 10-12 semanas, voam 50-100m, vetor periurbano",
+      "Mosquito macho hematófago, hábito noturno, vive 2-3 semanas, voa 500-800m, vetor mecânico silvestre",
+      "Mosquito fêmea hematófago, hábito crepuscular, vive 3-4 semanas, voa 1-2 km, vetor biológico rural",
+      "Mosquito fêmea hematófago, hábito diurno, vive 6-8 semanas, voa 150-200m, vetor biológico urbano/doméstico",
+      "Mosquito fêmea hematófago, hábito contínuo 24h, vive 1-2 semanas, voa 300-500m, vetor biológico hospitalar"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Aedes aegypti apresenta: (1) apenas FÊMEA é hematófaga (precisa de sangue para maturação dos ovos), (2) hábito DIURNO (picos no início da manhã e final da tarde), (3) vive 6-8 SEMANAS em condições favoráveis, (4) voa distância limitada 150-200m (mas desloca-se passivamente em veículos), (5) é vetor BIOLÓGICO (vírus replica dentro do mosquito, não apenas transporte mecânico), (6) URBANO/DOMÉSTICO (adaptado ao ambiente humano). O macho NÃO pica (alimenta-se de néctar).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a característica dos ovos do Aedes aegypti que explica a dificuldade no controle vetorial da dengue?",
+    "options": [
+      "Ovos possuem casca impermeável resistente a larvicidas, impossibilitando controle químico efetivo dos criadouros",
+      "Ovos eclodem imediatamente após deposição, gerando adultos em 24-48 horas com ciclo reprodutivo acelerado",
+      "Ovos são microscópicos invisíveis a olho nu, depositados em vegetação seca distante de fontes hídricas",
+      "Ovos são depositados exclusivamente em água corrente de rios, dificultando identificação de criadouros urbanos",
+      "Ovos permanecem viáveis fora da água por até 450 dias aderidos às paredes, resistindo à dessecação"
+    ],
+    "correctIndex": 4,
+    "explanation": "A característica MAIS IMPORTANTE dos ovos do Aedes aegypti é a RESISTÊNCIA EXTREMA: permanecem VIÁVEIS FORA DA ÁGUA por até 450 DIAS (mais de 1 ano!) aderidos às paredes de recipientes. Quando a água retorna (chuva), os ovos eclodem. Isso explica por que: (1) controle é tão difícil (ovos sobrevivem em períodos secos), (2) reinfestação é rápida após chuvas, (3) eliminação de criadouros deve ser PERMANENTE (não apenas em época de surto). Ovos também podem ser transportados passivamente (recipientes levados de um local para outro), facilitando dispersão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como ocorre a infecção do mosquito Aedes aegypti pelo vírus da dengue e qual o tipo de vetor que representa?",
+    "options": [
+      "Aedes se infecta por contato com água contaminada, vírus não replica (vetor mecânico), sem transmissão vertical",
+      "Aedes nasce infectado por mutação genética, vírus faz parte da microbiota natural, não há ciclo viral",
+      "Aedes se infecta por ingestão de néctar contaminado, vírus persiste no intestino, não há replicação viral",
+      "Aedes se infecta ao pousar em pele de doentes, vírus adere às patas (vetor mecânico), transmissão imediata",
+      "Aedes se infecta ao sugar sangue virêmico, vírus replica no mosquito (vetor biológico), transmissão transovariana possível"
+    ],
+    "correctIndex": 4,
+    "explanation": "O Aedes se infecta ao SUGAR SANGUE de indivíduos VIRÊMICOS (com vírus circulante no sangue). O vírus REPLICA dentro do mosquito (no intestino, hemocele e glândulas salivares) - por isso é VETOR BIOLÓGICO (não apenas transporte mecânico). Há possibilidade de TRANSMISSÃO TRANSOVARIANA (fêmea infectada pode passar vírus para ovos), mas essa via não sustenta epidemias (menos importante epidemiologicamente). Após 8-12 dias de incubação no mosquito (período extrínseco), a fêmea pode transmitir o vírus por toda a vida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a relação entre período de incubação no mosquito, período de incubação no homem e período de viremia na dengue?",
+    "options": [
+      "Incubação mosquito 5-7 dias, incubação homem 24-48 horas, viremia persiste por 20-30 dias após recuperação",
+      "Incubação mosquito 8-12 dias, incubação homem 3-15 dias (média 5-7), viremia 1 dia antes até 5-6 dias após início dos sintomas",
+      "Incubação mosquito 2-3 dias, incubação homem 1-3 dias, viremia 10-14 dias após início dos sintomas febris",
+      "Incubação mosquito 15-20 dias, incubação homem 10-15 dias, viremia 5 dias antes até 10 dias após os sintomas",
+      "Incubação mosquito 20-30 dias, incubação homem 7-10 dias, viremia 15 dias antes até 3 dias após os sintomas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Período de INCUBAÇÃO NO MOSQUITO (extrínseco): 8-12 DIAS após sugar sangue infectado até poder transmitir. Período de INCUBAÇÃO NO HOMEM (intrínseco): 3-15 DIAS (média 5-7 dias) entre picada infectante e início dos sintomas. VIREMIA (vírus circulante no sangue): inicia 1 DIA ANTES dos sintomas e persiste até 5-6 DIAS após início dos sintomas. Durante a viremia, o indivíduo pode infectar mosquitos susceptíveis. Após esse período, não há mais transmissão (mesmo se sintomas persistirem).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente refere picada de mosquito há 6 dias e apresenta febre alta de início súbito, cefaleia intensa, mialgia e artralgia. Qual a provável fase da dengue?",
+    "options": [
+      "Fase convalescente tardia (após 14 dias), caracterizada por astenia prolongada e risco aumentado de recaídas",
+      "Fase prodrômica inicial (pré-sintomática), caracterizada por sintomas inespecíficos leves e viremia ausente",
+      "Fase febril aguda (1º-3º dia de doença), caracterizada por febre alta, sintomas álgicos intensos e viremia",
+      "Fase crítica (4º-7º dia), caracterizada por defervescência febril, extravasamento plasmático e risco de choque",
+      "Fase de recuperação (após 7º dia), caracterizada por reabsorção de líquido extravasado e recuperação clínica progressiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "Com 6 dias após picada infectante (período de incubação usual 5-7 dias) e sintomas típicos (febre alta súbita, cefaleia, mialgia, artralgia), o paciente está na FASE FEBRIL AGUDA (1º-3º dia de doença). Características: febre alta (39-40°C), sintomas álgicos intensos (mialgia, artralgia, cefaleia, dor retroorbitária), prostração, exantema em alguns casos. VIREMIA presente (possibilidade de transmissão). Fase dura tipicamente 2-7 dias. Paciente deve ser orientado sobre sinais de alarme para identificar evolução para fase crítica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com dengue apresenta no 5º dia de doença: defervescência da febre, dor abdominal intensa, vômitos persistentes e sonolência. Qual a interpretação clínica?",
+    "options": [
+      "Sinais de desidratação leve por ingestão hídrica insuficiente; orientar aumento da ingesta oral domiciliar",
+      "Sinais de coinfecção bacteriana secundária; indicação de antibioticoterapia empírica imediata e hemoculturas",
+      "Sinais de reação adversa ao paracetamol; suspensão do analgésico e substituição por anti-inflamatórios hormonais",
+      "Sinais de melhora clínica e início da convalescença; sintomas residuais esperados sem necessidade de intervenção",
+      "Sinais de alarme indicando transição para fase crítica; risco de extravasamento plasmático, choque e complicações graves"
+    ],
+    "correctIndex": 4,
+    "explanation": "SINAIS DE ALARME no 5º dia (período da FASE CRÍTICA): defervescência (queda da febre), DOR ABDOMINAL INTENSA e contínua, VÔMITOS PERSISTENTES, SONOLÊNCIA/LETARGIA. Indicam risco IMINENTE de extravasamento plasmático, choque, hemorragias graves e disfunção orgânica. CONDUTA: hospitalização IMEDIATA, hidratação venosa, monitorização rigorosa (hematócrito seriado, pressão arterial, débito urinário), exames laboratoriais. NÃO aguardar piora - sinais de alarme exigem ação precoce para reduzir mortalidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Na dengue, qual o mecanismo fisiopatológico responsável pelo extravasamento plasmático e quais as principais consequências clínicas?",
+    "options": [
+      "Lise eritrocitária maciça mediada por anticorpos, causando anemia hemolítica aguda e icterícia com insuficiência renal",
+      "Vasoconstrição intensa mediada por citocinas, causando isquemia tecidual difusa e falência de múltiplos órgãos rapidamente",
+      "Aumento da permeabilidade capilar por ação viral e resposta imune exacerbada, causando hemoconcentração, hipovolemia e choque",
+      "Hiperplasia endotelial compensatória, causando trombose microvascular e síndrome de hiperviscosidade com obstrução vascular progressiva",
+      "Destruição direta do endotélio vascular pelo vírus, causando hemorragias maciças e coagulação intravascular disseminada precoce"
+    ],
+    "correctIndex": 2,
+    "explanation": "O extravasamento plasmático resulta de AUMENTO DA PERMEABILIDADE CAPILAR causado por: (1) ação direta do vírus no endotélio, (2) resposta IMUNE EXACERBADA com liberação de citocinas (TNF-alfa, IL-6) e mediadores vasoativos. Consequências: plasma extravasa para terceiro espaço → HEMOCONCENTRAÇÃO (↑hematócrito), HIPOVOLEMIA (↓volume circulante), HIPOTENSÃO, CHOQUE. Pode haver derrames serosos (pleural, pericárdico, ascite). Reconhecimento e tratamento precoces com reposição volêmica adequada são cruciais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a explicação fisiopatológica para a trombocitopenia na dengue e sua relação com fenômenos hemorrágicos?",
+    "options": [
+      "Consumo plaquetário por microtrombos disseminados; hemorragias são secundárias à coagulação intravascular disseminada primária",
+      "Hemodiluição por extravasamento plasmático reverso; hemorragias não têm relação com contagem plaquetária real",
+      "Agregação plaquetária em vênulas hepáticas; hemorragias ocorrem por disfunção hepática grave e déficit de fatores",
+      "Supressão medular viral direta com aplasia de megacariócitos; hemorragias ocorrem exclusivamente quando plaquetas <10.000/mm³",
+      "Destruição plaquetária imunomediada e sequestro esplênico; hemorragias ocorrem por plaquetopenia e disfunção plaquetária associada"
+    ],
+    "correctIndex": 4,
+    "explanation": "A trombocitopenia na dengue resulta de: (1) DESTRUIÇÃO PLAQUETÁRIA imunomediada (anticorpos anti-plaquetas, imunocomplexos), (2) SEQUESTRO ESPLÊNICO, (3) supressão medular temporária. Fenômenos hemorrágicos ocorrem por: plaquetopenia (<50.000/mm³ aumenta risco), DISFUNÇÃO PLAQUETÁRIA (as plaquetas presentes funcionam mal), aumento da permeabilidade vascular, coagulopatia de consumo em casos graves. Sangramentos graves geralmente ocorrem quando plaquetas <20.000/mm³ associadas a outros fatores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a infecção secundária por sorotipo diferente aumenta o risco de dengue hemorrágica (facilitação dependente de anticorpos - ADE)?",
+    "options": [
+      "Vírus da segunda infecção possui maior virulência intrínseca, sendo resistente à neutralização por anticorpos pré-existentes",
+      "Sistema imune enfraquecido pela primeira infecção torna hospedeiro mais suscetível a manifestações graves independente do sorotipo",
+      "Replicação viral em neurônios após segunda infecção causa dano cerebral direto com hemorragias cerebrais maciças",
+      "Anticorpos heterólogos facilitam entrada viral em macrófagos via receptores Fc, amplificando replicação e resposta inflamatória exacerbada",
+      "Anticorpos da primeira infecção destroem células infectadas mais rapidamente, causando liberação súbita de citocinas tóxicas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na infecção SECUNDÁRIA por sorotipo diferente, anticorpos da primeira infecção (heterólogos) NÃO neutralizam eficientemente o novo sorotipo, mas FACILITAM a entrada do vírus em MACRÓFAGOS via receptores Fc (Facilitação dependente de Anticorpos - ADE). Isso AMPLIFICA a replicação viral e gera RESPOSTA INFLAMATÓRIA EXACERBADA ('tempestade de citocinas'). Resultado: maior extravasamento plasmático, maior risco de choque, hemorragias e formas graves. Esse mecanismo explica por que segunda infecção tem maior risco de dengue hemorrágica/grave.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as manifestações clínicas que caracterizam a dengue clássica (sem sinais de alarme)?",
+    "options": [
+      "Febre moderada, diarreia aquosa profusa, desidratação grave, distensão abdominal, sem sintomas respiratórios associados",
+      "Febre persistente prolongada, linfadenopatia generalizada, hepatoesplenomegalia volumosa, icterícia progressiva, sem dor abdominal",
+      "Febre baixa intermitente, tosse produtiva, dispneia progressiva, sibilos expiratórios difusos, sem sintomas álgicos significativos",
+      "Febre alta de início súbito, cefaleia intensa, mialgia, artralgia, dor retroorbitária, exantema maculopapular, sem manifestações hemorrágicas graves",
+      "Febre vespertina recorrente, sudorese noturna profusa, perda ponderal significativa, astenia intensa, sem sintomas gastrointestinais"
+    ],
+    "correctIndex": 3,
+    "explanation": "A DENGUE CLÁSSICA caracteriza-se por: FEBRE ALTA de início SÚBITO (39-40°C), CEFALEIA intensa (frontal), MIALGIA e ARTRALGIA intensas ('febre quebra-ossos'), DOR RETROORBITÁRIA, PROSTRAÇÃO marcante, EXANTEMA maculopapular (rash) que pode aparecer após 3-4 dias. Pode haver manifestações hemorrágicas LEVES (petéquias, epistaxe, gengivorragia). AUSÊNCIA de sinais de alarme ou sinais de gravidade. Evolução geralmente benigna e autolimitada em 7-10 dias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os sinais de alarme na dengue que indicam risco de evolução para forma grave e necessidade de intervenção?",
+    "options": [
+      "Febre persistente por mais de 5 dias, cefaleia pulsátil refratária a analgésicos, mialgia intensa em membros inferiores, exantema pruriginoso generalizado",
+      "Tosse seca persistente, dispneia aos mínimos esforços, taquicardia sinusal mantida, desconforto torácico vago, ausência de febre",
+      "Artralgia migratória em pequenas articulações, rigidez matinal, edema periarticular discreto, limitação funcional leve, sem febre alta",
+      "Diarreia líquida sem sangue, náuseas ocasionais, inapetência leve, fadiga progressiva, temperatura subfebril intermitente",
+      "Dor abdominal intensa e contínua, vômitos persistentes, sangramento de mucosas, sonolência/irritabilidade, hepatomegalia >2cm, aumento do hematócrito com queda de plaquetas"
+    ],
+    "correctIndex": 4,
+    "explanation": "SINAIS DE ALARME (indicam risco de evolução para DENGUE GRAVE): (1) DOR ABDOMINAL INTENSA e CONTÍNUA, (2) VÔMITOS PERSISTENTES, (3) SANGRAMENTO de mucosas (epistaxe, gengivorragia, metrorragia), (4) SONOLÊNCIA ou IRRITABILIDADE (alteração do nível de consciência), (5) HEPATOMEGALIA >2cm abaixo do rebordo costal, (6) AUMENTO DO HEMATÓCRITO com QUEDA DE PLAQUETAS (laboratório), (7) acúmulo de líquidos (ascite, derrame pleural). Presença de sinais de alarme = HOSPITALIZAÇÃO e monitorização.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza a dengue grave e quais são as três principais apresentações clínicas?",
+    "options": [
+      "Meningite viral com pleocitose liquórica; síndrome hemofagocítica com pancitopenia; colite isquêmica com perfuração intestinal",
+      "Extravasamento plasmático grave com choque; sangramento grave com comprometimento hemodinâmico; disfunção orgânica grave (hepatite, encefalite, miocardite)",
+      "Pneumonia intersticial bilateral com insuficiência respiratória; pericardite com derrame e tamponamento; pancreatite necrosante hemorrágica",
+      "Hipertensão arterial refratária com edema pulmonar; insuficiência renal aguda por necrose tubular; coagulação intravascular disseminada primária",
+      "Febre alta mantida >7 dias sem resposta a antipiréticos; exantema confluente com descamação extensa; artrite reativa poliarticular incapacitante"
+    ],
+    "correctIndex": 1,
+    "explanation": "DENGUE GRAVE apresenta ≥1 das seguintes manifestações: (1) EXTRAVASAMENTO PLASMÁTICO grave levando a CHOQUE (síndrome do choque da dengue) com hipotensão, pulso fraco, extremidades frias, enchimento capilar lento; (2) SANGRAMENTO GRAVE com comprometimento hemodinâmico (hematêmese, melena, metrorragia volumosa); (3) DISFUNÇÃO ORGÂNICA GRAVE (hepatite fulminante AST/ALT>1000, encefalite, miocardite, insuficiência renal). Alta mortalidade se não tratada adequadamente. Requer manejo em UTI.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com dengue evolui com hipotensão (PA 80x50 mmHg), taquicardia, extremidades frias, pulso filiforme e agitação. Qual a classificação e prioridade de manejo?",
+    "options": [
+      "Choque séptico por coinfecção bacteriana secundária; iniciar antibioticoterapia empírica de amplo espectro e vasopressores precocemente",
+      "Reação vagal por dor intensa; posicionamento em Trendelenburg, analgesia potente e reavaliação dos sinais vitais",
+      "Dengue sem sinais de alarme com hipotensão postural; orientar repouso, hidratação oral aumentada e reavaliação ambulatorial em 24h",
+      "Síndrome do choque da dengue (dengue grave); prioridade absoluta com reanimação volêmica agressiva imediata em ambiente de terapia intensiva",
+      "Dengue com sinais de alarme; prioridade alta com hidratação venosa cautelosa e observação em unidade de internação clínica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Quadro de CHOQUE: hipotensão (PA<90 mmHg ou queda >40 mmHg da basal), taquicardia, extremidades frias, pulso filiforme, alteração do sensório (agitação/letargia) = SÍNDROME DO CHOQUE DA DENGUE = DENGUE GRAVE. É EMERGÊNCIA MÉDICA com alta mortalidade se não tratada. CONDUTA: UTI, reanimação volêmica AGRESSIVA (cristaloide 20 ml/kg em bolus rápido, repetir conforme resposta), monitorização contínua (PA, FC, débito urinário, Ht seriado), considerar drogas vasoativas se refratário, transfusões se sangramento grave. Tempo é crítico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "No diagnóstico laboratorial da dengue, qual a diferença entre testes para detecção viral direta e testes sorológicos?",
+    "options": [
+      "Detecção viral (NS1, RT-PCR) positiva apenas após 10º dia; sorologia IgM positiva desde 1º dia de sintomas",
+      "Detecção viral (NS1, RT-PCR) tem alta sensibilidade após fase crítica; sorologia IgM tem sensibilidade máxima na fase febril aguda",
+      "Detecção viral (NS1, RT-PCR) positiva somente em casos graves; sorologia IgM positiva em todos os casos independente da gravidade",
+      "Detecção viral (NS1, RT-PCR) positiva até 5º dia de doença (fase aguda); sorologia IgM positiva após 5º-6º dia (fase convalescente)",
+      "Detecção viral (NS1, RT-PCR) e sorologia IgM têm mesma janela diagnóstica, sendo intercambiáveis durante toda evolução"
+    ],
+    "correctIndex": 3,
+    "explanation": "DETECÇÃO VIRAL DIRETA (NS1 antígeno ou RT-PCR): detecta vírus/antígeno viral; positiva na FASE AGUDA (até 5º dia de doença, período de viremia); alta especificidade. SOROLOGIA (IgM): detecta anticorpos; IgM surge após 5º-6º DIA (fase convalescente inicial), persiste 2-3 meses; pode ter reação cruzada com outros flavivírus. IgG surge mais tarde (após 10º dia), indica infecção passada. Escolha do teste depende do TEMPO DE DOENÇA: até 5º dia = NS1/PCR; após 5º dia = IgM.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com 2 dias de sintomas de dengue. Qual o melhor teste diagnóstico neste momento e por quê?",
+    "options": [
+      "Isolamento viral em cultura celular, pois é o padrão-ouro para confirmação diagnóstica definitiva em fase aguda",
+      "Hemograma com contagem de plaquetas, pois trombocitopenia confirma diagnóstico de dengue com 100% de especificidade",
+      "Sorologia IgM, pois já está positiva desde o primeiro dia de sintomas e tem maior sensibilidade diagnóstica",
+      "Sorologia IgG, pois diferencia infecção primária de secundária e estratifica risco de dengue grave precocemente",
+      "Antígeno NS1 ou RT-PCR, pois detectam vírus/antígeno viral durante viremia na fase aguda (até 5º dia)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Com 2 DIAS de sintomas (fase aguda, período de viremia), o melhor teste é ANTÍGENO NS1 ou RT-PCR. NS1: proteína viral secretada durante replicação, detectada por ELISA/imunocromatografia, sensibilidade 50-90% (melhor nos primeiros 3 dias), resultado rápido. RT-PCR: detecta RNA viral, alta sensibilidade e especificidade, identifica sorotipo, mas custo elevado. SOROLOGIA IgM só fica positiva após 5º-6º dia. IgG surge ainda mais tarde. Hemograma não confirma diagnóstico (inespecífico). Cultura viral (padrão-ouro) é impraticável na rotina (demora, custos).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais alterações laboratoriais são esperadas na fase crítica da dengue e qual sua importância no manejo clínico?",
+    "options": [
+      "Diminuição do hematócrito <30% (hemodilução), trombocitose >500.000/mm³, leucocitose; indicam recuperação clínica e alta hospitalar",
+      "Aumento da hemoglobina >18g/dL, plaquetopenia <50.000/mm³, linfocitose atípica; indicam coinfecção viral secundária associada",
+      "Diminuição da hemoglobina <10g/dL, plaquetas normais, neutrofilia; indicam sangramento oculto e necessidade de transfusão",
+      "Aumento do hematócrito >20% (hemoconcentração), plaquetopenia <100.000/mm³, leucopenia; indicam extravasamento plasmático e orientam hidratação venosa",
+      "Hematócrito estável 35-40%, plaquetas 150.000-200.000/mm³, leucócitos normais; indicam dengue leve sem risco de complicações"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na FASE CRÍTICA (extravasamento plasmático): (1) HEMATÓCRITO AUMENTA >20% do valor basal (hemoconcentração por perda de plasma para terceiro espaço); (2) PLAQUETAS CAEM <100.000/mm³ (e continuam caindo); (3) LEUCOPENIA com linfocitose relativa. Essas alterações INDICAM extravasamento ativo e orientam: HIDRATAÇÃO VENOSA adequada (para repor volume perdido), MONITORIZAÇÃO seriada (Ht a cada 2-4h para ajustar hidratação - se Ht subindo = desidratado; se caindo rápido = sobrehidratação). Ht é parâmetro mais útil para guiar reposição volêmica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que o hematócrito é considerado o parâmetro laboratorial mais importante para monitorizar extravasamento plasmático na dengue?",
+    "options": [
+      "Hematócrito elevado indica falência medular primária; queda indica resposta medular adequada à infecção viral",
+      "Hematócrito reflete diretamente a volemia; aumento indica hemoconcentração por extravasamento, queda indica reabsorção ou sangramento",
+      "Hematócrito não tem utilidade clínica na dengue; contagem de plaquetas é o único marcador confiável",
+      "Hematócrito prediz risco de dengue hemorrágica; valores >50% indicam sangramentos iminentes e coagulopatia grave",
+      "Hematócrito correlaciona-se linearmente com viremia; quanto maior o hematócrito, maior a replicação viral tecidual"
+    ],
+    "correctIndex": 1,
+    "explanation": "O HEMATÓCRITO reflete diretamente o ESTADO DE VOLEMIA do paciente: AUMENTO >20% = HEMOCONCENTRAÇÃO (perda de plasma para terceiro espaço por extravasamento) = necessita mais hidratação. QUEDA do Ht pode indicar: (1) reabsorção do líquido extravasado (fase de recuperação - BOM sinal), (2) sangramento (PREOCUPANTE - investigar), (3) sobrehidratação (reduzir volume). Por isso, Ht deve ser dosado SERIADAMENTE (a cada 2-4h na fase crítica) para guiar ajustes na hidratação venosa. É mais dinâmico que plaquetas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com dengue apresenta hematócrito de 52% (basal 40%) e plaquetas de 45.000/mm³. Qual a interpretação e conduta?",
+    "options": [
+      "Hematócrito aumentado por desidratação pré-renal; reidratar com soluções hipotônicas e reavaliar função renal com ureia e creatinina",
+      "Hematócrito elevado indica policitemia vera subjacente não relacionada à dengue; investigar com dosagem de eritropoietina e biópsia medular",
+      "Valores laboratoriais dentro da normalidade esperada para dengue clássica; manter conduta conservadora sem necessidade de internação",
+      "Plaquetopenia isolada sem hemoconcentração; conduta expectante ambulatorial com hidratação oral e controle laboratorial em 48h",
+      "Hemoconcentração significativa (Ht aumentou 30%) indica extravasamento plasmático ativo; iniciar/intensificar hidratação venosa e monitorizar rigorosamente"
+    ],
+    "correctIndex": 4,
+    "explanation": "Ht de 52% com basal de 40% = AUMENTO de 30% (52-40)/40 = 0,30 = 30% de elevação, indicando HEMOCONCENTRAÇÃO SIGNIFICATIVA por extravasamento plasmático. Plaquetas 45.000/mm³ = plaquetopenia moderada (adicional fator de risco). CONDUTA: HOSPITALIZAÇÃO, HIDRATAÇÃO VENOSA (cristaloide isotônico, iniciar ou intensificar conforme protocolo), MONITORIZAÇÃO rigorosa (sinais vitais, Ht seriado a cada 2-4h, débito urinário, sinais de choque). Paciente está em FASE CRÍTICA e tem risco de evolução para choque se não manejado adequadamente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a principal estratégia de tratamento da dengue e por que não há terapia antiviral específica disponível?",
+    "options": [
+      "Corticosteroides em alta dose são tratamento de primeira linha; reduzem resposta inflamatória e previnem choque",
+      "Tratamento de suporte (hidratação, controle sintomático, monitorização); não há antiviral específico eficaz aprovado para uso clínico",
+      "Imunoglobulina hiperimune anti-dengue é tratamento padrão; reduz mortalidade em 70% quando administrada na fase febril",
+      "Antivirais de amplo espectro (oseltamivir, aciclovir) são eficazes; devem ser iniciados precocemente nos primeiros 48 horas",
+      "Interferon alfa recombinante é antiviral específico disponível; aprovado para dengue grave com disfunção orgânica"
+    ],
+    "correctIndex": 1,
+    "explanation": "O tratamento da dengue é EXCLUSIVAMENTE DE SUPORTE: hidratação adequada (oral ou venosa conforme gravidade), controle de febre e dor (paracetamol/dipirona), monitorização clínica e laboratorial rigorosa, manejo de complicações. NÃO há ANTIVIRAL específico eficaz aprovado para dengue. Vários antivirais foram testados (inibidores de protease, análogos de nucleosídeos) mas nenhum demonstrou eficácia clínica. Corticoides NÃO têm benefício (podem piorar). Imunoglobulina não é tratamento padrão. O manejo adequado de suporte reduz mortalidade de 20% para <1%.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o esquema de hidratação oral recomendado para pacientes com dengue sem sinais de alarme em tratamento ambulatorial?",
+    "options": [
+      "Ingestão de 500-1000 ml/dia de líquidos restritos para evitar sobrecarga volêmica e edema pulmonar",
+      "Ingestão de 2-3 litros/dia apenas durante período febril, suspendendo após defervescência completa",
+      "Ingestão de 100-150 ml/kg/dia de líquidos hipertônicos para prevenir extravasamento plasmático precoce",
+      "Ingestão de 60-80 ml/kg/dia de líquidos (água, soro caseiro, água de coco, sucos), fracionada ao longo do dia",
+      "Ingestão exclusiva de soluções de reidratação oral hipotônicas em volume de 30-40 ml/kg/dia"
+    ],
+    "correctIndex": 3,
+    "explanation": "HIDRATAÇÃO ORAL para dengue SEM sinais de alarme: 60-80 ml/kg/dia de líquidos distribuídos ao longo do dia. Para adulto de 70kg = 4,2-5,6 litros/dia. Tipos de líquido: água, soro caseiro (receita: 1 litro água + 1 colher sopa açúcar + 1 colher café sal), água de coco, sucos naturais. EVITAR: bebidas com cafeína (diuréticas), refrigerantes (gases causam desconforto). Hidratação adequada PREVINE extravasamento grave. Orientar paciente a observar DÉBITO URINÁRIO (deve urinar várias vezes ao dia, urina clara) e SINAIS DE ALARME.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em qual situação está indicada a hidratação venosa em paciente com dengue e qual o tipo de solução recomendado?",
+    "options": [
+      "Indicada em todos os casos de dengue confirmada independente de gravidade; usar exclusivamente soluções coloides para expansão eficaz",
+      "Indicada em pacientes com plaquetas <50.000/mm³ independente de sintomas; usar soluções hipotônicas com glicose 5%",
+      "Indicada apenas em casos com sangramento ativo grave; usar plasma fresco congelado como solução de primeira escolha",
+      "Indicada somente em pacientes com choque refratário a drogas vasoativas; usar albumina humana em altas doses",
+      "Indicada em pacientes com sinais de alarme, incapacidade de hidratação oral, choque ou complicações; usar cristaloides isotônicos (SF 0,9% ou Ringer lactato)"
+    ],
+    "correctIndex": 4,
+    "explanation": "HIDRATAÇÃO VENOSA está indicada em: (1) presença de SINAIS DE ALARME, (2) VÔMITOS PERSISTENTES/intolerância a via oral, (3) CHOQUE (síndrome do choque da dengue), (4) COMPLICAÇÕES (hemorragias graves, disfunção orgânica), (5) COMORBIDADES graves. Usar CRISTALOIDES ISOTÔNICOS: solução fisiológica 0,9% ou Ringer lactato (não usar glicose isolada pois é hipotônica). COLOIDES (albumina, gelatinas) são reservados para choque refratário. Volume e velocidade dependem da gravidade e resposta clínica. Monitorar para evitar sobrecarga hídrica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o protocolo de hidratação venosa inicial em paciente adulto com dengue apresentando sinais de alarme sem choque?",
+    "options": [
+      "Cristaloide hipotônico (glicose 5%) 5-10 ml/kg em 4-6 horas, manter velocidade constante durante 24h",
+      "Cristaloide isotônico 10-20 ml/kg em 1-2 horas, reavaliar resposta clínica e laboratorial (Ht, sinais vitais), ajustar volume conforme evolução",
+      "Solução hipertônica (NaCl 3%) 3-5 ml/kg em bolus, seguida de manutenção com Ringer lactato em baixa velocidade",
+      "Coloide (albumina 20%) 5-10 ml/kg em 15 minutos, seguido de diurético para evitar sobrecarga volêmica",
+      "Cristaloide isotônico 30-40 ml/kg em 30 minutos em bolus rápido, repetir a cada hora independente da resposta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paciente com SINAIS DE ALARME sem choque: iniciar CRISTALOIDE ISOTÔNICO (SF 0,9% ou Ringer lactato) 10-20 ml/kg em 1-2 HORAS (para adulto de 70kg = 700-1400 ml em 1-2h). REAVALIAR após esse volume: sinais vitais (PA, FC), Ht (para ver se hemoconcentração melhorou), débito urinário, sintomas. AJUSTAR volume conforme resposta: se melhorou = reduzir velocidade gradualmente; se não melhorou ou piorou = aumentar volume e considerar UTI. NUNCA administrar volume excessivo rapidamente (risco de edema pulmonar).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais as principais drogas para controle sintomático de febre e dor na dengue sem aumentar o risco hemorrágico?",
+    "options": [
+      "Paracetamol e dipirona são indicadas para febre e dor; evitar ácido acetilsalicílico e anti-inflamatórios não hormonais",
+      "Corticosteroides em doses baixas devem ser usados em sequência para reduzir inflamação e prevenir choque",
+      "Ibuprofeno e naproxeno são seguros e eficazes para controle sintomático mesmo em plaquetopenia leve",
+      "Metamizol só deve ser utilizado em casos refratários com monitoramento da função hepática e renal",
+      "Ácido acetilsalicílico em baixa dose é preferencial devido ao efeito antiviral comprovado em estudos recentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "PARACETAMOL e DIPIRONA são as DROGAS recomendadas para controle sintomático de FEBRE e DOR na dengue pois têm perfil seguro e risco baixo de complicações hemorrágicas. ÁCIDO ACETILSALICÍLICO (AAS) e ANTI-INFLAMATÓRIOS NÃO HORMONAIS (AINEs) são CONTRAINDICADOS devido a aumento do risco de sangramentos e complicações renais. Corticosteroides não apresentam benefício e são evitados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a orientação para manejo da dengue em pacientes idosos na atenção primária em relação ao risco e conduta clínica?",
+    "options": [
+      "Idosos são grupo vulnerável com maior risco de complicações; avaliar rigorosamente sinais de alarme e considerar internação precoce",
+      "Idosos apresentam curso clínico benigno; manejar com hidratação oral e analgésicos ambulatorialmente sem monitorização especial",
+      "Conduta em idosos é idêntica a jovens sem diferenciação, salvo uso de anticoagulantes contraindicando analgésicos",
+      "Idosos com dengue devem receber antibióticos intravenosos sistematicamente pela alta incidência de coinfecções bacterianas",
+      "Idosos têm risco reduzido por imunosenescência que diminui resposta inflamatória; dispensam monitoramento laboratorial frequente"
+    ],
+    "correctIndex": 0,
+    "explanation": "IDOSOS são GRUPO VULNERÁVEL para dengue, apresentando maior risco de complicações e formas graves devido a comorbidades (hipertensão, diabetes, insuficiência cardíaca) e menor reserva fisiológica. Devem ser avaliados RIGOROSAMENTE para sinais de alarme, monitorizados com hematócrito e plaquetas, e CONSIDERADOS PARA INTERNAÇÃO PRECOCE mesmo sem sinais graves evidentes para manejo seguro. Monitoramento laboratorial frequente é essencial para evitar descompensação súbita.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a importância da notificação compulsória da dengue para o sistema público de saúde e controle da doença?",
+    "options": [
+      "Permite vigilância epidemiológica, monitoramento de surtos, identificação de sorotipos e ações de controle vetorial e bloqueio de transmissão",
+      "Tem função administrativa para contabilização anual sem relação com gestão de recursos ou planejamento de saúde pública",
+      "Facilita triagem e encaminhamento automático para unidades de alta complexidade independentemente do quadro clínico",
+      "Gera dados para publicação científica sem impacto direto nas estratégias de controle ou manejo clínico dos pacientes",
+      "Tem prioridade reduzida durante epidemias; medidas preventivas são mais eficazes que notificações para controle populacional"
+    ],
+    "correctIndex": 0,
+    "explanation": "A NOTIFICAÇÃO COMPULSÓRIA é essencial para uma VIGILÂNCIA EPIDEMIOLÓGICA eficaz, que permite: (1) monitorar a evolução e incidência da doença, (2) identificar os sorotipos circulantes, (3) antecipar surtos e epidemias, (4) planejar ações de saúde pública, (5) executar medidas de CONTROLE VETORIAL e BLOQUEIO da transmissão, reduzindo mortalidade e morbidade. Além disso, garante reporte adequado e rastreio em nível nacional.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 25 anos em atendimento ambulatorial foi diagnosticado com dengue há 3 dias, estável sem sinais de alarme. Qual a conduta mais adequada e orientações essenciais?",
+    "options": [
+      "Orientar hidratação oral abundante (60-80 ml/kg/dia), usar paracetamol, evitar AAS/AINEs, instruir sobre sinais de alarme para retorno imediato",
+      "Administrar ácido acetilsalicílico para controle de febre, prescrever antibiótico profilático e recomendar repouso absoluto por 14 dias",
+      "Iniciar hidratação venosa profilática obrigatória, prescrever dipirona e encaminhar para internação em clínica médica mesmo sem gravidade",
+      "Solicitar sorologia IgG para confirmação diagnóstica imediata e prescrever corticoide para reduzir risco de dengue grave",
+      "Prescrever repouso domiciliar, hidratação com líquidos claros limitada e controle da febre exclusivamente com banhos frios"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paciente dengue ESTÁVEL sem sinais de alarme deve ser orientado para HIDRATAÇÃO ORAL ABUNDANTE (60-80 ml/kg/dia, soro caseiro, água), controle de febre e dor com PARACETAMOL (ou dipirona), EVITAR AAS/AINEs, e ser instruído para OBSERVAR SINAIS DE ALARME (dor abdominal intensa, vômitos persistentes, sangramento, hipotensão, letargia) para retorno imediato ou busca de serviço de saúde. NÃO indicar antivirais ou corticoides. Antibióticos só em caso de infecção secundária comprovada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante o manejo clínico da dengue, como distinguir a fase crítica da fase de recuperação em relação às alterações laboratoriais?",
+    "options": [
+      "Não há diferença laboratorial entre fases; distinção considerada apenas clínica com base em sintomas e vitais",
+      "Fase crítica apresenta aumento súbito de albumina e redução de bilirrubina; fase de recuperação apresenta hipoalbuminemia constante",
+      "Fase crítica caracteriza-se por diminuição de AST/ALT e melhora hepática; fase de recuperação evidencia elevação das enzimas",
+      "Fase crítica apresenta aumento do hematócrito (hemoconcentração) e queda de plaquetas; fase de recuperação mostra normalização do hematócrito e aumento de plaquetas",
+      "Fase crítica apresenta leucocitose e proteinúria significativa; fase de recuperação apresenta leucopenia progressiva sem alteração plaquetária"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na FASE CRÍTICA da dengue observa-se AUMENTO DO HEMATÓCRITO (>20% basal) pela extravasamento plasmático e QUEDA das PLAQUETAS (<100.000/mm³). Na FASE DE RECUPERAÇÃO o hematócrito normaliza progressivamente com reabsorção do líquido extravasado e as plaquetas SOBEM gradativamente para níveis normais, refletindo resolução do processo inflamatório e vascular. Essas alterações laboratorias ajudam a diferenciar fases e orientar manejo e riscos.",
+    "type": "raciocínio"
+  }
+]

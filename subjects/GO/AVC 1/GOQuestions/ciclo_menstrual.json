@@ -1,0 +1,262 @@
+[
+  {
+    "question": "De acordo com as revisões da FIGO de 2018, qual é o intervalo de frequência considerado normal para o ciclo menstrual e qual o tempo máximo de duração do sangramento aceito como normalidade?",
+    "options": [
+      "Frequência de 21 a 35 dias, com duração máxima aceitável de 10 dias de sangramento contínuo.",
+      "Frequência de 24 a 38 dias, sendo considerada a duração do sangramento normal aquela que é menor ou igual a 8 dias.",
+      "Frequência determinada pelo padrão anterior da paciente, e a duração do sangramento deve ser sempre inferior a 5 dias, independentemente do volume.",
+      "Frequência de 26 a 32 dias, sendo que a duração máxima do sangramento deve ser de 7 dias, excluindo-se o spotting inicial.",
+      "Frequência de 30 a 45 dias, mas a duração do sangramento é considerada normal somente se o volume for reduzido ou leve."
+    ],
+    "correctIndex": 1,
+    "explanation": "A frequência normal, segundo a atualização FIGO de 2018, é de 24 a 38 dias. A duração do sangramento deve ser de, no máximo, 8 dias [1, 2]. A variação de 21 a 35 dias era o padrão anterior [2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "De que maneira a pulsatilidade do Hormônio Liberador de Gonadotrofinas (GnRH) modula a liberação de FSH e LH pela hipófise anterior, sendo esse um mecanismo fundamental para a fisiologia do ciclo?",
+    "options": [
+      "O GnRH secreta pulsos de alta frequência que inibem o FSH, enquanto os pulsos de baixa frequência estimulam a secreção de LH.",
+      "Pulsos lentos do GnRH estimulam a liberação de FSH, enquanto os pulsos rápidos favorecem a secreção de LH pela hipófise anterior.",
+      "A hipófise libera primeiro o FSH sob comando da Inibina ovariana e só então o GnRH determina a liberação de LH, dependendo da necessidade de ovulação.",
+      "A pulsatilidade constante do GnRH garante a secreção equilibrada de FSH e LH, sendo o Estrogênio o fator primário que diferencia a liberação de cada um.",
+      "A pulsatilidade lenta do GnRH é predominante na fase ovulatória para induzir o pico de LH, e a pulsatilidade rápida é crucial na fase lútea para manter o corpo lúteo."
+    ],
+    "correctIndex": 1,
+    "explanation": "O hipotálamo secreta GnRH de forma pulsátil [3, 4]. A frequência dos pulsos determina a liberação diferenciada: pulsos lentos estimulam o FSH, enquanto pulsos rápidos favorecem o LH [3, 4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual fase do ciclo endometrial corresponde temporalmente à fase folicular do ciclo ovariano e qual o hormônio predominante que regula o crescimento e espessamento do endométrio nesta fase?",
+    "options": [
+      "Fase proliferativa, estimulada principalmente pelo estradiol (estrogênio), promovendo a regeneração e o espessamento do tecido.",
+      "Fase secretora, estimulada primariamente pela progesterona para criar um ambiente nutritivo para a implantação embrionária.",
+      "Fase ovulatória, caracterizada pela máxima espessura endometrial trilaminar, induzida pelo pico simultâneo de LH e Progesterona.",
+      "Fase lútea, onde a progesterona induz a vascularização e a reorganização do estroma endometrial para suporte à gestação.",
+      "Fase menstrual, marcada pela queda abrupta dos níveis de GnRH e pela descamação completa do revestimento uterino."
+    ],
+    "correctIndex": 0,
+    "explanation": "A fase folicular do ovário corresponde à fase proliferativa do endométrio [5]. Nesta fase, o estradiol (estrogênio) produzido pelos folículos estimula a regeneração e o espessamento do endométrio [6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Durante a fase folicular, qual é a principal ação do FSH (Hormônio Folículo-Estimulante) sobre o ovário e qual o hormônio esteroide resultante dessa estimulação direta nas células foliculares?",
+    "options": [
+      "Estimula o crescimento folicular e induz a produção de progesterona pelas células da teca para estabilizar o endométrio.",
+      "Promove o feedback positivo sobre o GnRH, acelerando os pulsos hipotalâmicos e elevando a produção de LH.",
+      "Mantém o corpo lúteo ativo após a ovulação, promovendo a secreção contínua de inibina para evitar a seleção de novos folículos.",
+      "Induz o pico de LH, que culmina na ovulação do folículo dominante, através da inibição do feedback negativo sobre o hipotálamo.",
+      "Estimula o crescimento folicular e induz a produção de estrogênio pelas células da granulosa, através da ativação da enzima aromatase."
+    ],
+    "correctIndex": 4,
+    "explanation": "O FSH estimula o crescimento e maturação dos folículos ovarianos [7]. Ele induz a produção de estrogênio pelas células da granulosa [7, 8], ativando a enzima aromatase para converter androgênios em estrogênio [9, 10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O pico do Hormônio Luteinizante (LH) no meio do ciclo é o evento crucial que desencadeia a ovulação. Qual é a sua ação específica no folículo dominante maduro para que ocorra a liberação do oócito?",
+    "options": [
+      "Reduz a produção de Estrogênio pelo folículo, provocando a degeneração do tecido e a expulsão do óvulo por pressão osmótica interna.",
+      "Causa mudanças morfológicas e enzimáticas no folículo maduro, levando à ruptura da parede folicular (teca e granulosa) e à liberação do óvulo.",
+      "Induz a diferenciação das células da granulosa em células luteínicas, estimulando a síntese precoce de Progesterona que rompe a teca.",
+      "Estimula o ovário a produzir o Hormônio Anti-Mülleriano (AMH) em excesso, enfraquecendo a cápsula externa do folículo para a expulsão do oócito.",
+      "Promove o aumento do número de receptores de FSH no folículo, garantindo que o crescimento seja mantido até o momento da liberação."
+    ],
+    "correctIndex": 1,
+    "explanation": "O pico de LH é a causa direta da ovulação [5, 7, 11]. Ele causa mudanças morfológicas e enzimáticas que levam à ruptura da parede folicular e à subsequente liberação do óvulo [11].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Após a ovulação, o folículo rompido se transforma no corpo lúteo. Qual é o principal hormônio produzido por essa estrutura transitória e como ele influencia o eixo HHO nesta nova fase?",
+    "options": [
+      "LH; é o hormônio que mantém o próprio corpo lúteo ativo, garantindo que a progesterona seja secretada por toda a fase lútea.",
+      "Progesterona; exerce feedback positivo sobre o FSH, preparando o ovário para o recrutamento folicular do ciclo seguinte.",
+      "Progesterona; prepara o endométrio para a possível implantação e exerce feedback negativo sobre o hipotálamo/hipófise, inibindo GnRH, FSH e LH.",
+      "Hormônio Anti-Mülleriano (AMH); mantém a quiescência folicular e inibe a maturação de outros folículos durante a fase lútea.",
+      "Estradiol; exerce feedback positivo sobre o GnRH e a hipófise, garantindo a manutenção da secreção de LH."
+    ],
+    "correctIndex": 2,
+    "explanation": "O corpo lúteo produz Progesterona, que prepara o endométrio para a gestação [12, 13]. Os elevados níveis de Progesterona (e Estradiol) exercem feedback negativo sobre o eixo, inibindo a liberação de GnRH, FSH e LH, impedindo novas ovulações no mesmo ciclo [13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a distinção correta entre os distúrbios de frequência Oligomenorreia e Polimenorreia, conforme a classificação das causas de sangramento uterino anormal (AUB)?",
+    "options": [
+      "Oligomenorreia é o sangramento intermenstrual, enquanto Polimenorreia é o sangramento uterino irregular e com volume excessivo.",
+      "Oligomenorreia são ciclos com intervalos superiores a 38 dias (infrequentes), e Polimenorreia são ciclos com intervalos inferiores a 24 dias (frequentes).",
+      "Oligomenorreia é o sangramento menstrual excessivo em volume e/ou duração, e Polimenorreia é a combinação de sangramento forte e irregular.",
+      "Oligomenorreia é a ausência de menstruação por 90 dias, e Polimenorreia é a menstruação com fluxo reduzido em quantidade.",
+      "Oligomenorreia são ciclos com variação de menos de 7 dias, e Polimenorreia são ciclos com variação superior a 9 dias."
+    ],
+    "correctIndex": 1,
+    "explanation": "Oligomenorreia é caracterizada por ciclos com intervalos superiores a 38 dias (ciclos infrequentes). Polimenorreia é definida como ciclos com intervalos inferiores a 24 dias (ciclos frequentes) [14].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A enzima Aromatase é fundamental na esteroidogênese ovariana, atuando como um elemento-chave na Teoria das Duas Células. Qual é a sua principal função e em qual célula folicular essa transformação ocorre primariamente?",
+    "options": [
+      "Transforma a androstenediona (precursor androgênico) em estrogênio (estradiol), sendo ativada na célula da granulosa pelo FSH para a produção final de E2.",
+      "Converte o colesterol em androstenediona, sendo ativada na célula da teca interna pela ação do LH, fornecendo o precursor androgênico.",
+      "Promove a regeneração do endométrio durante a fase proliferativa, atuando diretamente no estroma para criar o padrão trilaminar característico.",
+      "Garante a luteinização do folículo após o pico de LH, promovendo a produção de progesterona na célula da teca externa.",
+      "Inibe a liberação de GnRH de forma pulsátil, assegurando que apenas um folículo seja selecionado em cada ciclo ovariano."
+    ],
+    "correctIndex": 0,
+    "explanation": "A Aromatase é a enzima que transforma a androstenediona em estrogênio (estradiol) [9, 10]. O FSH estimula a célula da granulosa, promovendo a produção de Aromatase e a subsequente conversão [8, 15].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na fase lútea, após a ovulação, o colo uterino assume qual característica protetora em preparação para uma possível gestação, diferente das mudanças observadas na fase folicular?",
+    "options": [
+      "O colo uterino não sofre alterações na fase lútea, pois suas modificações são exclusivas do período ovulatório e da fase folicular anterior.",
+      "Torna-se mais baixo e firme, com o orifício cervical mais fechado, e produzindo secreção espessa para reforçar o isolamento do ambiente uterino.",
+      "Aumenta a sua sensibilidade ao FSH, o que estimula a produção de uma secreção protetora rica em glicoproteínas para o embrião.",
+      "Mantém o orifício cervical aberto, mas aumenta a vascularização para nutrir o endométrio em caso de implantação embrionária.",
+      "Torna-se mais alto, macio e ligeiramente aberto, aumentando a secreção aquosa para facilitar a entrada e ascensão dos espermatozoides."
+    ],
+    "correctIndex": 1,
+    "explanation": "Na fase lútea, o colo uterino passa a estar mais baixo e firme, e o orifício cervical se torna mais fechado. Isso reforça o isolamento e protege o ambiente uterino contra patógenos na preparação para a implantação [16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A mastodínia (dor mamária) e o aumento de volume que muitas mulheres experimentam na fase pré-menstrual são correlacionados a qual alteração cíclica induzida por hormônios nesta fase lútea?",
+    "options": [
+      "Atrofia dos ductos e lóbulos mamários induzida pela queda do FSH, o que provoca isquemia e dor nos tecidos fibrosos.",
+      "Desenvolvimento dos lóbulos mamários com acúmulo de secreção e mitoses relativamente comuns, devido aos elevados níveis de Progesterona.",
+      "Desenvolvimento glandular reduzido, mas com intensa proliferação do estroma conjuntivo, induzido pelo LH.",
+      "Aumento da mitose celular na glândula mamária devido ao pico de Estradiol, causando edema local e aumento da sensibilidade ao toque.",
+      "Retenção hídrica sistêmica causada pela Inibina, que leva ao ingurgitamento vascular, resultando em dor difusa nas mamas."
+    ],
+    "correctIndex": 1,
+    "explanation": "Na fase lútea, os lóbulos mamários se desenvolvem e há acúmulo de secreção, além de mitoses relativamente comuns, o que resulta em aumento de volume mamário e mastodínia (dor) [17]. Isso é induzido pela Progesterona [13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que a Organização Mundial de Saúde (OMS) e a FIGO recomendam que a paciente utilize para determinar o 'volume' de seu sangramento menstrual na anamnese ginecológica?",
+    "options": [
+      "O médico deve medir o volume em mililitros através de testes laboratoriais de hemoglobina perdidos por ciclo.",
+      "O médico deve estimar o volume com base na frequência e na intensidade do sangramento relatado, utilizando a medida anterior de 80 ml como referência.",
+      "A paciente deve contar o número total de coágulos de grande volume eliminados, sendo normal até três coágulos por dia de sangramento intenso.",
+      "O volume deve ser calculado com base no número de absorventes internos e externos trocados por dia, registrando-se o volume em mililitros.",
+      "O volume é determinado pela paciente, que deve classificar o fluxo como reduzido, normal ou muito, baseada em sua percepção corporal."
+    ],
+    "correctIndex": 4,
+    "explanation": "A atualização da FIGO mudou a forma de avaliar o volume. Não é mais o médico quem diz; 'é o que a paciente fala'. Ela deve entender o corpo dela e classificar o volume como reduzido, normal ou muito [1, 4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A fase secretora do ciclo endometrial é induzida pela Progesterona. Qual das seguintes características anatômicas distingue o endométrio secretor do endométrio proliferativo?",
+    "options": [
+      "Completa descamação e redução da espessura endometrial, resultando em um sangramento de privação hormonal.",
+      "Transformação das glândulas endometriais em estruturas tortuosas e secretoras, com produção de glicoproteínas para nutrição.",
+      "Aumento da taxa mitótica das células basais e reorganização do estroma sem desenvolvimento glandular significativo.",
+      "Formação do endométrio trilaminar, que se caracteriza por três linhas hiperecogênicas, sendo uma resposta ao pico de LH.",
+      "Proliferação intensa das células do estroma e vascularização reduzida, mantendo o aspecto liso e pouco denso."
+    ],
+    "correctIndex": 1,
+    "explanation": "Na fase secretora (correspondente à fase lútea), o corpo lúteo secreta progesterona, que transforma o tecido proliferativo. As glândulas tornam-se tortuosas e secretoras, produzindo glicoproteínas para criar um ambiente nutritivo para o embrião [18].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição correta do distúrbio de sangramento uterino anormal Metrorragia, um dos principais motivos de consulta em ginecologia?",
+    "options": [
+      "Ausência de qualquer sangramento menstrual por um período consecutivo de 90 dias ou mais.",
+      "Combinação de sangramento excessivo em volume e sangramento uterino irregular ou intermenstrual.",
+      "Sangramento uterino que ocorre de forma irregular e intermenstrual, ou seja, fora do período esperado da menstruação.",
+      "Menstruação que apresenta um fluxo reduzido tanto em quantidade quanto em sua duração total.",
+      "Sangramento menstrual excessivo em volume, mas que mantém a regularidade de intervalo do ciclo menstrual."
+    ],
+    "correctIndex": 2,
+    "explanation": "Metrorragia é o sangramento uterino irregular e intermenstrual, ocorrendo fora do período esperado da menstruação [14]. As outras opções descrevem Menorragia, Amenorreia, Hipomenorreia e Menometrorragia, respectivamente [3, 14].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na Teoria das Duas Células do ovário, a célula da teca interna é a primeira a responder. Qual é o hormônio que atua diretamente nela, e qual é o precursor hormonal que ela sintetiza a partir do colesterol?",
+    "options": [
+      "LH; sintetiza a androstenediona (um androgênio), que é transferida para a célula vizinha para a conversão final em Estradiol.",
+      "FSH; sintetiza o estrogênio, através da ativação da Aromatase, sendo esta a célula responsável pelo feedback negativo inicial.",
+      "LH; sintetiza a progesterona, que atua como o principal mediador para o corpo lúteo.",
+      "FSH; sintetiza a Progesterona, um hormônio que estabiliza o folículo dominante antes da ovulação.",
+      "GnRH; sintetiza a Inibina, que atua no controle da liberação de FSH pela hipófise."
+    ],
+    "correctIndex": 0,
+    "explanation": "O LH atua na célula da teca interna, utilizando o colesterol como precursor para sintetizar a androstenediona (androgênio), que é o precursor do estrogênio [9, 19, 20].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição correta e prática de como o ciclo menstrual é contado, informação fundamental para a anamnese ginecológica e para a compreensão da paciente sobre seu corpo?",
+    "options": [
+      "O ciclo menstrual é o período que corresponde unicamente à fase proliferativa do endométrio, antes da ovulação.",
+      "O ciclo menstrual é definido como o intervalo entre o primeiro dia de uma menstruação e o primeiro dia da menstruação seguinte.",
+      "O ciclo menstrual é contado pelo número de dias que a paciente permanece sem sangrar durante o intervalo entre duas menstruações.",
+      "O ciclo menstrual é o intervalo entre o dia final da menstruação e o dia que antecede o próximo sangramento menstrual.",
+      "O ciclo menstrual é o intervalo entre o pico de LH no meio do ciclo e o início da fase lútea seguinte, que dura aproximadamente 14 dias."
+    ],
+    "correctIndex": 1,
+    "explanation": "O ciclo menstrual é definido como o intervalo entre o primeiro dia de uma menstruação e o primeiro dia da menstruação seguinte. O último dia de sangramento não é relevante para a contagem do ciclo [21, 22].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma paciente está sendo acompanhada para rastreamento de ovulação e, em um exame hormonal realizado no 13º dia de um ciclo de 28 dias, apresenta níveis séricos de Estradiol (E2) significativamente elevados e Progesterona basal. Qual a interpretação clínica mais provável para esses achados e qual evento se espera nos próximos dias?",
+    "options": [
+      "O folículo dominante atingiu a maturação completa, e o alto Estradiol, por meio do feedback positivo, sinaliza que o pico de LH (ovulação) é iminente.",
+      "A paciente apresenta deficiência de FSH; o Estradiol alto é uma compensação ovariana, indicando que o ciclo está anovulatório e não ocorrerá ovulação.",
+      "O endométrio está na fase secretora, e a Progesterona basal sugere que a paciente já ovulou e que a implantação pode estar ocorrendo em breve.",
+      "Os níveis altos de Estradiol indicam um ciclo de Polimenorreia, e o LH será inibido pelo feedback negativo antes que o óvulo seja liberado.",
+      "A paciente está na fase lútea avançada, e o alto Estradiol, junto à Progesterona basal, indica falha do corpo lúteo, o que levará à menstruação precoce."
+    ],
+    "correctIndex": 0,
+    "explanation": "O alto nível de Estradiol (E2) é o pico pré-ovulatório [23]. Este pico exerce feedback positivo, provocando o pico de LH que leva à ovulação [24]. A progesterona ainda é basal porque o corpo lúteo (fonte de Progesterona) só se forma *após* a ovulação [13].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma mulher na menacme (período fértil) queixa-se de polimenorreia, com ciclos ocorrendo a cada 20-22 dias. Sabendo que a fase lútea é relativamente fixa em duração (cerca de 14 dias), qual fase do ciclo é a principal responsável por essa irregularidade de alta frequência?",
+    "options": [
+      "A fase ovulatória ocorre de forma falha, não havendo produção suficiente de LH para induzir o pico e manter o corpo lúteo ativo.",
+      "O hipotálamo está liberando GnRH de forma lenta e constante, o que inibe o FSH e impede a seleção correta do folículo.",
+      "O corpo lúteo degenera precocemente (fase lútea curta), resultando em uma queda hormonal prematura e no início rápido da próxima menstruação.",
+      "A fase folicular está encurtada, o que implica em um recrutamento e maturação acelerada do folículo dominante, levando à ovulação precoce.",
+      "A fase menstrual está prolongada, resultando em um maior tempo de sangramento e um início mais rápido do próximo ciclo."
+    ],
+    "correctIndex": 3,
+    "explanation": "Polimenorreia são ciclos curtos (< 24 dias) [14]. Como a fase lútea (pós-ovulação) é de duração fixa (aproximadamente 14 dias), o encurtamento do ciclo deve ocorrer na fase folicular. Isso significa que o recrutamento e a maturação do folículo estão acelerados, levando à ovulação precoce (antes do 14º dia) e ao início rápido do próximo ciclo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Em contraceptivos hormonais orais combinados (COC), a progesterona sintética é responsável pelo efeito contraceptivo primário (inibição da ovulação). Qual é a função específica do estrogênio adicionado a essas formulações, conforme a fisiologia endometrial?",
+    "options": [
+      "Estabilizar o endométrio, reduzindo a chance de sangramentos irregulares ou de escape (spotting), que são comuns com a progesterona isolada.",
+      "Bloquear a produção de FSH no início do ciclo, prevenindo o recrutamento de folículos antrais e preservando a reserva ovariana.",
+      "Fornecer feedback negativo no hipotálamo, inibindo a pulsatilidade de GnRH e zerando a produção endógena de todos os hormônios gonadotróficos.",
+      "Aumentar o pico de LH no meio do ciclo, simulando a ovulação, mas impedindo a captação do óvulo pela tuba uterina.",
+      "Promover a atrofia glandular do endométrio para reduzir o risco de hiperplasia causada pela progesterona isolada."
+    ],
+    "correctIndex": 0,
+    "explanation": "A progesterona no contraceptivo bloqueia o pico de LH e, portanto, a ovulação [25]. O estrogênio é adicionado para 'estabilizar o endométrio' e evitar que a mulher tenha sangramentos muito irregulares ('sangrar de forma muito alterada') [26].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente queixa-se de seios inchados e doloridos (mastodínia) que se iniciam consistentemente cerca de 7 a 10 dias antes de sua menstruação e desaparecem após o início do fluxo. Qual hormônio e qual fase do ciclo são responsáveis por esses sintomas e qual a causa fisiológica?",
+    "options": [
+      "LH; Fase ovulatória, pois o pico de LH causa uma reação inflamatória sistêmica que afeta as terminações nervosas mamárias.",
+      "Progesterona; Fase lútea, que estimula o desenvolvimento dos lóbulos mamários com acúmulo de secreção, resultando em dor e aumento de volume.",
+      "FSH; Fase folicular, onde o estímulo inicial do FSH provoca uma reação de hipersensibilidade nos ductos mamários.",
+      "Estradiol; Fase proliferativa, pois altos níveis de E2 estimulam a vascularização da mama e a retenção de líquidos.",
+      "Hormônio Anti-Mülleriano (AMH); Menacme, pois o AMH regula o estroma mamário e causa dor quando seus níveis estão muito elevados."
+    ],
+    "correctIndex": 1,
+    "explanation": "A dor e o inchaço mamário (mastodínia) na fase pré-menstrual ocorrem na fase lútea . Isso se deve ao aumento da Progesterona produzida pelo corpo lúteo, que induz o desenvolvimento dos lóbulos e o acúmulo de secreção mamária [17].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O Hormônio Anti-Mülleriano (AMH) é frequentemente solicitado na avaliação de fertilidade. Qual é a sua fonte de produção e o que um resultado consistentemente baixo desse hormônio indica clinicamente para a paciente?",
+    "options": [
+      "É produzido pelas células da teca interna no ovário, e seu nível baixo correlaciona-se com a atrofia da glândula mamária na fase folicular.",
+      "É produzido pelo endométrio na fase secretora, e seu nível baixo indica um risco aumentado de sangramento uterino anormal (AUB).",
+      "É produzido pela hipófise anterior, e seu nível baixo indica uma falha na pulsatilidade do GnRH, sugerindo ausência de ovulação.",
+      "É produzido pela glândula adrenal em resposta ao estresse, e seu nível baixo indica a necessidade de Terapia de Reposição Hormonal imediata.",
+      "É produzido pelos folículos antrais no ovário, e seu nível baixo correlaciona-se diretamente com uma baixa reserva ovariana (quantidade de folículos)."
+    ],
+    "correctIndex": 4,
+    "explanation": "O AMH é produzido pelos folículos antrais [26-28]. É um marcador usado para avaliar a reserva ovariana [26, 27]. Se os folículos antrais produzem o AMH, um nível baixo significa que a paciente tem baixa reserva ovariana [28].",
+    "type": "raciocínio"
+  }
+]

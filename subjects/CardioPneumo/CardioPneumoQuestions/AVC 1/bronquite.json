@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Qual é a definição clínica específica da Bronquite Crônica, que a diferencia de outras doenças respiratórias, de acordo com os critérios temporais estabelecidos?",
+    "options": [
+      "Inflamação aguda e recente dos brônquios, geralmente causada por infecção viral do trato respiratório, que resulta em tosse e produção de muco por menos de 3 semanas.",
+      "Limitação do fluxo aéreo (VEF1/CVF < 0,70) associada à presença de eosinofilia no sangue e exacerbações frequentes, exigindo o uso de corticoides inalatórios.",
+      "Dispneia progressiva associada à destruição dos septos alveolares, levando ao aumento anormal e permanente dos espaços aéreos distais, sem tosse produtiva.",
+      "Sibilância e opressão torácica persistentes, especialmente durante a noite, desencadeadas por gatilhos como alérgenos, fumaça e infecções virais.",
+      "Tosse produtiva na maioria dos dias, por pelo menos 3 meses, em 2 anos consecutivos, na ausência de outras causas que justifiquem o sintoma."
+    ],
+    "correctIndex": 4,
+    "explanation": "A Bronquite Crônica é definida clinicamente pela presença de tosse produtiva na maioria dos dias, por pelo menos 3 meses, em 2 anos consecutivos, excluindo outras causas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em termos de fisiopatologia e histopatologia, qual alteração estrutural das vias aéreas é a marca registrada da Bronquite Crônica, levando à hipersecreção mucosa e obstrução do fluxo aéreo?",
+    "options": [
+      "Destruição maciça do parênquima pulmonar e do leito capilar, levando ao aumento anormal dos espaços aéreos distais e perda da elasticidade pulmonar.",
+      "Remodelação vascular com espessamento das paredes arteriais pulmonares, induzida por hipertensão pulmonar primária e não pela inflamação brônquica.",
+      "Hiperplasia das glândulas mucosas e hipersecreção de muco, além de inflamação e fibrose das pequenas vias aéreas, que causam obstrução.",
+      "Predominância de elastase de neutrófilos sobre a alfa-1 antitripsina, o que resulta na lise das paredes alveolares e formação de bolhas (bullae).",
+      "Redução da Capacidade Vital Forçada (CVF) e do VEF1 com relação VEF1/CVF normal, caracterizando um distúrbio ventilatório restritivo e não obstrutivo."
+    ],
+    "correctIndex": 2,
+    "explanation": "Fisiopatologicamente, a Bronquite Crônica é caracterizada pela hiperplasia das glândulas mucosas, hipersecreção de muco, inflamação e fibrose das pequenas vias aéreas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal fator de risco, responsável pela vasta maioria dos casos (cerca de 85% a 90%), que desencadeia a resposta inflamatória crônica e os danos pulmonares que levam à Bronquite Crônica?",
+    "options": [
+      "Deficiência genética de Alfa-1 Antitripsina (forma rara de enfisema panlobular), que resulta em destruição alveolar precoce e grave.",
+      "Histórico de asma grave ou infecções respiratórias recorrentes na infância, mesmo na ausência de exposição a poluentes.",
+      "Exposição ocupacional a poeiras minerais ou sílica, que é o principal fator etiológico, mesmo superando o tabagismo em alguns estudos.",
+      "Poluição do ar causada pela liberação de gases e partículas nocivas na atmosfera, o que leva à disfunção endotelial sistêmica.",
+      "Tabagismo (ativo e passivo), que causa exposição contínua a irritantes e toxinas, desencadeando a inflamação e fibrose crônica das vias aéreas."
+    ],
+    "correctIndex": 4,
+    "explanation": "A principal causa da DPOC, incluindo a Bronquite Crônica, é o tabagismo (ativo e passivo), sendo responsável por cerca de 85% a 90% dos casos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fenótipo clínico 'Blue Bloater' (Inchado Azul), associado à Bronquite Crônica, é caracterizado por quais manifestações clínicas e sistêmicas primárias?",
+    "options": [
+      "Inversão do diafragma e aumento do espaço retroesternal (achados radiológicos), associados à hipoxemia crônica e policitemia secundária.",
+      "Tosse crônica produtiva precoce, cianose, expiração prolongada, obesidade e edema periférico (cor pulmonale), com dispneia moderada e tardia.",
+      "Infecções tardias (após 10 anos de doença), pneumotórax espontâneo por ruptura de bolhas e perda de peso significativa devido ao trabalho respiratório elevado.",
+      "Tosse esporádica e tardia, dispneia intensa em repouso, hipotensão pulmonar e ausência de sibilos ou estertores na ausculta pulmonar.",
+      "Dispneia intensa e precoce, pele rósea ('Pink Puffer'), caquexia e tórax em barril, indicando predominância de enfisema e perda de peso."
+    ],
+    "correctIndex": 1,
+    "explanation": "O 'Blue Bloater' apresenta tosse crônica produtiva precoce, cianose, obeso e edema periférico (cor pulmonale), além de dispneia moderada e tardia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual complicação cardiovascular é uma característica comum da Bronquite Crônica avançada, causada pela vasoconstrição das artérias pulmonares em resposta à hipoxemia crônica?",
+    "options": [
+      "Insuficiência Cardíaca Esquerda (ICFEr), devido à sobrecarga de volume e pressão no lado esquerdo do coração causada pela fibrose das pequenas vias aéreas.",
+      "Tromboses coronarianas e na aorta, visualizadas na TC, devido à inflamação sistêmica induzida pela deficiência de alfa-1 antitripsina.",
+      "Arritmias atriais complexas, como Fibrilação Atrial, devido ao aumento da atividade simpática e da frequência cardíaca em repouso.",
+      "Cardiomegalia com aumento do ventrículo esquerdo (SVE), levando à configuração em bota do coração na radiografia de tórax.",
+      "Hipertensão Pulmonar e consequente Cor Pulmonale (Insuficiência Cardíaca Direita), devido ao aumento da resistência ao fluxo sanguíneo na circulação pulmonar."
+    ],
+    "correctIndex": 4,
+    "explanation": "A hipoxemia crônica estimula a vasoconstrição pulmonar, o que aumenta a resistência ao fluxo sanguíneo e contribui para a Hipertensão Pulmonar e Cor Pulmonale (Insuficiência Cardíaca Direita).",
+    "type": "conteudista"
+  },
+  {
+    "question": "No contexto da Bronquite Crônica, qual alteração hematológica é uma complicação direta da hipoxemia crônica (baixa concentração de oxigênio no sangue)?",
+    "options": [
+      "Linfocitose (aumento dos linfócitos T CD8+), que é um marcador da resposta inflamatória crônica das vias aéreas.",
+      "Trombocitopenia (baixa contagem de plaquetas), devido à destruição das plaquetas pela inflamação crônica e estresse oxidativo.",
+      "Policitemia (ou poliglobulia), que é o aumento da produção de glóbulos vermelhos como uma tentativa compensatória do corpo para carregar mais oxigênio.",
+      "Leucopenia (baixa contagem de glóbulos brancos), que aumenta o risco de infecções precoces e graves.",
+      "Anemia ferropriva (deficiência de ferro), devido à perda de sangue pela hemoptise recorrente e má absorção intestinal."
+    ],
+    "correctIndex": 2,
+    "explanation": "A hipoxemia crônica induz a Policitemia (ou poliglobulia), que é uma resposta compensatória do corpo para aumentar a capacidade de transporte de oxigênio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a descrição fisiopatológica correta de como a inflamação crônica na Bronquite Crônica leva à limitação do fluxo aéreo?",
+    "options": [
+      "A ativação anômala de macrófagos e linfócitos T CD8+ leva à redução do diâmetro anteroposterior do tórax, dificultando a expansão pulmonar inspiratória.",
+      "A hipóxia crônica estimula a contração das artérias pulmonares, aumentando a resistência vascular e levando à obstrução do fluxo sanguíneo, mas não do fluxo aéreo.",
+      "A inflamação destrói o parênquima pulmonar, reduzindo o leito capilar, o que causa aprisionamento aéreo e hiperinsuflação pulmonar por perda de elasticidade.",
+      "O desequilíbrio protease-antiprotease leva à destruição dos septos alveolares, resultando em grandes espaços aéreos que colapsam durante a expiração forçada.",
+      "A inflamação e a fibrose (cicatrização) engrossam as paredes dos brônquios, estreitando a passagem do ar, em conjunto com o aumento da hipersecreção de muco que obstrui as vias aéreas."
+    ],
+    "correctIndex": 4,
+    "explanation": "Na Bronquite Crônica, a inflamação e a fibrose engrossam as paredes dos brônquios, estreitando a passagem do ar. O aumento da produção de muco obstrui ainda mais, resultando na limitação do fluxo aéreo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que são 'exacerbações agudas' na Bronquite Crônica e quais são os dois principais fatores etiológicos que precipitam esses eventos graves?",
+    "options": [
+      "Ocorrência de bloqueios atrioventriculares e bradicardia profunda, devido à hipoxemia crônica e à sobrecarga do ventrículo direito.",
+      "Complicações tardias, como pneumotórax espontâneo ou perda de peso progressiva (caquexia), que ocorrem apenas em pacientes com enfisema bolhoso.",
+      "São episódios de piora súbita da função cardíaca (Cor Pulmonale), desencadeados pelo uso crônico de Corticoides Inalatórios.",
+      "São episódios de infarto do miocárdio ou embolia pulmonar, confirmados pela elevação do segmento ST no ECG e troponina positiva.",
+      "Episódios de piora súbita dos sintomas respiratórios (aumento da dispneia, volume e/ou purulência do escarro), frequentemente precipitados por infecções (virais/bacterianas) ou poluição."
+    ],
+    "correctIndex": 4,
+    "explanation": "Exacerbações agudas são episódios de piora súbita dos sintomas respiratórios (aumento da dispneia, volume e/ou purulência do escarro), frequentemente precipitados por infecções (virais/bacterianas) ou poluição.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual característica clínica da tosse é mais indicativa da Bronquite Crônica, distinguindo-a da tosse intermitente observada em estágios iniciais de outras doenças respiratórias?",
+    "options": [
+      "Tosse seca e paroxística, que ocorre apenas durante a noite e melhora completamente com o uso de broncodilatadores de curta ação (SABAs).",
+      "Tosse associada à hemoptise maciça, indicando infecções precoces e a presença de bronquiectasias tardias.",
+      "Tosse intermitente no início, que nunca se torna produtiva e está mais associada a sibilância e opressão torácica durante o esforço físico.",
+      "Tosse crônica que se desenvolve insidiosamente ao longo de anos, tornando-se diária e frequentemente produtiva (com produção de muco ou escarro).",
+      "Tosse causada por estenose traqueal devido ao aumento do diâmetro anteroposterior do tórax ('tórax em barril')."
+    ],
+    "correctIndex": 3,
+    "explanation": "A tosse crônica na DPOC (componente bronquítico) pode ser intermitente no início e tornar-se diária, muitas vezes produtiva (expectoração).",
+    "type": "conteudista"
+  },
+  {
+    "question": "A inflamação crônica nas vias aéreas da Bronquite Crônica é caracterizada por uma resposta imune anômala a irritantes. Quais células inflamatórias predominam nessa resposta, contribuindo para o dano tecidual e obstrução?",
+    "options": [
+      "Neutrófilos, macrófagos e linfócitos T CD8+, que liberam enzimas (proteases) e causam estresse oxidativo, danificando o tecido.",
+      "Células caliciformes e glândulas submucosas hiperplasiadas, que são responsáveis apenas pela hipersecreção, mas não pela inflamação subjacente.",
+      "Linfócitos B produtores de IgE e células plasmáticas, responsáveis pela autoimunidade e fibrose pulmonar idiopática.",
+      "Eosinófilos e mastócitos, típicos de inflamação alérgica e reversível, associada à asma brônquica.",
+      "Células dendríticas e linfócitos T CD4+, que são predominantemente encontrados em infecções virais agudas e não na cronicidade."
+    ],
+    "correctIndex": 0,
+    "explanation": "A inflamação crônica na DPOC é uma resposta imune anômala que recruta neutrófilos, macrófagos e linfócitos T CD8+.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na Bronquite Crônica, a hipersecreção de muco contribui significativamente para a obstrução. Qual é o papel da Inflamação na produção excessiva e dificuldade de eliminação desse muco?",
+    "options": [
+      "A inflamação leva ao aumento do diâmetro anteroposterior do tórax, o que impede a inspiração profunda e o enchimento alveolar total.",
+      "A inflamação ativa o equilíbrio protease-antiprotease, resultando na quebra dos macrófagos e na diminuição da produção de citocinas pró-inflamatórias.",
+      "A inflamação reduz a atividade da Lipoproteína Lipase (LPL), diminuindo a viscosidade do muco e facilitando a sua eliminação pela tosse ineficaz.",
+      "A inflamação e a fibrose engrossam as paredes dos brônquios e estimulam o aumento da produção de muco, que, devido à dificuldade de eliminá-lo, obstrui as vias aéreas.",
+      "A inflamação estimula a metaplasia escamosa, substituindo o epitélio produtor de muco por células ciliadas, o que resolve a hipersecreção."
+    ],
+    "correctIndex": 3,
+    "explanation": "A inflamação e a fibrose engrossam as paredes dos brônquios, e o aumento da produção de muco, em conjunto com a dificuldade de eliminá-lo, obstrui ainda mais as vias aéreas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado radiológico, visível no RX de tórax, é uma manifestação do Cor Pulmonale (sobrecarga direita) na Bronquite Crônica avançada?",
+    "options": [
+      "Retificação do diafragma e rabaixamento das cúpulas, indicando a predominância da hiperinsuflação pulmonar por aprisionamento aéreo.",
+      "Configuração em bota do coração, indicando aumento do ventrículo direito, e proeminência da trama vascular central e hilar.",
+      "Coração em forma de gota, o que reflete um coração mais longo e estreito devido à hiperinsuflação e à baixa pressão no lado direito.",
+      "Presença de bolhas (bullae e blebs) subpleurais, que são áreas de maior radiotransparência e indicam enfisema parasseptal.",
+      "Hiperinsuflação pulmonar com aumento do espaço retroesternal e oligoemia, indicando a predominância de enfisema panlobular."
+    ],
+    "correctIndex": 1,
+    "explanation": "O Cor Pulmonale pode se manifestar no RX de tórax com a configuração em bota do coração, indicando aumento do ventrículo direito, e proeminência da trama vascular central e hilar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A poluição do ar (ocupacional e ambiental) é um fator de risco. Qual tipo de exposição ocupacional está especificamente ligada à etiologia da DPOC/Bronquite Crônica, além do tabagismo e fumaça de biomassa?",
+    "options": [
+      "Exposição a temperaturas extremas e umidade alta, o que causa apenas crises de asma brônquica em pacientes com histórico familiar.",
+      "Exposição a polimorfismos genéticos no cromossomo 11, que aumentam o risco de tromboses coronarianas.",
+      "Exposição a produtos químicos voláteis e poeiras, o que causa inflamação e fibrose das vias aéreas de forma semelhante ao tabaco.",
+      "Exposição a gases inertes e metais pesados (chumbo), que causam toxicidade sistêmica mas não dano brônquico.",
+      "Exposição a agentes infecciosos virais e bacterianos, que são responsáveis pelas exacerbações, mas não pela cronicidade da doença."
+    ],
+    "correctIndex": 2,
+    "explanation": "Outros fatores de risco incluem a Exposição à poluição do ar (ocupacional e ambiental), bem como a exposição a poeiras e produtos químicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes medicamentos é um Inibidor Seletivo da Fosfodiesterase-4 (PDE4) e é indicado para pacientes com Bronquite Crônica Grave que apresentam exacerbações frequentes, mesmo em uso de terapia tripla?",
+    "options": [
+      "Fluticasona (CI), que é um corticoide inalatório, indicado apenas para pacientes com eosinofilia no sangue e asma concomitante.",
+      "Salbutamol (SABA), que é um broncodilatador de curta ação, reservado para alívio rápido da dispneia em exacerbações.",
+      "Roflumilaste, que é um inibidor potente e seletivo da PDE4, e pode ser adicionado para pacientes com exacerbações persistentes e VEF1 < 50% e bronquite crônica.",
+      "Tiotrópio (LAMA), que é um broncodilatador de longa ação, utilizado como pilar do tratamento diário para controle sintomático.",
+      "Vareniclina, que é um agonista parcial de receptor nicotínico, utilizado como tratamento farmacológico para a cessação do tabagismo."
+    ],
+    "correctIndex": 2,
+    "explanation": "O Roflumilaste, um inibidor da PDE4, é uma medicação que pode ser considerada para pacientes com exacerbações persistentes, mesmo em tratamento com LABA + LAMA e ICS, especialmente para pacientes com bronquite crônica e VEF1 < 50%.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No contexto da Bronquite Crônica, o termo 'Bronquite Aguda' é desaconselhado clinicamente. Qual é o uso correto desse termo, conforme a fonte, e qual é sua causa primária?",
+    "options": [
+      "É um termo anatomopatológico que descreve a inflamação recente dos brônquios, geralmente causada por uma infecção viral do trato respiratório, que resulta em tosse e produção de muco.",
+      "É o termo clínico usado para a forma reversível da DPOC, causada pela exposição à fumaça de biomassa e tratada com SABAs.",
+      "É o termo clínico para exacerbações agudas (piora súbita de sintomas) precipitadas por poluição ambiental e que exigem hospitalização imediata.",
+      "É o termo clínico para o componente bronquítico da DPOC que está associado à asma (Bronquite Asmática), desencadeada por gatilhos como alérgenos.",
+      "É sinônimo de Bronquite Crônica, sendo ambos usados para definir a tosse produtiva por pelo menos 3 meses em 2 anos consecutivos."
+    ],
+    "correctIndex": 0,
+    "explanation": "O termo Bronquite Aguda é um termo anatomopatológico que descreve a inflamação recente dos brônquios, geralmente causada por uma infecção viral do trato respiratório.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente tabagista crônico com Bronquite Crônica apresenta uma exacerbação aguda. Ele relata aumento da dispneia e da frequência da tosse, mas o escarro permanece claro e oximetria está estável. Qual é a conduta inicial mais adequada em relação ao tratamento com antibióticos (ATB)?",
+    "options": [
+      "Administrar SABAs/SAMAs (Salbutamol/Ipratrópio) e Corticoides (VO/IV), mas postergar o ATB, pois a ausência de purulência do escarro sugere uma exacerbação não-infecciosa (viral ou por poluente).",
+      "Iniciar imediatamente uma Fluoroquinolona (Moxifloxacina), pois o aumento da dispneia já é critério suficiente para infecção bacteriana em Bronquite Crônica.",
+      "Encaminhar para ventilação mecânica, pois a necessidade de antibióticos é um critério para a indicação de suporte ventilatório.",
+      "Prescrever Amoxicilina/Ácido Clavulânico em dose máxima por 14 dias, pois toda exacerbação de DPOC deve ser tratada com ATB.",
+      "Iniciar Azitromicina em baixa dose, pois os macrolídeos são a primeira linha em exacerbações leves, independentemente da purulência do escarro."
+    ],
+    "correctIndex": 0,
+    "explanation": "As exacerbações podem ser causadas por infecções (bacterianas ou virais) ou poluentes. O tratamento inicial inclui broncodilatadores e corticoides. Antibióticos são tipicamente indicados em casos de aumento da purulência e volume do escarro ou quando há necessidade de ventilação mecânica/elevação da PCR. A ausência de purulência sugere uma causa não bacteriana.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com Bronquite Crônica com suspeita de Cor Pulmonale (edema periférico e cianose) é submetido à gasometria arterial. Ele apresenta hipoxemia crônica e hipercapnia. Qual é o objetivo de saturação de oxigênio (SaO2) a ser mantido durante o manejo de uma exacerbação aguda e qual o risco de exceder essa meta?",
+    "options": [
+      "Manter SaO2 acima de 95%, pois a hipoxemia é o principal risco, e o CO2 (hipercapnia) é prontamente eliminado pela ventilação não invasiva (VNI).",
+      "Manter SaO2 entre 93% e 96%, pois é a faixa normal para pacientes com doenças pulmonares obstrutivas crônicas.",
+      "Manter SaO2 entre 88% e 92%, pois este nível evita a hipercapnia induzida por oxigênio, sendo um objetivo mais seguro e comprovadamente eficaz.",
+      "Manter SaO2 abaixo de 85%, pois o aumento excessivo do oxigênio pode causar a contração das artérias pulmonares, agravando a hipertensão pulmonar.",
+      "Manter SaO2 acima de 98% por máscara de O2 de alto fluxo, independentemente do VEF1 ou da presença de hipercapnia."
+    ],
+    "correctIndex": 2,
+    "explanation": "O objetivo da titulação de oxigênio é atingir níveis de saturação de oxigênio entre 88% e 92% para evitar a hipercapnia induzida por oxigênio, especialmente durante exacerbações agudas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com Bronquite Crônica com tosse crônica produtiva, cianose, obeso e edema periférico (Fenótipo 'Blue Bloater') é diagnosticado com obstrução GOLD 4 (VEF1 < 30%). Qual é a correlação entre esse fenótipo e a gravidade da doença?",
+    "options": [
+      "O paciente deve ser classificado como 'Pink Puffer' e o VEF1 sugere enfisema panlobular, desassociado de cianose ou complicações cardíacas.",
+      "O fenótipo 'Blue Bloater' (bronquítico) frequentemente está associado à Hipoxemia e Hipercapnia, o que, em um GOLD 4, indica doença muito grave e alto risco de Cor Pulmonale e infecções precoces.",
+      "A obstrução GOLD 4 neste paciente (FEV1 < 30%) é leve, sendo o tratamento focado apenas em broncodilatadores de curta ação e cessação do tabagismo.",
+      "A cianose e o edema sugerem a ausência de fibrose das pequenas vias aéreas, sendo a obstrução causada apenas pela limitação do fluxo aéreo distal e não pelo muco.",
+      "O paciente está na fase inicial da Bronquite Crônica (GOLD 1), sendo a cianose e o edema sinais de hipertensão pulmonar primária e não da DPOC."
+    ],
+    "correctIndex": 1,
+    "explanation": "O fenótipo 'Blue Bloater' é o paciente bronquítico, que frequentemente apresenta hipoxemia e, consequentemente, cianose, policitemia e Cor Pulmonale. O diagnóstico de obstrução GOLD 4 (VEF1 < 30%) indica doença muito grave.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com Bronquite Crônica apresenta exacerbações frequentes e purulência do escarro. A cultura do escarro revela *Pseudomonas aeruginosa*. Qual fator de risco da Bronquite Crônica Complicada (com bronquiectasias) aumenta a probabilidade de colonização por *Pseudomonas*?",
+    "options": [
+      "Uso de LABAs (Formoterol) em monoterapia por menos de 6 meses, que altera o equilíbrio da flora orofaríngea.",
+      "Apenas a idade avançada (> 70 anos) e a exposição ocupacional a poeiras, desassociada do uso de medicamentos.",
+      "Presença de enfisema panlobular em lobos inferiores, que é característico da deficiência de alfa-1 antitripsina.",
+      "VEF1 acima de 80% do previsto (GOLD 1), o que indica que a colonização por Pseudomonas é assintomática e transitória.",
+      "Uso crônico de Corticoides (VO ou INL), bronquiectasias e DPOC grave, que facilitam a colonização e aumentam a resistência a antibióticos de primeira linha."
+    ],
+    "correctIndex": 4,
+    "explanation": "Os fatores de risco para colonização por *Pseudomonas aeruginosa* em exacerbações da DPOC incluem Bronquiectasias (comum em fases avançadas da DPOC), uso crônico de Corticoides, DPOC grave e idade avançada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com Bronquite Crônica (VEF1 45%, GOLD 3) apresenta dispneia persistente e exacerbações frequentes, mesmo em uso de terapia tripla (LABA/LAMA/CI). Qual nova terapia pode ser considerada, especialmente se o paciente apresentar contagem de eosinófilos ≥ 300 células/μl?",
+    "options": [
+      "Adição de Roflumilaste (Inibidor da PDE4), que é indicado para Bronquite Crônica grave com exacerbações, independentemente da eosinofilia.",
+      "Cirurgia de Bullectomia, pois a obstrução GOLD 3 exige a remoção cirúrgica de bolhas enfisematosas, independentemente dos sintomas bronquíticos.",
+      "Apenas Oxigenoterapia Domiciliar para SaO2 entre 88% e 92%, pois a gravidade da doença exclui qualquer outra opção farmacológica.",
+      "Reposição de Nicotina e Bupropiona, pois a cessação do tabagismo deve ser o único foco terapêutico neste estágio grave da doença.",
+      "Adição de Dupilumabe (Ac monoclonal bloqueador de IL-4 e IL-13), pois é uma opção para pacientes com exacerbações persistentes e contagem de eosinófilos elevada."
+    ],
+    "correctIndex": 4,
+    "explanation": "O Dupilumabe (Ac monoclonal bloqueador de IL-4 e IL-13) pode ser uma opção para pacientes com exacerbações persistentes que apresentem contagem de eosinófilos $\\ge 300$ células/$\\mu$l e bronquite crônica, independentemente do tratamento triplo.",
+    "type": "raciocínio"
+  }
+]

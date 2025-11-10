@@ -1,0 +1,1042 @@
+[
+  {
+    "question": "Como é definido o puerpério e qual sua duração cronológica típica?",
+    "options": [
+      "Período de 2 semanas após o parto durante o qual ocorrem manifestações involutivas e recuperação da genitália materna",
+      "Período de 3-4 semanas após o parto durante o qual ocorrem manifestações involutivas e recuperação da genitália materna",
+      "Período de 4-5 meses após o parto durante o qual ocorrem manifestações involutivas e recuperação da genitália materna",
+      "Período de 10-12 semanas após o parto durante o qual ocorrem manifestações involutivas e recuperação da genitália materna",
+      "Período de 6-8 semanas após o parto durante o qual ocorrem manifestações involutivas e recuperação da genitália materna"
+    ],
+    "correctIndex": 4,
+    "explanation": "O puerpério, também chamado de sobreparto ou pós-parto, é definido como o período cronologicamente variável, em geral de 6 a 8 semanas (até 42-45 dias para alguns autores), durante o qual se desenrolam todas as manifestações involutivas e de recuperação da genitália materna após o parto. É o período em que o organismo materno retorna às condições pré-gravídicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como são classificados os períodos do puerpério segundo a classificação tradicional?",
+    "options": [
+      "Imediato (1º ao 3º dia), tardio (3º ao 15º dia) e remoto (além do 15º dia)",
+      "Imediato (1º ao 7º dia), tardio (7º ao 21º dia) e remoto (além do 21º dia)",
+      "Imediato (1º ao 15º dia), tardio (15º ao 60º dia) e remoto (além do 60º dia)",
+      "Imediato (1º ao 5º dia), tardio (5º ao 30º dia) e remoto (além do 30º dia)",
+      "Imediato (1º ao 10º dia), tardio (10º ao 45º dia) e remoto (além do 45º dia)"
+    ],
+    "correctIndex": 4,
+    "explanation": "A classificação tradicional do puerpério divide em: pós-parto imediato (1º ao 10º dia), pós-parto tardio (10º ao 45º dia ou até 42 dias para alguns autores), e pós-parto remoto (além do 45º dia). O período remoto pode se estender por mais tempo quando a mãe amamenta, podendo ir até a menstruação retornar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a classificação do puerpério segundo Zugaib?",
+    "options": [
+      "Imediato (até 4h), mediato (4h ao 5º dia), tardio (5º dia até menstruação ou 3 semanas em lactantes) e remoto (além de 3 semanas)",
+      "Imediato (até 6h), mediato (6h ao 7º dia), tardio (7º dia até menstruação ou 4 semanas em lactantes) e remoto (além de 4 semanas)",
+      "Imediato (até 24h), mediato (24h ao 14º dia), tardio (14º dia até menstruação ou 12 semanas em lactantes) e remoto (além de 12 semanas)",
+      "Imediato (até 12h), mediato (12h ao 15º dia), tardio (15º dia até menstruação ou 10 semanas em lactantes) e remoto (além de 10 semanas)",
+      "Imediato (até 2h), mediato (3h ao 10º dia), tardio (11º dia até menstruação ou 6-8 semanas em lactantes) e remoto (além de 6 semanas)"
+    ],
+    "correctIndex": 4,
+    "explanation": "A classificação de Zugaib divide o puerpério em quatro fases mais específicas: pós-parto imediato (até 2 horas após o parto), pós-parto mediato (3 horas ao 10º dia), pós-parto tardio (11º dia até a menstruação ou 6-8 semanas em lactantes) e pós-parto remoto (além das 6 semanas). Esta classificação é mais detalhada que a tradicional, especialmente no período inicial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais complicações do puerpério imediato?",
+    "options": [
+      "Tromboses venosas profundas, endometrite e depressão",
+      "Hemorragias pós-parto, infecções e tromboembolismos por estase",
+      "Infecções urinárias, constipação e edema de membros inferiores",
+      "Depressão pós-parto, mastite e hemorragias tardias",
+      "Mastite, fissuras mamilares e ingurgitamento mamário"
+    ],
+    "correctIndex": 1,
+    "explanation": "As principais complicações do puerpério imediato (1º ao 10º dia) são hemorragias pós-parto (OSCE - ocitocina, sutura, curetagem, embolização), infecções (devido à ferida placentária e manipulação do parto) e tromboembolismos (pela estase venosa e estado de hipercoagulabilidade). Estas são as complicações mais urgentes e potencialmente fatais deste período.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais complicações são mais frequentes no puerpério remoto?",
+    "options": [
+      "Deiscência de sutura perineal, hematomas vaginais, retenção urinária e febre puerperal",
+      "Hipertensão arterial, diabetes gestacional persistente, anemia e desnutrição",
+      "Subinvolução uterina aguda, loquiação rubra persistente, infecção de ferida operatória e sepse",
+      "Fissuras (alterado) mamilares, ingurgitamento mamário, constipação e cistite",
+      "Hemorragias por restos placentários, tromboembolismos, infecções (endometrite, mastite) e depressão pós-parto"
+    ],
+    "correctIndex": 4,
+    "explanation": "No puerpério remoto (além do 45º dia), as complicações mais frequentes incluem hemorragias geralmente por restos placentários, tromboembolismos, infecções como endometrite e mastite (que é bastante frequente neste período), e depressão pós-parto. A depressão pós-parto é particularmente comum no período remoto devido às mudanças hormonais abruptas e adaptações psicossociais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a importância da assistência pré-natal para o puerpério?",
+    "options": [
+      "Um bom puerpério se faz com uma boa assistência pré-natal, prevenindo complicações e preparando a gestante",
+      "A qualidade do pré-natal só afeta o feto, não tendo relação com a recuperação materna pós-parto",
+      "O pré-natal é importante apenas para diagnóstico de malformações fetais e não influencia o puerpério",
+      "O pré-natal tem impacto limitado no puerpério, sendo mais importante o atendimento no parto",
+      "A assistência pré-natal só é relevante para controle glicêmico materno durante a gestação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Um bom puerpério está diretamente relacionado com uma boa assistência pré-natal. O acompanhamento adequado durante a gestação permite identificar fatores de risco, orientar sobre amamentação, preparar física e emocionalmente a gestante, prevenir complicações, garantir vacinação adequada, e estabelecer vínculo com a equipe de saúde. Tudo isso contribui para um puerpério mais tranquilo e com menos complicações.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Puérpera de 7 dias apresenta temperatura de 38,2°C, útero palpável acima da cicatriz umbilical e loquiação com odor fétido. Em qual período puerperal ela se encontra e qual a principal suspeita diagnóstica?",
+    "options": [
+      "Puerpério remoto com suspeita de trombose venosa profunda por febre persistente",
+      "Puerpério tardio com suspeita de mastite por febre e alteração do exame físico",
+      "Puerpério mediato com suspeita de pielonefrite por temperatura elevada e mal-estar",
+      "Puerpério imediato com involução uterina normal e provável infecção respiratória viral",
+      "Puerpério imediato com suspeita de endometrite por subinvolução uterina e loquiação fétida"
+    ],
+    "correctIndex": 4,
+    "explanation": "A paciente está no puerpério imediato (1º ao 10º dia). O útero deveria estar abaixo da cicatriz umbilical no 3º dia, mas está acima (subinvolução), associado à febre e loquiação com odor fétido, que são sinais clássicos de endometrite puerperal. A tríade de febre, subinvolução uterina e loquiação fétida é altamente sugestiva de infecção endometrial, especialmente quando ocorre no puerpério imediato. Restos placentários podem contribuir para essa condição.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 50 dias, não lactante, apresenta edema doloroso em membro inferior esquerdo e relato de dispneia aos esforços. Qual complicação é mais provável neste período?",
+    "options": [
+      "Depressão pós-parto com somatização e sintomas físicos inespecíficos no puerpério tardio",
+      "Endometrite puerperal tardia com bacteremia e manifestações sistêmicas no puerpério mediato",
+      "Tromboembolismo venoso (trombose venosa profunda com possível embolia pulmonar) no puerpério remoto",
+      "Mastite aguda puerperal (inflamação/infecção da mama) com sinais sistêmicos e toxemia no puerpério tardio",
+      "Hemorragia pós-parto por restos placentários com anemia sintomática no puerpério imediato"
+    ],
+    "correctIndex": 2,
+    "explanation": "A paciente está no puerpério remoto (>45 dias) e não está amamentando. O quadro de edema doloroso unilateral em membro inferior (sinal de Homans) associado a dispneia aos esforços é altamente sugestivo de trombose venosa profunda (TVP) com possível embolia pulmonar. O tromboembolismo é uma complicação bem documentada do puerpério remoto devido ao estado de hipercoagulabilidade persistente e retorno gradual da atividade física normal.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a posição do útero logo após o parto e sua evolução nos primeiros 3 dias?",
+    "options": [
+      "Logo após o parto está acima do púbis e no 3º dia deve estar na altura da cicatriz umbilical",
+      "Logo após o parto está na altura da cicatriz umbilical e no 3º dia deve estar acima do púbis",
+      "Logo após o parto está abaixo da cicatriz umbilical e no 3º dia deve estar impalpável abdominalmente",
+      "Logo após o parto está acima da cicatriz umbilical e no 3º dia deve estar abaixo da cicatriz umbilical",
+      "Logo após o parto está dois dedos acima do púbis e no 3º dia deve estar quatro dedos acima"
+    ],
+    "correctIndex": 3,
+    "explanation": "Imediatamente após a dequitação (saída da placenta), o útero fica com o fundo acima da cicatriz umbilical. Nos dias seguintes, ocorre involução progressiva, e no 3º dia pós-parto o útero deve estar abaixo da cicatriz umbilical. Se com 3 dias esse útero não involuiu adequadamente, há indicação de investigação para possíveis problemas como retenção de restos placentários ou infecção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a posição do útero no 10º dia pós-parto?",
+    "options": [
+      "Retorna completamente ao tamanho pré-gravídico e posição pélvica normal",
+      "Está dois dedos abaixo da cicatriz umbilical em processo de involução lenta",
+      "Faz um dobramento acima da púbe, tornando-se impalpável abdominalmente",
+      "Permanece na altura da cicatriz umbilical devido à retenção de lóquios",
+      "Está na linha média entre cicatriz umbilical e púbis ainda palpável"
+    ],
+    "correctIndex": 2,
+    "explanation": "No 10º dia pós-parto (final do puerpério imediato), o útero faz um dobramento acima da púbe, tornando-se não palpável abdominalmente ou muito discretamente palpável ao exame. Isso marca o retorno progressivo do útero à cavidade pélvica. É importante avaliar essa involução adequada durante os exames diários do puerpério para detectar possíveis complicações.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais causas da involução uterina no puerpério?",
+    "options": [
+      "Hipertrofia miometrial compensatória, vasodilatação arterial uterina, e manutenção dos hormônios placentários",
+      "Colapso parcial da circulação ovariana/uterina, retrações e contrações uterinas, e queda dos hormônios esteroides placentários",
+      "Proliferação endometrial acelerada, neovascularização uterina, e elevação dos níveis de estrógeno",
+      "Distensão dos ligamentos uterinos, aumento do fluxo sanguíneo local, e manutenção dos níveis de progesterona",
+      "Aumento da circulação pélvica, relaxamento da musculatura uterina, e elevação dos hormônios hipofisários"
+    ],
+    "correctIndex": 1,
+    "explanation": "A involução uterina é causada por três mecanismos principais: 1) colapso parcial da circulação ovariana/uterina após a saída da placenta, reduzindo o aporte sanguíneo ao útero; 2) retrações e contrações uterinas repetidas (favorecidas pela ocitocina liberada durante a amamentação); e 3) queda abrupta dos hormônios esteroides placentários (estrógeno e progesterona), que contribui inclusive para alterações emocionais. Estes três fatores trabalham juntos para restaurar o útero.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como a amamentação influencia a involução uterina?",
+    "options": [
+      "O aleitamento materno inibe as contrações uterinas através do reflexo de ejeção do leite",
+      "A amamentação retarda a involução uterina devido à ação da prolactina no miométrio",
+      "A amamentação aumenta os níveis de progesterona que relaxam o útero e lentificam a involução",
+      "A sucção do bebê estimula liberação de ocitocina que promove maior contração uterina, acelerando a involução",
+      "A lactação não tem influência significativa na velocidade de involução do útero pós-parto"
+    ],
+    "correctIndex": 3,
+    "explanation": "A amamentação tem papel fundamental na involução uterina através do reflexo útero-mamário. A sucção do bebê no mamilo estimula a hipófise posterior a liberar ocitocina, que promove contrações uterinas (as 'cólicas pós-parto' que muitas mães sentem ao amamentar). Mães que amamentam podem ter involução uterina mais rápida devido aos picos constantes de ocitocina. É por isso que a amamentação precoce e frequente é incentivada também para prevenir hemorragia pós-parto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a evolução do colo uterino nas primeiras horas e dias após o parto?",
+    "options": [
+      "12 horas pós-parto está com 5-6 cm, aos 3 dias está com 2-3 cm, e aos 9-10 dias está impérvio",
+      "12 horas pós-parto está totalmente aberto, aos 3 dias permanece igual, e aos 9-10 dias reduz para 1 cm",
+      "12 horas pós-parto está fechado, aos 3 dias está com 2-3 cm, e aos 9-10 dias está completamente fechado",
+      "12 horas pós-parto está com 1 cm, aos 3 dias está com 4-5 cm, e aos 9-10 dias está pérvio completo",
+      "12 horas pós-parto está com 2-3 cm, aos 3 dias está se reconstituindo, e aos 9-10 dias está fechado com OCE pérvio"
+    ],
+    "correctIndex": 4,
+    "explanation": "A evolução do colo uterino segue um padrão temporal característico: 12 horas após o parto o colo ainda está com 2-3 cm de dilatação (consequência do trabalho de parto); aos 3 dias já está se reconstituindo e fechando progressivamente; e aos 9-10 dias o colo já está bem fechado, porém o orifício externo (OCE) permanece pérvio a uma polpa digital. O OCE pérvio é uma característica permanente em mulheres que tiveram parto vaginal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual alteração ocorre na vagina no 3º ao 4º dia pós-parto e por quê?",
+    "options": [
+      "Sofre proliferação aumentada do epitélio pela elevação súbita de FSH",
+      "Apresenta hipertrofia do epitélio devido ao aumento de estrógeno pós-parto",
+      "Fica atrófica devido à queda hormonal abrupta após saída da placenta",
+      "Mantém-se eutrófica independentemente dos níveis hormonais neste período",
+      "Desenvolve edema importante devido ao aumento de progesterona lactacional"
+    ],
+    "correctIndex": 2,
+    "explanation": "No 3º ao 4º dia pós-parto, a vagina fica atrófica porque houve queda hormonal abrupta com a saída da placenta. O estradiol, que é responsável pela proliferação e lubrificação do epitélio vaginal, está em níveis muito baixos. A amamentação piora ainda mais essa atrofia, pois a prolactina interfere na produção de estrógeno e na mucosa vaginal, deixando-a mais seca. Mulheres que não amamentam terão retorno mais rápido do epitélio eutrófico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O útero retorna completamente ao tamanho pré-gravídico após o puerpério?",
+    "options": [
+      "Sim, mas somente se a mulher amamentar por pelo menos 12 meses continuamente",
+      "Sim, o útero retorna exatamente ao tamanho pré-gravídico em todas as puérperas após 6 semanas",
+      "O útero aumenta ainda mais após a gestação, passando de 60-90cm para 150-180cm permanentemente",
+      "Apenas em primíparas o útero retorna ao tamanho original, em multíparas permanece aumentado",
+      "Não, o útero não retorna 100% ao tamanho original, de 60-90cm passa a ter cerca de 110cm pós-gestação"
+    ],
+    "correctIndex": 4,
+    "explanation": "O útero NÃO retorna 100% ao tamanho pré-gravídico. Antes da gestação tem cerca de 60-90cm, e após a gestação, mesmo com boa involução, permanece com cerca de 110cm. O corpo uterino fica permanentemente maior que antes da gravidez (o colo se mantém e o que cresce é o corpo). Por melhor que seja a involução, sempre há um aumento residual do tamanho uterino, especialmente após múltiplas gestações.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quando a cavidade uterina está completamente epitelizada no puerpério?",
+    "options": [
+      "Ao 10º dia pós-parto, coincidindo com o final do puerpério imediato",
+      "Ao 60º dia pós-parto, coincidindo com o retorno da menstruação na não lactante",
+      "Ao 25º dia pós-parto, coincidindo com mudança de loquiação serossanguínea para serosa",
+      "Ao 45º dia pós-parto, coincidindo com o final do puerpério tardio",
+      "Ao 3º dia pós-parto, coincidindo com a apojadura e início da lactação"
+    ],
+    "correctIndex": 2,
+    "explanation": "A cavidade uterina fica completamente epitelizada ao 25º dia pós-parto. Neste momento, há mudança na loquiação de serossanguínea (fusca/acastanhada) para serosa (flava/amarelada), refletindo a cicatrização completa do local de inserção placentária. Esta epitelização marca a restauração do endométrio e é importante para o retorno da fertilidade e prevenção de infecções ascendentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em caso de infecção puerperal ou presença de restos placentários, o que acontece com o colo uterino?",
+    "options": [
+      "O colo sofre espasmo involuntário causando hematometra e dor pélvica intensa",
+      "O colo não sofre alteração, mantendo fechamento normal independente da infecção",
+      "O colo fecha prematuramente antes do 9º dia, impedindo drenagem dos lóquios",
+      "O colo não fecha adequadamente, permanecendo pérvio além do período esperado",
+      "O colo dilata novamente completamente como no trabalho de parto típico"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em caso de infecção puerperal ou presença de restos placentários, o colo uterino não fecha adequadamente no tempo esperado. Isso ocorre porque o processo inflamatório/infeccioso ou a presença de tecido retido impede a involução normal. Um colo que não fecha é um sinal de alerta que indica necessidade de investigação com ultrassonografia para pesquisar restos placentários, e toque vaginal pode ser necessário nesta situação para avaliar o colo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Puérpera de 4 dias, segunda gestação, refere estar amamentando bem. Ao exame: útero 4 dedos abaixo da cicatriz umbilical, loquiação fusca, sem odor. A amamentação é realizada 10 vezes ao dia. Como interpretar este quadro?",
+    "options": [
+      "Loquiação anormal para o período, deveria ainda ser rubra e não fusca",
+      "Involução uterina excessivamente rápida, sugestiva de hipercontratilidade patológica que requer investigação imediata",
+      "Involução uterina inadequada pois aos 4 dias deveria estar apenas abaixo do umbigo",
+      "Involução uterina adequada, possivelmente acelerada pela amamentação frequente, loquiação normal para o período",
+      "Quadro sugestivo de infecção oculta apesar de loquiação sem odor, requer antibioticoterapia"
+    ],
+    "correctIndex": 3,
+    "explanation": "A involução está adequada. Aos 3 dias o útero já deve estar abaixo da cicatriz umbilical, e aos 4 dias estar 4 dedos abaixo mostra boa progressão. A amamentação frequente (10 vezes/dia) acelera a involução pelo reflexo útero-mamário (liberação de ocitocina). A loquiação fusca é esperada dos 3 aos 10 dias. Multíparas podem ter involução ligeiramente mais rápida. Não há sinais de alarme (odor fétido, dor excessiva, sangramento vivo aumentado).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 8 dias apresenta útero na altura da cicatriz umbilical, loquiação rubra abundante sem odor fétido, refere ter amamentado apenas 2 vezes nas últimas 24h por dor mamilar. Qual a conduta mais adequada?",
+    "options": [
+      "Suspender amamentação temporariamente até resolução da dor e prescrever fórmula infantil",
+      "Iniciar antibioticoterapia imediatamente para endometrite presumida mesmo sem febre ou odor",
+      "Tranquilizar que involução está adequada e prescrever apenas analgésicos para dor mamilar",
+      "Encaminhar imediatamente para curetagem uterina por suspeita de restos placentários aderidos",
+      "Orientar técnica correta de amamentação para aumentar frequência, investigar subinvolução uterina e avaliar necessidade de uterotônicos"
+    ],
+    "correctIndex": 4,
+    "explanation": "Há dois problemas: 1) Subinvolução uterina - aos 8 dias o útero deveria estar fazendo dobramento acima da púbe, não na altura do umbigo; 2) Loquiação rubra é anormal aos 8 dias (deveria ser fusca). A amamentação infrequente por dor mamilar contribui para subinvolução (menos ocitocina). Conduta: corrigir técnica de amamentação (pega correta evita fissuras), aumentar frequência para estimular ocitocina, e avaliar útero (massagem, ocitocina). Investigar restos placentários se não melhorar.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a correlação entre amamentação e trofismo vaginal no puerpério?",
+    "options": [
+      "A amamentação deixa a vagina mais seca porque a prolactina interfere na mucosa vaginal e inibe estradiol",
+      "Não há correlação entre amamentação e trofismo vaginal, sendo processos independentes",
+      "A amamentação normaliza rapidamente o epitélio vaginal através do estímulo de FSH e LH",
+      "A amamentação melhora o trofismo vaginal através do aumento de estrógeno induzido pela sucção",
+      "A amamentação aumenta a lubrificação vaginal devido à liberação de ocitocina durante as mamadas"
+    ],
+    "correctIndex": 0,
+    "explanation": "A amamentação deixa a vagina mais seca e atrófica. Isso ocorre porque a prolactina (elevada durante a lactação) interfere na mucosa vaginal e também inibe o eixo hipotálamo-hipófise-ovariano, mantendo baixos os níveis de estradiol. O estradiol é o hormônio responsável pela lubrificação e trofismo vaginal. Mulheres que não amamentam têm retorno mais rápido do epitélio eutrófico. Isso explica a dispareunia (dor na relação sexual) comum em lactantes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a sequência correta dos lóquios e seus respectivos períodos?",
+    "options": [
+      "Rubra até 3º dia (sangue vivo), fusca até 10º dia (acastanhado), flava até 21º dia (amarelado), alba a partir do 21º dia (branco)",
+      "Alba até 3º dia (branco), fusca até 10º dia (acastanhado), flava até 21º dia (amarelado), rubra após 21º dia (sangue vivo)",
+      "Flava até 3º dia (amarelado), rubra até 10º dia (sangue vivo), fusca até 21º dia (acastanhado), alba após 21º dia (branco)",
+      "Fusca até 3º dia (acastanhado), rubra até 10º dia (sangue vivo), alba até 21º dia (branco), flava após 21º dia (amarelado)",
+      "Rubra até 7º dia (sangue vivo), alba até 14º dia (branco), fusca até 28º dia (acastanhado), flava após 28º dia (amarelado)"
+    ],
+    "correctIndex": 0,
+    "explanation": "A sequência correta da loquiação é: 1) Lóquia rubra (vermelho/sangue vivo com restos de trofoblasto) até o 3º dia; 2) Lóquia fusca (acastanhado por degradação de hemoglobina) até o 10º dia; 3) Lóquia flava (amarelado, muco dos leucócitos) até o 21º dia; 4) Lóquia alba (branco, resultado da esfoliação do endométrio) a partir do 21º dia. Esta sequência é importante diagnóstica - alteração indica problema como infecção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a composição e característica da lóquia rubra?",
+    "options": [
+      "Exsudato inflamatório com eritrócitos, presente até o 5º dia pós-parto",
+      "Sangue vivo com restos de trofoblasto, presente até o 3º dia pós-parto",
+      "Secreção serosa com leucócitos, presente até o 10º dia pós-parto",
+      "Sangue degradado com muco cervical, presente até o 7º dia pós-parto",
+      "Líquido amniótico residual com sangue, presente até o 2º dia pós-parto"
+    ],
+    "correctIndex": 1,
+    "explanation": "A lóquia rubra é caracterizada por ser sangue vivo (vermelho) com restos de trofoblasto (tecido placentário residual). Está presente até o 3º dia pós-parto. É o resultado direto da ferida deixada pela dequitação da placenta, que forma um hematoma no local de inserção. A presença de sangue vivo é normal neste período inicial, refletindo o processo de hemostasia local após a saída da placenta.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a lóquia fusca tem coloração acastanhada?",
+    "options": [
+      "Pela degradação da hemoglobina presente no sangue acumulado no sítio placentário",
+      "Pela mistura de bile eliminada através da mucosa uterina durante a involução",
+      "Pela oxidação de hormônios placentários residuais no endométrio involutivo",
+      "Pela presença de mecônio remanescente da gestação no útero pós-parto",
+      "Pela proliferação bacteriana fisiológica na cavidade uterina em cicatrização"
+    ],
+    "correctIndex": 0,
+    "explanation": "A lóquia fusca tem coloração acastanhada (marrom) devido à degradação da hemoglobina presente no sangue acumulado no hematoma formado no local de desprendimento da placenta. Presente do 3º ao 10º dia (puerpério imediato tardio), marca a transição entre o sangramento inicial e a fase serosa. É um processo fisiológico normal de cicatrização e não indica infecção ou complicação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a composição da lóquia flava e quando ocorre?",
+    "options": [
+      "Secreção cervical normal com células epiteliais descamadas, ocorre do 3º ao 10º dia",
+      "Muco dos leucócitos presentes no local de desprendimento da placenta, ocorre do 10º ao 21º dia",
+      "Exsudato purulento estéril com macrófagos ativos, ocorre do 15º ao 30º dia",
+      "Líquido seroso com proteínas plasmáticas e fibrina, ocorre do 5º ao 15º dia",
+      "Sangue misturado com fluido tecidual e colágeno, ocorre do 7º ao 14º dia"
+    ],
+    "correctIndex": 1,
+    "explanation": "A lóquia flava tem coloração amarelada e é composta principalmente por muco dos leucócitos que estão no local de desprendimento da placenta, fazendo parte do processo de cicatrização. Ocorre do 10º ao 21º dia pós-parto (puerpério tardio). Esta fase marca o processo avançado de reparação tecidual e epitelização da ferida placentária. A cor amarelada é característica e normal neste período.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que indica a lóquia alba e quando aparece?",
+    "options": [
+      "Presença de infecção fúngica na cavidade uterina, aparece após o 30º dia",
+      "Secreção de glândulas endometriais hiperativas em regeneração, aparece aos 10 dias",
+      "Resultado da esfoliação do endométrio no ponto de inserção placentária, aparece a partir do 21º dia",
+      "Acúmulo de células mortas e detritos celulares patológicos, aparece aos 15 dias",
+      "Conteúdo de abscessos microscópicos em resolução espontânea, aparece aos 25 dias"
+    ],
+    "correctIndex": 2,
+    "explanation": "A lóquia alba tem coloração branca/esbranquiçada e representa o resultado da esfoliação final do endométrio no ponto de inserção placentária. Aparece a partir do 21º dia pós-parto, marcando a fase final da cicatrização e regeneração endometrial. Neste momento, a cavidade uterina já está bem epitelizada (completamente ao 25º dia) e há resolução do processo inflamatório local.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Puérpera de 6 dias apresenta loquiação com sangramento intenso vermelho vivo, mal cheiro, febre de 38,5°C e útero doloroso à palpação. Qual a interpretação deste quadro?",
+    "options": [
+      "Quadro típico de apojadura com ingurgitamento uterino transitório que se resolve espontaneamente em 48 horas",
+      "Loquiação normal para o período, apenas com odor fétido fisiológico típico do puerpério (pós-parto) imediato sem necessidade de intervenção",
+      "Loquiação anormal sugestiva de infecção (endometrite), saiu da sequência esperada indicando complicação que requer investigação e tratamento",
+      "Involução uterina acelerada com eliminação aumentada de lóquios residuais sem significado patológico",
+      "Loquiação fusca esperada para o período com odor característico da degradação normal de hemoglobina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Este quadro é altamente sugestivo de endometrite puerperal. No 6º dia a loquiação deveria ser fusca (acastanhada), não rubra viva. A tríade de sangramento intenso vivo + mal cheiro + febre + útero doloroso indica infecção endometrial. O sangramento intenso vermelho fora da sequência esperada é um sinal de alerta importante. Requer investigação (hemograma, cultura, ultrassom para restos placentários) e tratamento com antibióticos de amplo espectro.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais alterações ocorrem no sistema cardiovascular durante o puerpério?",
+    "options": [
+      "Débito cardíaco reduzido imediatamente após o parto mantendo-se baixo por 6 semanas",
+      "Bradicardia acentuada nas primeiras 72 horas com recuperação gradual em 2 semanas",
+      "Volume sanguíneo reduzido drasticamente causando hipotensão postural grave no pós-parto",
+      "Débito cardíaco aumentado de 1 hora até 1 semana pós-parto, com melhora de edema e varizes",
+      "Pressão arterial elevada persistente durante todo puerpério com risco de eclâmpsia tardia"
+    ],
+    "correctIndex": 3,
+    "explanation": "No sistema cardiovascular, o débito cardíaco fica aumentado desde 1 hora até 1 semana pós-parto. Isso ocorre porque há retorno do sangue que estava no útero para a circulação geral, além da autotransfusão pela involução uterina. Também há melhora progressiva do edema de membros inferiores e das varizes, que eram mantidos pela compressão do útero gravídico sobre os vasos pélvicos. O coração gradualmente retorna à sua função pré-gravídica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais alterações são esperadas no sistema sanguíneo durante o puerpério?",
+    "options": [
+      "Linfocitose até 30.000/mm³ e pancitopenia progressiva nas primeiras duas semanas",
+      "Leucopenia (alterado) acentuada até 3.000/mm³ e anemia grave com hemoglobina abaixo de 7g/dL",
+      "Neutropenia persistente até 1.500/mm³ e hematócrito elevado por hemoconcentração",
+      "Leucocitose até 20.000-25.000/mm³ (fisiológica) e hemoglobina normalizando em 6 semanas",
+      "Plaquetopenia importante até 50.000/mm³ e aumento do tempo de coagulação significativo"
+    ],
+    "correctIndex": 3,
+    "explanation": "No sistema sanguíneo, é fisiológico apresentar leucocitose de até 20.000-25.000 leucócitos/mm³ no puerpério imediato, sem indicar infecção. Isso ocorre pela resposta ao estresse do parto e pela mobilização de células da medula óssea. A hemoglobina, que pode estar reduzida pelo sangramento do parto, normaliza em cerca de 6 semanas. O hematócrito pode se alterar pela redistribuição de água corporal. Importante: leucocitose de 20.000 no puerpério NÃO indica automaticamente infecção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais alterações ocorrem no sistema urinário durante o puerpério?",
+    "options": [
+      "Retenção urinária fisiológica até o 10º dia e hematúria microscópica persistente por 6 semanas",
+      "Oligúria importante nas primeiras 48 horas e incontinência urinária permanente por denervação vesical",
+      "Aumento da excreção urinária do 2º ao 6º dia, cistocele, e lesões de uretra/esfíncter/meato por trauma do parto",
+      "Anúria transitória nas primeiras 24 horas e formação de cálculos renais por hipercalciúria puerperal",
+      "Poliúria excessiva com desidratação nas primeiras horas e infecção urinária em 100% das puérperas"
+    ],
+    "correctIndex": 2,
+    "explanation": "No sistema urinário ocorre aumento da excreção urinária do 2º ao 6º dia (diurese pós-parto), eliminando o excesso de líquido acumulado na gestação. Pode ocorrer cistocele (bexiga descida) pelo relaxamento muscular. Também são comuns lesões da uretra, esfíncter e meato uretral devido ao trauma do parto, podendo causar incontinência urinária temporária. A bexigoma (retenção urinária aguda) pode ocorrer e causa dor súbita à palpação suprapúbica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quando ocorre tipicamente constipação no puerpério e qual a conduta?",
+    "options": [
+      "Nas primeiras 24 horas; enema de limpeza obrigatório em todas as puérperas antes da alta",
+      "No 1º-2º dia pós-parto; laxante estimulante forte imediatamente após o parto preventivamente",
+      "No 7º-10º dia pós-parto; apenas orientação dietética sem necessidade de medicação ou intervenção",
+      "No 3º-4º dia pós-parto; estimular deambulação e considerar laxante se necessário; paciente só tem alta após defecar",
+      "Após 2 semanas pós-parto; apenas aumentar ingesta hídrica sem outras medidas terapêuticas"
+    ],
+    "correctIndex": 3,
+    "explanation": "A constipação intestinal ocorre tipicamente no 3º-4º dia pós-parto devido ao retorno das vísceras à posição normal, redução da motilidade intestinal, medo de evacuar (especialmente se houver laceração perineal) e desidratação relativa. A conduta é estimular deambulação precoce, hidratação adequada e considerar prescrever laxante a partir do 3º dia se necessário. Importante: a paciente só recebe alta hospitalar após defecar, pois isso indica retorno da função intestinal normal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais alterações na pele são esperadas no puerpério?",
+    "options": [
+      "Estrias em abdômen e mama, hiperpigmentação da pele, melasma que deve ser tratado pós-gestação, linha negra que regride",
+      "Descamação intensa generalizada nas primeiras semanas, prurido importante refratário ao tratamento tópico",
+      "Manchas brancas difusas por despigmentação, ausência completa de estrias com involução perfeita da pele",
+      "Eritema generalizado persistente, aparecimento de nevos melanocíticos múltiplos e irreversíveis no abdômen",
+      "Cianose periférica persistente, aparecimento de telangiectasias extensas que não regridem espontaneamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alterações cutâneas no puerpério incluem: estrias em abdômen e mamas (marcas permanentes do estiramento da pele), hiperpigmentação da pele (especialmente aréolas, linha alba), melasma/cloasma gravídico (que deve ser tratado preferencialmente após a gestação para evitar recorrência), e linha negra (hiperpigmentação da linha alba que regride gradualmente). A maioria das alterações pigmentares melhora com o tempo, mas estrias são permanentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais alterações endócrinas ocorrem no puerpério imediato?",
+    "options": [
+      "Queda abrupta de estrógeno e progesterona, alteração de FSH/LH dependendo da amamentação, prolactina alta inicial",
+      "Elevação súbita de estrógeno e progesterona, FSH/LH suprimidos permanentemente, prolactina baixa",
+      "Flutuação irregular de estrógeno e progesterona, FSH/LH ausentes, prolactina elevada apenas em lactantes",
+      "Manutenção dos níveis de estrógeno e progesterona por 6 semanas, FSH/LH normais, prolactina inalterada",
+      "Aumento progressivo de estrógeno e progesterona, FSH/LH elevados imediatamente, prolactina suprimida"
+    ],
+    "correctIndex": 0,
+    "explanation": "No sistema endócrino, com a saída da placenta ocorre queda abrupta de estrógeno (E) e progesterona (P). Esta queda hormonal contribui para depressão pós-parto. FSH e LH inicialmente caem, depois sobem por retroalimentação (mas se amamenta, sobem menos). Prolactina fica alta inicialmente em todas as puérperas, mas se mantém elevada nas lactantes pela sucção. A amamentação inibe o eixo hipotálamo-hipófise-ovário mantendo amenorreia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Puérpera de 5 dias apresenta leucócitos de 22.000/mm³, sem febre, loquiação fusca normal. Qual a interpretação e conduta?",
+    "options": [
+      "Leucocitose patológica indicando infecção oculta; iniciar antibioticoterapia de amplo espectro imediatamente",
+      "Leucemia aguda desencadeada pela gestação; encaminhar urgente para hematologia e quimioterapia",
+      "Infecção urinária assintomática grave; solicitar urocultura e iniciar antibiótico específico profilaticamente",
+      "Leucocitose fisiológica do puerpério, não indica infecção; apenas observar e seguir protocolo habitual",
+      "Quadro sugestivo de corioamnionite tardia; realizar curetagem uterina e antibióticos endovenosos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Leucocitose de até 20.000-25.000/mm³ é FISIOLÓGICA no puerpério, especialmente no período imediato, e NÃO indica automaticamente infecção. Ocorre pela resposta ao estresse do parto. Neste caso, sem febre, com loquiação normal e sem outros sinais de infecção, não há indicação de antibióticos. Conduta: observar, seguir protocolo habitual de puerpério. Só investigar infecção se houver outros sinais (febre, odor fétido, dor uterina intensa, taquicardia).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 4 dias queixa-se de não conseguir evacuar desde o parto, refere medo de 'romper os pontos' da episiotomia. Conduta adequada?",
+    "options": [
+      "Prescrever enema de limpeza imediatamente independente do tempo de internação restante",
+      "Iniciar antibiótico profilático para prevenir infecção pela constipação e liberar alta",
+      "Orientar que é normal não evacuar até o 10º dia e liberar alta hospitalar normalmente",
+      "Tranquilizar sobre segurança da evacuação, estimular deambulação e hidratação, considerar laxante se necessário, adiar alta até evacuar",
+      "Realizar toque retal digital para remoção manual de fecaloma e prescrever morfina para dor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Constipação no 3º-4º dia é esperada. Conduta: 1) Tranquilizar que evacuar não romperá os pontos (medo comum); 2) Estimular deambulação (ativa intestino); 3) Aumentar hidratação e fibras; 4) Considerar laxante se necessário (após 3º dia); 5) Não liberar alta até que defeque (indica função intestinal retornando). O enema não é rotina inicial. O importante é orientação adequada e desmistificar o medo, pois geralmente o problema é mais psicológico que físico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as orientações sobre assistência pós-natal no puerpério imediato?",
+    "options": [
+      "Repouso (alterado) absoluto no leito por 7 dias, banhos de assento 3x/dia, exames semanais apenas",
+      "Higiene perineal com antissépticos fortes, restrição de deambulação até 48h, temperatura de 4/4h",
+      "Higiene vulvoperineal adequada, deambulação após 6 horas, exames diários até 2º dia (temperatura, pulso, PA, palpação útero/bexiga)",
+      "Compressas frias perineais continuamente, mobilização passiva somente, exames laboratoriais diários completos",
+      "Deambulação imediata no parto, duchas vaginais diárias, exames apenas se sintomas aparecerem"
+    ],
+    "correctIndex": 2,
+    "explanation": "A assistência pós-natal inclui: 1) Higiene vulvoperineal adequada com absorventes descartáveis trocados frequentemente; 2) Banho de aspersão após 6 horas; 3) Deambulação precoce (6 horas pós-parto) para prevenir trombose; 4) Exames diários até o 2º dia: temperatura, pulso e PA (detectar infecção, choque), palpação do útero e bexiga (avaliar involução e detectar bexigoma), inspeção de lóquios, períneo e membros inferiores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as recomendações para a consulta de retorno ambulatorial pós-parto?",
+    "options": [
+      "Retorno (alterado) com 2 semanas: apenas verificação de peso, pressão arterial e liberação para atividade sexual plena",
+      "Retorno com 4 semanas: apenas orientações sobre aleitamento sem necessidade de exame físico completo",
+      "Retorno com 12 semanas: somente se houver sintomas, sem necessidade de exame físico de rotina",
+      "Retorno com 6 semanas: exame clínico completo, exame ginecológico com coleta de papanicolaou (se necessário), avaliação das mamas e escolha de método contraceptivo",
+      "Retorno com 8 semanas: exclusivamente para colocação de DIU sem outros procedimentos necessários"
+    ],
+    "correctIndex": 3,
+    "explanation": "A consulta ambulatorial de retorno deve ocorrer com 6 semanas (42-45 dias) pós-parto e incluir: 1) Exame clínico completo; 2) Exame ginecológico: especular e toque vaginal, com coleta de colpocitologia oncótica se indicado (aos 45 dias já está autorizado); 3) Exame das mamas e avaliação da amamentação; 4) Escolha de método anticoncepcional (OBRIGATÓRIO oferecer); 5) Este é momento ideal para colocação de DIU se disponível e desejado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação sobre vida sexual no puerpério?",
+    "options": [
+      "Retorno da atividade sexual liberado imediatamente após o parto sem necessidade de anticoncepção",
+      "Libido aumentada nas lactantes pela ação da prolactina estimulando o desejo sexual",
+      "Abstinência sexual obrigatória por 6 meses independente dos sintomas ou vontade do casal",
+      "Retorno imediato da libido após o parto com desejo sexual aumentado pela elevação hormonal",
+      "Diminuição da libido é esperada por 6-8 semanas; orientar sobre uso de lubrificantes se necessário especialmente em lactantes"
+    ],
+    "correctIndex": 4,
+    "explanation": "É esperada diminuição da libido no puerpério por 6-8 semanas devido às alterações hormonais (queda de estrógeno), cansaço, adaptação ao bebê e mudanças corporais. Lactantes têm maior dificuldade pela secura vaginal (prolactina alta inibe estrógeno). Orientações: 1) Normalizar esta situação; 2) Sugerir uso de lubrificantes à base de água; 3) Aguardar cicatrização perineal completa; 4) Retorno gradual conforme conforto do casal; 5) SEMPRE orientar anticoncepção, pois pode ovular antes de menstruar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as indicações de toque vaginal durante o puerpério?",
+    "options": [
+      "Necessário somente em caso de cesariana, sendo dispensável em parto vaginal normal",
+      "Apenas na consulta de retorno de 6 semanas, nunca durante o período de internação imediato",
+      "Toque vaginal de rotina no 3º dia em todas as puérperas para avaliar fechamento cervical",
+      "Apenas se houver alterações como útero que não involui, sangramento anormal ou suspeita de infecção; não é rotina",
+      "Exame obrigatório diário em todas as puérperas internadas até o momento da alta hospitalar"
+    ],
+    "correctIndex": 3,
+    "explanation": "O toque vaginal NÃO é exame de rotina no puerpério imediato. Só deve ser realizado se houver alguma alteração que justifique, como: útero que não involui adequadamente, sangramento anormal (quantidade ou aspecto), suspeita de infecção (colo que não fecha pode indicar infecção ou restos placentários), laceração perineal com sintomas. O exame de rotina é a inspeção externa do períneo e palpação abdominal do útero. Toque desnecessário aumenta risco de infecção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quando retorna a menstruação em puérperas não lactantes e lactantes?",
+    "options": [
+      "Não lactantes (alterado) menstruam após 6 meses; lactantes apenas após cessar completamente a amamentação",
+      "Não lactantes menstruam após 3 semanas; lactantes nunca menstruam enquanto amamentarem exclusivamente",
+      "Não lactantes menstruam após 2 meses; lactantes apenas após introdução de alimentação complementar obrigatoriamente",
+      "Não lactantes menstruam em média com 1,5 mês; lactantes têm período variável conforme duração da amamentação (6 meses=5,1 meses; 12 meses=8,7 meses)",
+      "Não lactantes e lactantes menstruam igualmente após 3 meses independente do aleitamento materno"
+    ],
+    "correctIndex": 3,
+    "explanation": "O retorno da menstruação varia conforme amamentação: 1) Não lactantes: menstruam em média com 1,5 mês (45 dias) pós-parto; 2) Lactantes: período variável - se amamenta por 6 meses, menstrua aos 5,1 meses; se amamenta por 12 meses, menstrua aos 8,7 meses (média). Após 6 meses, com introdução alimentar, a amamentação pode falhar (diminui prolactina) e a ovulação pode retornar. IMPORTANTE: pode ovular ANTES de menstruar, então anticoncepção é necessária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as três condições do LAM (Método da Amenorreia Lactacional) para ter 90% de eficácia contraceptiva?",
+    "options": [
+      "Amamentação predominante + nos primeiros 12 meses + presença de ciclos irregulares",
+      "Amamentação sob livre demanda + primeiro ano completo + irregularidade menstrual variável",
+      "Amamentação complementada + nos primeiros 3 meses + menstruação esporádica permitida",
+      "Amamentação exclusiva + nos primeiros 6 meses iniciais + presença de amenorreia",
+      "Amamentação mista com fórmula + nos primeiros 9 meses + amenorreia parcial aceitável"
+    ],
+    "correctIndex": 3,
+    "explanation": "O LAM (Método da Amenorreia Lactacional) tem 90% de eficácia contraceptiva SE, E SOMENTE SE, forem atendidas TRÊS condições simultaneamente (OMS, 2000): 1) Amamentação EXCLUSIVA (nenhum outro alimento ou líquido); 2) Nos primeiros 6 meses iniciais pós-parto; 3) Presença de amenorreia (ausência de menstruação). Se qualquer uma destas condições não for atendida, a eficácia cai drasticamente e outro método contraceptivo deve ser usado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os contraceptivos recomendados durante a amamentação?",
+    "options": [
+      "Progesterona isolada como Depoprovera (injeção trimestral) ou levonogestrel, DIU pode ser colocado na consulta de 6 semanas",
+      "Apenas DIU de cobre sem possibilidade de uso de nenhum método hormonal seguro",
+      "Estrógenos em altas doses para suprimir ovulação sem interferir na produção láctea",
+      "Apenas métodos de barreira pois todos os hormônios estão contraindicados durante lactação",
+      "Contraceptivos (alterado) orais combinados com estrógeno e progesterona em doses habituais de mulher não lactante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os contraceptivos recomendados em lactantes são: 1) Progestágenos isolados: Depoprovera (medroxiprogesterona trimestral injetável), pílula de levonogestrel (minipílula); 2) DIU (cobre ou hormonal com levonorgestrel) - pode ser colocado na consulta de 6 semanas; 3) Métodos de barreira. EVITAR: contraceptivos com estrógeno (ACO combinado) pois interferem na amamentação diminuindo produção de leite. O melhor é progesterona isolada pensando em não prejudicar a lactação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Lactante de 3 meses em amenorreia, amamentação exclusiva, solicita contracepção. Qual a melhor orientação?",
+    "options": [
+      "Apenas métodos de barreira são seguros pois qualquer hormônio está contraindicado em lactantes",
+      "Está protegida pelo LAM (90% eficaz) mas pode oferecer progesterona isolada ou DIU para maior segurança se desejar",
+      "Está 100% protegida pelo LAM, não necessita nenhum método adicional até retorno da menstruação",
+      "LAM não é eficaz, (alterado) deve iniciar imediatamente anticoncepcional combinado com estrógeno em dose plena",
+      "LAM falhou pois 3 meses é tempo insuficiente, deve colocar DIU imediatamente como único método seguro"
+    ],
+    "correctIndex": 1,
+    "explanation": "A paciente preenche os 3 critérios do LAM (amamentação exclusiva + <6 meses + amenorreia), portanto está 90% protegida. Porém, LAM não é 100% eficaz. Orientação adequada: 1) Explicar que está protegida pelo LAM mas não é garantia absoluta; 2) Oferecer método adicional se desejar maior segurança: progesterona isolada (minipílula, Depoprovera) ou DIU; 3) Evitar estrógeno que prejudica lactação; 4) Alertar que após 6 meses ou se introduzir outro alimento, deve usar outro método.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O que é mamogênese e quais hormônios estão envolvidos?",
+    "options": [
+      "Produção de leite após o parto estimulada apenas por prolactina e ocitocina isoladamente",
+      "Desenvolvimento da mama através da infância, puberdade e gestação, com participação de estrógenos, progesterona, GH, prolactina, cortisol, tireoxina, insulina e hPL",
+      "Crescimento mamário exclusivo da puberdade dependente apenas de estrógenos ovarianos e FSH hipofisário",
+      "Involução mamária pós-desmame com participação exclusiva de dopamina e inibidores da prolactina",
+      "Hipertrofia das glândulas mamárias durante menstruação por ação isolada de progesterona luteal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mamogênese é o desenvolvimento da mama através de diferentes fases da vida. Hormônios envolvidos: 1) Infância: crescimento básico; 2) Puberdade: estrógenos (crescimento ductos) e progesterona (desenvolvimento alvéolos); 3) Menacma: estrógenos e progesterona cíclicos; 4) Gestação: hPL, estrógenos e progesterona placentários + GH, prolactina, cortisol, tireoxina e insulina hipofisários. A mama se prepara gradualmente para lactação através desta sequência hormonal complexa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é lactogênese, quando ocorre e qual hormônio principal?",
+    "options": [
+      "Involução das glândulas mamárias após desmame pela queda abrupta de todos hormônios lactogênicos",
+      "Desenvolvimento das glândulas mamárias durante puberdade sob ação de estrógenos e progesterona",
+      "Diferenciação celular das glândulas mamárias no período fetal sob influência hormonal materna placentária",
+      "Início da produção láctea que ocorre pós-parto com saída da placenta, removendo inibição e permitindo ação da prolactina",
+      "Manutenção contínua da produção de leite ao longo de toda amamentação estimulada apenas por sucção"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lactogênese é o INÍCIO da produção láctea. Ocorre no pós-parto imediato quando a placenta é retirada. Durante a gestação, apesar da prolactina estar alta, os hormônios placentários (especialmente estrogênio e progesterona) inibem a lactação. Com a saída da placenta, estes hormônios caem abruptamente (marcado com 'X' no diagrama), removendo a inibição e permitindo que a prolactina atue nos alvéolos mamários, iniciando a produção de leite.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é lactopoese e como é mantida?",
+    "options": [
+      "Involução gradual das mamas após período prolongado sem amamentação por atrofia glandular",
+      "Produção espontânea de leite independente de estímulo externo mantida apenas por reflexos medulares",
+      "Manutenção da produção láctea mantida pela sucção do bebê que estimula liberação de prolactina e ocitocina através de reflexo neuro-hormonal",
+      "Início da produção de leite que depende apenas da queda dos hormônios placentários pós-parto",
+      "Desenvolvimento das glândulas mamárias durante gestação estimulado por hormônios placentários e hipofisários"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lactopoese é a MANUTENÇÃO da produção láctea após seu início. É mantida pela SUCÇÃO do bebê, que funciona como um reflexo neuro-hormonal: 1) Sucção estimula receptores no mamilo; 2) Estímulo vai para hipotálamo; 3) Inibe dopamina, liberando prolactina (mantém produção); 4) Estimula liberação de ocitocina (promove ejeção). Sem sucção frequente, a produção diminui. Por isso amamentação sob livre demanda é fundamental para manter lactação adequada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o papel da prolactina na lactação?",
+    "options": [
+      "Inibe a produção de leite durante a gestação por feedback negativo sobre hipotálamo",
+      "Estimula crescimento dos ductos mamários exclusivamente durante puberdade e menacma",
+      "Contrai o útero pós-parto através de receptores miometriais específicos para prolactina",
+      "Promove apenas a contração das células mioepiteliais para ejeção do leite através dos ductos",
+      "Mantém a secreção láctea estimulando produção de proteínas, caseína, ácidos graxos e lactose nos alvéolos mamários"
+    ],
+    "correctIndex": 4,
+    "explanation": "A PROLACTINA é o hormônio responsável por MANTER a secreção láctea (lactopoese). Ela age nos alvéolos mamários estimulando as células secretoras a produzirem os componentes do leite: proteínas (caseína, lactoalbumina), ácidos graxos (lipídios) e lactose (carboidrato). A prolactina fica alta no pós-parto imediato, e após a sucção sua liberação aumenta ainda mais (inibição da dopamina hipotalâmica), mantendo a produção contínua de leite.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o papel da ocitocina na lactação?",
+    "options": [
+      "Inibe a produção de leite durante períodos de estresse emocional ou físico intenso",
+      "Promove contração das células mioepiteliais causando ejeção do leite pelos ductos mamários até os mamilos",
+      "Age exclusivamente no útero causando involução sem nenhum efeito sobre glândulas mamárias",
+      "Estimula apenas a síntese de proteínas e lactose nas células secretoras dos alvéolos mamários",
+      "Mantém produção contínua de leite independente da sucção através de feedback hormonal"
+    ],
+    "correctIndex": 1,
+    "explanation": "A OCITOCINA é responsável pela EJEÇÃO do leite (reflexo de ejeção ou 'descida do leite'). Quando o bebê suga, a ocitocina é liberada e age nas células mioepiteliais que envolvem os alvéolos mamários, fazendo-as contrair. Esta contração 'espreme' os alvéolos, empurrando o leite pelos ductos até os mamilos. É por isso que mães podem sentir o leite 'descendo' ou vazando de uma mama enquanto amamenta na outra. Ocitocina também contrai o útero (cólicas ao amamentar).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como funciona o mecanismo de inibição da dopamina na lactação?",
+    "options": [
+      "A dopamina não tem relação com lactação, sendo apenas a ocitocina responsável pela produção de leite",
+      "A sucção do mamilo inibe a dopamina hipotalâmica, removendo o bloqueio sobre prolactina e aumentando sua liberação para manter produção láctea",
+      "A sucção aumenta dopamina que por sua vez estimula mais produção de prolactina através de feedback positivo",
+      "A dopamina estimula diretamente a hipófise para aumentar prolactina independente da sucção do bebê",
+      "A inibição da dopamina ocorre espontaneamente pós-parto sem necessidade de estímulo da sucção"
+    ],
+    "correctIndex": 1,
+    "explanation": "O mecanismo de controle da prolactina envolve a dopamina: 1) Normalmente, a dopamina hipotalâmica INIBE a liberação de prolactina (PIF - fator inibidor da prolactina); 2) A SUCÇÃO do mamilo inibe a dopamina; 3) Com menos dopamina, a prolactina é liberada em maior quantidade; 4) Prolactina mantém produção de leite. Já tem prolactina alta no pós-parto imediato, mas após sucção, a inibição da dopamina eleva ainda mais a prolactina. Sem sucção frequente, dopamina aumenta e prolactina cai.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que acontece com os hormônios FSH, LH, estradiol e progesterona nos primeiros momentos pós-parto?",
+    "options": [
+      "Apenas progesterona cai enquanto todos outros hormônios aumentam para compensar perda placentária",
+      "Todos aumentam (alterado) imediatamente após parto para estimular recuperação ovariana e retorno da fertilidade",
+      "FSH e LH sobem imediatamente enquanto estradiol e progesterona se mantêm elevados por 6 semanas",
+      "Não há alteração significativa nos primeiros dias, mudanças ocorrem apenas após várias semanas",
+      "Todos caem drasticamente com saída da placenta, depois FSH/LH sobem por retroalimentação (mais em não lactantes), prolactina sobe"
+    ],
+    "correctIndex": 4,
+    "explanation": "Nos primeiros momentos pós-parto ocorre queda abrupta de FSH, LH, estradiol e progesterona com a saída da placenta. Primeiro TUDO CAI. Depois, por retroalimentação, FSH começa a subir (mas se amamenta, sobe menos pela prolactina alta inibindo eixo). A prolactina inicialmente SOBE em todas (perde inibição placentária), depois se mantém alta nas lactantes. A queda hormonal abrupta contribui para blues puerperal e depressão pós-parto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Puérpera de 10 dias que amamenta exclusivamente relata ausência de 'sensação de leite descendo' e bebê inquieto ao mamar. Orientação adequada?",
+    "options": [
+      "Suspender amamentação imediatamente pois ausência de reflexo de ejeção indica falência da lactação",
+      "Iniciar imediatamente domperidona em doses altas para aumentar prolactina e forçar ejeção láctea",
+      "Explicar que reflexo de ejeção pode ser menos perceptível em algumas mães, avaliar pega e posição, tranquilizar que se bebê ganha peso adequadamente a produção está boa",
+      "Realizar punção mamária para análise laboratorial da composição do leite produzido",
+      "Orientar que problema é deficiência de ocitocina congênita e recomendar fórmula complementar obrigatória"
+    ],
+    "correctIndex": 2,
+    "explanation": "Algumas mães não sentem claramente o reflexo de ejeção (ocitocina), mas isso não significa ausência de produção. Conduta: 1) Explicar que é normal não sentir em algumas mulheres; 2) Avaliar PEGA e POSIÇÃO (má pega impede esvaziamento adequado); 3) AVALIAR GANHO DE PESO do bebê (melhor parâmetro de produção adequada); 4) Tranquilizar mãe; 5) Se bebê ganha peso bem (25-30g/dia), produção está adequada. Inquietação pode ser pega errada, não falta de leite. NÃO introduzir complemento sem indicação clara.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a composição do colostro e quando é produzido?",
+    "options": [
+      "Produzido do 1º ao 7º dia, espesso e amarelado, com 6% proteína, 2,5% lipídios e 3% glicídios, rico em IgA e lactoferrina",
+      "Produzido apenas nas primeiras 24 horas, transparente e aquoso, com 10% proteína, 1% lipídios e 2% glicídios",
+      "Produzido do 3º ao 10º dia, cremoso e rosado, com 4% proteína, 4% lipídios e 5% glicídios",
+      "Produzido do 1º ao 3º dia, líquido e esverdeado, com 8% proteína, 0,5% lipídios e 1% glicídios",
+      "Produzido do 8º ao 15º dia, fluido e esbranquiçado, com 1% proteína, 3,5% lipídios e 7% glicídios"
+    ],
+    "correctIndex": 0,
+    "explanation": "O COLOSTRO é produzido do 1º ao 7º dia pós-parto. Características: espesso, amarelado/dourado, rico em IgA secretória (principal anticorpo de defesa intestinal), lactoferrina (proteína que liga ferro e tem ação antibacteriana) e fatores imunológicos. Composição: 6% proteína (alta para imunidade), 2,5% lipídios (baixa em gordura), 3% glicídios. A quantidade é pequena (suficiente para estômago pequeno do RN - 20ml capacidade), mas é exatamente o que o bebê precisa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza o leite de transição e quando ocorre?",
+    "options": [
+      "Ocorre do 2-7º ao 15º dia, período de apojadura com aumento significativo da produção, maior concentração de lactose e gorduras (mudança do colostro até leite maduro)",
+      "Ocorre após 6 meses, período de redução gradual quando introduz alimentação complementar e diminui lactose",
+      "Ocorre do 15º ao 30º dia, período de estabilização final com composição idêntica ao colostro inicial",
+      "Ocorre do 8º ao 10º dia, período de máxima produção proteica antes da maturação completa do leite",
+      "Ocorre do 1º ao 3º dia, período de colostro (primeiro leite) inicial com menor produção e alta concentração proteica"
+    ],
+    "correctIndex": 0,
+    "explanation": "O LEITE DE TRANSIÇÃO ocorre do 2-7º ao 15º dia pós-parto. É o período de APOJADURA (aumento significativo da produção láctea, 'descida do leite' percebida pelas mães por volta do 3º dia). A regulação da produção passa a ser pela sucção do bebê (quanto mais mama, mais produz). Há maior concentração de lactose (energia) e de gorduras (calorias), marcando a transição do colostro (rico em proteínas/anticorpos) até o leite maduro (equilibrado em nutrientes).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características do leite maduro?",
+    "options": [
+      "Presente após 1 ano, com baixa proteína (0,5%), altos lipídios (5%) e carboidratos (10%), apenas complementar",
+      "Presente do 8º ao 14º dia, com proteína (4%), lipídios (3%) e glicídios (5%), em fase de transição",
+      "Presente após 6 meses, com composição variável dependendo da alimentação complementar introduzida",
+      "Presente do 1º ao 7º dia, com alta proteína (6%), baixos lipídios (2,5%) e glicídios (3%), rico em IgA",
+      "Presente após 15 dias, com equilíbrio entre proteínas (1%), lipídios (3,5%) e carboidratos (7%), contém nutrientes essenciais até 6 meses e energia para crescimento"
+    ],
+    "correctIndex": 4,
+    "explanation": "O LEITE MADURO está presente após 15 dias pós-parto (>15 dias). Características: equilíbrio nutricional ideal com 1% proteína (menos que colostro, suficiente para crescimento), 3,5% lipídios (energia), 7% glicídios/lactose (principal carboidrato, energia cerebral). Contém TODOS os nutrientes essenciais até os 6 meses de vida do bebê (não precisa água, chás, outros alimentos). Fornece energia adequada para crescimento e desenvolvimento da criança. Composição pode variar levemente ao longo do dia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a diferença entre leite anterior e posterior na mesma mamada?",
+    "options": [
+      "Leite anterior tem mais anticorpos IgA, leite posterior tem mais vitaminas lipossolúveis A e D",
+      "Leite anterior é mais aguado com mais lactose, leite posterior é mais calórico e gorduroso, sendo mais saciante para o bebê",
+      "Leite anterior é mais gorduroso e calórico, leite posterior é mais aguado e rico em proteínas",
+      "Não há diferença significativa entre leite anterior e posterior na composição nutricional durante uma mamada",
+      "Leite anterior é rico em caseína, leite posterior é rico em lactoalbumina e imunoglobulinas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Durante uma mamada, há diferença na composição: LEITE ANTERIOR (início da mamada): mais aguado, translúcido, rico em lactose e proteínas, sacia sede. LEITE POSTERIOR (final da mamada): mais espesso, esbranquiçado, muito mais gorduroso e calórico, sacia fome. Por isso é importante o bebê esvaziar bem uma mama antes de oferecer a outra - garantindo que receba o leite posterior rico em gorduras. Mães podem ver esta diferença ao ordenhar (inicial aguado, final cremoso).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a capacidade gástrica do recém-nascido e como ela evolui?",
+    "options": [
+      "RN tem capacidade de 20ml (4 colheres de chá), aos 1 ano tem 200ml (40 colheres de chá)",
+      "RN tem capacidade de 5ml (1 colher de chá), aos 1 ano tem 100ml (20 colheres de chá)",
+      "RN tem capacidade de 100ml (20 colheres de chá), aos 1 ano tem 500ml (100 colheres de chá)",
+      "RN tem capacidade de 30ml (6 colheres de chá), aos 1 ano tem 300ml (60 colheres de chá)",
+      "RN tem capacidade de 50ml (10 colheres de chá), aos 1 ano tem 150ml (30 colheres de chá)"
+    ],
+    "correctIndex": 0,
+    "explanation": "A capacidade gástrica do RN é de apenas 20ml (equivalente a 4 colheres de chá) - estômago do tamanho de uma cereja. Por isso o colostro em pequena quantidade é SUFICIENTE para saciar o bebê nos primeiros dias. Aos 1 ano, a capacidade aumenta para cerca de 200ml (40 colheres de chá). Esta diferença explica: 1) Por que RN mama frequentemente (estômago pequeno esvazia rápido); 2) Por que não precisa complemento nos primeiros dias; 3) A evolução natural das mamadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a diferença na absorção de ferro entre leite humano e leite de vaca?",
+    "options": [
+      "Leite humano: 90% de absorção do ferro; Leite de vaca: 5% de absorção do ferro",
+      "Leite humano: 20% de absorção do ferro; Leite de vaca: 80% de absorção do ferro",
+      "Leite humano: 50% de absorção do ferro; Leite de vaca: 10% de absorção do ferro",
+      "Leite humano: 30% de absorção do ferro; Leite de vaca: 30% de absorção do ferro (sem diferença)",
+      "Leite humano: 10% de absorção do ferro; Leite de vaca: 50% de absorção do ferro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Uma diferença CRUCIAL entre leite humano e leite de vaca é a ABSORÇÃO de ferro: Leite materno tem 50% do ferro absorvido (ferro bem absorvido, alta biodisponibilidade), enquanto leite de vaca tem apenas 10% absorvido (ferro mal absorvido). Isso é importante porque: 1) Mesmo com menos ferro total, o leite materno fornece mais ferro utilizável; 2) Bebês alimentados com leite de vaca têm maior risco de anemia ferropriva; 3) A lactoferrina do leite humano facilita absorção do ferro.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mãe de RN de 3 dias preocupada que bebê mama 'pouco' (mama apenas 5-10 minutos cada mama). Refere que amigas disseram que bebê precisa mamar 30 minutos. Como orientar?",
+    "options": [
+      "Orientar que realmente precisa mamar 30 minutos mínimo e forçar bebê a permanecer no peito mesmo se largar",
+      "Tranquilizar que duração varia entre bebês, avaliar se pega está correta e se bebê ganha peso adequadamente, não há tempo mínimo obrigatório de mamada",
+      "Prescrever galactagogos para aumentar produção já que mamadas curtas confirmam leite fraco",
+      "Suspender amamentação temporariamente e ordenhar para avaliar volume produzido antes de permitir sucção",
+      "Indicar complemento com fórmula pois mamadas curtas sempre indicam produção láctea insuficiente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Duração das mamadas é MUITO VARIÁVEL entre bebês. Alguns esvaziam mama em 5-10 minutos (sucção vigorosa eficiente), outros demoram 20-30 minutos. Não há tempo 'certo' obrigatório. Avaliar: 1) PEGA correta (boca bem aberta, aréola na boca, lábios evertidos); 2) GANHO DE PESO adequado (25-30g/dia no primeiro trimestre); 3) Sinais de satisfação do bebê (larga mama espontaneamente, relaxado); 4) Diurese adequada (6-8 fraldas molhadas/dia). Se estes parâmetros OK, mamadas curtas são normais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os critérios da pega correta na amamentação?",
+    "options": [
+      "Boca semicerrada pegando apenas o mamilo, lábios invertidos (para dentro), nariz comprimido na mama, sugadas superficiais rápidas",
+      "Boca fechada com movimentos de mordida, lábios retraídos mostrando gengivas, cabeça inclinada lateralmente, sugadas intermitentes",
+      "Boca bem aberta abocanhando a aréola, lábios evertidos (virados para fora), queixo encostado na mama, sugadas rítmicas e profundas",
+      "Boca moderadamente aberta com parte da aréola visível, lábios neutros sem eversão, queixo afastado da mama, sugadas irregulares",
+      "Boca totalmente aberta sem tocar a aréola, lábios esticados horizontalmente, queixo elevado acima da mama, sugadas lentas espaçadas"
+    ],
+    "correctIndex": 2,
+    "explanation": "A PEGA CORRETA envolve: 1) Boca BEM ABERTA (ângulo >140º); 2) ABOCANHAR A ARÉOLA (não só o mamilo - mamilo fica no fundo da boca); 3) Lábios EVERTIDOS/virados para fora (formato 'peixinho'); 4) Queixo ENCOSTADO na mama (nariz livre); 5) Sugadas RÍTMICAS e PROFUNDAS (não superficiais). Pega incorreta causa: fissuras mamilares, dor, esvaziamento inadequado (ingurgitamento), baixo ganho de peso do bebê. É a principal causa de problemas na amamentação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais posições para amamentação?",
+    "options": [
+      "Apenas em pé com bebê suspenso, sentada com pernas cruzadas estilo yoga, deitada de bruços com bebê ao lado",
+      "Somente deitada nas primeiras semanas pós-parto, depois só sentada tradicional até o desmame",
+      "Posição cavalinho (bebê montado na coxa), posição escorpião (mãe e bebê invertidos), posição lótus invertida",
+      "Tradicional (berço), invertida/cruzada (para mamas grandes ou prematuros), deitada (descanso ou cesariana)",
+      "Exclusivamente tradicional berço pois outras posições prejudicam pega e causam cólicas no bebê"
+    ],
+    "correctIndex": 3,
+    "explanation": "As principais posições são: 1) TRADICIONAL/BERÇO: mais comum, bebê deitado de lado no braço da mãe voltado para ela; 2) INVERTIDA/CRUZADA: bebê no braço oposto ao seio que vai mamar, útil para mamas grandes ou bebês prematuros (maior controle da cabeça); 3) DEITADA: mãe e bebê deitados de lado frente a frente, útil para descanso noturno ou pós-cesariana. Cada mãe pode escolher a mais confortável. O importante é sempre: mãe confortável, bebê alinhado (cabeça-tronco), abdome voltado para mãe.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação sobre frequência e duração das mamadas?",
+    "options": [
+      "Amamentação em livre demanda sem restrição de duração, bebê mama até se sentir satisfeito, comum 8-12 vezes/dia para RNs",
+      "Duração limitada a 10 minutos por mama para prevenir fissuras, com intervalo mínimo de 4 horas",
+      "Mamadas programadas a cada 3 horas com duração fixa de 15 minutos cada mama obrigatoriamente",
+      "Amamentação restrita a 6 vezes/dia no máximo para evitar dependência e permitir descanso materno",
+      "Mamadas apenas quando bebê chorar intensamente, máximo 20 minutos total de amamentação por vez"
+    ],
+    "correctIndex": 0,
+    "explanation": "A recomendação é AMAMENTAÇÃO EM LIVRE DEMANDA: 1) SEM restrição de duração (bebê mama até satisfeito e largar espontaneamente); 2) SEM horários fixos (oferecer quando bebê demonstrar fome); 3) FREQUÊNCIA esperada: 8-12 vezes/dia para RNs (comum e normal); 4) Muitas mães interpretam erroneamente essa frequência como 'leite fraco/insuficiente', culminando em introdução desnecessária de suplementos quando não assistidas adequadamente. Alta frequência é NORMAL pelo estômago pequeno do RN.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como deve ser o posicionamento da mãe e do bebê durante a amamentação?",
+    "options": [
+      "Mãe reclinada para trás em 45 graus sem apoio de braços, bebê com corpo torcido e apenas cabeça voltada para mama",
+      "Mãe confortável com costas e braços bem apoiados, bebê com cabeça e tronco alinhados e abdome voltado para o corpo da mãe",
+      "Mãe sem apoio nas costas para fortalecer musculatura postural, bebê com cabeça virada lateralmente e corpo perpendicular",
+      "Mãe curvada sobre o bebê para facilitar pega, bebê deitado de costas com cabeça girada para lateral",
+      "Mãe em posição ereta rígida sem flexão de coluna, bebê suspenso apenas pelos braços maternos sem apoio adicional"
+    ],
+    "correctIndex": 1,
+    "explanation": "O posicionamento CORRETO é fundamental: MÃE: 1) Confortável (sentada ou deitada); 2) Costas e braços BEM APOIADOS (almofadas, travesseiros - evita dor/cansaço); 3) Não deve se curvar sobre bebê. BEBÊ: 1) Cabeça e tronco ALINHADOS (orelha-ombro-quadril em linha reta); 2) Abdome voltado para corpo da mãe ('barriga com barriga'); 3) Corpo todo voltado para mãe, não só cabeça girada. Posicionamento inadequado causa: má pega, dor, cansaço materno, mamadas ineficientes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Puérpera de 5 dias com fissura mamilar dolorosa que sangra, bebê chora muito, mama está ingurgitada. Ao observar mamada: bebê pega apenas o mamilo, lábios para dentro. Conduta?",
+    "options": [
+      "Orientar que dor e sangramento são normais nas primeiras semanas e devem ser tolerados pela mãe",
+      "Indicar uso de intermediário de silicone permanentemente sem necessidade de correção de pega ou posição",
+      "Corrigir imediatamente a pega (boca aberta, abocanhar aréola, evertir lábios), ordenhar um pouco para aliviar ingurgitamento antes da mamada, orientar sobre posicionamento correto",
+      "Suspender (alterado) amamentação por 48 horas para cicatrização completa das fissuras, iniciar fórmula exclusiva neste período",
+      "Prescrever apenas pomada de lanolina sem corrigir técnica pois fissura é normal no início da amamentação"
+    ],
+    "correctIndex": 2,
+    "explanation": "Este é um caso típico de má pega causando múltiplos problemas. Conduta IMEDIATA: 1) CORRIGIR PEGA: ensinar boca bem aberta, abocanhar aréola (não só mamilo), evertir lábios; 2) Ordenhar um pouco antes da mamada para aliviar ingurgitamento (mama muito cheia dificulta pega); 3) Corrigir POSICIONAMENTO (mãe e bebê); 4) Manter amamentação (suspensão piora ingurgitamento e reduz produção); 5) Orientar que fissura cicatriza com pega correta; 6) Pomada de lanolina pode ajudar mas não substitui correção técnica. Fissura NÃO é normal.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O que é ingurgitamento mamário, quando ocorre e qual o manejo?",
+    "options": [
+      "Obstrução permanente dos ductos lactíferos; massagem vigorosa, compressas quentes 24h/dia, retorno ao médico em 5 dias",
+      "Mamas excessivamente cheias e dolorosas do 3º ao 5º dia pós-parto; amamentar com frequência, ordenhar manualmente se necessário para aliviar, é transitório e resolve em até 48h",
+      "Acúmulo de líquido intersticial por hipoproteinemia; diuréticos, restrição hídrica, enfaixamento mamário compressivo",
+      "Hipertrofia glandular patológica progressiva; corticoides, anti-inflamatórios não esteroidais, consideração de inibição da lactação",
+      "Infecção bacteriana das mamas ocorrendo após 2 semanas; antibióticos, suspensão temporária da amamentação, drenagem cirúrgica se necessário"
+    ],
+    "correctIndex": 1,
+    "explanation": "INGURGITAMENTO MAMÁRIO ocorre do 3º ao 5º dia (período da apojadura). Características: mamas excessivamente cheias, dolorosas, edemaciadas (pele brilhante), às vezes avermelhadas, pode dar febre. Manejo: 1) AMAMENTAR COM FREQUÊNCIA (é o melhor tratamento); 2) Expressão manual do leite ANTES da mamada se mama muito cheia (facilita pega e alivia); 3) Compressas FRIAS após mamada (reduz edema); 4) É TRANSITÓRIO, resolve até 48h; 5) NUNCA suspender amamentação. Prevenção: pega/posição adequadas desde o início.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que são fissuras mamilares, causa mais comum e manejo adequado?",
+    "options": [
+      "Erosões químicas por pH alcalino da saliva do bebê; pomadas protetoras impermeáveis, lavagem com bicarbonato após mamadas",
+      "Eczema alérgico do complexo aréolo-mamilar; corticoides tópicos potentes, anti-histamínicos orais, evitar contato com bebê",
+      "Rachaduras no mamilo geralmente por pega inadequada; ajustar posição do bebê e garantir pega correta são medidas essenciais para cicatrização e prevenção",
+      "Úlceras isquêmicas por vasoespasmo do mamilo; vasodilatadores orais, bloqueio simpático regional, aquecimento local constante",
+      "Lesões infectadas do mamilo por contaminação bacteriana; antibiótico tópico e sistêmico, suspensão da amamentação até cura completa"
+    ],
+    "correctIndex": 2,
+    "explanation": "FISSURAS MAMILARES são rachaduras/lesões no mamilo. Causa mais comum: PEGA INADEQUADA (bebê pegando só mamilo, não aréola). Manejo: 1) CORRIGIR PEGA (fundamental - sem isso não cicatriza); 2) Ajustar POSIÇÃO do bebê; 3) Manter mamas SECAS entre mamadas; 4) NÃO usar sabonetes, cremes ou pomadas desnecessários (glândulas de Montgomery lubrificam naturalmente); 5) Pode usar lanolina modificada ultrapurificada se muito sintomática; 6) MANTER amamentação (suspensão piora). Prevenção: técnica correta desde início.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é mastite puerperal, quando ocorre mais frequentemente e qual o tratamento?",
+    "options": [
+      "Necrose gordurosa traumática nas primeiras 24-48h pós-parto, bilateral em 80%, tratada com anti-inflamatórios e suspensão definitiva da amamentação",
+      "Atrofia (alterado) do tecido mamário na primeira semana pós-parto, sempre bilateral, tratada com hormônios galactagogos e interrupção temporária da lactação",
+      "Abscesso mamário subareolar no 3º-5º dia associado a apojadura, predominantemente bilateral, necessita drenagem cirúrgica urgente imediata",
+      "Cisto sebáceo infectado das glândulas de Montgomery após 1 mês, geralmente múltiplo, tratado apenas com compressa morna e observação",
+      "Inflamação/infecção da mama ocorrendo a partir da 2ª semana (incidência 2-10%), geralmente unilateral, tratada com antibióticos mantendo amamentação na mama afetada"
+    ],
+    "correctIndex": 4,
+    "explanation": "MASTITE PUERPERAL: Processo inflamatório ou infeccioso da mama lactante. Ocorre habitualmente a PARTIR DA 2ª SEMANA pós-parto. Incidência: 2-10% das lactantes. Geralmente UNILATERAL. Pode ser consequente a ingurgitamento mal tratado. Tratamento: 1) Antibiótico (cefalexina VO ou clindamicina/cefazolina IV se grave); 2) MANTER AMAMENTAÇÃO na mama afetada sempre que possível (não há contraindicação); 3) Analgésicos/anti-inflamatórios; 4) Corrigir pega/posição; 5) Se evoluir para abscesso, pode necessitar drenagem. NÃO há indicação para inibição da lactação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais dificuldades do bebê que interferem na amamentação?",
+    "options": [
+      "Apenas prematuridade extrema abaixo de 28 semanas sendo contraindicação absoluta de aleitamento materno",
+      "Exclusivamente desinteresse do bebê por preferência inata por fórmula industrializada ao invés do leite materno",
+      "Apenas refluxo gastroesofágico que impede completamente qualquer tentativa de amamentação eficaz",
+      "Somente alergia à proteína do leite materno requerendo suspensão imediata e permanente da lactação",
+      "Dificuldade na pega gerando sucção inadequada, pode ser por anquiloglossia, prematuridade, doenças neurológicas ou distúrbios metabólicos/eletrolíticos"
+    ],
+    "correctIndex": 4,
+    "explanation": "Problemas relacionados ao BEBÊ incluem principalmente: DIFICULDADE NA PEGA gerando sucção inadequada. Causas: 1) ANQUILOGLOSSIA (freio lingual curto - 'língua presa'); 2) PREMATURIDADE (imaturidade neuromuscular, reflexos débeis); 3) Doenças NEUROLÓGICAS (hipotonia, hipertonia, comprometimento de pares cranianos); 4) Distúrbios METABÓLICOS e ELETROLÍTICOS (hipoglicemia, hiponatremia deixam bebê letárgico); 5) Anomalias craniofaciais. Cada causa requer abordagem específica. Avaliação por pediatra/fonoaudiólogo pode ser necessária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Lactante de 3 semanas apresenta mama direita dolorosa, avermelhada, endurecida, febre 38,8°C há 24h. Nega uso de antibiótico. Qual a conduta?",
+    "options": [
+      "Provável mastite viral autolimitada; apenas sintomáticos, suspender temporariamente amamentação na mama afetada",
+      "Ingurgitamento complicado sem necessidade de antibiótico; enfaixamento mamário e inibição da lactação com cabergolina",
+      "Suspeita de abscesso mamário; encaminhar imediatamente para drenagem cirúrgica antes de iniciar qualquer tratamento",
+      "Diagnóstico de mastite puerperal; iniciar antibiótico (cefalexina VO), manter amamentação na mama afetada, orientar esvaziamento completo, analgésicos",
+      "Quadro de ingurgitamento (alterado) fisiológico tardio; apenas compressas frias, aguardar resolução espontânea sem antibióticos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Quadro típico de MASTITE PUERPERAL (3 semanas = >2ª semana, período esperado). Critérios diagnósticos presentes: mama dolorosa, avermelhada, endurecida + febre. Conduta: 1) ANTIBIÓTICO: cefalexina 500mg 6/6h VO (primeira escolha), clindamicina alternativa; 2) MANTER AMAMENTAÇÃO (fundamental - não há contraindicação, não prejudica bebê); 3) Esvaziar mama completamente (sucção ou ordenha); 4) Analgésicos/anti-inflamatórios; 5) Corrigir pega/posição; 6) Observar formação de abscesso (se piora apesar de tratamento). Suspensão da amamentação PIORA o quadro.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as principais diferenças nutricionais entre leite materno e leite de vaca?",
+    "options": [
+      "Leite materno é pobre em todos os nutrientes, leite de vaca é nutricionalmente superior em todos aspectos",
+      "Ambos têm composição nutricional idêntica diferindo apenas no sabor e temperatura de consumo",
+      "Leite materno tem mais lactose e menos proteína/eletrólitos, leite de vaca tem excesso de caseína/cálcio/fósforo/sódio com ferro mal absorvido",
+      "Leite materno tem mais proteína total e caseína, leite de vaca tem mais lactose e melhor absorção de ferro",
+      "Leite materno tem mais gorduras saturadas prejudiciais, leite de vaca tem mais gorduras essenciais benéficas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diferenças entre LEITE MATERNO e LEITE DE VACA: Leite materno: + lactose (+++), + (baixa) proteína de alto valor biológico (lactoalbumina), ++ lipídios adequados, + eletrólitos equilibrados, ferro BEM absorvido (50%). Leite de vaca: +++ proteína (caseína, difícil digestão), +++ lipídios, +++ calorias (excesso), + lactose, +++ eletrólitos (excesso Ca, P, Na - sobrecarga renal), ferro MAL absorvido (10%). Leite materno é ESPÉCIE-ESPECÍFICO, adequado para taxa de crescimento ideal com menor risco de obesidade futura.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que o leite materno é superior às fórmulas infantis quanto à imunidade?",
+    "options": [
+      "Fórmulas são superiores imunologicamente por conterem probióticos sintéticos mais potentes que fatores naturais",
+      "Leite materno e fórmulas têm fatores imunológicos equivalentes pois ambos contêm proteínas lácteas similares",
+      "Fórmulas infantis contêm mais anticorpos que leite materno por serem enriquecidas artificialmente com imunoglobulinas bovinas",
+      "Leite materno é rico em fatores imunológicos como IgA secretória que protege contra infecções gastrointestinais e respiratórias; fórmulas não contêm estes fatores",
+      "Leite materno não tem vantagem imunológica pois bebês já nascem com sistema imune completo e maduro"
+    ],
+    "correctIndex": 3,
+    "explanation": "SUPERIORIDADE IMUNOLÓGICA do leite materno: É RICO em fatores imunológicos, especialmente: 1) IgA SECRETÓRIA (principal anticorpo, protege mucosa intestinal e respiratória); 2) Lactoferrina (liga ferro, antibacteriana); 3) Lisozima (enzima antibacteriana); 4) Oligossacarídeos (prebióticos); 5) Células vivas (leucócitos, macrófagos). FÓRMULAS INFANTIS: NÃO contêm fatores imunológicos (são destruídos no processamento) = MENOR proteção contra infecções. Bebês amamentados têm menor incidência de infecções gastrointestinais, respiratórias, otites.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que fórmulas infantis podem aumentar risco de obesidade futura?",
+    "options": [
+      "Leite materno (alterado) é hipercalórico em excesso causando maior ganho de peso que fórmulas balanceadas nutricionalmente",
+      "Fórmulas e leite materno têm exatamente o mesmo impacto no risco de obesidade infantil e adulta",
+      "Fórmulas previnem obesidade por terem composição cientificamente otimizada para crescimento adequado balanceado",
+      "Leite materno causa obesidade por ser muito gorduroso, enquanto fórmulas são mais balanceadas e saudáveis",
+      "Fórmulas promovem crescimento mais rápido nos primeiros meses (leite excessivo para o RN), associando-se a maior risco de obesidade futura"
+    ],
+    "correctIndex": 4,
+    "explanation": "FÓRMULAS e OBESIDADE: Fórmulas infantis (origem proteína do leite de vaca - caseína, digestão mais lenta) podem associar-se a CRESCIMENTO MAIS RÁPIDO nos primeiros meses. Este crescimento acelerado precoce está associado a MAIOR RISCO DE OBESIDADE FUTURA. Fórmulas são 'leite excessivo' para o RN - mais calorias, mais proteínas que o necessário. LEITE MATERNO: feito para proporcionar taxa de crescimento ADEQUADA (não excessiva), associado a MENOR risco de obesidade infantil e doenças crônicas na idade adulta. Programação metabólica precoce é fundamental.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é a NBCAL e qual sua função?",
+    "options": [
+      "Norma Brasileira de Comercialização de Alimentos para Lactantes e Crianças; regula publicidade e comercialização de fórmulas, bicos e mamadeiras, protegendo aleitamento materno",
+      "Norma Brasileira de Capacitação em Aleitamento; certifica profissionais habilitados para orientação sobre amamentação",
+      "Norma de Biossegurança em Centros de Aleitamento; estabelece protocolos de higiene em bancos de leite humano",
+      "Norma Brasileira de Controle de Antibióticos em Lactentes; regula uso de medicamentos durante amamentação exclusivamente",
+      "Norma Básica de Classificação de Alimentos Lácteos; padroniza composição nutricional de todos os leites industrializados"
+    ],
+    "correctIndex": 0,
+    "explanation": "NBCAL = Norma Brasileira de Comercialização de Alimentos para Lactantes e Crianças na Primeira Infância. Foi criada para PROTEGER O ALEITAMENTO MATERNO contra práticas comerciais inadequadas. Função: regulamentar publicidade e comercialização de fórmulas infantis, leites de transição, chupetas, bicos e mamadeiras. PROÍBE: 1) Propaganda de fórmulas para <6 meses; 2) Distribuição de amostras grátis de fórmulas; 3) Uso de imagens que idealizam fórmula como substituto do leite materno. Visa evitar marketing agressivo que desestimula amamentação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as contraindicações maternas absolutas ao aleitamento materno?",
+    "options": [
+      "Infecção materna por HIV, uso de drogas ilícitas, medicamentos incompatíveis (quimioterápicos, radiofármacos, imunossupressores), doenças maternas graves (insuficiência cardíaca grave, choque séptico)",
+      "Diabetes tipo 1 ou 2, hipertensão arterial, hipotireoidismo materno não controlados",
+      "Cirurgia mamária prévia de qualquer tipo, uso de qualquer medicamento prescrito ou não",
+      "Apenas câncer de mama ativo em tratamento, todas as outras doenças permitem amamentação",
+      "Apenas mastite (inflamação mamária) bilateral grave com pus, todas outras situações permitem amamentação normalmente"
+    ],
+    "correctIndex": 0,
+    "explanation": "CONTRAINDICAÇÕES MATERNAS ABSOLUTAS: 1) Infecção pelo HIV (risco transmissão vertical pelo leite); 2) HTLV 1-2 (vírus linfotrópico humano); 3) Uso de DROGAS ILÍCITAS; 4) Medicamentos incompatíveis: quimioterápicos, radiofármacos, drogas imunossupressoras específicas; 5) Doenças maternas GRAVES que impeçam cuidado adequado: insuficiência cardíaca grave descompensada, choque séptico. Hepatite C: contraindicação RELATIVA (cuidado com fissuras sangrantes). Maioria das situações NÃO contraindica amamentação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mãe HIV positiva em tratamento antirretroviral adequado questiona sobre amamentação. Como orientar no Brasil?",
+    "options": [
+      "Autorizar amamentação pois tratamento antirretroviral torna leite completamente seguro sem risco algum de transmissão",
+      "Permitir amamentação apenas se carga viral indetectável há mais de 6 meses consecutivos comprovados",
+      "Contraindicar aleitamento materno pelo risco de transmissão vertical do HIV pelo leite; fornecer fórmula infantil gratuitamente pelo SUS",
+      "Orientar amamentação exclusiva por 6 meses pois benefícios superam riscos de transmissão do HIV",
+      "Liberar amamentação somente se mãe e bebê estiverem em uso de antirretrovirais concomitantes"
+    ],
+    "correctIndex": 2,
+    "explanation": "No BRASIL, HIV é CONTRAINDICAÇÃO ABSOLUTA ao aleitamento materno. Mesmo mães em TARV (tratamento antirretroviral) adequado com carga viral indetectável NÃO devem amamentar pelo risco de transmissão (embora reduzido, não é zero). Conduta: 1) Orientar NÃO amamentar; 2) Inibir lactação (cabergolina); 3) Fornecer FÓRMULA INFANTIL GRATUITAMENTE pelo SUS até 6 meses (direito garantido); 4) Orientar sobre preparo seguro da fórmula. OBS: Em países sem acesso a água potável/fórmula, pode-se recomendar amamentação pelo risco-benefício diferente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mãe de RN de 5 dias refere 'leite fraco e pouco', bebê mama 10-12x/dia, chora frequentemente. Exame: bebê ativo, hidratado, peso adequado ao nascimento (perda 5%). Conduta?",
+    "options": [
+      "Tranquilizar que frequência é normal (8-12x/dia RN), perda de peso fisiológica, explicar sobre colostro e transição, demonstrar técnica correta, desestimular fórmula",
+      "Orientar oferecer água e chás calmantes entre mamadas pois bebê demonstra sede e fome não saciadas",
+      "Confirmar leite insuficiente e fraco, iniciar imediatamente fórmula complementar 30ml após cada mamada",
+      "Solicitar ordenha para medir volume produzido e confirmar se realmente há leite insuficiente objetivamente",
+      "Prescrever galactagogos (domperidona, metoclopramida) para aumentar produção láctea deficiente comprovada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Situação CLÁSSICA de percepção errônea de 'leite fraco'. Análise: 1) Frequência 10-12x/dia é NORMAL para RN (8-12 esperado); 2) Perda de peso de 5% é FISIOLÓGICA (até 10% aceitável); 3) Bebê ativo e hidratado = SEM sinais de desidratação; 4) Ainda no período de colostro/transição (5 dias). Conduta: 1) TRANQUILIZAR mãe; 2) EXPLICAR normalidade da frequência; 3) Explicar que colostro é suficiente e leite está aumentando; 4) DEMONSTRAR técnica (pega/posição); 5) DESESTIMULAR fórmula/água/chás (desnecessários e prejudiciais); 6) Reavaliar crescimento. NÃO há indicação de complemento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 15 dias que amamenta exclusivamente apresenta sangramento vaginal vermelho vivo moderado, sem odor fétido, útero 2 dedos acima do púbis, afebril. Refere estar amamentando apenas 4 vezes ao dia por trabalhar fora. Interpretação e conduta?",
+    "options": [
+      "Loquiação (alterado) e involução normais para período, apenas tranquilizar e manter rotina atual de 4 mamadas diárias",
+      "Loquiação anormal para período (deveria ser flava), útero adequado, sangramento pode estar relacionado à baixa frequência de mamadas; aumentar frequência de amamentação, avaliar subinvolução, considerar uterotônicos",
+      "Menstruação retornando precocemente por amamentação insuficiente, prescrever anticoncepcional combinado imediatamente",
+      "Quadro sugestivo de nova gestação com nidação, solicitar beta-HCG e ultrassonografia pélvica urgente",
+      "Hemorragia pós-parto tardia por restos placentários, encaminhar para curetagem uterina de urgência"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aos 15 dias a loquiação deveria ser flava (amarelada), não rubra (sangue vivo). O útero está adequado (acima do púbis). A amamentação em apenas 4 vezes/dia (baixa frequência) pode estar contribuindo para subinvolução e sangramento anormal, pois menos sucção = menos ocitocina = menos contração uterina. Conduta: 1) Aumentar frequência de mamadas (mínimo 8x/dia); 2) Avaliar causas de subinvolução; 3) Considerar ocitocina/metilergonovina se não melhorar; 4) Investigar restos placentários se persistir. Não é menstruação (muito precoce em lactante).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactante de 6 semanas com queixa de 'leite secando', mama 6 vezes/dia, introduziu chá de camomila 2x/dia há 1 semana. Bebê ganhou 600g no último mês (esperado 800g±20%). Conduta adequada?",
+    "options": [
+      "Solicitar dosagem hormonal de prolactina para confirmar insuficiência lactacional primária e iniciar reposição",
+      "Confirmar que leite está secando, iniciar fórmula complementar 60ml 4x/dia e manter chá de camomila",
+      "Aumentar frequência de mamadas para livre demanda (mínimo 8-10x/dia), suspender chá (desnecessário e reduz fome do bebê), explicar que produção de leite depende de sucção frequente, reavaliar em 1 semana",
+      "Orientar ordenha exclusiva com mamadeira pois chupeta de mamadeira é mais eficiente que sucção no peito",
+      "Prescrever galactagogos (domperidona 10mg 3x/dia) sem modificar frequência de mamadas ou suspender chá"
+    ],
+    "correctIndex": 2,
+    "explanation": "Análise: 1) Ganho de peso abaixo do esperado (600g vs 800g±20%); 2) Frequência baixa (6x/dia, esperado 8-12x); 3) Introdução de chá (desnecessário, diminui fome do bebê, reduz mamadas). O problema NÃO é 'leite secando', mas sim: baixa frequência de mamadas + introdução de líquidos. Conduta: 1) AUMENTAR frequência (livre demanda, mínimo 8-10x/dia); 2) SUSPENDER CHÁ (até 6 meses só leite materno); 3) EXPLICAR fisiologia (mais sucção = mais prolactina = mais leite); 4) Reavaliar em 1 semana. Se mantiver ganho inadequado após correções, aí considerar complemento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 25 dias, cesariana, relata dispareunia intensa ao tentar relação sexual, refere secura vaginal importante. Amamenta exclusivamente 10x/dia. Marido questiona se 'algo está errado'. Como orientar o casal?",
+    "options": [
+      "Orientar suspender temporariamente amamentação para permitir retorno hormonal e resolver dispareunia em 1 semana",
+      "Prescrever estrogênio tópico vaginal em altas doses imediatamente para reverter atrofia rapidamente",
+      "Encaminhar para ginecologista para realizar cirurgia corretiva de estenose vaginal pós-parto",
+      "Confirmar (alterado) que algo está errado pós-cesariana, solicitar ultrassom pélvico urgente para avaliar possível complicação cirúrgica",
+      "Explicar que é normal: queda de estrogênio + prolactina alta da lactação causa atrofia e secura vaginal; sugerir uso de lubrificantes à base de água, aguardar recuperação gradual (6-8 semanas), tranquilizar que não há lesão"
+    ],
+    "correctIndex": 4,
+    "explanation": "Dispareunia (dor na relação sexual) e secura vaginal são NORMAIS e ESPERADAS no puerpério, especialmente em lactantes. Fisiopatologia: 1) Queda de estrogênio (pós-parto); 2) Prolactina alta (lactação) mantém estrogênio baixo; 3) Estrogênio baixo = mucosa vaginal atrófica e seca. Orientação: 1) NORMALIZAR a situação (tranquilizar casal); 2) Explicar FISIOLOGIA; 3) Sugerir LUBRIFICANTES à base de água; 4) AGUARDAR recuperação gradual (6-8 semanas de diminuição da libido são esperadas); 5) Explicar que não há lesão ou problema. Estrogênio tópico pode ser usado se muito sintomática, mas não é primeira linha.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "RN de 10 dias com ganho de peso adequado (30g/dia), diurese 8 fraldas/dia, evacuações amareladas líquidas 6x/dia. Mãe preocupada pois amigas disseram que 'bebê tem diarreia' e 'leite materno está fazendo mal'. Como orientar?",
+    "options": [
+      "Tranquilizar que padrão é completamente normal para bebê em aleitamento exclusivo: evacuações frequentes (até 10x/dia), líquidas, amareladas são fisiológicas; manter aleitamento exclusivo sem modificações",
+      "Orientar suspensão temporária do leite materno e iniciar fórmula hipoalergênica por suspeita de APLV",
+      "Prescrever probióticos e prebióticos para regularizar flora intestinal alterada do bebê imediatamente",
+      "Confirmar (alterado) diarreia patológica, solicitar coprocultura e iniciar antibiótico profilático enquanto aguarda resultado",
+      "Reduzir frequência de mamadas para 4x/dia para diminuir sobrecarga intestinal e melhorar consistência das fezes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Padrão de evacuações COMPLETAMENTE NORMAL para bebê amamentado exclusivamente: 1) Frequência: pode ser de várias vezes ao dia até 1x a cada 7-10 dias (ambos normais); 2) Consistência: LÍQUIDAS, pastosas (não formadas); 3) Cor: amareladas/douradas; 4) Odor: ácido, não fétido. Sinais de BOM aleitamento: ganho peso adequado (30g/dia = excelente), diurese adequada (8 fraldas = ótimo). NÃO é diarreia. Orientação: 1) TRANQUILIZAR mãe; 2) EXPLICAR normalidade; 3) DESMISTIFICAR mitos; 4) MANTER aleitamento exclusivo; 5) Sinais de alerta: fezes verdes, muco, sangue, odor fétido, bebê irritado, ganho inadequado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera diabética tipo 1 insulino-dependente, 4 dias pós-parto, deseja amamentar mas está insegura. Refere que médico anterior disse que 'diabéticas não podem amamentar'. Glicemias controladas com insulina NPH e regular. Como orientar?",
+    "options": [
+      "Contraindicar amamentação porque insulina em doses de diabético tipo 1 é incompatível e tóxica para lactente",
+      "Confirmar que diabéticas tipo 1 não devem amamentar pelo risco de transmitir diabetes ao bebê através do leite",
+      "Permitir amamentação apenas se suspender completamente insulina durante todo período de lactação para evitar passar no leite",
+      "Autorizar apenas aleitamento misto (50% leite materno + 50% fórmula) para reduzir carga metabólica materna",
+      "Encorajar amamentação: diabetes NÃO é contraindicação, pode inclusive melhorar controle glicêmico; ajustar doses de insulina conforme necessário, orientar sobre risco de hipoglicemia (ter lanche próximo), todos os benefícios se aplicam"
+    ],
+    "correctIndex": 4,
+    "explanation": "Diabetes tipo 1 NÃO É CONTRAINDICAÇÃO para amamentação. Orientações: 1) ENCORAJAR amamentação (todos benefícios se aplicam); 2) Diabetes pode até MELHORAR com lactação (maior sensibilidade à insulina); 3) AJUSTAR insulina conforme necessário (demanda energética da lactação pode reduzir necessidade); 4) Atenção para HIPOGLICEMIA (lactação usa glicose, ter lanche próximo durante mamadas); 5) Insulina NO LEITE: passa em quantidade mínima, é PROTEÍNA (digerida no TGI do bebê), não causa problemas; 6) Monitorar glicemias. Contraindicações absolutas são: HIV, HTLV, drogas ilícitas, medicamentos específicos. Diabetes NÃO está na lista.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 35 dias, não lactante, queixa-se de menstruação há 3 dias, fluxo moderado. Está usando apenas método de barreira (preservativo). Questiona se deve iniciar anticoncepcional hormonal. Exame físico normal. Conduta sobre contracepção?",
+    "options": [
+      "Contraindicar qualquer método hormonal antes de 6 meses pós-parto independente de estar ou não amamentando",
+      "Recomendar apenas métodos definitivos (laqueadura) pois métodos reversíveis são ineficazes no puerpério",
+      "Orientar que menstruação no puerpério é sempre patológica e investigar complicações antes de prescrever contracepção",
+      "Pode iniciar anticoncepcional combinado (estrógeno + progestágeno) ou progestágeno isolado conforme preferência, orientar sobre uso correto, explicar que menstruação retornou (não lactante: média 1,5 mês) e fertilidade também",
+      "Prescrever apenas progestágeno isolado pois estrógeno está contraindicado em todas puérperas até 1 ano"
+    ],
+    "correctIndex": 3,
+    "explanation": "Puérpera NÃO lactante com menstruação (retorno esperado: média 1,5 mês = 45 dias). Está fora do LAM. Sobre contracepção: 1) Pode usar ANTICONCEPCIONAL COMBINADO (estrógeno + progestágeno) - como não amamenta, estrógeno não tem contraindicação; 2) Pode usar PROGESTÁGENO ISOLADO (minipílula, Depoprovera); 3) Pode colocar DIU (momento ideal: consulta de 6 semanas, mas ela está com 5 semanas); 4) Métodos de barreira continuam indicados. Importante: 1) ORIENTAR sobre uso correto; 2) EXPLICAR que fertilidade retornou (pode engravidar); 3) Escolher método conforme preferência e características da paciente. Em lactantes, evitar estrógeno.",
+    "type": "raciocínio"
+  }
+]

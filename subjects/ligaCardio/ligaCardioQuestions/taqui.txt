@@ -1,0 +1,262 @@
+Analisando os materiais fornecidos sobre taquiarritmias, identifiquei 6 subtópicos principais e distribuí as 20 questões conforme solicitado (15 conteudistas + 5 de raciocínio):
+
+**SUBTÓPICOS E DISTRIBUIÇÃO:**
+1. **Conceitos básicos de ECG** (3 questões: 3 conteudistas)
+2. **Taquiarritmias: definição e classificação** (3 questões: 2 conteudistas + 1 raciocínio)
+3. **Fibrilação Atrial** (5 questões: 4 conteudistas + 1 raciocínio)
+4. **Flutter Atrial** (2 questões: 2 conteudistas)
+5. **Taquicardias Ventriculares** (4 questões: 2 conteudistas + 2 raciocínio)
+6. **Manejo geral e algoritmos** (3 questões: 2 conteudistas + 1 raciocínio)
+
+**VALORES E PARÂMETROS EXTRAÍDOS:**
+- FC > 100 bpm = taquicardia
+- QRS estreito (<0,12s) vs largo (≥0,12s)
+- Duração quadrado pequeno: 0,04s; grande: 0,2s
+- Cálculo FC: 1500/quadradinhos ou 300/quadradões
+- Critérios instabilidade: 5 D's
+- CHA₂DS₂-VASc: ≥2 pontos = anticoagular
+- Cardioversão: 50-100J (estreito regular), 120-200J (estreito irregular), 100J (largo)
+- Adenosisna: 6mg → 12mg
+- Amiodarona: 150mg em 10min → 1mg/min por 6h
+
+Agora, as 20 questões:
+
+---
+
+### QUESTÃO 1 (Conceitos básicos - Conteudista)
+**Qual a duração temporal de um quadrado grande (5mm) no papel de ECG padrão (25 mm/s)?**
+A) 0,04 segundos
+B) 0,20 segundos
+C) 0,16 segundos
+D) 0,08 segundos
+E) 0,12 segundos
+
+**Explicação:** Alternativa B correta. Cada quadrado pequeno (1mm) tem 0,04s, portanto um quadrado grande (5 pequenos) tem 0,20s. As alternativas incorretas apresentam valores que não correspondem ao cálculo correto baseado na velocidade padrão do papel de ECG.
+
+---
+
+### QUESTÃO 2 (Conceitos básicos - Conteudista)
+**Como são denominadas as ondas do complexo QRS de acordo com sua posição em relação à linha de base?**
+A) Onda Q (primeira negativa), R (primeira positiva), S (primeira negativa após R)
+B) Onda Q (qualquer negativa), R (qualquer positiva), S (qualquer negativa após R)
+C) Onda Q (negativa antes de R), R (positiva), S (negativa após R)
+D) Onda Q (positiva antes de R), R (negativa), S (positiva após R)
+E) Onda Q (primeira positiva), R (primeira negativa), S (segunda positiva)
+
+**Explicação:** Alternativa C correta. A nomenclatura segue ordem alfabética: Q (negativa antes do R), R (primeira deflexão positiva), S (negativa após o R). As demais alternativas invertem esta sequência padrão.
+
+---
+
+### QUESTÃO 3 (Conceitos básicos - Conteudista)
+**Qual método NÃO é adequado para cálculo preciso da frequência cardíaca em ritmo irregular?**
+A) Contar número de QRS em derivação longa (10s) e multiplicar por 6
+B) 1500 dividido pelo número de quadradinhos pequenos entre R-R
+C) 300 dividido pelo número de quadradões entre R-R
+D) Medir intervalo P-P em derivação II e aplicar regra de 300
+E) Utilizar a derivação DII longo para contar todos os complexos
+
+**Explicação:** Alternativa B correta. Os métodos de 1500/quadradinhos e 300/quadradões pressupõem ritmo regular. Em ritmo irregular, deve-se contar todos os QRS em período conhecido (ex: 10s × 6). As demais são métodos válidos para diferentes contextos.
+
+---
+
+### QUESTÃO 4 (Classificação - Conteudista)
+**Qual a definição de taquiarritmia segundo os critérios apresentados?**
+A) Frequência cardíaca superior a 60 batimentos por minuto
+B) Frequência cardíaca superior a 100 batimentos por minuto
+C) Frequência cardíaca entre 100-150 batimentos por minuto
+D) Frequência cardíaca superior a 150 batimentos por minuto
+E) Qualquer ritmo cardíaco com intervalo RR irregular
+
+**Explicação:** Alternativa B correta. Taquiarritmia é definida como FC > 100 bpm. As demais alternativas apresentam valores incorretos ou definições parciais que não correspondem ao conceito completo.
+
+---
+
+### QUESTÃO 5 (Classificação - Conteudista)
+**As taquicardias supraventriculares são definidas como aquelas que necessitam de pelo menos uma estrutura:**
+A) Localizada exclusivamente nos átrios
+B) Acima do ou exatamente no feixe de His
+C) Restrita ao nó atrioventricular
+D) Confinada ao sistema de Purkinje
+E) Situada abaixo do feixe de His
+
+**Explicação:** Alternativa B correta. Taquicardias supraventriculares envolvem estruturas a partir do feixe de His para cima. As demais descrevem localizações específicas que não abrangem toda a definição.
+
+---
+
+### QUESTÃO 6 (Classificação - Raciocínio)
+**Paciente apresenta ECG com frequência de 180 bpm, QRS estreito (0,08s) e ritmo regular. Qual a conduta INICIAL se estável?**
+A) Cardiversão elétrica sincronizada com 100J
+B) Infusão de amiodarona 150mg em 10 minutos
+C) Manobras vagais e/ou adenosina 6-12mg IV
+D) Iniciar anticoagulação com heparina IV
+E) Beta-bloqueador oral para controle da frequência
+
+**Explicação:** Alternativa C correta. Taquicardia supraventricular com QRS estreito e paciente estável: início com manobras vagais/adenosina. Cardioversão é para instáveis, amiodarona para QRS largo, anticoagulação não é inicial, beta-bloqueador oral não é agudo.
+
+---
+
+### QUESTÃO 7 (FA - Conteudista)
+**Qual é o escore CHA₂DS₂-VASc MÍNIMO que indica necessidade de anticoagulação oral na fibrilação atrial?**
+A) ≥ 0 pontos
+B) ≥ 1 ponto
+C) ≥ 2 pontos
+D) ≥ 3 pontos
+E) ≥ 4 pontos
+
+**Explicação:** Alternativa C correta. Escore ≥2 indica anticoagulação; 1 ponto considera-se; 0 não precisa. Diretrizes atuais recomendam anticoagulação definitiva a partir de 2 pontos.
+
+---
+
+### QUESTÃO 8 (FA - Conteudista)
+**Na fibrilação atrial, o risco tromboembólico está diretamente relacionado à:**
+A) Estase sanguínea atrial por perda da contração eficaz
+B) Aumento do débito cardíaco e fluxo sanguíneo turbulento
+C) Redução da pressão arterial sistêmica e hipoperfusão
+D) Aumento da fração de ejeção ventricular esquerda
+E) Vasoconstrição periférica e hipertensão reativa
+
+**Explicação:** Alternativa A correta. Na FA, a estase sanguínea no átrio (especialmente apêndice atrial esquerdo) é o principal mecanismo de formação de trombos. As demais não correspondem à fisiopatologia da FA.
+
+---
+
+### QUESTÃO 9 (FA - Conteudista)
+**Segundo a nova diretriz, qual a abordagem para paciente com FA estável com duração DESCONHECIDA?**
+A) Cardioversão imediata sem anticoagulação
+B) Ecotransesofágico para excluir trombo antes da cardioversão
+C) Iniciar anticoagulação e agendar cardioversão em 48h
+D) Tratamento apenas com controle de frequência
+E) Ablação por cateter como primeira linha
+
+**Explicação:** Alternativa B correta. FA com duração desconhecida ou ≥24h requer ecotransesofágico antes da cardioversão devido ao risco de trombo. Cardioversão imediata sem anticoagulação traz risco embólico.
+
+---
+
+### QUESTÃO 10 (FA - Conteudista)
+**Qual NÃO é critério do escore CHA₂DS₂-VASc para risco tromboembólico na FA?**
+A) Idade ≥75 anos (2 pontos)
+B) Diabetes mellitus (1 ponto)
+C) Sexo feminino (1 ponto)
+D) Tabagismo atual (1 ponto)
+E) Acidente vascular cerebral prévio (2 pontos)
+
+**Explicação:** Alternativa D correta. Tabagismo não é critério no CHA₂DS₂-VASc. Os critérios são: IC, HAS, Idade≥75, DM, AVC/TIA/TEV, Doença vascular, Idade 65-74, Sexo feminino.
+
+---
+
+### QUESTÃO 11 (FA - Raciocínio)
+**Paciente de 68 anos, hipertensa, diabética, em FA há 3 dias, estável. Qual abordagem mais adequada?**
+A) Cardioversão elétrica imediata com 200J
+B) Ecotransesofágico e cardioversão se sem trombo
+C) Alta hospitalar com AAS 100mg/dia
+D) Manobras vagais para reverter a arritmia
+E) Ablação por cateter de urgência
+
+**Explicação:** Alternativa B correta. FA >24h em paciente estável: ecotransesofágico antes da cardioversão. Cardioversão imediata tem risco embólico, AAS não é suficiente, manobras vagais não revertem FA, ablação não é de urgência.
+
+---
+
+### QUESTÃO 12 (Flutter - Conteudista)
+**Qual característica eletrocardiográfica é típica do flutter atrial?**
+A) Ondas P ausentes e ritmo irregularmente irregular
+B) Complexos QRS alargados (>0,12s) com frequência >150 bpm
+C) Padrão de "dentes de serra" com ondas F em base contínua
+D) Intervalos PR progressivamente mais longos até dropped beat
+E) Onda T invertida simetricamente em derivações precordiais
+
+**Explicação:** Alternativa C correta. Flutter apresenta padrão serrilhado/dentes de serra por ondas F. FA tem ritmo irregular sem ondas P, QRS largo é ventricular, intervalo PR progressivo é Wenckebach.
+
+---
+
+### QUESTÃO 13 (Flutter - Conteudista)
+**No flutter atrial típico, a frequência atrial é geralmente em torno de:**
+A) 150 batimentos por minuto
+B) 200 batimentos por minuto
+C) 250 batimentos por minuto
+D) 300 batimentos por minuto
+E) 350 batimentos por minuto
+
+**Explicação:** Alternativa D correta. No flutter típico, a frequência atrial é ~300 bpm (250-350 bpm). A frequência ventricular depende do grau de bloqueio AV (ex: 2:1 = 150 bpm, 3:1 = 100 bpm).
+
+---
+
+### QUESTÃO 14 (TV - Conteudista)
+**Qual a característica do complexo QRS na taquicardia ventricular?**
+A) Estreito (<0,08s) e regular
+B) Largo (≥0,12s) e regular
+C) Estreito e irregular
+D) Largo e irregular apenas na Torsades
+E) Morfologia variável entre as derivações
+
+**Explicação:** Alternativa B correta. TV geralmente apresenta QRS largo (≥0,12s) e regular. QRS estreito é supraventricular, irregularidade é característica de algumas formas específicas como Torsades.
+
+---
+
+### QUESTÃO 15 (TV - Conteudista)
+**Qual a conduta para taquicardia ventricular sustentada em paciente INSTÁVEL?**
+A) Amiodarona 150mg IV em 10 minutos
+B) Cardiversão elétrica sincronizada com 100J
+C) Manobras vagais e reposição volêmica
+D) Adenosisna 6mg em bolus rápido
+E) Beta-bloqueador oral para controle da frequência
+
+**Explicação:** Alternativa B correta. TV instável: cardioversão sincronizada imediata. Amiodarona é para estáveis, manobras vagais não funcionam em TV, adenosina não é indicada, beta-bloqueador oral não é para emergência.
+
+---
+
+### QUESTÃO 16 (TV - Raciocínio)
+**Paciente com ECG mostrando QRS largo (0,16s), regular, FC 180 bpm, consciente, PA 110/70 mmHg. Qual conduta?**
+A) Cardiversão elétrica imediata com 200J
+B) Amiodarona 150mg em 10min e observar resposta
+C) Adenosisna 6mg em bolus rápido IV
+D) Massagem carotídea por 15 segundos
+E) Iniciar infusão de noradrenalina
+
+**Explicação:** Alternativa B correta. TV estável: tratamento com antiarrítmico (amiodarona). Cardioversão é para instáveis, adenosina não age em TV, manobras vagais são ineficazes, vasopressores não são primeira linha.
+
+---
+
+### QUESTÃO 17 (TV - Raciocínio)
+**Qual dessas taquiarritmias ventriculares apresenta morfologia de QRS polimórfica com torção de eixo?**
+A) Taquicardia ventricular monomórfica sustentada
+B) Fibrilação ventricular
+C) Torsades de Pointes
+D) Taquicardia juncional
+E) Flutter ventricular
+
+**Explicação:** Alternativa C correta. Torsades de Pointes é TV polimórfica com amplitude variável ("torção das pontas"). TV monomórfica tem forma constante, FV é caótica, taquicardia juncional é supraventricular.
+
+---
+
+### QUESTÃO 18 (Manejo - Conteudista)
+**Qual a diferença fundamental entre cardioversão e desfibrilação?**
+A) Cardioversão usa menor energia que desfibrilação
+B) Desfibrilação é sincronizada com o complexo QRS
+C) Cardioversão é sincronizada e desfibrilação não
+D) Apenas a cardioversão requer sedação prévia
+E) Desfibrilação é apenas para ritmos com pulso
+
+**Explicação:** Alternativa C correta. Cardioversão é choque sincronizado (evita onda T), desfibrilação é não-sincronizada. Ambas podem usar energias variáveis, sedação depende do contexto, desfibrilação é para ritmos sem pulso.
+
+---
+
+### QUESTÃO 19 (Manejo - Conteudista)
+**Dos ritmos de parada cardíaca abaixo, qual é considerado NÃO chocável?**
+A) Fibrilação ventricular
+B) Taquicardia ventricular sem pulso
+C) Atividade elétrica sem pulso
+D) Flutter ventricular
+E) Taquicardia supraventricular sem pulso
+
+**Explicação:** Alternativa C correta. Ritmos não chocáveis: assistolia e atividade elétrica sem pulso. FV e TV sem pulso são chocáveis. "Flutter ventricular" não é terminologia padrão, TSV raramente evolui para parada.
+
+---
+
+### QUESTÃO 20 (Manejo - Raciocínio)
+**Paciente em pós-operatório desenvolve taquicardia com QRS estreito, irregular, FC 130 bpm, estável. Qual a provável arritmia e abordagem?**
+A) Fibrilação atrial - controle de frequência e anticoagulação
+B) Flutter atrial - cardioversão elétrica imediata
+C) Taquicardia ventricular - amiodarona IV
+D) Taquicardia sinusal - observação e hidratação
+E) Taquicardia juncional - adenosina IV
+
+**Explicação:** Alternativa A correta. QRS estreito + irregular = provável FA. Abordagem em estável: controle de frequência e avaliar anticoagulação. Flutter é regular, TV tem QRS largo, TS é regular, TJ é regular.

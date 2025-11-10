@@ -1,0 +1,247 @@
+
+
+### **QUESTÕES CONTEUDISTAS**
+
+**1. Qual é o principal objetivo da abordagem cardiometabólica na prática clínica?**  
+A) Tratar exclusivamente doenças cardiovasculares estabelecidas com intervenções cirúrgicas e farmacológicas avançadas.  
+B) Prevenir eventos cardiovasculares, como síndromes coronarianas agudas, mediante o controle integrado de fatores de risco metabólicos (obesidade, diabetes, dislipidemia).  
+C) Focar no manejo farmacológico da hipertensão arterial sem considerar componentes metabólicos ou endócrinos.  
+D) Promover perda de peso por meio de restrições dietéticas rigorosas, ignorando a fisiopatologia subjacente.  
+E) Gerenciar condições respiratórias, como apneia do sono, de forma isolada da saúde cardiovascular.  
+**Resposta correta: B**  
+**Justificativa:** A cardiometabolismo visa a prevenção de eventos cardiovasculares através de uma abordagem multidisciplinar que integra cardiologia, endocrinologia e outras especialidades para controlar fatores de risco metabólicos.
+
+---
+
+**2. Por que a FDA passou a exigir ensaios de segurança cardiovascular para novos medicamentos antidiabéticos após 2010?**  
+A) Devido a preocupações com hipoglicemia grave observada em ensaios clínicos iniciais.  
+B) Porque a rosiglitazona demonstrou aumentar o risco de infarto do miocárdio, apesar de controlar a glicemia.  
+C) Devido a interações medicamentosas com anticoagulantes comumente usados em cardiologia.  
+D) Para garantir que os medicamentos não causem ganho de peso como efeito colateral.  
+E) Porque pacientes diabéticos frequentemente têm insuficiência renal que afeta o metabolismo dos fármacos.  
+**Resposta correta: B**  
+**Justificativa:** A rosiglitazona foi associada a aumento de risco cardiovascular, levando à exigência de que todos os novos antidiabéticos demonstrem segurança cardiovascular.
+
+---
+
+**3. De acordo com a Obesity Medicine Association (OMA), como a obesidade é definida?**  
+A) Condição caracterizada exclusivamente por consumo calórico excessivo e redução do gasto energético.  
+B) Doença neurocomportamental multifatorial, grave, crônica, progressiva, recorrente e tratável, na qual o aumento da adiposidade promove disfunção do tecido adiposo.  
+C) Estado definido apenas por IMC >30 kg/m², sem considerar outros fatores fisiopatológicos.  
+D) Problema cosmético que pode ser resolvido com dieta voluntária e exercício físico.  
+E) Desordem primariamente genética que não pode ser modificada por intervenções.  
+**Resposta correta: B**  
+**Justificativa:** A OMA define obesidade como uma doença complexa com componentes biológicos, psicológicos e ambientais.
+
+---
+
+**4. Qual é o valor de circunferência abdominal que indica risco metabólico muito aumentado em homens?**  
+A) ≥94 cm  
+B) ≥102 cm  
+C) ≥88 cm  
+D) ≥80 cm  
+E) ≥110 cm  
+**Resposta correta: B**  
+**Justificativa:** Segundo a OMS, valores ≥102 cm em homens indicam risco muito aumentado para complicações metabólicas.
+
+---
+
+**5. Qual dos seguintes NÃO é considerado um fator multifatorial da obesidade?**  
+A) Fatores biológicos, como controle cerebral do apetite e da fome.  
+B) Fatores genéticos, responsáveis por 40-70% do peso corporal.  
+C) Dependência exclusiva da força de vontade para controle ponderal, ignorando influências biológicas e ambientais.  
+D) Fatores psicológicos, como estresse e angústia que afetam o apetite.  
+E) Fatores sociais, incluindo desigualdades econômicas e de acesso à saúde.  
+**Resposta correta: C**  
+**Justificativa:** A obesidade é influenciada por múltiplos fatores, e a ideia de que depende apenas da vontade é um equívoco.
+
+---
+
+**6. Qual é a consequência primária do tecido adiposo disfuncional na obesidade?**  
+A) Melhora da sensibilidade à insulina e redução da pressão arterial.  
+B) Aumento da massa muscular e captação de glicose.  
+C) Resistência à insulina, produção de citocinas inflamatórias e dislipidemia aterogênica.  
+D) Prevenção do diabetes tipo 2 por estabilização glicêmica.  
+E) Causa de falência hepática imediata por acúmulo de gordura.  
+**Resposta correta: C**  
+**Justificativa:** O tecido adiposo disfuncional libera mediadores inflamatórios que promovem resistência insulínica e alterações lipídicas.
+
+---
+
+**7. Como a deposição ectópica de gordura no pâncreas contribui para o diabetes?**  
+A) Melhora a função das células beta por fornecimento adicional de energia.  
+B) Causa pancreatite aguda que reduz os níveis glicêmicos.  
+C) Leva a esteatose pancreática, prejudicando a secreção de insulina e aumentando o glucagon.  
+D) Não tem efeito significativo na função endócrina pancreática.  
+E) Aumenta a sensibilidade à insulina nos tecidos periféricos.  
+**Resposta correta: C**  
+**Justificativa:** A gordura ectópica no pâncreas compromete a função das células beta e alfa, exacerbando a hiperglicemia.
+
+---
+
+**8. Qual é o papel da resistência à insulina hepática no desenvolvimento da dislipidemia aterogênica?**  
+A) Aumenta a produção de VLDL, levando a triglicerídeos elevados e partículas de LDL pequenas e densas.  
+B) Reduz os níveis de colesterol LDL por aumento da depuração.  
+C) Promove a produção de HDL colesterol, reduzindo o risco cardiovascular.  
+D) Não impacta o metabolismo lipídico, apenas a homeostase da glicose.  
+E) Causa colestase e reduz a síntese de ácidos biliares.  
+**Resposta correta: A**  
+**Justificativa:** A resistência insulínica hepática aumenta a síntese de VLDL, resultando em perfil lipídico aterogênico.
+
+---
+
+**9. Qual é o mecanismo de ação dos agonistas do receptor de GLP-1 na perda de peso?**  
+A) Atuam no cérebro para aumentar a saciedade e reduzir a fome, no estômago para retardar o esvaziamento gástrico e no pâncreas para modular a insulina e glucagon.  
+B) Aumentam a taxa metabólica basal através da estimulação da função tireoidiana.  
+C) Bloqueiam a absorção de gorduras no intestino via inibição enzimática.  
+D) Causam catabolismo muscular para reduzir a massa corporal total.  
+E) Suprimem o apetite exclusivamente por ação em receptores de serotonina.  
+**Resposta correta: A**  
+**Justificativa:** Os agonistas de GLP-1 têm múltiplos sítios de ação que contribuem para a saciedade e controle glicêmico.
+
+---
+
+**10. Por que ocorre reganho de peso após a interrupção dos agonistas de GLP-1?**  
+A) Adaptação metabólica com redução do gasto energético e aumento de hormônios da fome, aliada à falta de mudanças lifestyle permanentes.  
+B) Danos permanentes aos adipócitos que impedem a manutenção ponderal.  
+C) Desenvolvimento de imunidade à medicação após uso prolongado.  
+D) Efeitos cumulativos que exigem dosagem contínua para benefício sustentado.  
+E) Retenção hídrica causada pela medicação.  
+**Resposta correta: A**  
+**Justificativa:** O organismo compensa a perda de peso com mecanismos que promovem fome e reduzem gasto energético.
+
+---
+
+**11. Qual é a progressão típica da doença hepática esteatótica metabólica (MASLD)?**  
+A) Fígado normal → Esteatose (MASLD) → Esteato-hepatite (MASH) → Fibrose → Cirrose.  
+B) Esteatose → Hepatite → Fibrose → Resolução espontânea.  
+C) Fígado normal → Cirrose sem estágios intermediários.  
+D) Esteatose → Falência hepática aguda → Câncer → Transplante.  
+E) Inflamação → Fibrose → Esteatose → Cirrose.  
+**Resposta correta: A**  
+**Justificativa:** A MASLD progride desde esteatose simples até cirrose através de estágios de inflamação e fibrose.
+
+---
+
+**12. Como a apneia do sono contribui para doenças cardiovasculares?**  
+A) Causa hipóxia recorrente e fragmentação do sono, levando à ativação simpática, estresse oxidativo e inflamação.  
+B) Afeta apenas a sonolência diurna sem consequências metabólicas.  
+C) Melhora a saúde cardiovascular por redução do estresse durante o sono.  
+D) Causa bradicardia e hipotensão, reduzindo a carga cardíaca.  
+E) Não tem ligação com obesidade ou diabetes.  
+**Resposta correta: A**  
+**Justificativa:** A apneia do sono induz alterações fisiopatológicas que promovem hipertensão, resistência insulínica e síndrome metabólica.
+
+---
+
+**13. Quais complicações renais estão associadas à síndrome metabólica?**  
+A) Hipertensão glomerular, proteinúria e fibrose progressiva por estresse oxidativo e inflamação.  
+B) Aumento do fluxo sanguíneo renal com melhora da função.  
+C) Redução dos níveis de ácido úrico prevenindo gota.  
+D) Excreção de sódio aumentada causando hipotensão.  
+E) Nenhum impacto significativo na função renal.  
+**Resposta correta: A**  
+**Justificativa:** A síndrome metabólica promove injúria renal através de mecanismos hemodinâmicos e inflamatórios.
+
+---
+
+**14. Qual é a força da recomendação e certeza da evidência para dieta e atividade física no manejo do risco cardiometabólico?**  
+A) Recomendação forte com certeza alta para dieta e certeza moderada para atividade física.  
+B) Recomendação fraca com certeza baixa para ambos.  
+C) Forte apenas para intervenções farmacológicas.  
+D) Moderada para dieta e alta para atividade física.  
+E) Recomendada apenas para pacientes sem obesidade.  
+**Resposta correta: A**  
+**Justificativa:** Baseado nas diretrizes, dieta tem evidência alta e atividade física moderada, ambas com recomendação forte.
+
+---
+
+**15. Qual percentual de perda de peso está associado à remissão do diabetes tipo 2?**  
+A) 0-5%  
+B) 5-10%  
+C) 10-15%  
+D) Maior que 15%  
+E) 20-25%  
+**Resposta correta: D**  
+**Justificativa:** Estudos mostram que perda >15% do peso corporal pode levar à remissão do diabetes.
+
+---
+
+### **QUESTÕES DE RACIOCÍNIO**
+
+**16. Um homem de 45 anos com IMC 32 kg/m², circunferência abdominal de 100 cm, hipertensão e dislipidemia busca avaliação. Qual conduta é mais adequada?**  
+A) Avaliar componentes da síndrome metabólica (glicemia de jejum, perfil lipídico, pressão arterial) e implementar mudanças de estilo de vida com manejo farmacológico dos fatores de risco.  
+B) Recomendar cirurgia bariátrica imediata devido à obesidade grau I.  
+C) Prescrever agonistas de GLP-1 sem avaliação do risco cardiovascular.  
+D) Focar apenas em orientações dietéticas para perda de peso, ignorando comorbidades.  
+E) Solicitar polissonografia para apneia como investigação primária.  
+**Resposta correta: A**  
+**Justificativa:** A abordagem integrada é essencial para manejar síndrome metabólica e prevenir complicações.
+
+---
+
+**17. Paciente com obesidade central e elevação de enzimas hepáticas apresenta esteatose hepática ao ultrassom. Qual é o próximo passo?**  
+A) Avaliar a gravidade da MASLD com escores de fibrose ou biópsia hepática e implementar mudanças de estilo de vida.  
+B) Iniciar tratamento imediato com ácido ursodesoxicólico para colestase.  
+C) Encaminhar para avaliação de transplante hepático devido ao risco de cirrose.  
+D) Prescrever estatinas apenas para dislipidemia sem monitorização hepática.  
+E) Recomendar dieta rica em carboidratos para reduzir gordura hepática.  
+**Resposta correta: A**  
+**Justificativa:** A estratificação de risco e intervenções no estilo de vida são fundamentais no manejo da MASLD.
+
+---
+
+**18. Paciente com diabetes tipo 2 e obesidade deseja iniciar terapia com agonistas de GLP-1. O que deve ser considerado?**  
+A) Garantir que o paciente compreenda a necessidade de uso prolongado (mínimo de 2 anos) e compromisso com mudanças de estilo de vida, além de avaliar benefícios cardiovasculares e renais.  
+B) Prescrever para uso curto (3 meses) para perda de peso rápida.  
+C) Recomendar apenas se a função renal estiver normal.  
+D) Evitar em todos os pacientes diabéticos devido ao risco de hipoglicemia.  
+E) Usar como terapia de primeira linha sem considerar outros antidiabéticos.  
+**Resposta correta: A**  
+**Justificativa:** O sucesso terapêutico exige uso prolongado e abordagem multifatorial.
+
+---
+
+**19. Paciente com obesidade, diabetes e hipertensão apresenta creatinina sérica elevada e proteinúria. Qual é a fisiopatologia subjacente mais provável?**  
+A) Doença renal diabática exacerbada pela síndrome metabólica, com hiperfiltração glomerular, disfunção endotelial e vias inflamatórias levando à fibrose.  
+B) Necrose tubular aguda por desidratação.  
+C) Uropatia obstrutiva por aumento prostático.  
+D) Glomerulonefrite autoimune sem relação com fatores metabólicos.  
+E) Estenose da artéria renal como causa primária.  
+**Resposta correta: A**  
+**Justificativa:** A síndrome metabólica acelera a nefropatia diabática através de mecanismos hemodinâmicos e inflamatórios.
+
+---
+
+**20. Mulher de 50 anos com síndrome metabólica busca orientação para prevenção. Qual abordagem é mais abrangente?**  
+A) Implementar modificações de estilo de vida (dieta balanceada, exercício regular, cessação do tabagismo e moderação alcoólica) com monitorização e manejo de fatores de risco individuais.  
+B) Focar apenas em medicamentos para perda de peso sem mudanças de estilo de vida.  
+C) Recomendar intervenção cirúrgica como tratamento de primeira linha.  
+D) Aconselhar suplementos fitoterápicos sem embasamento científico.  
+E) Aguardar o surgimento de sintomas para iniciar tratamento.  
+**Resposta correta: A**  
+**Justificativa:** A prevenção efetiva requer abordagem multifatorial e promoção de hábitos saudáveis.
+
+---
+
+**GABARITO:**  
+1. B  
+2. B  
+3. B  
+4. B  
+5. C  
+6. C  
+7. C  
+8. A  
+9. A  
+10. A  
+11. A  
+12. A  
+13. A  
+14. A  
+15. D  
+16. A  
+17. A  
+18. A  
+19. A  
+20. A

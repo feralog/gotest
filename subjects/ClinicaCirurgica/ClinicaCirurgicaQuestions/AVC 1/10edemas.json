@@ -1,0 +1,535 @@
+[
+  {
+    "question": "Qual é a definição mais precisa de edema?",
+    "options": [
+      "Expansão do volume plasmático por retenção hídrica secundária a disfunção da aldosterona",
+      "Obstrução do fluxo linfático com consequente estase de linfa nos vasos coletores",
+      "Aumento anormal do volume de fluido no espaço intersticial dos tecidos resultante de desequilíbrio entre mecanismos reguladores da entrada e saída de líquidos dos compartimentos vasculares",
+      "Extravasamento de proteínas para o espaço intersticial por ruptura da membrana basal capilar",
+      "Acúmulo excessivo de líquido no interior das células devido a falha na bomba de sódio-potássio"
+    ],
+    "correctIndex": 2,
+    "explanation": "O edema é definido como o aumento anormal do volume de fluido no espaço intersticial dos tecidos, resultante do desequilíbrio entre os mecanismos que regulam a entrada e saída de líquidos dos compartimentos vasculares. Esta definição abrange todos os mecanismos fisiopatológicos envolvidos na formação do edema.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com a equação de Starling para trocas capilares, qual das seguintes forças EMPURRA líquido para FORA do capilar?",
+    "options": [
+      "Pressão oncótica plasmática (πc) que atrai líquido do interstício para o interior do vaso",
+      "Coeficiente de filtração capilar (Kf) que determina a permeabilidade da membrana",
+      "Pressão hidrostática capilar (Pc) que exerce força do interior do vaso para o interstício",
+      "Pressão oncótica intersticial (πi) que compete com a pressão oncótica plasmática",
+      "Pressão hidrostática intersticial (Pi) que resiste à saída de fluido do capilar"
+    ],
+    "correctIndex": 2,
+    "explanation": "A pressão hidrostática capilar (Pc) é a força que empurra líquido para fora do capilar, do interior do vaso em direção ao espaço intersticial. Esta força é contrabalanceada principalmente pela pressão oncótica plasmática (πc), que puxa líquido de volta para o interior do vaso.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual força na equação de Starling é responsável por PUXAR líquido para DENTRO do capilar?",
+    "options": [
+      "Pressão oncótica plasmática (πc) exercida pelas proteínas plasmáticas como a albumina",
+      "Coeficiente de filtração (Kf) que reflete a permeabilidade da membrana capilar",
+      "Pressão hidrostática capilar (Pc) gerada pela força de propulsão cardíaca",
+      "Pressão hidrostática intersticial (Pi) que normalmente é próxima de zero ou negativa",
+      "Pressão oncótica intersticial (πi) exercida pelas proteínas no espaço intersticial"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pressão oncótica plasmática (πc) é a força que puxa líquido para dentro do capilar, exercida principalmente pela albumina e outras proteínas plasmáticas que não conseguem atravessar facilmente a membrana capilar. Esta força se opõe à pressão hidrostática capilar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com insuficiência cardíaca congestiva apresenta edema bilateral de membros inferiores. Qual alteração nas forças de Starling explica PRIMARIAMENTE este quadro?",
+    "options": [
+      "Diminuição da pressão hidrostática intersticial (↓Pi) por alteração da complacência tissular",
+      "Aumento da pressão hidrostática capilar (↑Pc) por congestão venosa retrógrada",
+      "Diminuição da pressão oncótica plasmática (↓πc) por diluição do plasma",
+      "Aumento da pressão oncótica intersticial (↑πi) por extravasamento proteico",
+      "Aumento do coeficiente de filtração (↑Kf) por dano endotelial generalizado"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na insuficiência cardíaca congestiva, o mecanismo primário é o aumento da pressão hidrostática capilar (↑Pc) devido à congestão venosa retrógrada. A falência da bomba cardíaca leva ao aumento da pressão venosa sistêmica, que se transmite retrogradamente para os capilares, aumentando a força que empurra líquido para o interstício.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual mecanismo fisiopatológico do edema está associado à HIPOTALBUMINEMIA na síndrome nefrótica?",
+    "options": [
+      "Aumento da permeabilidade capilar por dano endotelial glomerular",
+      "Aumento da pressão hidrostática capilar (↑Pc) por retenção de sódio e água",
+      "Diminuição da pressão oncótica plasmática (↓πc) por perda urinária de albumina",
+      "Retenção renal de sódio e água por ativação do sistema renina-angiotensina-aldosterona",
+      "Obstrução da drenagem linfática por infiltração renal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na síndrome nefrótica, o mecanismo predominante é a diminuição da pressão oncótica plasmática (↓πc) devido à hipoalbuminemia resultante da proteinúria maciça. A perda urinária de albumina reduz significativamente a força que mantém líquido dentro dos vasos, permitindo extravasamento para o interstício.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual mecanismo de formação do edema está presente em processos inflamatórios como a celulite bacteriana?",
+    "options": [
+      "Aumento da pressão hidrostática capilar por vasodilatação reativa",
+      "Aumento da permeabilidade capilar permitindo extravasamento de líquidos e proteínas",
+      "Diminuição da pressão oncótica plasmática por consumo de proteínas no processo infeccioso",
+      "Obstrução da drenagem linfática por compressão dos vasos linfáticos",
+      "Retenção renal de sódio e água como resposta sistêmica à infecção"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nos processos inflamatórios como a celulite bacteriana, o mecanismo predominante é o aumento da permeabilidade capilar. Mediadores inflamatórios (histamina, bradicinina, prostaglandinas) causam separação das junções endoteliais, permitindo extravasamento de líquidos e proteínas para o interstício.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo fisiopatológico do linfedema pós-mastectomia com esvaziamento axilar?",
+    "options": [
+      "Diminuição da pressão oncótica plasmática por desnutrição pós-cirúrgica",
+      "Aumento da pressão hidrostática capilar por compressão venosa axilar",
+      "Obstrução da drenagem linfática por remoção ou dano aos linfonodos e vasos linfáticos",
+      "Retenção renal de sódio e água por imobilização prolongada no pós-operatório",
+      "Aumento da permeabilidade capilar por resposta inflamatória ao trauma cirúrgico"
+    ],
+    "correctIndex": 2,
+    "explanation": "No linfedema pós-mastectomia, o mecanismo é a obstrução da drenagem linfática devido à remoção ou dano dos linfonodos axilares e vasos linfáticos durante o esvaziamento. Isso impede a drenagem normal da linfa do membro superior, levando ao acúmulo de líquido rico em proteínas no interstício.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em pacientes com cirrose hepática descompensada, qual mecanismo NÃO contribui para a formação de edema e ascite?",
+    "options": [
+      "Aumento da permeabilidade capilar por dano endotelial generalizado",
+      "Diminuição da pressão oncótica plasmática (↓πc) por redução da síntese hepática de albumina",
+      "Obstrução parcial da drenagem linfática intra-hepática na cirrose",
+      "Aumento da pressão hidrostática capilar (↑Pc) portal e sistêmica",
+      "Retenção renal de sódio e água por ativação do sistema renina-angiotensina-aldosterona"
+    ],
+    "correctIndex": 0,
+    "explanation": "O aumento da permeabilidade capilar generalizada NÃO é um mecanismo característico da cirrose hepática. Os principais mecanismos na cirrose são: diminuição da pressão oncótica (↓πc) por redução da síntese de albumina, aumento da pressão hidrostática portal e sistêmica, retenção renal de sódio e água, e em menor grau, obstrução linfática intra-hepática.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema generalizado, hipoalbuminemia grave e proteinúria maciça. Qual mecanismo fisiopatológico é o PRIMÁRIO neste caso?",
+    "options": [
+      "Aumento da permeabilidade capilar glomerular por doença imunológica",
+      "Obstrução da drenagem linfática por doença sistêmica",
+      "Retenção renal de sódio e água como mecanismo compensatório secundário",
+      "Diminuição da pressão oncótica plasmática (↓πc) por perda urinária de proteínas",
+      "Aumento da pressão hidrostática capilar (↑Pc) por sobrecarga volêmica"
+    ],
+    "correctIndex": 3,
+    "explanation": "O mecanismo primário neste caso é a diminuição da pressão oncótica plasmática (↓πc) devido à hipoalbuminemia resultante da proteinúria maciça, característica da síndrome nefrótica. A retenção renal de sódio e água ocorre como mecanismo secundário, mas o evento inicial é a perda de proteínas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual tipo de edema é caracterizado como LOCALIZADO?",
+    "options": [
+      "Edema bilateral de membros inferiores em insuficiência cardíaca congestiva",
+      "Edema periorbital em síndrome nefrótica ou edema de membro por TVP",
+      "Edema dependente simétrico em insuficiência venosa crônica bilateral",
+      "Edema generalizado em doença renal crônica avançada",
+      "Anasarca em cirrose hepática descompensada com ascite volumosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Edema localizado é aquele restrito a uma parte do corpo, como o edema periorbital na síndrome nefrótica ou o edema unilateral de membro na TVP. Os demais exemplos representam edema generalizado ou bilateral simétrico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes condições tipicamente apresenta edema DURO (não depressível)?",
+    "options": [
+      "Linfedema crônico ou mixedema do hipotireoidismo",
+      "Edema renal por síndrome nefrótica com anasarca",
+      "Edema hepático por cirrose descompensada com ascite",
+      "Edema por insuficiência venosa crônica com cacifo positivo",
+      "Edema cardiogênico por insuficiência cardíaca congestiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "O edema duro (não depressível) é característico do linfedema crônico (devido à fibrose tecidual) e do mixedema (associado ao hipotireoidismo, com deposição de mucopolissacarídeos no interstício). Os demais tipicamente apresentam edema mole (depressível).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como se classifica o edema que acomete preferencialmente áreas dependentes e melhora com a elevação dos membros?",
+    "options": [
+      "Edema gravitacional característico de insuficiência venosa ou cardíaca",
+      "Edema generalizado de causas sistêmicas como cirrose ou síndrome nefrótica",
+      "Edema fixo típico de linfedema ou mixedema estabelecido",
+      "Edema inflamatório de processos infecciosos ou alérgicos",
+      "Edema de redistribuição por alteração da pressão hidrostática regional"
+    ],
+    "correctIndex": 0,
+    "explanation": "O edema gravitacional acomete preferencialmente áreas dependentes (como membros inferiores em ortostatismo) e melhora com a elevação dos membros, sendo característico da insuficiência venosa e da insuficiência cardíaca. Já o edema fixo permanece mesmo em posições não dependentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema de membro inferior direito, endurecido, não depressível, que não melhora com elevação do membro, há 2 anos pós-cirurgia de câncer ginecológico. Qual a classificação mais adequada?",
+    "options": [
+      "Edema generalizado, mole, dependente, de causa cardiogênica (insuficiência cardíaca)",
+      "Edema localizado, duro, fixo, de causa linfática (linfedema secundário)",
+      "Edema localizado, duro, gravitacional, de causa renal (síndrome nefrótica)",
+      "Edema localizado, mole, fixo, de causa inflamatória (celulite crônica)",
+      "Edema localizado, mole, gravitacional, de causa venosa (insuficiência venosa)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trata-se de edema localizado (apenas um membro), duro (não depressível), fixo (não melhora com elevação), de causa linfática (linfedema secundário a cirurgia oncológica pélvica com linfadenectomia). Esta é a apresentação típica do linfedema crônico estabelecido.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual tipo de edema tem como mecanismo predominante a RETENÇÃO RENAL DE SÓDIO E ÁGUA?",
+    "options": [
+      "Edema linfático por obstrução de vasos linfáticos pós-cirúrgica",
+      "Edema renal na doença renal crônica ou síndrome nefrótica com oligúria",
+      "Edema cardiogênico por insuficiência cardíaca congestiva com dispneia",
+      "Edema hepático por cirrose descompensada com hipoalbuminemia",
+      "Edema inflamatório por aumento da permeabilidade capilar na celulite"
+    ],
+    "correctIndex": 1,
+    "explanation": "O edema renal tem como mecanismo predominante a retenção renal de sódio e água, que ocorre na doença renal crônica (por redução da filtração glomerular) e na síndrome nefrótica (por ativação do sistema renina-angiotensina-aldosterona). Este mecanismo leva à expansão do volume intravascular e extravasamento secundário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema generalizado simétrico, dispneia aos esforços, ortopneia e história de IAM prévio. Qual a provável classificação quanto ao mecanismo?",
+    "options": [
+      "Edema hepático por cirrose hepática com hipoalbuminemia e hipertensão portal",
+      "Edema cardiogênico por insuficiência cardíaca com aumento da pressão hidrostática",
+      "Edema linfático por obstrução generalizada do sistema linfático",
+      "Edema medicamentoso por uso de bloqueadores de canais de cálcio",
+      "Edema renal por doença renal crônica com retenção de sódio e água"
+    ],
+    "correctIndex": 1,
+    "explanation": "O edema cardiogênico é sugerido pela dispneia, ortopneia e história de IAM, indicando insuficiência cardíaca. O mecanismo é o aumento da pressão hidrostática capilar por congestão venosa retrógrada. Edema generalizado simétrico em cardiopata é altamente sugestivo desta etiologia.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Na avaliação da história do edema, qual informação é MAIS relevante para diferenciar etiologia cardíaca de renal?",
+    "options": [
+      "História familiar de linfedema ou trombofilias hereditárias",
+      "Tempo de regressão do cacifo e profundidade da depressão",
+      "Presença de dispneia e ortopneia (cardíaca) versus oligúria e alteração do aspecto da urina (renal)",
+      "Intensidade da dor à palpação do edema e temperatura local",
+      "Resposta ao uso de meias elásticas e elevação dos membros"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para diferenciar etiologia cardíaca de renal, os sintomas associados são mais relevantes: dispneia, ortopneia e taquipneia sugerem causa cardíaca, enquanto oligúria, alteração do volume ou aspecto da urina (espumosa) sugerem causa renal. Os outros aspectos avaliam características do edema em si, mas não a etiologia subjacente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual fator da história do edema sugere FORTEMENTE etiologia linfática?",
+    "options": [
+      "Início súbito do edema associado a dor e calor local",
+      "Melhora significativa com repouso noturno e elevação dos membros",
+      "História de cirurgia oncológica com linfadenectomia ou radioterapia prévia",
+      "Piora do edema ao final do dia em ortostatismo prolongado",
+      "Uso de anti-hipertensivos como bloqueadores de canais de cálcio"
+    ],
+    "correctIndex": 2,
+    "explanation": "História de cirurgia oncológica com linfadenectomia (como mastectomia com esvaziamento axilar ou prostatectomia radical) ou radioterapia prévia sugere fortemente etiologia linfática (linfedema secundário). Estes procedimentos danificam o sistema linfático regional, impedindo a drenagem adequada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente relata edema que piora progressivamente ao longo do dia, melhora com repouso noturno e elevação dos membros. Qual o padrão temporal mais provável?",
+    "options": [
+      "Padrão inflamatório de processos infecciosos com rubor e calor",
+      "Padrão irregular sem relação com posição ou horário do dia",
+      "Padrão fixo característico de linfedema ou mixedema estabelecido",
+      "Padrão cíclico relacionado ao ciclo menstrual em mulheres jovens",
+      "Padrão gravitacional típico de insuficiência venosa ou cardíaca compensada"
+    ],
+    "correctIndex": 4,
+    "explanation": "O padrão gravitacional (piora ao longo do dia em ortostatismo e melhora com repouso/elevação) é típico da insuficiência venosa crônica e da insuficiência cardíaca compensada. Reflete o acúmulo de líquido nas áreas dependentes devido à ação da gravidade sobre a pressão hidrostática.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual medicamento NÃO está classicamente associado à formação de edema como efeito adverso?",
+    "options": [
+      "Inibidores da enzima conversora de angiotensina (IECAs) como o enalapril",
+      "Corticosteroides como a prednisona em uso crônico",
+      "Bloqueadores de canais de cálcio (BCC) como anlodipino e nifedipino",
+      "Anticoncepcionais hormonais combinados com estrogênio e progestágeno",
+      "Anti-inflamatórios não esteroidais (AINEs) como ibuprofeno e naproxeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os inibidores da ECA (IECAs) como enalapril NÃO causam edema; na verdade, são usados para tratar edema na insuficiência cardíaca. Em contraste, bloqueadores de canais de cálcio (especialmente diidropiridínicos), AINEs, corticosteroides e anticoncepcionais podem causar retenção hídrica e edema.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 45 anos com edema progressivo há 3 meses, ganho de 8kg, urina espumosa e fadiga intensa. Qual abordagem inicial da anamnese é MAIS adequada?",
+    "options": [
+      "Questionar sobre cirurgias prévias e solicitar linfocintilografia para linfedema",
+      "Investigar história renal prévia, examinar urina e dosar creatinina e albumina sérica",
+      "Encaminhar para ultrassom Doppler venoso para descartar trombose venosa profunda",
+      "Investigar história de hepatopatia e solicitar provas de função hepática completas",
+      "Solicitar imediatamente ecocardiograma e dosagem de BNP para avaliar função cardíaca"
+    ],
+    "correctIndex": 1,
+    "explanation": "A tríade edema progressivo, ganho de peso significativo e urina espumosa (sugerindo proteinúria) é altamente sugestiva de síndrome nefrótica. A abordagem inicial deve focar em investigação renal: exame de urina, dosagem de creatinina, ureia e albumina sérica, e pesquisa de proteinúria de 24 horas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual sintoma associado ao edema sugere FORTEMENTE insuficiência cardíaca como causa?",
+    "options": [
+      "Dor em membro inferior, calor e edema assimétrico",
+      "Icterícia, ascite e história de etilismo crônico",
+      "Dispneia aos esforços, ortopneia e dispneia paroxística noturna",
+      "Fadiga, ganho de peso e mixedema sem outros sintomas",
+      "Oligúria, hematúria macroscópica e urina espumosa"
+    ],
+    "correctIndex": 2,
+    "explanation": "A dispneia aos esforços, ortopneia (dificuldade para respirar ao deitar) e dispneia paroxística noturna (acordar súbitamente com falta de ar) são a tríade clássica de sintomas da insuficiência cardíaca congestiva, que frequentemente se associa a edema dependente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema unilateral de membro inferior direito, dor à palpação da panturrilha, calor e rubor local. Qual a etiologia mais provável?",
+    "options": [
+      "Síndrome nefrótica com anasarca de distribuição assimétrica incomum",
+      "Linfedema primário sem outros sinais inflamatórios associados",
+      "Cirrose hepática com edema preferencial em um membro atípico",
+      "Insuficiência cardíaca congestiva com edema assimétrico raro",
+      "Trombose venosa profunda (TVP) ou processo inflamatório/infeccioso local"
+    ],
+    "correctIndex": 4,
+    "explanation": "A tríade edema unilateral + dor + calor local é altamente sugestiva de trombose venosa profunda (TVP) ou processo inflamatório/infeccioso (como celulite). A assimetria e os sinais flogísticos afastam causas sistêmicas de edema, que tipicamente são bilaterais e simétricas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante a INSPEÇÃO do paciente com edema, qual achado NÃO é tipicamente avaliado?",
+    "options": [
+      "Tempo de regressão do cacifo após digitopressão por 5 segundos",
+      "Simetria do edema (bilateral versus unilateral)",
+      "Presença de dermatite ocre ou varizes",
+      "Distribuição (localizado versus generalizado)",
+      "Aspecto da pele (brilhante, eritematosa, lesões)"
+    ],
+    "correctIndex": 0,
+    "explanation": "O tempo de regressão do cacifo é avaliado durante a PALPAÇÃO (teste do cacifo), não na inspeção. Na inspeção, avaliamos simetria, distribuição, aspecto da pele e presença de alterações cutâneas associadas. O teste do cacifo propriamente dito é um procedimento de palpação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado à PALPAÇÃO do edema sugere processo INFLAMATÓRIO?",
+    "options": [
+      "Edema simétrico, bilateral, com pele de aspecto normal",
+      "Edema com temperatura aumentada, doloroso à palpação",
+      "Edema indolor, frio, com cacifo negativo",
+      "Edema com pele espessada, hiperqueratótica e fibrosada",
+      "Edema mole, indolor, com cacifo 2+ e regressão em 10 segundos"
+    ],
+    "correctIndex": 1,
+    "explanation": "No processo inflamatório (como celulite, erisipela), o edema tipicamente apresenta temperatura aumentada (calor), dor à palpação e frequentemente eritema (vermelhidão) - os clássicos sinais cardinais da inflamação. O edema é geralmente mole e depressível nas fases iniciais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema de membros inferiores apresenta à palpação consistência endurecida, não depressível, com pele espessada e hiperqueratótica. Qual a interpretação mais adequada?",
+    "options": [
+      "Edema crônico provavelmente linfático (linfedema) ou mixedema estabelecido",
+      "Edema inflamatório agudo por celulite bacteriana não tratada",
+      "Edema venoso agudo por trombose venosa profunda recente",
+      "Edema agudo de causa cardiogênica com insuficiência cardíaca descompensada",
+      "Edema renal recente por síndrome nefrótica de início agudo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Edema endurecido, não depressível, com pele espessada e hiperqueratótica é característico de edema crônico, especialmente linfedema estabelecido (onde há fibrose progressiva do tecido subcutâneo) ou mixedema do hipotireoidismo. Edemas agudos são tipicamente moles e depressíveis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema bilateral de membros inferiores apresenta à inspeção dermatite ocre e múltiplas varizes. Qual a provável etiologia?",
+    "options": [
+      "Linfedema primário com fibrose cutânea secundária",
+      "Insuficiência cardíaca congestiva com edema gravitacional",
+      "Insuficiência venosa crônica com estase venosa prolongada",
+      "Doença renal crônica com retenção hídrica importante",
+      "Cirrose hepática com hipertensão portal e hipoalbuminemia"
+    ],
+    "correctIndex": 2,
+    "explanation": "A dermatite ocre (pigmentação acastanhada) e varizes são achados característicos da insuficiência venosa crônica. A estase venosa prolongada causa extravasamento de hemáceas e hemossiderina, levando à pigmentação, enquanto a hipertensão venosa causa dilatação varicosa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a técnica CORRETA para realização do sinal do cacifo (sinal de Godet)?",
+    "options": [
+      "Palpar superficialmente a pele sem pressionar e avaliar a temperatura local",
+      "Friccionar a pele edemaciada rapidamente e observar o aparecimento de vergões",
+      "Auscultar a região edemaciada com o estetoscópio para detectar sons hidroaéreos",
+      "Pressionar a região edemaciada com o polegar ou dedo indicador por 5 segundos e observar a formação e regressão da depressão",
+      "Percutir a região edemaciada com o dedo médio e avaliar a sonoridade resultante"
+    ],
+    "correctIndex": 3,
+    "explanation": "A técnica correta do sinal do cacifo é pressionar firmemente a região edemaciada com o polegar ou dedo indicador por aproximadamente 5 segundos, depois retirar o dedo e observar a formação de uma depressão (cacifo) e seu tempo de regressão. Isto avalia a consistência do edema.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual graduação do sinal do cacifo corresponde a depressão de 6mm com tempo de regressão de 20 segundos?",
+    "options": [
+      "Cacifo negativo indicando edema duro não depressível",
+      "Cacifo 2+ indicando edema leve-moderado com regressão <15 segundos",
+      "Cacifo 1+ indicando edema leve com regressão imediata",
+      "Cacifo 3+ indicando edema moderado",
+      "Cacifo 4+ indicando edema grave com regressão >30 segundos"
+    ],
+    "correctIndex": 3,
+    "explanation": "De acordo com a classificação por grau: cacifo 1+ = 2mm (regressão imediata), 2+ = 4mm (regressão <15s), 3+ = 6mm (regressão 15-30s), 4+ = 8mm (regressão >30s). Portanto, 6mm com 20 segundos é cacifo 3+, indicando edema moderado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual resultado do teste de elevação dos membros sugere edema VENOSO?",
+    "options": [
+      "Melhora significativa do edema após 30-60 minutos de elevação do membro",
+      "Ausência de alteração independente da posição do membro",
+      "Piora paradoxal do edema durante a elevação do membro",
+      "Melhora imediata mas recidiva rápida após abaixar o membro",
+      "Nenhuma melhora do edema mesmo após horas de elevação do membro"
+    ],
+    "correctIndex": 0,
+    "explanation": "O edema venoso (por insuficiência venosa ou cardíaca) tipicamente melhora significativamente com a elevação dos membros, pois reduz a pressão hidrostática venosa. Já o linfedema e mixedema não melhoram com elevação, e o edema inflamatório pode até piorar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema de membro inferior apresenta cacifo 4+ (depressão de 8mm com regressão em 40 segundos). Qual a interpretação e conduta inicial?",
+    "options": [
+      "Edema leve que pode ser manejado ambulatorialmente com medidas conservadoras apenas",
+      "Edema de etiologia exclusivamente local que não requer investigação sistêmica",
+      "Edema inflamatório que requer antibioticoterapia intravenosa imediata",
+      "Edema grave que requer investigação de causas sistêmicas como cardiopatia, nefropatia ou hepatopatia",
+      "Edema característico de linfedema que deve ser encaminhado para angiologista"
+    ],
+    "explanation": "Cacifo 4+ indica edema grave, que quase sempre reflete causa sistêmica importante (cardíaca, renal, hepática). Requer investigação urgente com história clínica detalhada, exame físico completo e exames complementares para identificar a etiologia e iniciar tratamento específico.",
+    "correctIndex": 3,
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual exame laboratorial é MAIS útil para investigar edema por possível síndrome nefrótica?",
+    "options": [
+      "Dosagem de TGO, TGP, FA e GGT para avaliação hepática",
+      "Hemograma completo e contagem de plaquetas",
+      "Dosagem de albumina sérica e pesquisa de proteinúria de 24 horas",
+      "Dosagem de eletrólitos séricos e gasometria venosa",
+      "Dosagem de TSH e T4 livre para avaliação tireoidiana"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na suspeita de síndrome nefrótica, os exames mais úteis são a dosagem de albumina sérica (que estará baixa) e a pesquisa de proteinúria (que estará aumentada, tipicamente >3,5g/24h). Estes achados confirmam o diagnóstico de síndrome nefrótica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual exame de imagem é o PADRÃO-OURO para diagnóstico de linfedema?",
+    "options": [
+      "Ultrassonografia Doppler venoso para descartar insuficiência venosa",
+      "Linfocintilografia que avalia o fluxo e a drenagem linfática",
+      "Tomografia computadorizada de abdômen para avaliar fígado e rins",
+      "Radiografia de tórax para avaliar congestão pulmonar e cardiomegalia",
+      "Ecocardiograma para avaliar função ventricular e pressões cardíacas"
+    ],
+    "correctIndex": 1,
+    "explanation": "A linfocintilografia é o exame padrão-ouro para diagnóstico de linfedema. Utiliza radiofármaco injetado no espaço interdigital que é captado pelos linfáticos, permitindo visualizar o fluxo linfático, detectar obstruções e avaliar a função do sistema linfático.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema generalizado, dispneia e estertores crepitantes bibasais. Qual exame de imagem é MAIS indicado para investigação inicial?",
+    "options": [
+      "Tomografia computadorizada de abdômen total",
+      "Ultrassonografia Doppler venoso de membros inferiores",
+      "Linfocintilografia para avaliar drenagem linfática",
+      "Ressonância magnética de membros inferiores",
+      "Radiografia de tórax para avaliar congestão pulmonar e cardiomegalia"
+    ],
+    "correctIndex": 4,
+    "explanation": "A radiografia de tórax é o exame de imagem mais indicado na suspeita de insuficiência cardíaca, pois pode mostrar cardiomegalia, congestão pulmonar, derrame pleural e redistribuição vascular - achados compatíveis com edema cardiogênico. É rápido, amplamente disponível e de baixo custo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "No fluxograma diagnóstico do edema, qual a primeira pergunta a ser feita?",
+    "options": [
+      "O edema é simétrico ou assimétrico na sua distribuição?",
+      "Há dispneia associada ou outros sintomas sistêmicos?",
+      "O edema é localizado ou generalizado?",
+      "O sinal do cacifo é positivo ou negativo?",
+      "Há história de doença cardíaca, renal ou hepática prévia?"
+    ],
+    "correctIndex": 2,
+    "explanation": "A primeira pergunta no fluxograma diagnóstico do edema é determinar se ele é LOCALIZADO ou GENERALIZADO. Esta distinção inicial direciona completamente a investigação: edema localizado sugere causas regionais (trombose, infecção, linfedema), enquanto generalizado sugere causas sistêmicas (cardíaca, renal, hepática).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 62 anos com edema generalizado, ascite, icterícia discreta e história de etilismo crônico. Seguindo o fluxograma diagnóstico, qual a provável etiologia?",
+    "options": [
+      "Etiologia linfática por obstrução generalizada do sistema linfático",
+      "Etiologia medicamentosa por uso de vasodilatadores ou AINEs",
+      "Etiologia hepática por cirrose descompensada com hipertensão portal",
+      "Etiologia renal por síndrome nefrótica com hipoalbuminemia",
+      "Etiologia cardíaca por insuficiência cardíaca congestiva direita"
+    ],
+    "correctIndex": 2,
+    "explanation": "A tríade edema generalizado + ascite + icterícia em paciente com história de etilismo crônico é altamente sugestiva de doença hepática (cirrose descompensada). No fluxograma, edema generalizado com ascite/hepatomegalia aponta para etiologia hepática.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual achado ao exame físico NÃO é característico do edema cardiogênico?",
+    "options": [
+      "Bulhas cardíacas hipofonéticas com B3 ou ritmo de galope",
+      "Estertores crepitantes bibasais à ausculta pulmonar",
+      "Hepatomegalia dolorosa à palpação do hipocôndrio direito",
+      "Edema duro, não depressível, com pele espessada e fibrosada",
+      "Edema bilateral simétrico de membros inferiores com cacifo positivo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Edema duro, não depressível com pele espessada NÃO é característico do edema cardiogênico, que tipicamente é MOLE e depressível (cacifo positivo). O edema duro é mais sugestivo de linfedema ou mixedema. Os outros achados são compatíveis com insuficiência cardíaca.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema unilateral de membro inferior esquerdo, dor à palpação da panturrilha e aumento de temperatura local. Qual a primeira hipótese diagnóstica e conduta?",
+    "options": [
+      "Insuficiência cardíaca congestiva - solicitar ecocardiograma e radiografia de tórax",
+      "Linfedema primário - encaminhar para linfocintilografia eletiva",
+      "Síndrome nefrótica - solicitar dosagem de albumina e proteinúria de 24 horas",
+      "Trombose venosa profunda (TVP) - solicitar ultrassonografia Doppler venoso urgentemente",
+      "Cirrose hepática - solicitar provas de função hepática e ultrassom abdominal"
+    ],
+    "correctIndex": 3,
+    "explanation": "A tríade edema unilateral + dor + aumento de temperatura é altamente sugestiva de trombose venosa profunda (TVP). A conduta imediata é solicitar ultrassonografia Doppler venoso para confirmação diagnóstica e iniciar anticoagulação se confirmado, devido ao risco de embolia pulmonar.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual achado laboratorial é MAIS sugestivo de edema por síndrome nefrótica?",
+    "options": [
+      "Elevação de TGO, TGP e bilirrubinas com albumina normal",
+      "Elevação da creatinina e ureia com clearance de creatinina reduzido",
+      "Hipoalbuminemia grave (<3,0 g/dL) e proteinúria maciça (>3,5 g/24h)",
+      "TSH elevado e T4 livre reduzido com anticorpos antitireoidianos positivos",
+      "Hemoglobina e hematócrito reduzidos com VCM normal ou aumentado"
+    ],
+    "correctIndex": 2,
+    "explanation": "A hipoalbuminemia grave (<3,0 g/dL) associada à proteinúria maciça (>3,5 g/24h) é diagnóstica de síndrome nefrótica. A redução da pressão oncótica plasmática pela hipoalbuminemia é o principal mecanismo do edema nesta condição.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema generalizado, fadiga, ganho de peso, mixedema e reflexos osteotendinosos retardados. Qual a investigação laboratorial inicial mais adequada?",
+    "options": [
+      "Dosagem de albumina sérica e proteinúria para síndrome nefrótica",
+      "Hemograma completo e eletrólitos para desequilíbrios hidroeletrolíticos",
+      "Dosagem de TSH e T4 livre para investigar hipotireoidismo (mixedema)",
+      "Dosagem de TGO, TGP e bilirrubina para doença hepática",
+      "Dosagem de BNP e ecocardiograma para insuficiência cardíaca"
+    ],
+    "correctIndex": 2,
+    "explanation": "A tríade edema generalizado + mixedema (edema duro não depressível) + reflexos osteotendinosos retardados é clássica do hipotireoidismo. A investigação inicial deve incluir dosagem de TSH e T4 livre para confirmar o diagnóstico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "No fluxograma diagnóstico do edema generalizado, qual a próxima pergunta após determinar que NÃO há aumento da pressão venosa central?",
+    "options": [
+      "Há dispneia e ortopneia? Se sim, investigar etiologia cardíaca",
+      "Há hipoalbuminemia? Se sim, investigar etiologia hepática ou renal",
+      "Há icterícia e ascite? Se sim, investigar etiologia hepática",
+      "Há oligúria e urina espumosa? Se sim, investigar etiologia renal",
+      "Há história de cirurgia prévia? Se sim, investigar etiologia linfática"
+    ],
+    "correctIndex": 1,
+    "explanation": "No fluxograma do edema generalizado, após excluir aumento da pressão venosa central (que sugeriria etiologia cardíaca), o próximo passo é investigar hipoalbuminemia. Se presente, direciona para etiologia hepática (se houver ascite/hepatomegalia) ou renal (se não houver).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com edema de início súbito, generalizado, associado a urticária e prurido após uso de novo medicamento. Qual o mecanismo fisiopatológico predominante?",
+    "options": [
+      "Aumento da pressão hidrostática capilar por vasodilatação generalizada",
+      "Retenção renal de sódio e água por resposta ao estresse alérgico",
+      "Aumento da permeabilidade capilar por reação alérgica/imunológica",
+      "Diminuição da pressão oncótica plasmática por consumo de complemento",
+      "Obstrução da drenagem linfática por edema de glote incipiente"
+    ],
+    "correctIndex": 2,
+    "explanation": "No edema angioneurótico/alérgico, o mecanismo predominante é o aumento da permeabilidade capilar mediado por histamina e outros mediadores inflamatórios liberados na reação alérgica. Isto permite extravasamento rápido de líquido e proteínas para o interstício.",
+    "type": "raciocínio"
+  }
+]

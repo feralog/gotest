@@ -1,0 +1,1315 @@
+[
+  {
+    "question": "Segundo a definição atual de miocardiopatia pela ESC 2023, qual das seguintes afirmações melhor caracteriza esta condição?",
+    "options": [
+      "Distúrbio miocárdico estrutural ou funcional secundário a doença valvar mitral ou aórtica com repercussão hemodinâmica significativa",
+      "Distúrbio miocárdico estrutural ou funcional causado exclusivamente por doença arterial coronariana com isquemia crônica do miocárdio",
+      "Distúrbio miocárdico estrutural ou funcional resultante de cardiopatia congênita com shunt intracardíaco e sobrecarga volumétrica ventricular",
+      "Distúrbio miocárdico estrutural ou funcional decorrente de hipertensão arterial sistêmica não controlada por período superior a 10 anos",
+      "Distúrbio miocárdico estrutural ou funcional na ausência de DAC, hipertensão, doença valvar ou cardiopatia congênita que justifiquem a anormalidade observada"
+    ],
+    "correctIndex": 4,
+    "explanation": "A definição de miocardiopatia segundo ESC 2023 estabelece que é um distúrbio do músculo cardíaco (estrutural ou funcional) que ocorre NA AUSÊNCIA de causas que justifiquem a anormalidade, como DAC, hipertensão, doença valvar ou cardiopatia congênita. As demais alternativas descrevem situações que NÃO são classificadas como miocardiopatias primárias, pois apresentam causas identificadas (DAC, HAS, doença valvar, cardiopatia congênita) que explicam a disfunção miocárdica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características morfológicas que podem estar presentes nas miocardiopatias?",
+    "options": [
+      "Hipertrofia ventricular, dilatação ventricular, cicatriz não isquêmica e achados específicos na ressonância magnética cardíaca",
+      "Hipertrofia atrial bilateral, dilatação aórtica, cicatriz isquêmica transmural e achados específicos na cintilografia miocárdica",
+      "Dilatação atrial isolada, espessamento pericárdico, cicatriz isquêmica subendocárdica e achados específicos na tomografia computadorizada",
+      "Dilatação das veias pulmonares, hipertrofia do átrio direito, cicatriz miocárdica isquêmica e achados específicos no ecocardiograma transesofágico",
+      "Hipertrofia septal paradoxal, dilatação do tronco pulmonar, cicatriz valvar mitral e achados específicos na radiografia de tórax"
+    ],
+    "correctIndex": 0,
+    "explanation": "As características morfológicas das miocardiopatias incluem hipertrofia ventricular (espessamento da parede), dilatação ventricular (aumento das câmaras), cicatriz não isquêmica (fibrose ventricular sem padrão isquêmico) e outras características específicas identificadas pela ressonância magnética cardíaca. As demais alternativas apresentam alterações não típicas de miocardiopatias ou relacionadas a outras condições cardíacas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quanto às características funcionais das miocardiopatias, qual alternativa está correta?",
+    "options": [
+      "Disfunção sistólica exclusivamente regional subendocárdica e disfunção diastólica presente apenas nas formas dilatadas isquêmicas",
+      "Disfunção sistólica compensada por taquicardia reflexa e disfunção diastólica presente apenas nas formas congênitas não corrigidas",
+      "Disfunção sistólica atrial bilateral e disfunção diastólica ausente nas formas restritiva, hipertrófica e arritmogênica",
+      "Disfunção sistólica preservada com hipercontratilidade e disfunção diastólica ausente nas formas restritiva, hipertrófica e arritmogênica",
+      "Disfunção sistólica ventricular global ou regional e disfunção diastólica presente nas formas restritiva, hipertrófica e arritmogênica"
+    ],
+    "correctIndex": 4,
+    "explanation": "As características funcionais incluem disfunção sistólica ventricular (global ou regional) e disfunção diastólica, que está particularmente presente nas miocardiopatias restritiva, hipertrófica e arritmogênica. A disfunção sistólica pode ser global (afetando todo o ventrículo) ou regional (segmentar). As demais alternativas apresentam conceitos incorretos sobre as características funcionais das miocardiopatias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os cinco fenótipos principais de miocardiopatias reconhecidos atualmente?",
+    "options": [
+      "Hipertrófica, dilatada, ventricular esquerda não dilatada, arritmogênica do ventrículo direito e restritiva",
+      "Hipertrófica, valvar, ventricular esquerda com fração preservada, toxicidade por quimioterapia e miocardite",
+      "Dilatada, infiltrativa, ventricular esquerda hipercontrátil, arritmogênica do ventrículo esquerdo e obstrutiva",
+      "Restritiva, chagásica, ventricular direita não dilatada, periparto e hipertensiva",
+      "Hipertrófica, isquêmica, ventricular direita dilatada, taquicardiomiopatia e constritiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os cinco fenótipos principais de miocardiopatias são: hipertrófica (espessamento da parede), dilatada (aumento da cavidade com disfunção sistólica), ventricular esquerda não dilatada (disfunção sem dilatação), arritmogênica do ventrículo direito (substituição fibrogordurosa) e restritiva (rigidez miocárdica). As demais alternativas misturam fenótipos com etiologias ou apresentam classificações incorretas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as três principais formas de apresentação clínica que levam ao diagnóstico de miocardiopatias?",
+    "options": [
+      "Apresentação com morte súbita abortada, achados em cateterismo e triagem de pacientes hipertensos",
+      "Apresentação com arritmia maligna, achados em cirurgia cardíaca e triagem de atletas profissionais",
+      "Apresentação sintomática, achados incidentais em exames e triagem familiar de parentes de primeiro grau",
+      "Apresentação assintomática, achados em necropsia e triagem populacional de indivíduos acima de 60 anos",
+      "Apresentação com choque cardiogênico, achados em tomografia coronariana e triagem de diabéticos tipo 2"
+    ],
+    "correctIndex": 2,
+    "explanation": "As três principais formas de apresentação clínica são: (1) apresentação sintomática (dispneia, dor torácica, palpitação, síncope), (2) achados incidentais (ECG anormal, sopro, arritmia detectados em exames de rotina) e (3) triagem familiar (avaliação de parentes de primeiro grau de pacientes com miocardiopatia ou história familiar de morte súbita). As demais alternativas não representam as formas típicas de apresentação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais sintomas estão classicamente associados à apresentação de pacientes com miocardiopatias?",
+    "options": [
+      "Astenia matinal intensa, dor retroesternal em queimação, sudorese fria noturna, ataxia e disartria",
+      "Febre vespertina persistente, dor articular migratória, parestesias em membros, diplopia e afasia",
+      "Hemoptise recorrente, dor lombar irradiada, tremores de extremidades, perda visual súbita e hemiparesia",
+      "Dispneia aos esforços, dor torácica atípica, palpitações, síncope ou pré-síncope e parada cardíaca",
+      "Tosse produtiva crônica, dor abdominal em hipocôndrio direito, cefaleia persistente, vertigem rotatória e convulsões"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os sintomas clássicos das miocardiopatias incluem dispneia (principal sintoma de insuficiência cardíaca), dor torácica (geralmente atípica, não isquêmica), palpitações (por arritmias), síncope ou pré-síncope (por arritmias ou obstrução) e parada cardíaca (manifestação mais grave). As demais alternativas apresentam sintomas não relacionados às miocardiopatias ou que sugerem outras condições sistêmicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente de 45 anos assintomático realiza ECG de rotina que mostra hipertrofia ventricular esquerda com padrão de sobrecarga. O ecocardiograma evidencia espessamento septal de 16mm sem dilatação ventricular. Qual fenótipo de miocardiopatia é mais provável?",
+    "options": [
+      "Cardiomiopatia arritmogênica de ventrículo direito com extensão para ventrículo esquerdo",
+      "Cardiomiopatia dilatada em fase inicial ainda sem dilatação ventricular significativa estabelecida",
+      "Cardiomiopatia restritiva com infiltração precoce limitada ao septo interventricular",
+      "Cardiomiopatia hipertrófica com apresentação por achado incidental em exame de rotina",
+      "Cardiomiopatia de ventrículo esquerdo não dilatada com fibrose cicatricial transmural septal"
+    ],
+    "correctIndex": 3,
+    "explanation": "O caso descreve um paciente assintomático (achado incidental) com hipertrofia ventricular esquerda (espessamento septal ≥15mm), que são características clássicas de cardiomiopatia hipertrófica. A apresentação por achado incidental é uma das três formas principais de diagnóstico. As demais alternativas não se adequam ao quadro: CMD cursaria com dilatação, restritiva não teria hipertrofia isolada tão pronunciada, arritmogênica afeta primariamente VD, e VE não dilatada cursa com disfunção sistólica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um homem de 38 anos, atleta, apresenta síncope durante exercício intenso. ECG mostra aumento de voltagem do QRS. Ecocardiograma revela espessamento assimétrico do septo (18mm) e gradiente de VSVE de 45mmHg. Irmão faleceu subitamente aos 32 anos durante atividade física. Qual fenótipo e característica funcional estão presentes?",
+    "options": [
+      "Cardiomiopatia dilatada familiar com disfunção sistólica progressiva e remodelamento ventricular excêntrico",
+      "Cardiomiopatia arritmogênica de ventrículo direito com substituição fibrogordurosa e arritmias ventriculares complexas",
+      "Cardiomiopatia hipertrófica obstrutiva com obstrução dinâmica da via de saída do ventrículo esquerdo",
+      "Cardiomiopatia de ventrículo esquerdo não dilatada com fibrose miocárdica extensa e disfunção sistólica regional",
+      "Cardiomiopatia restritiva infiltrativa com disfunção diastólica grave e fisiologia constritiva secundária"
+    ],
+    "correctIndex": 2,
+    "explanation": "O caso apresenta características clássicas de cardiomiopatia hipertrófica OBSTRUTIVA: hipertrofia assimétrica do septo (≥15mm), gradiente significativo de VSVE (>30mmHg indica obstrução), síncope aos esforços (por obstrução dinâmica) e história familiar positiva de morte súbita (herança autossômica dominante). O gradiente >30mmHg confirma a forma obstrutiva com obstrução dinâmica da via de saída. As demais alternativas não explicam o gradiente obstrutivo e a hipertrofia assimétrica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o padrão de herança genética e as principais proteínas envolvidas na cardiomiopatia hipertrófica?",
+    "options": [
+      "Herança poligênica multifatorial com mutações em genes que codificam proteínas dos canais iônicos do miocárdio",
+      "Herança autossômica recessiva com mutações em genes que codificam proteínas da matriz extracelular do miocárdio",
+      "Herança mitocondrial materna com mutações em genes que codificam proteínas estruturais dos desmossomos cardíacos",
+      "Herança autossômica dominante com mutações em genes que codificam proteínas sarcoméricas contráteis do miocárdio",
+      "Herança ligada ao cromossomo X com mutações em genes que codificam proteínas mitocondriais do metabolismo energético"
+    ],
+    "correctIndex": 3,
+    "explanation": "A cardiomiopatia hipertrófica é uma doença genética de herança autossômica dominante (50% de chance de transmissão aos filhos), causada predominantemente por mutações em genes que codificam proteínas sarcoméricas (MYH7, MYBPC3 são as mais comuns). Essas proteínas são responsáveis pela contração cardíaca. O defeito nas proteínas sarcoméricas leva ao espessamento anormal do miocárdio. As demais alternativas apresentam padrões de herança ou proteínas incorretas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os critérios diagnósticos de espessura miocárdica para cardiomiopatia hipertrófica em adultos?",
+    "options": [
+      "Espessura diastólica final ≥25mm em segmento apical isolado ou ≥22mm em familiares de paciente com Fabry ou teste genético não realizado",
+      "Espessura sistólica máxima ≥12mm em qualquer segmento ventricular ou ≥10mm em familiares de paciente com miocardite ou teste genético inconclusivo",
+      "Espessura sistólica máxima ≥18mm em qualquer segmento ventricular ou ≥16mm em familiares de paciente com CMD ou teste genético negativo",
+      "Espessura diastólica final ≥20mm em segmento septal anterior ou ≥18mm em familiares de paciente com amiloidose ou teste genético indeterminado",
+      "Espessura diastólica final ≥15mm em qualquer segmento ventricular ou ≥13mm em familiares de paciente com CMH ou teste genético positivo"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os critérios diagnósticos para CMH em adultos estabelecem espessura diastólica final ≥15mm em qualquer segmento ventricular (população geral) ou ≥13mm quando há contexto familiar positivo (familiar de 1º grau com CMH) ou teste genético positivo para mutação sarcomérica. Esses critérios são medidos por ecocardiografia ou ressonância magnética cardíaca. As demais alternativas apresentam valores incorretos ou critérios não estabelecidos pelas diretrizes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a diferença entre cardiomiopatia hipertrófica obstrutiva e não obstrutiva?",
+    "options": [
+      "CMH obstrutiva apresenta gradiente de via de saída do VE >30mmHg com obstrução dinâmica; CMH não obstrutiva tem gradiente <30mmHg",
+      "CMH obstrutiva apresenta estenose aórtica subvalvar congênita associada; CMH não obstrutiva tem via de saída do VE completamente livre",
+      "CMH obstrutiva apresenta obstrução valvar mitral fixa estrutural significativa; CMH não obstrutiva tem valva mitral anatomicamente normal sempre",
+      "CMH obstrutiva apresenta vegetação endocárdica em septo interventricular; CMH não obstrutiva tem endocárdio liso sem irregularidades evidentes",
+      "CMH obstrutiva apresenta trombose intracavitária obstrutiva em via de saída; CMH não obstrutiva tem fluxo laminar sem turbulência mensurada"
+    ],
+    "correctIndex": 0,
+    "explanation": "A CMH obstrutiva é caracterizada por obstrução dinâmica da via de saída do ventrículo esquerdo (VSVE) com gradiente >30mmHg em repouso ou provocado, causada pelo movimento sistólico anterior da valva mitral (SAM). A CMH não obstrutiva apresenta gradiente <30mmHg. Esta distinção é importante pois a forma obstrutiva pode necessitar de tratamentos específicos como miectomia septal ou ablação septal alcoólica. As demais alternativas não descrevem corretamente a diferença entre as formas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado eletrocardiográfico é característico da cardiomiopatia hipertrófica?",
+    "options": [
+      "Intervalo PR progressivamente prolongado nas derivações inferiores refletindo o bloqueio atrioventricular de primeiro grau",
+      "Onda Q patológica nas derivações laterais exclusivamente refletindo a necrose miocárdica transmural isquêmica prévia",
+      "Diminuição da voltagem do complexo QRS nas derivações periféricas refletindo a infiltração amiloide do miocárdio",
+      "Segmento ST supradesnivelado nas derivações anteriores refletindo o infarto agudo do miocárdio em evolução",
+      "Aumento da voltagem do complexo QRS nas derivações precordiais refletindo o aumento da massa miocárdica ventricular"
+    ],
+    "correctIndex": 4,
+    "explanation": "O achado eletrocardiográfico típico da CMH é o aumento da voltagem do QRS (critérios de hipertrofia ventricular esquerda), refletindo o aumento da massa muscular cardíaca. Outros achados podem incluir alterações de repolarização, ondas Q patológicas (não isquêmicas) e inversão de onda T. As demais alternativas descrevem achados de outras condições: baixa voltagem é típica de amiloidose, PR longo sugere BAV, supradesnível de ST indica IAM, e ondas Q laterais isoladas não são características de CMH.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual exame de imagem é fundamental para identificar fibrose miocárdica na cardiomiopatia hipertrófica e qual achado característico?",
+    "options": [
+      "Ressonância magnética cardíaca demonstrando realce tardio pelo gadolínio indicando presença de fibrose miocárdica intersticial",
+      "Radiografia simples de tórax demonstrando cardiomegalia importante indicando dilatação das câmaras cardíacas bilateralmente",
+      "Tomografia computadorizada com contraste demonstrando calcificação coronariana indicando doença aterosclerótica coronariana grave",
+      "Ecocardiografia transesofágica tridimensional demonstrando trombos intracavitários indicando estado de hipercoagulabilidade sistêmica",
+      "Cintilografia miocárdica com tecnécio demonstrando defeito perfusional reversível indicando isquemia miocárdica induzida por esforço"
+    ],
+    "correctIndex": 0,
+    "explanation": "A ressonância magnética cardíaca é o exame padrão-ouro para caracterização tecidual na CMH, permitindo identificar fibrose miocárdica através do realce tardio pelo gadolínio. A presença e extensão da fibrose têm valor prognóstico, correlacionando-se com risco de arritmias e morte súbita. As demais alternativas não são específicas para avaliar fibrose na CMH: TC avalia calcificação coronariana, cintilografia avalia perfusão, RX mostra apenas silhueta cardíaca, e ETE avalia trombos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais diagnósticos diferenciais da cardiomiopatia hipertrófica que também cursam com espessamento miocárdico?",
+    "options": [
+      "Doença de Chagas com fibrose cicatricial extensa, pericardite constritiva com espessamento pericárdico e estenose aórtica valvar",
+      "Endocardite infecciosa com vegetações valvares, dissecção aórtica aguda com hematoma intramural e infarto agudo de miocárdio",
+      "Miocardite viral aguda com edema inflamatório, embolia pulmonar com sobrecarga de VD e derrame pericárdico volumoso",
+      "Doença de Fabry com deposição intracelular de glicogênio, amiloidose com infiltração intersticial e cardiomiopatia hipertensiva",
+      "Cor pulmonale crônico com hipertrofia de VD, estenose mitral reumática com dilatação atrial e tamponamento cardíaco"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os principais diagnósticos diferenciais da CMH são condições que também causam espessamento miocárdico: Doença de Fabry (deposição lisosomal de glicoesfingolipídeos - intracelular), amiloidose (deposição de proteína amilóide - intersticial) e cardiomiopatia hipertensiva (hipertrofia secundária à HAS crônica). Todos podem cursar com aumento da espessura da parede ventricular. As demais alternativas apresentam doenças que não causam hipertrofia miocárdica primária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual aspecto evolutivo é característico da cardiomiopatia hipertrófica relacionado ao crescimento do miocárdio?",
+    "options": [
+      "A hipertrofia miocárdica se desenvolve exclusivamente na infância e permanece estável durante toda a adolescência e vida adulta",
+      "A hipertrofia miocárdica regride espontaneamente após os 50 anos com normalização completa da espessura da parede ventricular",
+      "A hipertrofia miocárdica progride continuamente ao longo da vida com aumento de 2-3mm por ano independente do genótipo",
+      "A hipertrofia miocárdica aumenta até atingir o limite determinado geneticamente e então se estabiliza sem progressão adicional",
+      "A hipertrofia miocárdica oscila ciclicamente entre períodos de crescimento e regressão conforme variações hormonais sazonais"
+    ],
+    "correctIndex": 3,
+    "explanation": "Uma característica importante da CMH é que a hipertrofia miocárdica é determinada geneticamente e cresce até atingir um patamar definido, após o qual se estabiliza. Não há progressão contínua indefinida. Isso diferencia a CMH da hipertrofia secundária à hipertensão, que pode progredir enquanto a sobrecarga persistir. As demais alternativas apresentam conceitos incorretos sobre a evolução da hipertrofia na CMH.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 28 anos, atleta, com história familiar de morte súbita. ECG mostra hipertrofia ventricular esquerda. Ecocardiograma revela espessamento septal de 19mm, SAM e gradiente de VSVE de 65mmHg. RMC mostra realce tardio em 15% do miocárdio. Qual conduta está indicada?",
+    "options": [
+      "Indicar transplante cardíaco urgente em fila prioritária, suspender toda medicação cardiovascular e internar para monitorização contínua permanente",
+      "Realizar cateterismo cardíaco imediato com angioplastia coronariana, prescrever nitratos sublinguais e liberar para competições esportivas profissionais",
+      "Iniciar anticoagulação oral indefinida com varfarina, manter atividades físicas competitivas liberadas e acompanhamento clínico semestral apenas",
+      "Estratificação de risco para morte súbita considerando CDI, restrição de atividades físicas intensas e avaliação para terapia redutora de gradiente",
+      "Administrar trombolítico endovenoso em protocolo de IAM, realizar ecocardiograma transesofágico seriado e manter repouso absoluto no leito"
+    ],
+    "correctIndex": 3,
+    "explanation": "Este paciente apresenta múltiplos fatores de risco para morte súbita na CMH: idade jovem, atleta, história familiar de MS, obstrução importante (gradiente 65mmHg) e fibrose extensa (realce tardio 15%). Está indicada estratificação de risco com possível indicação de CDI, restrição de esportes competitivos e, pela obstrução significativa sintomática, avaliar terapias redutoras de gradiente (medicamentosa, miectomia ou ablação septal). As demais alternativas propõem condutas inadequadas ou potencialmente prejudiciais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 35 anos com CMH obstrutiva, espessamento septal de 22mm, gradiente de VSVE de 80mmHg em repouso. Apresenta dispneia classe funcional III apesar de terapia medicamentosa otimizada. ECG mostra TV não sustentada. Qual a melhor conduta?",
+    "options": [
+      "Indicar valvoplastia mitral percutânea por cateter balão para corrigir a obstrução funcional e melhorar classe funcional rapidamente",
+      "Manter apenas observação clínica ambulatorial trimestral sem intervenção adicional aguardando evolução natural da doença para decidir posteriormente",
+      "Considerar miectomia septal cirúrgica ou ablação septal alcoólica para redução do gradiente associado à implante de CDI para prevenção primária",
+      "Administrar terapia trombolítica sistêmica para dissolver possível trombo obstrutivo intracavitário e restaurar fluxo anterógrado normal imediatamente",
+      "Realizar angioplastia coronariana com stent farmacológico em descendente anterior para melhorar perfusão miocárdica e reduzir sintomas progressivamente"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paciente com CMH obstrutiva grave sintomática (dispneia CF III) refratária ao tratamento clínico, com gradiente importante (80mmHg) e TV não sustentada. Está indicada terapia de redução de gradiente (miectomia cirúrgica ou ablação septal alcoólica) associada a CDI para prevenção primária de morte súbita (pelos fatores de risco: TV, obstrução grave, hipertrofia importante). As demais alternativas não são apropriadas para CMH obstrutiva sintomática.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a fisiopatologia básica da amiloidose cardíaca?",
+    "options": [
+      "Acúmulo de glicogênio nos lisossomos dos cardiomiócitos levando à ruptura celular progressiva por sobrecarga de volume intracelular",
+      "Acúmulo de proteína amilóide insolúvel no interstício miocárdico levando ao aumento progressivo da espessura e rigidez da parede ventricular",
+      "Acúmulo de cálcio nas fibras musculares cardíacas levando à contratura permanente por falência da bomba de cálcio sarcoplasmática",
+      "Acúmulo de lipídios oxidados nas membranas celulares miocárdicas levando à disfunção contrátil progressiva por toxicidade mitocondrial direta",
+      "Acúmulo de ferro nos capilares coronarianos levando à isquemia crônica progressiva por obstrução microvascular difusa irreversível"
+    ],
+    "correctIndex": 1,
+    "explanation": "A amiloidose cardíaca é causada pela deposição de proteína amilóide insolúvel no espaço intersticial (extracelular) do miocárdio. Isso leva ao aumento progressivo da espessura da parede ventricular (que parece hipertrofia mas é infiltração) e, principalmente, aumento da rigidez miocárdica, causando disfunção diastólica restritiva. Com a progressão, pode evoluir para disfunção sistólica. As demais alternativas descrevem mecanismos de outras doenças.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais tipos de amiloidose cardíaca?",
+    "options": [
+      "Amiloidose AH por cadeia pesada de imunoglobulina, AIAPP por polipeptídeo amilina e AFib por fibrinogênio alfa específico",
+      "Amiloidose AL por cadeia leve de imunoglobulina, ATTR por transtirretina selvagem e ATTR por transtirretina hereditária mutada",
+      "Amiloidose AApoA1 por apolipoproteína A1, AGel por gelsolina e ALys por lisozima em populações escandinavas predominantemente",
+      "Amiloidose AB2M por beta-2-microglobulina dialítica, ACys por cistatina C e ABri por proteína ABri britânica familiar",
+      "Amiloidose AA por proteína amilóide sérica, ALECT2 por leucocitária e AA por proteína beta-amiloide cerebral exclusivamente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os principais tipos de amiloidose cardíaca são: (1) AL - por deposição de cadeias leves de imunoglobulinas (associada a discrasias de plasmócitos), (2) ATTRwt - por transtirretina selvagem (wild-type, senil) e (3) ATTRv - por transtirretina variante/hereditária (mutações genéticas). Estes três tipos representam >95% dos casos de amiloidose cardíaca. As demais alternativas citam tipos raros que raramente afetam o coração ou são extremamente incomuns.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o perfil demográfico típico da amiloidose cardíaca por transtirretina selvagem (ATTRwt)?",
+    "options": [
+      "Homens com idade superior a 70 anos, sem predileção por origem étnica específica, com manifestações predominantemente cardíacas",
+      "Mulheres com idade superior a 80 anos, sem predileção por origem étnica específica, com manifestações predominantemente hepáticas fulminantes",
+      "Homens com idade entre 30-40 anos, com predileção por origem africana subsaariana, com manifestações predominantemente renais graves",
+      "Mulheres com idade entre 40-50 anos, com predileção por origem asiática exclusivamente, com manifestações predominantemente neurológicas",
+      "Homens com idade entre 50-60 anos, com predileção por origem mediterrânea oriental, com manifestações predominantemente pulmonares intersticiais"
+    ],
+    "correctIndex": 0,
+    "explanation": "A amiloidose cardíaca por transtirretina selvagem (ATTRwt), anteriormente chamada senil, afeta predominantemente homens (>90%) com idade superior a 70 anos, sem predileção étnica. A manifestação é predominantemente cardíaca (cardiomiopatia restritiva). É uma causa importante e subdiagnosticada de insuficiência cardíaca em idosos. As demais alternativas apresentam perfis demográficos incorretos para ATTRwt.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o perfil da amiloidose cardíaca por cadeia leve (AL)?",
+    "options": [
+      "Idade superior a 60 anos, discreto predomínio masculino, associada a gamopatia monoclonal com manifestações multiorgânicas frequentes incluindo renal e neurológica",
+      "Idade superior a 70 anos, forte predomínio feminino, associada a doenças tireoidianas com manifestações oftalmológicas exoftalmo exclusivo",
+      "Idade entre 20-30 anos, igual distribuição entre sexos, associada a infecções crônicas com manifestações pulmonares cavitárias predominantes",
+      "Idade superior a 80 anos, forte predomínio masculino, associada a neoplasias sólidas com manifestações gastrintestinais exclusivas sem acometimento cardíaco",
+      "Idade entre 30-40 anos, discreto predomínio feminino, associada a doenças autoimunes com manifestações dermatológicas predominantes isoladas"
+    ],
+    "correctIndex": 0,
+    "explanation": "A amiloidose AL (cadeia leve) geralmente afeta pacientes >60 anos, com leve predomínio masculino. Está associada a discrasias de plasmócitos (mieloma múltiplo, gamopatia monoclonal). Apresenta manifestações multiorgânicas: cardíaca, renal (proteinúria), neurológica (neuropatia periférica), macroglossia, púrpura periorbitária. Tem pior prognóstico que ATTR. As demais alternativas apresentam perfis incorretos ou associações inadequadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as pistas clínicas (red flags) que sugerem amiloidose cardíaca?",
+    "options": [
+      "Bloqueio atrioventricular total adquirido na juventude, cardiomiopatia periparto recente, história de uso de cocaína recreativa",
+      "Doença arterial coronariana multiarterial extensa, tabagismo ativo intenso por décadas, dislipidemia familiar heterozigótica grave",
+      "Síndrome do túnel do carpo bilateral precedendo insuficiência cardíaca, estenose de canal vertebral, ruptura espontânea do tendão do bíceps",
+      "Hipertensão arterial sistêmica grave refratária a múltiplas drogas, diabetes mellitus tipo 2 descompensado, obesidade mórbida classe III",
+      "Fibrilação atrial paroxística de início recente, valvopatia mitral degenerativa moderada, dilatação atrial esquerda isolada importante"
+    ],
+    "correctIndex": 2,
+    "explanation": "As pistas clínicas (red flags) para amiloidose incluem: síndrome do túnel do carpo bilateral (especialmente precedendo IC em anos), estenose de canal vertebral lombar, ruptura espontânea ou por trauma leve do tendão do bíceps, disfunção autonômica, neuropatia periférica, macroglossia e púrpura periorbitária. Essas manifestações extracardíacas precedem ou acompanham a IC. As demais alternativas apresentam fatores de risco ou manifestações de outras cardiopatias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o achado eletrocardiográfico clássico e paradoxal da amiloidose cardíaca?",
+    "options": [
+      "Voltagem diminuída do QRS apenas nas derivações inferiores contrastando com voltagem normal nas demais ao ecocardiograma, relação voltagem/massa variável",
+      "Voltagem aumentada do QRS apenas nas derivações precordiais esquerdas proporcional à hipertrofia septal ao ecocardiograma, relação voltagem/massa normal",
+      "Alta voltagem do QRS em todas as derivações proporcional ao grau de hipertrofia ventricular ao ecocardiograma, relação voltagem/massa adequada",
+      "Voltagem normal do QRS em todas as derivações independente da espessura ventricular ao ecocardiograma, relação voltagem/massa preservada sempre",
+      "Baixa voltagem do QRS nas derivações periféricas contrastando com espessamento ventricular significativo ao ecocardiograma, relação voltagem/massa desproporcional"
+    ],
+    "correctIndex": 4,
+    "explanation": "O achado eletrocardiográfico clássico da amiloidose é a baixa voltagem do QRS (principalmente em derivações periféricas) apesar do aumento da espessura da parede ventricular ao eco - uma relação voltagem/massa desproporcional. Isso ocorre porque a infiltração amilóide diminui a condução elétrica. Outro achado comum é o padrão de pseudoinfarto (ondas Q sem IAM prévio). As demais alternativas não descrevem esse achado paradoxal característico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os achados ecocardiográficos sugestivos de amiloidose cardíaca?",
+    "options": [
+      "Espessamento de septo interventricular ≥12mm, padrão granular cintilante do miocárdio, strain longitudinal com preservação apical característica",
+      "Dilatação de aorta ascendente >50mm, regurgitação aórtica importante, fluxo diastólico reverso em aorta descendente proeminente",
+      "Espessamento pericárdico significativo >4mm, derrame pericárdico volumoso, sinais de tamponamento cardíaco com colapso de câmaras direitas",
+      "Hipertrofia ventricular direita isolada importante, dilatação de artéria pulmonar, sinais de hipertensão pulmonar grave com PAP >60mmHg",
+      "Dilatação importante de ventrículo esquerdo, fração de ejeção <30%, hipercinesia compensatória de segmentos basais preservados"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os achados ecocardiográficos da amiloidose incluem: espessamento das paredes ventriculares (≥12mm, geralmente mais difuso que na CMH), aspecto granular/cintilante do miocárdio (pela infiltração) e, principalmente, o padrão de strain longitudinal com preservação apical relativa (apical sparing - o ápice deforma mais que a base, ao contrário do normal). Esses achados são característicos e ajudam no diagnóstico. As demais alternativas descrevem achados de outras condições.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Homem de 75 anos, hipertenso, com ICC recente. Eco mostra espessamento septal de 14mm. ECG com baixa voltagem. História de síndrome do túnel do carpo bilateral há 4 anos. Irmão com ICC aos 78 anos. Qual é o diagnóstico mais provável e próximo passo diagnóstico?",
+    "options": [
+      "Cardiomiopatia hipertrófica tardia; realizar teste genético para mutações sarcoméricas e ecocardiograma de estresse para gradiente provocado",
+      "Amiloidose cardíaca por transtirretina selvagem; realizar cintilografia com pirofosfato/DPD e eletroforese de proteínas séricas para confirmar diagnóstico",
+      "Cardiomiopatia hipertensiva secundária; realizar MAPA de 24 horas e ajustar esquema anti-hipertensivo para controle pressórico adequado",
+      "Cardiomiopatia dilatada idiopática inicial; realizar biópsia endomiocárdica e iniciar terapia quádrupla para insuficiência cardíaca com FE reduzida",
+      "Doença arterial coronariana crônica; realizar cineangiocoronariografia imediata e considerar revascularização miocárdica percutânea ou cirúrgica"
+    ],
+    "correctIndex": 1,
+    "explanation": "O caso apresenta múltiplas red flags para amiloidose ATTRwt: homem >70 anos, ICC, espessamento ventricular com baixa voltagem no ECG (discordância voltagem/massa), síndrome do túnel do carpo bilateral precedendo IC. A investigação deve incluir cintilografia óssea (pirofosfato/DPD/PYP) que capta ATTR, e eletroforese de proteínas para excluir AL. Se cintilografia positiva grau 2-3 e sem gamopatia, confirma ATTRwt sem necessidade de biópsia. As demais alternativas não explicam a constelação de achados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 62 anos com ICC classe funcional III, espessamento ventricular de 16mm, baixa voltagem no ECG, macroglossia e proteinúria 2g/24h. Eletroforese mostra pico monoclonal IgG lambda. Qual é o diagnóstico e implicação prognóstica?",
+    "options": [
+      "Amiloidose ATTR hereditária com manifestação cardíaca isolada; melhor prognóstico, necessita apenas acompanhamento cardiológico de rotina ambulatorial",
+      "Amiloidose AA secundária a inflamação crônica exclusiva; excelente prognóstico, necessita apenas controle da doença inflamatória de base subjacente",
+      "Síndrome nefrótica primária com miocardiopatia secundária; prognóstico favorável, necessita apenas imunossupressão renal com corticoterapia sistêmica",
+      "Amiloidose AL por cadeia leve com acometimento multiorgânico; pior prognóstico, necessita tratamento da discrasia plasmocitária e suporte multiorgânico",
+      "Mieloma múltiplo com cardiotoxicidade por quimioterapia prévia; prognóstico intermediário, necessita ajuste do esquema quimioterápico oncológico"
+    ],
+    "correctIndex": 3,
+    "explanation": "O caso é típico de amiloidose AL: idade ~60 anos, manifestações multiorgânicas (cardíaca com ICC, macroglossia, renal com proteinúria) e gamopatia monoclonal confirmada. A AL tem pior prognóstico que ATTR (sobrevida média sem tratamento ~6-18 meses após início da IC). Requer tratamento da discrasia plasmocitária (bortezomibe, daratumumabe) para reduzir produção de cadeias leves e suporte de órgãos afetados. As demais alternativas não explicam a combinação de achados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a definição de cardiomiopatia dilatada idiopática?",
+    "options": [
+      "Dilatação do átrio esquerdo isolada associada a disfunção atrial na ausência de valvopatia mitral ou aórtica significativa conhecida",
+      "Dilatação do ventrículo direito isolada associada a hipertensão pulmonar primária na ausência de doença pulmonar parenquimatosa crônica",
+      "Dilatação biatrial desproporcional associada a disfunção diastólica na ausência de fibrilação atrial crônica ou estenose mitral reumática",
+      "Dilatação do ventrículo esquerdo associada a disfunção sistólica na ausência de etiologia identificada como isquemia, hipertensão ou valvopatia",
+      "Dilatação da aorta ascendente associada a insuficiência aórtica na ausência de síndrome de Marfan ou dissecção aórtica prévia"
+    ],
+    "correctIndex": 3,
+    "explanation": "A cardiomiopatia dilatada (CMD) idiopática caracteriza-se pela presença de dilatação ventricular esquerda (DDVE aumentado) associada à disfunção sistólica (FEVE reduzida, tipicamente <45%) nos casos em que não foi possível identificar uma causa específica (como DAC, HAS, valvopatia, álcool, quimioterapia, infecções). É um diagnóstico de exclusão. As demais alternativas descrevem outras condições que não são CMD idiopática.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os critérios diagnósticos hemodinâmicos da cardiomiopatia dilatada?",
+    "options": [
+      "Fração de ejeção do ventrículo direito <40% associada a diâmetro diastólico indexado >3,5cm/m² em homens ou >3,3cm/m² em mulheres",
+      "Fração de ejeção do ventrículo esquerdo >55% associada a diâmetro sistólico indexado <1,5cm/m² em homens ou <1,4cm/m² em mulheres",
+      "Fração de ejeção do ventrículo esquerdo entre 40-50% associada a diâmetro diastólico indexado normal <2,4cm/m² em ambos os sexos",
+      "Fração de ejeção biventricular >60% associada a volumes sistólicos indexados aumentados >100ml/m² em homens ou >90ml/m² em mulheres",
+      "Fração de ejeção do ventrículo esquerdo <45% associada a diâmetro diastólico indexado >2,7cm/m² em homens ou >2,6cm/m² em mulheres"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os critérios para CMD incluem FEVE reduzida (<45%, alguns autores usam <40-50%) associada à dilatação ventricular, definida por DDVE indexado >2,7cm/m² em homens ou >2,6cm/m² em mulheres (ou volume diastólico final indexado >75ml/m² em homens ou >62ml/m² em mulheres). A presença de ambos - disfunção sistólica E dilatação - é necessária para o diagnóstico. As demais alternativas apresentam valores incorretos ou não caracterizam CMD.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais causas de cardiomiopatia dilatada secundária (não idiopática)?",
+    "options": [
+      "Causas genéticas familiares, infecções virais miocárdicas, toxicidade por álcool ou quimioterápicos, doenças sistêmicas inflamatórias e distúrbios hormonais",
+      "Causas traumáticas torácicas fechadas, infecções fúngicas sistêmicas, toxicidade por antibióticos betalactâmicos, neoplasias hematológicas e distúrbios da coagulação sanguínea",
+      "Causas obstétricas exclusivas do puerpério, infecções protozoárias hepáticas, toxicidade por antidepressivos tricíclicos, nefropatias glomerulares e distúrbios tireoidianos autoimunes isolados",
+      "Causas iatrogênicas cirúrgicas cardíacas, infecções parasitárias intestinais, toxicidade por anticonvulsivantes de primeira geração, pneumopatias intersticiais e distúrbios do metabolismo lipídico",
+      "Causas exclusivamente congênitas anatômicas, infecções bacterianas valvares, toxicidade por anti-inflamatórios não esteroidais, colagenoses cutâneas e distúrbios eletrolíticos agudos"
+    ],
+    "correctIndex": 0,
+    "explanation": "As causas secundárias de CMD incluem: (1) genéticas/familiares (mutações em genes de proteínas estruturais - 20-50% dos casos), (2) infecciosas (principalmente virais - Coxsackie, parvovírus B19, HIV), (3) tóxicas (álcool, quimioterapia - doxorrubicina, trastuzumabe), (4) inflamatórias (miocardite, sarcoidose, lúpus, esclerodermia), (5) hormonais (hiper/hipotireoidismo, feocromocitoma). As demais alternativas misturam causas raras ou incorretas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os achados ecocardiográficos típicos da cardiomiopatia dilatada?",
+    "options": [
+      "Espessamento do pericárdio >4mm, fração de ejeção reduzida de ventrículo direito, movimentação septal restritiva e calcificações pericárdicas extensas difusas",
+      "Dilatação importante do ventrículo esquerdo, fração de ejeção reduzida global, movimento paradoxal do septo interventricular e regurgitação mitral funcional",
+      "Dilatação isolada do átrio esquerdo, fração de ejeção do ventrículo esquerdo preservada, prolapso valvar mitral posterior e regurgitação aórtica moderada excêntrica",
+      "Hipertrofia concêntrica importante do ventrículo esquerdo, fração de ejeção preservada supranormal, movimento sistólico anterior mitral e gradiente dinâmico obstructivo",
+      "Espessamento difuso de paredes ventriculares, fração de ejeção levemente reduzida focal, padrão granular do miocárdio e derrame pericárdico volumoso associado"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os achados ecocardiográficos da CMD incluem: dilatação importante de VE (aumento do DDVE e volumes), FEVE reduzida com hipocinesia global difusa, movimento ventricular descoordenado, e frequentemente regurgitação mitral funcional (por dilatação do anel mitral e deslocamento de músculos papilares). Pode haver dilatação de outras câmaras. As demais alternativas descrevem achados de outras cardiomiopatias (CMH, amiloidose, pericardite constritiva).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o princípio geral de tratamento da cardiomiopatia dilatada idiopática?",
+    "options": [
+      "Tratamento medicamentoso otimizado para insuficiência cardíaca com fração de ejeção reduzida incluindo IECA/BRA, betabloqueador, antagonista mineralocorticoide e iSGLT2",
+      "Tratamento exclusivamente cirúrgico com transplante cardíaco imediato em todos os casos independente da classe funcional ou resposta à terapia medicamentosa inicial",
+      "Tratamento direcionado para ablação por cateter de focos arritmogênicos ventriculares como terapia primária para prevenir progressão da dilatação ventricular secundária",
+      "Tratamento focado em anticoagulação oral indefinida com varfarina mantendo INR entre 3-4 para prevenir formação de trombos intracavitários ventriculares múltiplos",
+      "Tratamento baseado em corticoterapia sistêmica em altas doses por tempo prolongado para suprimir processo inflamatório miocárdico ativo persistente subclínico"
+    ],
+    "correctIndex": 0,
+    "explanation": "O tratamento da CMD idiopática segue os princípios do manejo da insuficiência cardíaca com fração de ejeção reduzida (ICFEr): terapia medicamentosa otimizada (GDMT) com IECA ou BRA, betabloqueador, antagonista mineralocorticoide (espironolactona) e iSGLT2 (dapagliflozina/empagliflozina). Dispositivos (CDI, ressincronizador) ou transplante são considerados em casos específicos. As demais alternativas não representam a abordagem padrão inicial da CMD.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quando está indicada a biópsia endomiocárdica na investigação de cardiomiopatia dilatada?",
+    "options": [
+      "Indicação obrigatória antes de iniciar qualquer terapia para ICFEr para documentar histologicamente o grau de fibrose miocárdica e guiar intensidade terapêutica",
+      "Indicação restrita a pacientes em classe funcional IV refratária como último recurso diagnóstico antes de listar para transplante cardíaco urgente emergencial",
+      "Suspeita de causas específicas tratáveis como miocardite de células gigantes, sarcoidose cardíaca, amiloidose ou rejeição de transplante quando outros métodos são inconclusivos",
+      "Indicação rotineira universal obrigatória em todos os casos de CMD recém-diagnosticada para estabelecer diagnóstico etiológico específico e prognóstico individualizado preciso",
+      "Indicação exclusiva em pacientes com idade inferior a 40 anos para rastreamento de causas genéticas raras que não podem ser identificadas por teste genético molecular"
+    ],
+    "correctIndex": 2,
+    "explanation": "A biópsia endomiocárdica NÃO é rotineira na CMD. Está indicada em situações específicas quando há suspeita de causas tratáveis que não podem ser confirmadas por métodos não invasivos: miocardite de células gigantes, sarcoidose cardíaca, amiloidose (quando cintilografia/eletroforese inconclusivas), hemocromatose, ou para avaliar rejeição de transplante. É um procedimento com riscos, portanto deve ser reservado para casos selecionados. As demais alternativas sugerem indicações muito amplas ou restritas incorretamente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Homem de 42 anos, etilista crônico, apresenta dispneia progressiva há 3 meses. Eco mostra DDVE 72mm (indexado 3,2cm/m²), FEVE 28%, regurgitação mitral moderada. Coronariografia normal. Provas inflamatórias normais. Qual diagnóstico e conduta inicial?",
+    "options": [
+      "Cardiomiopatia de Takotsubo; observação hospitalar em unidade coronariana, aguardar recuperação espontânea em 4-6 semanas sem introduzir medicações específicas",
+      "Cardiomiopatia dilatada alcoólica; suspensão completa de álcool, iniciar IECA, betabloqueador, espironolactona e iSGLT2, avaliar resposta em 3-6 meses",
+      "Cardiomiopatia hipertrófica em fase dilatada; realizar ressonância magnética para pesquisar realce tardio e considerar implante de CDI para prevenção primária imediata",
+      "Cardiomiopatia isquêmica crônica; realizar cineangiocoronariografia com reavaliação de lesões coronarianas distais e considerar revascularização cirúrgica mesmo com coronárias normais",
+      "Miocardite viral aguda; realizar biópsia endomiocárdica imediata, iniciar imunossupressão com corticoides e azatioprina em doses imunossupressoras plenas"
+    ],
+    "correctIndex": 1,
+    "explanation": "O caso é típico de cardiomiopatia dilatada alcoólica: etilista crônico, CMD (dilatação importante + FEVE muito reduzida), coronárias normais. A conduta essencial é SUSPENSÃO COMPLETA E DEFINITIVA DO ÁLCOOL (fundamental - pode haver melhora ou até recuperação completa em alguns casos) associada ao tratamento padrão de ICFEr (IECA/BRA, BB, espironolactona, iSGLT2). Avaliar resposta em 3-6 meses. As demais alternativas não são apropriadas para este caso.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a fisiopatologia da cardiomiopatia restritiva?",
+    "options": [
+      "Hipertrofia concêntrica excessiva do miocárdio por sobrecarga pressórica sustentada levando à obstrução dinâmica da via de saída durante sístole máxima",
+      "Dilatação progressiva das câmaras cardíacas por sobrecarga volumétrica crônica levando à disfunção sistólica com remodelamento excêntrico do ventrículo esquerdo",
+      "Rigidez aumentada do miocárdio por substituição por tecido cicatricial fibrótico ou acúmulo de substâncias levando à disfunção diastólica com enchimento ventricular prejudicado",
+      "Espessamento do pericárdio por calcificações difusas levando à restrição mecânica extrínseca das câmaras cardíacas durante expansão diastólica progressiva",
+      "Contratilidade aumentada do miocárdio por hiperatividade simpática crônica levando à disfunção sistólica com esvaziamento ventricular acelerado e descompensado"
+    ],
+    "correctIndex": 2,
+    "explanation": "A cardiomiopatia restritiva caracteriza-se por rigidez miocárdica aumentada (perda da complacência) causada por substituição fibrótica do miocárdio ou infiltração/acúmulo de substâncias (amiloide, ferro, etc). Isso leva à disfunção diastólica com prejuízo do enchimento ventricular. O resultado é fisiologia restritiva: aumento de pressões de enchimento, dilatação atrial importante (átrios tentam vencer a rigidez ventricular), mas ventrículos não dilatados. As demais alternativas descrevem outras fisiopatologias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os achados clínicos e de imagem característicos da cardiomiopatia restritiva?",
+    "options": [
+      "Dilatação importante de ventrículo direito isolado com átrio direito normal, padrão Doppler com insuficiência tricúspide grave e PAP sistólica >60mmHg estimada",
+      "Ventrículos dilatados bilateralmente com átrios de tamanho normal, padrão Doppler de relaxamento anormal com E/A <1 e tempo de desaceleração >240ms",
+      "Átrios dilatados bilateralmente com ventrículos de tamanho normal, padrão Doppler restritivo com E/A >2 e tempo de desaceleração <150ms",
+      "Espessamento pericárdico >4mm com derrame volumoso, padrão Doppler com variação respiratória >25% do fluxo mitral e inversão paradoxal do septo",
+      "Hipertrofia ventricular concêntrica importante com átrios normais, padrão Doppler com gradiente dinâmico de via de saída >50mmHg e SAM importante"
+    ],
+    "correctIndex": 2,
+    "explanation": "A cardiomiopatia restritiva apresenta: (1) átrios muito dilatados (pela dificuldade de esvaziar contra ventrículos rígidos), (2) ventrículos de tamanho normal ou pouco aumentados (não dilatados), (3) padrão Doppler restritivo ao ecocardiograma - E/A >2 (enchimento rápido inicial por gradiente de pressão alto), tempo de desaceleração curto (<150ms). Clinicamente: ICC com sinais congestivos, fibrilação atrial frequente. As demais alternativas descrevem outros padrões.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a diferença fundamental entre cardiomiopatia restritiva e pericardite constritiva?",
+    "options": [
+      "Cardiomiopatia restritiva tem origem exclusivamente genética familiar; pericardite constritiva tem origem exclusivamente infecciosa tuberculosa pós-primária",
+      "Cardiomiopatia restritiva tem doença miocárdica primária com rigidez intrínseca; pericardite constritiva tem doença pericárdica com restrição extrínseca mecânica",
+      "Cardiomiopatia restritiva tem obstrução dinâmica de via de saída; pericardite constritiva tem obstrução fixa de valvas atrioventriculares por vegetações",
+      "Cardiomiopatia restritiva tem doença pericárdica com calcificações extensas; pericardite constritiva tem doença miocárdica com fibrose transmural difusa",
+      "Cardiomiopatia restritiva tem sobrecarga volumétrica crônica de VE; pericardite constritiva tem sobrecarga pressórica crônica de VD exclusivamente isolado"
+    ],
+    "correctIndex": 1,
+    "explanation": "A distinção fundamental é: cardiomiopatia restritiva é doença MIOCÁRDICA (rigidez do músculo cardíaco por fibrose, infiltração) enquanto pericardite constritiva é doença PERICÁRDICA (espessamento/calcificação do pericárdio causando restrição mecânica externa). Ambas causam fisiologia restritiva, mas a origem é diferente. A diferenciação é importante pois a constritiva pode ser tratada cirurgicamente (pericardiectomia). Sinais como variação respiratória do fluxo e movimento septal ajudam a diferenciar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a fisiopatologia da cardiomiopatia arritmogênica do ventrículo direito?",
+    "options": [
+      "Dilatação aneurismática do miocárdio ventricular direito por infarto prévio levando a formação de trombos murais e eventos embólicos pulmonares",
+      "Infiltração amilóide do miocárdio ventricular direito por deposição proteica levando a disfunção diastólica grave e fisiologia restritiva isolada",
+      "Hipertrofia concêntrica do miocárdio ventricular direito por sobrecarga pressórica levando a hipertensão pulmonar grave e cor pulmonale crônico",
+      "Substituição progressiva do miocárdio ventricular direito por tecido fibrogorduroso levando a arritmias ventriculares e disfunção sistólica do VD",
+      "Deposição de glicogênio no miocárdio ventricular direito por doença metabólica levando a espessamento das paredes e obstrução da via de saída"
+    ],
+    "correctIndex": 3,
+    "explanation": "A cardiomiopatia arritmogênica do ventrículo direito (CAVD) é caracterizada pela substituição progressiva do miocárdio normal do VD por tecido fibrogorduroso (fibrose + adipócitos). Isso predispõe a arritmias ventriculares (TV/FV) potencialmente fatais e disfunção sistólica do VD. É uma causa importante de morte súbita em jovens e atletas. Tem base genética (autossômica dominante, genes desmossomais). As demais alternativas descrevem outras condições que não são CAVD.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os critérios diagnósticos e achados no ECG da cardiomiopatia arritmogênica do VD?",
+    "options": [
+      "Critérios de Jones incluindo manifestações maiores e menores cardíacas e extracardíacas; ECG pode mostrar intervalo PR prolongado progressivo e taquicardia sinusal",
+      "Critérios de Framingham incluindo sinais clínicos de congestão pulmonar e sistêmica; ECG pode mostrar fibrilação atrial permanente e baixa voltagem difusa",
+      "Critérios Task Force 2010 incluindo alterações estruturais, histológicas, arritmias e repolarização; ECG pode mostrar onda epsilon e inversão de T em V1-V3",
+      "Critérios de Sgarbossa incluindo concordância de segmento ST e amplitude de onda; ECG pode mostrar supradesnivelamento de ST >5mm e bloqueio de ramo",
+      "Critérios Duke modificados incluindo hemoculturas positivas e ecocardiograma com vegetações; ECG pode mostrar bloqueio AV total e ritmo juncional de escape"
+    ],
+    "correctIndex": 2,
+    "explanation": "A CAVD é diagnosticada pelos Critérios da Task Force 2010 (revisados), que incluem: (1) alterações estruturais/funcionais do VD (dilatação, aneurismas, disfunção), (2) caracterização histológica (substituição fibrogordurosa), (3) alterações de repolarização no ECG (inversão T em V1-V3, onda epsilon - deflexão pós-QRS), (4) arritmias ventriculares com morfologia de BRE, (5) história familiar. A onda epsilon é muito específica mas pouco sensível. As demais alternativas citam critérios de outras doenças.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Jovem de 22 anos, atleta, apresenta síncope durante treino. ECG mostra inversão de onda T em V1-V3 e possível onda epsilon. Ecocardiograma revela dilatação de VD e disfunção sistólica regional. Pai faleceu subitamente aos 35 anos. Qual diagnóstico e conduta?",
+    "options": [
+      "Cardiomiopatia arritmogênica do ventrículo direito; suspender atividades esportivas competitivas, considerar CDI para prevenção de morte súbita e rastreamento familiar",
+      "Displasia arritmogênica do ventrículo esquerdo; manter atividades esportivas com supervisão médica, iniciar betabloqueador e reavaliar anualmente com Holter de rotina",
+      "Miocardite viral aguda predominante em ventrículo direito; internar para monitorização, iniciar imunossupressão com corticoides e aguardar resolução espontânea em semanas",
+      "Embolia pulmonar aguda maciça com cor pulmonale agudo; anticoagular imediatamente com heparina, realizar angiotomografia de tórax urgente e considerar trombólise sistêmica",
+      "Infarto agudo de miocárdio de ventrículo direito; realizar coronariografia imediata, angioplastia de coronária direita e iniciar dupla antiagregação plaquetária indefinidamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "O caso é típico de CAVD: jovem atleta, síncope durante esforço (arritmia ventricular), alterações típicas no ECG (inversão T em precordiais direitas, onda epsilon), dilatação e disfunção de VD ao eco, história familiar positiva (morte súbita do pai). Conduta: (1) SUSPENDER atividades esportivas competitivas (exercício pode acelerar progressão), (2) CDI para prevenção primária de morte súbita (paciente de alto risco), (3) rastreamento familiar. As demais alternativas não explicam o quadro ou propõem condutas inadequadas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a definição e fisiopatologia da cardiomiopatia de ventrículo esquerdo não dilatada?",
+    "options": [
+      "Disfunção diastólica do ventrículo esquerdo com dilatação importante, causada por sobrecarga volumétrica crônica que promove remodelamento excêntrico progressivo",
+      "Disfunção diastólica biventricular com dilatação atrial isolada, causada por rigidez miocárdica difusa que aumenta pressões de enchimento diastólico final",
+      "Disfunção sistólica do ventrículo esquerdo com hipertrofia concêntrica, causada por mutações sarcoméricas que geram obstrução dinâmica de via de saída",
+      "Disfunção sistólica do ventrículo direito sem dilatação ventricular, causada por substituição fibrogordurosa que predispõe a arritmias ventriculares malignas complexas",
+      "Disfunção sistólica do ventrículo esquerdo sem dilatação ventricular, causada por fibrose cicatricial intersticial que impede remodelamento excêntrico compensatório"
+    ],
+    "correctIndex": 4,
+    "explanation": "A cardiomiopatia de VE não dilatada caracteriza-se por disfunção sistólica (FEVE reduzida) mas SEM dilatação significativa do VE. Isso ocorre geralmente porque há fibrose miocárdica importante que impede o remodelamento excêntrico (dilatação) que normalmente acompanharia a disfunção sistólica. É uma forma menos comum, pode ser idiopática ou secundária (algumas formas de miocardite, infiltrativas). O prognóstico pode ser pior pela rigidez ventricular associada. As demais alternativas descrevem outros fenótipos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as possíveis causas da cardiomiopatia de ventrículo esquerdo não dilatada?",
+    "options": [
+      "Sobrecarga pressórica prolongada por hipertensão sistêmica, estenose aórtica valvar, coarctação de aorta ou hipertensão pulmonar arterial idiopática primária",
+      "Fibrose miocárdica extensa por miocardite prévia, doenças infiltrativas em fase inicial, mutações genéticas específicas ou cardiotoxicidade em fase precoce",
+      "Arritmias supraventriculares incessantes por flutter atrial, fibrilação atrial permanente, taquicardia atrial ectópica ou taquicardia juncional não paroxística automática",
+      "Sobrecarga volumétrica crônica por insuficiências valvares, shunts intracardíacos congênitos, fístulas arteriovenosas sistêmicas ou regurgitações aórticas graves agudas",
+      "Isquemia miocárdica crônica por aterosclerose coronariana, vasculites sistêmicas, espasmo coronariano recorrente ou síndrome antifosfolípide com tromboses recorrentes"
+    ],
+    "correctIndex": 1,
+    "explanation": "As causas de cardiomiopatia de VE não dilatada incluem: fibrose miocárdica extensa (pós-miocardite com fibrose importante que previne dilatação), infiltrativas em fase inicial (antes da dilatação típica), algumas mutações genéticas específicas (como lamina A/C) que causam mais fibrose, ou cardiotoxicidade em fase precoce. O conceito-chave é que há disfunção sistólica mas o ventrículo não consegue dilatar pela rigidez/fibrose. As demais alternativas descrevem causas de outras formas de cardiomiopatia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 52 anos com história de miocardite viral há 2 anos, atualmente assintomático. Eco de controle mostra FEVE 38%, DDVE 54mm (indexado 2,5cm/m²), sem dilatação significativa. Qual fenótipo e implicação prognóstica?",
+    "options": [
+      "Cardiomiopatia de VE não dilatada pós-miocardite; pode ter pior prognóstico pela fibrose restritiva associada, necessita tratamento otimizado para ICFEr e monitorização",
+      "Cardiomiopatia hipertrófica em fase final dilatada; tem prognóstico reservado com indicação de transplante, necessita avaliação imediata em centro de referência especializado",
+      "Cardiomiopatia dilatada idiopática em fase inicial; tem excelente prognóstico com recuperação esperada completa, necessita apenas observação clínica trimestral de rotina",
+      "Cardiomiopatia restritiva infiltrativa avançada; tem prognóstico sombrio com sobrevida média de meses, necessita cuidados paliativos e discussão sobre diretivas antecipadas",
+      "Miocardite aguda em fase ativa com inflamação; tem bom prognóstico com resolução espontânea esperada, necessita apenas repouso e anti-inflamatórios sintomáticos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O caso representa cardiomiopatia de VE não dilatada: há disfunção sistólica importante (FEVE 38%) mas sem dilatação significativa do VE (DDVE indexado apenas 2,5cm/m², abaixo do critério para dilatação). A causa provável é fibrose extensa pós-miocardite que impede dilatação. Este fenótipo pode ter pior prognóstico pela rigidez/restrição associada. Necessita tratamento padrão de ICFEr otimizado (IECA/BRA, BB, espironolactona, iSGLT2) e seguimento próximo. As demais alternativas não se aplicam ao caso.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o princípio geral de manejo das miocardiopatias baseado no fenótipo?",
+    "options": [
+      "Tratamento exclusivamente cirúrgico definitivo: transplante cardíaco imediato para todos os fenótipos independente de classe funcional ou resposta à terapia medicamentosa",
+      "Tratamento baseado em imunossupressão: corticoides e imunossupressores para todos os fenótipos assumindo componente inflamatório subclínico universal sempre presente",
+      "Tratamento individualizado conforme fenótipo: ICFEr para dilatada, controle de obstrução e arritmias para hipertrófica, tratamento da doença de base para infiltrativas",
+      "Tratamento universal padronizado idêntico para todos os fenótipos: terapia quádrupla com IECA, betabloqueador, espironolactona e iSGLT2 em doses máximas toleradas",
+      "Tratamento focado em anticoagulação: varfarina ou DOAC para todos os fenótipos independente de ritmo cardíaco para prevenir eventos tromboembólicos sistêmicos graves"
+    ],
+    "correctIndex": 2,
+    "explanation": "O manejo das miocardiopatias deve ser individualizado conforme o FENÓTIPO: (1) CMD → tratamento de ICFEr (IECA/BRA, BB, ARM, iSGLT2), (2) CMH → manejo de obstrução (BB, verapamil, miectomia se necessário) e prevenção de morte súbita (CDI se indicado), (3) Restritiva/infiltrativa → tratar doença de base (amiloidose AL - quimioterapia, ATTR - tafamidis/patisiran), (4) Arritmogênica → CDI e antiarrítmicos. Não há abordagem única para todos. As demais alternativas propõem tratamentos inadequadamente universais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com cardiomiopatia hipertrófica não obstrutiva, assintomática, espessamento septal 16mm, sem fatores de risco para morte súbita. ECG e Holter normais. RMC sem realce tardio significativo. Qual conduta?",
+    "options": [
+      "Transplante cardíaco eletivo programado em fila não urgente, uso de inotrópicos ambulatoriais contínuos e internação hospitalar prolongada para estabilização",
+      "Ablação septal alcoólica precoce para prevenir progressão futura, terapia imunossupressora com corticoides sistêmicos e repouso absoluto no leito domiciliar",
+      "Implante profilático de CDI imediato mesmo sem fatores de risco, miectomia septal cirúrgica preventiva e anticoagulação oral indefinida com varfarina",
+      "Observação domiciliar sem acompanhamento médico regular, liberação irrestrita para todas as atividades físicas competitivas e dispensa de rastreamento familiar",
+      "Acompanhamento clínico regular com ecocardiograma anual, orientação sobre sintomas de alerta, restrição de esportes competitivos e rastreamento familiar"
+    ],
+    "correctIndex": 4,
+    "explanation": "Paciente com CMH não obstrutiva de baixo risco: assintomática, sem fatores de risco para MS (sem TV, síncope, história familiar, hipertrofia extrema, realce tardio extenso), sem obstrução. Conduta: (1) acompanhamento regular (eco anual, Holter), (2) orientação sobre sintomas de alerta (dispneia, palpitação, síncope → procurar atendimento), (3) restrição de esportes competitivos (apenas recreacionais leves liberados), (4) rastreamento familiar (parentes de 1º grau). NÃO há indicação de CDI, cirurgia ou outras intervenções. As demais alternativas propõem tratamentos excessivos ou inadequados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Segundo a ESC 2023, qual definição descreve corretamente uma cardiomiopatia?",
+    "options": [
+      "Dilatação ventricular em resposta fisiológica ao treinamento atlético de alta performance",
+      "Alteração elétrica primária com coração estruturalmente normal e predisposição a arritmias ventriculares",
+      "Distúrbio do miocárdio com anormalidades estruturais e/ou funcionais não explicadas por DAC, hipertensão, valvopatias ou cardiopatias congênitas",
+      "Aumento da espessura ventricular exclusivamente por sobrecarga pressórica crônica de origem hipertensiva",
+      "Doença do miocárdio primariamente causada por isquemia crônica multivascular com remodelamento ventricular"
+    ],
+    "correctIndex": 2,
+    "explanation": "A definição atual enfatiza um distúrbio miocárdico estrutural/funcional sem causa explicada por DAC/HAS/valvar/congênita.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os fenótipos morfofuncionais principais usados para classificar cardiomiopatias na ESC 2023?",
+    "options": [
+      "Hipertrófica obstrutiva, hipertensiva, chagásica, valvar e inflamatória",
+      "Cardiopatia do atleta, cardiopatia reumática, pericardite constritiva e endomiocardiofibrose",
+      "Hipertrófica, dilatada, VE não dilatada, arritmogênica do VD e restritiva",
+      "Isquêmica, hipertensiva, valvar, congênita e metabólica",
+      "Dilatações direitas, insuficiência tricúspide, displasia septal e miocardite"
+    ],
+    "correctIndex": 2,
+    "explanation": "A taxonomia por fenótipo inclui CMH, CMD, NDLVC (VE não dilatada), ARVC e restritiva.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais características morfológicas e funcionais são centrais para descrever fenótipos de cardiomiopatia?",
+    "options": [
+      "Hipertrofia/dilatação ventriculares e fibrose não isquêmica + disfunções sistólica/diastólica",
+      "Sinais de isquemia epicárdica, calcificação coronariana e microvascularização anômala",
+      "Derrame pericárdico, espessamento pericárdico e constrição hemodinâmica",
+      "Dilatação atrial, insuficiência valvar funcional e hipertensão pulmonar isolada",
+      "Hipertrofia ventricular, aneurismas apicais e trombos murais recorrentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "A ESC 2023 destaca hipertrofia, dilatação, cicatriz/fibrose na RMC e avaliação de função sistólica/diastólica.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são cenários típicos de apresentação clínica que devem acionar investigação estruturada de cardiomiopatia?",
+    "options": [
+      "Derrame pericárdico isolado sem alterações estruturais do miocárdio",
+      "Somente dispneia de esforço em atleta jovem assintomático previamente",
+      "Sintomas (dispneia/dor/arrítmias/síncope), achados incidentais e triagem familiar",
+      "Palpitações esporádicas com ECG normal e Holter sem arritmias",
+      "Exclusivamente sopro cardíaco inocente em exame ocupacional"
+    ],
+    "correctIndex": 2,
+    "explanation": "A abordagem integra sintomas, achados incidentais (ECG/eco/sopro) e história familiar/triagem.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na avaliação estruturada, quais ‘características adicionais’ complementam a caracterização morfofuncional?",
+    "options": [
+      "Prova de esforço com VO2 pico como único discriminador prognóstico",
+      "Apneas obstrutivas do sono, função renal e perfil glicêmico isoladamente",
+      "Somente cálculo de risco cirúrgico e elegibilidade a transplante cardíaco",
+      "Arritmias/condução, teste genético, envolvimento extracardíaco, marcadores e patologia",
+      "Radiografia de tórax, dosagem de CK total e avaliação odontológica"
+    ],
+    "correctIndex": 3,
+    "explanation": "ESC 2023 recomenda integrar traços adicionais: arritmias, genética, acometimento extracardíaco, biomarcadores e patologia.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Entre os fenótipos abaixo, qual par mostra corretamente uma distinção morfológica central?",
+    "options": [
+      "Restritiva: átrios dilatados com ventrículos de tamanho normal; Dilatada: aumento do volume e redução da FEVE",
+      "Restritiva: ventrículos dilatados; Dilatada: átrios pequenos e complacentes",
+      "Restritiva: fibrose subendocárdica isquêmica; Dilatada: fibrose pericárdica difusa",
+      "Restritiva: hipertrofia excêntrica; Dilatada: hipertrofia concêntrica sem dilatação",
+      "Restritiva: derrame pericárdico crônico; Dilatada: hipertensão pulmonar isolada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Restrição cursa com átrios grandes e ventrículos não dilatados; CMD cursa com dilatação e disfunção sistólica.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Diferencie, com base em morfofuncionalidade, CMH e CMD em um achado incidental de eco.",
+    "options": [
+      "CMH: ventrículo direito dilatado isolado; CMD: VD normal e VE hipertrófico",
+      "CMH: fibrose subendocárdica transmural; CMD: fibrose pericárdica espessa",
+      "CMH: dilatação global com FE <40%; CMD: hipertrofia concêntrica com FE normal",
+      "CMH: hipertrofia ≥15 mm com FE preservada; CMD: dilatação com FE reduzida",
+      "CMH: parede fina com strain global reduzido; CMD: hipertrofia assimétrica com FE normal"
+    ],
+    "correctIndex": 3,
+    "explanation": "CMH tipicamente apresenta hipertrofia desproporcional com FE preservada; CMD cursa com dilatação e disfunção sistólica.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual correlação clínica sugere fenótipo restritivo frente a dispneia e sinais de congestão?",
+    "options": [
+      "Átrios muito aumentados, ventrículos de tamanho normal e padrão diastólico restritivo",
+      "VE dilatado com FE 30% e regurgitação mitral funcional leve",
+      "Derrame pericárdico volumoso com sinais de tamponamento iminente",
+      "VD muito dilatado com regurgitação tricúspide primária congênita",
+      "Hipertrofia concêntrica em contexto de HAS longa data com gradiente fixo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fisiologia restritiva se manifesta por átrios grandes, ventrículos normais e padrão restritivo ao Doppler/enchimento.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Na CMH, qual afirmação sobre genética e herança é adequada?",
+    "options": [
+      "Etiologia primariamente inflamatória com autoanticorpos contra miosina",
+      "Transmissão ligada ao X com mutações mitocondriais em cadeia respiratória",
+      "Doença infecciosa viral com tropismo por proteínas de titina",
+      "Herança exclusivamente recessiva com alta penetrância na infância",
+      "Predomínio de herança autossômica dominante com mutações sarcoméricas (ex.: MYH7, MYBPC3)"
+    ],
+    "correctIndex": 4,
+    "explanation": "A CMH é doença genética, usualmente autossômica dominante, envolvendo proteínas do sarcômero.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual critério diagnóstico por imagem define CMH em adultos, considerando familiares?",
+    "options": [
+      "Hipertrofia septal ≥10 mm com ECG normal e sem história familiar",
+      "Espessura diastólica final ≥15 mm; ou ≥13 mm em familiares/genótipo positivo",
+      "Espessura sistólica ≥16 mm com gradiente de via de saída ausente",
+      "Espessura diastólica final ≥12 mm em qualquer segmento, independentemente do contexto",
+      "Hipertrofia concêntrica leve com massa normal indexada ao IMC"
+    ],
+    "correctIndex": 1,
+    "explanation": "Diretrizes nacionais e ESC: ≥15 mm (geral) ou ≥13 mm em familiares/positivo no teste genético.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Sobre padrões de hipertrofia na CMH, qual alternativa é correta?",
+    "options": [
+      "É sempre acompanhada de derrame pericárdico significativo",
+      "Limita-se à hipertrofia apical, sem envolvimento de parede livre",
+      "Ocorre apenas hipertrofia concêntrica por sobrecarga pressórica",
+      "Pode ser assimétrica (septal) ou simétrica, com variabilidade fenotípica e prognóstica",
+      "Associa-se invariavelmente à dilatação ventricular global precoce"
+    ],
+    "correctIndex": 3,
+    "explanation": "A CMH apresenta hipertrofia heterogênea (assimétrica ou menos frequentemente simétrica).\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual diferencia CMH obstrutiva de não obstrutiva no contexto da via de saída do VE?",
+    "options": [
+      "Gradiente fixo subaórtico por membrana congênita e valva aórtica bicúspide",
+      "Obstrução apenas em repouso por hipertensão arterial sistêmica severa",
+      "Obstrução exclusivamente por tumor intraventricular apical benigno",
+      "Presença de obstrução dinâmica com SIV espessado e movimento sistólico anterior da valva mitral",
+      "Ausência de hipertrofia mas presença de insuficiência mitral orgânica"
+    ],
+    "correctIndex": 3,
+    "explanation": "A obstrução é dinâmica, com SAM da valva mitral contribuindo para gradiente intraventricular.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Achado eletrocardiográfico comumente observado na CMH inclui:",
+    "options": [
+      "Bloqueio AV total com ritmo de escape juncional permanente",
+      "Ondas epsilon patognomônicas nas derivações V1–V3",
+      "Baixa voltagem difusa com QRS estreito e padrão elétrico baixa massa",
+      "Elevação persistente do ST com supradesnível compatível com IAM transmural",
+      "Sobrecargas/alterações de repolarização e Q profundas em precordiais"
+    ],
+    "correctIndex": 4,
+    "explanation": "ECG na CMH pode exibir sinais de sobrecarga/hipertrofia e ondas Q pseudoinfarto.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Sobre a RMC na CMH, a característica tecidual frequentemente encontrada é:",
+    "options": [
+      "Realce circunferencial epicárdico típico de miocardite ativa",
+      "Realce limitado ao VD por fibrose perivalvar tricúspide",
+      "Realce exclusivamente subendocárdico compatível com padrão isquêmico",
+      "Ausência completa de realce tardio em todos os segmentos",
+      "Realce tardio não isquêmico indicando fibrose intersticial/miocítica"
+    ],
+    "correctIndex": 4,
+    "explanation": "A fibrose não isquêmica detectada por LGE é comum e tem implicações prognósticas na CMH.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual opção melhor expressa um diagnóstico diferencial fundamental da CMH?",
+    "options": [
+      "Doenças infiltrativas como amiloidose e causas metabólicas como doença de Fabry",
+      "Coronariopatia crônica com IAM prévio transmural inferior isolado",
+      "Cardiopatia reumática com estenose mitral isolada",
+      "Prolapso de valva mitral com cordoalhas rotas e IM severa",
+      "Pericardite constritiva com calcificação pericárdica difusa"
+    ],
+    "correctIndex": 0,
+    "explanation": "A CMH deve ser diferenciada de infiltrativas e metabólicas que também causam hipertrofia.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente com CMH e sincope de esforço, hipertrofia extensa e fibrose na RMC deve ter avaliada prioritariamente:",
+    "options": [
+      "Estratificação de risco de morte súbita e indicação de CDI conforme perfil de risco",
+      "Indicação de transplante cardíaco imediato por risco arrítmico universal",
+      "Apenas intensificação de diurético e retorno anual sem outras medidas",
+      "Correção cirúrgica de valva mitral mesmo sem insuficiência significativa",
+      "Suspensão de toda atividade física e confinamento domiciliar permanente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Síncope, fibrose e extensão de hipertrofia compõem avaliação de risco e decisão sobre CDI.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com CMH obstrutiva refratária a terapia clínica: qual decisão intervencionista é apropriada?",
+    "options": [
+      "Ablação por radiofrequência do feixe de His para reduzir obstrução dinâmica",
+      "Plastia tricúspide com anuloplastia para aliviar gradiente subaórtico",
+      "Miectomia septal ou ablação septal por álcool em centros experientes após avaliação multidisciplinar",
+      "Correção cirúrgica de aneurisma apical isolado sem gradiente significativo",
+      "Implante de TAVI para reduzir gradiente de via de saída do VE por mecanismo valvar primário"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para obstrução persistente e sintomas refratários, miectomia/ablação septal são opções padronizadas.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Em relação à amiloidose cardíaca, qual afirmação geral está correta?",
+    "options": [
+      "Inflamação granulomatosa necrotizante que poupa a matriz extracelular",
+      "Doença exclusivamente miocítica com acúmulo intracitoplasmático de glicogênio",
+      "Processo autoimune isolado com deposição de imunocomplexos subendocárdicos",
+      "Doença sistêmica com depósito extracelular de fibrilas amiloides levando a rigidez e fisiologia restritiva",
+      "Doença primariamente pericárdica com espessamento e calcificação difusa"
+    ],
+    "correctIndex": 3,
+    "explanation": "A infiltração por fibrilas amiloides na matriz extracelular causa espessamento e restrição.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais tipos etiológicos de amiloidose cardíaca?",
+    "options": [
+      "Cadeia pesada IgG e fibrinogênio com necrose maciça",
+      "Cadeia leve (AL) e transtirretina (ATTR, selvagem e variante hereditária)",
+      "Apolipoproteína B e hemossiderina com depósito intracelular",
+      "Beta-amiloide cerebral com acometimento cardiológico primário",
+      "Transtiretina apenas hereditária ligada ao X em homens jovens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Formas AL e ATTR (wild-type e variantes) são as etiologias clássicas de acometimento cardíaco.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual conjunto de ‘red flags’ clínicos aumenta a suspeita de amiloidose cardíaca?",
+    "options": [
+      "Asma de início tardio, urticária crônica e eosinofilia",
+      "Tabagismo pesado, DPOC e hipercapnia com cor pulmonale",
+      "Hipercolesterolemia familiar, xantelasmas e sopro carotídeo",
+      "Síndrome do túnel do carpo bilateral, estenose do canal vertebral e ruptura do bíceps",
+      "Hipertireoidismo clínico, tremor fino e taquicardia sinusal persistente"
+    ],
+    "correctIndex": 3,
+    "explanation": "Esses achados extracardíacos precedem anos o diagnóstico de ATTR, sendo pistas úteis.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "No ECG de amiloidose, um padrão típico é:",
+    "options": [
+      "Elevação persistente do ST inferior simulando vasoespasmo",
+      "Sobrecarga de VE de alto QRS com repolarização proporcional à massa",
+      "Bloqueio AV total de início abrupto com ritmo de escape ventricular estável",
+      "Baixa voltagem com QRS de pequena amplitude e padrão pseudoinfarto",
+      "Ondas epsilon em V1–V3 com QRS alargado e morfologia BRE"
+    ],
+    "correctIndex": 3,
+    "explanation": "A clássica ‘discordância voltagem-massa’ com pseudoinfarto favorece AC.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "No ecocardiograma da amiloidose, qual achado apoia o diagnóstico?",
+    "options": [
+      "Hipertrofia apenas do VD com valva tricúspide espessada reumática",
+      "Ventrículos finos com hipercinesia global e FE aumentada",
+      "Espessamento ventricular com strain longitudinal apical relativamente preservado (‘apical sparing’)",
+      "Hipertrofia assimétrica septal isolada sem alteração de relaxamento",
+      "Dilatação ventricular excêntrica com strain global homogêneo"
+    ],
+    "correctIndex": 2,
+    "explanation": "O padrão de ‘apical sparing’ é característico na amiloidose, em especial ATTR.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Comparando formas de amiloidose, assinale a correlação demográfica típica correta:",
+    "options": [
+      "ATTRv: predomínio universal em <20 anos; AL: doença neonatal precoce",
+      "AL: predomínio infantil; ATTRv: exclusivo em idosos; ATTRwt: ligado ao X",
+      "ATTRwt: mulheres afrodescendentes jovens; AL: homens adolescentes",
+      "ATTRwt: homens >70 anos; AL: >60 anos; ATTRv: depende do genótipo",
+      "AL: mulheres <40 anos; ATTRwt: mulheres jovens; ATTRv: crianças"
+    ],
+    "correctIndex": 3,
+    "explanation": "A ATTRwt acomete sobretudo homens idosos; AL é mais comum >60 anos; ATTRv varia por mutação.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com espessamento de VE, baixa voltagem no ECG e história de túnel do carpo: qual próxima etapa racional?",
+    "options": [
+      "Diagnosticar miocardite e prescrever imunossupressão de rotina",
+      "Solicitar apenas teste ergométrico e descartar etiologia infiltrativa",
+      "Interpretar como cardiopatia hipertensiva clássica sem investigação adicional",
+      "Tratar empiricamente como CMH sarcomérica e liberar exercício vigoroso",
+      "Integrar ECG+eco+clínica para suspeitar ATTRwt e prosseguir com fluxo diagnóstico específico"
+    ],
+    "correctIndex": 4,
+    "explanation": "A combinação de red flags e achados de imagem orienta forte suspeita de ATTRwt e investigação.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual interpretação integrada favorece amiloidose em detrimento de CMH?",
+    "options": [
+      "Hipertrofia concêntrica leve em hipertenso com QRS alto e sem fibrose",
+      "Hipertrofia com baixa voltagem, padrão pseudoinfarto, e ‘apical sparing’ ao strain",
+      "VD muito dilatado isolado com TV morfologia BRE em jovens",
+      "Dilatação do VE com FE baixa e QRS alargado típico de dissincronia",
+      "Hipertrofia assimétrica septal com QRS alto e strain basal preservado"
+    ],
+    "correctIndex": 1,
+    "explanation": "A discordância voltagem-massa e o padrão de strain apical sugerem infiltração amiloide.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A CMD é corretamente definida por:",
+    "options": [
+      "Dilatação ventricular com disfunção sistólica do VE, após excluir sobrecargas e DAC primária",
+      "Espessamento pericárdico com constrição e pressões diastólicas iguais",
+      "Hipertrofia assimétrica septal com obstrução dinâmica na via de saída",
+      "Ventrículos de tamanho normal com padrão restritivo e átrios pequenos",
+      "Hipertrofia concêntrica isolada do VE com FE preservada e rigidez aumentada"
+    ],
+    "correctIndex": 0,
+    "explanation": "A CMD combina remodelamento dilatado e queda da FEVE na ausência de outra causa explicativa primária.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Sobre etiologia da CMD, qual conjunto é mais adequado?",
+    "options": [
+      "Unicamente arritmogênica com substituição fibrogordurosa do VD",
+      "Exclusivamente hipertensiva e coronariana, sem base genética",
+      "Genética e adquiridas (inflamatórias, infecciosas, tóxicas) além de idiopáticas",
+      "Apenas chagásica e alcoólica, sem outras causas reconhecidas",
+      "Somente autoimune mediada por anticorpos anti-desmina"
+    ],
+    "correctIndex": 2,
+    "explanation": "CMD pode ter causas genéticas e adquiridas; um grande contingente permanece idiopático.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "No ecocardiograma da CMD, espera-se encontrar:",
+    "options": [
+      "VD isoladamente dilatado com IM orgânica primária",
+      "Cavidades ventriculares pequenas com átrios gigantes",
+      "Parede muito espessa com baixa voltagem elétrica e strain apical preservado",
+      "Dilatação do VE com FE reduzida e regurgitações funcionais variáveis",
+      "Hipertrofia concêntrica com FE normal e relaxamento normal"
+    ],
+    "correctIndex": 3,
+    "explanation": "A CMD cursa com câmaras dilatadas e queda da FEVE; insuficiências valvares funcionais são comuns.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quanto ao manejo, qual princípio se aplica de forma padronizada na CMD com FE reduzida?",
+    "options": [
+      "Indicação precoce de transplante para todos com FE <45%",
+      "Suspensão de toda medicação vasoativa para permitir remodelamento espontâneo",
+      "Uso rotineiro de corticoide independentemente de etiologia",
+      "Evitar betabloqueadores por risco universal de piora clínica",
+      "Terapia medicamentosa de IC (GDMT) otimizada como base do tratamento"
+    ],
+    "correctIndex": 4,
+    "explanation": "O manejo segue a terapêutica baseada em evidências para ICFEr (GDMT) como fundamento.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Frente a uma CMD com quadro atípico e arritmias refratárias, qual raciocínio é apropriado?",
+    "options": [
+      "Indicar cardioverter-desfibrilador para todos de forma imediata sem estratificação",
+      "Considerar biópsia endomiocárdica e investigação etiológica (inflamatória/infiltrativa) em casos selecionados",
+      "Manter apenas tratamento sintomático e aguardar remodelamento espontâneo por 12 meses",
+      "Iniciar anticoagulação vitalícia sem outra indicação específica",
+      "Atribuir o quadro a ‘coração do atleta’ e liberar alta definitiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quadros atípicos ou refratários podem exigir biópsia/investigação etiológica dirigida.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Sobre cardiomiopatia restritiva, qual descrição morfofuncional é correta?",
+    "options": [
+      "Espessamento pericárdico com discordância respiratória ao Doppler",
+      "VD isoladamente dilatado com escara transmural isquêmica",
+      "Hipertrofia assimétrica com gradiente de via de saída e SAM",
+      "Ventrículos de tamanho normal, átrios dilatados e padrão diastólico restritivo com pressões elevadas",
+      "VE dilatado e FE reduzida com insuficiência mitral funcional proeminente"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fisiologia restritiva cursa com cavidades ventriculares normais e átrios grandes por alta pressão de enchimento.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quanto à cardiomiopatia arritmogênica do VD (ARVC), qual afirmação alinha-se aos conceitos clássicos?",
+    "options": [
+      "Hipertrofia concêntrica por sobrecarga pressórica com QRS de alta voltagem",
+      "Deposição amiloide difusa com padrão ‘apical sparing’ ao strain",
+      "Doença restritiva do VE com fibrose subendocárdica e IC direita isolada",
+      "Predomínio de substituição fibrogordurosa no VD associada a arritmias ventriculares e critérios Task Force",
+      "Dilatação exclusiva do VE com TV morfologia BRD em idosos"
+    ],
+    "correctIndex": 3,
+    "explanation": "A ARVC envolve substituição fibrogordurosa do VD e diagnóstico baseado em critérios Task Force.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na diferenciação entre restrição miocárdica e constrição pericárdica, qual pista clínica/hemodinâmica é condizente com restrição?",
+    "options": [
+      "Discordância respiratória das velocidades ventriculares e variação acentuada do fluxo tricúspide",
+      "Sinais de Kussmaul muito proeminentes com pericárdio espesso",
+      "‘Apical sparing’ ao strain e ausência de discordância respiratória nas ondas mitrais",
+      "Espessamento pericárdico difuso calcificado com pressões iguais",
+      "Variação inspiratória marcada do fluxo aórtico por constrição"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na restrição, o padrão de strain e a ausência de discordância respiratória ajudam na distinção contra constrição.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual definição descreve a ‘miocardiopatia do VE não dilatado’ (NDLVC)?",
+    "options": [
+      "VE hipertrofiado por sobrecarga pressórica com enchimento lento",
+      "VD predominantemente acometido com fibrose epicárdica transmural",
+      "Ventrículos pequenos hipercontráteis com átrios pequenos e complacentes",
+      "Dilatação excêntrica do VE com FE reduzida e regurgitação mitral funcional",
+      "Disfunção sistólica do VE na ausência de dilatação significativa da cavidade ventricular"
+    ],
+    "correctIndex": 4,
+    "explanation": "A NDLVC é definida por redução da FEVE sem dilatação do VE, compondo fenótipo distinto.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Sobre a apresentação clínica da NDLVC, qual opção é mais apropriada?",
+    "options": [
+      "Restringe-se a atletas assintomáticos com eco normal repetido",
+      "Manifesta exclusivamente hipertensão pulmonar por doença do pericárdio",
+      "Cursa apenas com sopro inocente e sem arritmias ao longo do seguimento",
+      "Apresenta dilatação rápida do VE com IM orgânica severa congênita",
+      "Pode manifestar arritmias e insuficiência cardíaca precoce apesar de cavidade não dilatada"
+    ],
+    "correctIndex": 4,
+    "explanation": "A NDLVC pode cursar com arritmias/IC, apesar de dimensões ventriculares preservadas.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "No manejo por fenótipo, qual princípio transversal a todas as cardiomiopatias é correto?",
+    "options": [
+      "Correção cirúrgica de valva mitral obrigatória para todo paciente sintomático",
+      "Suporte de IC/arrítmias conforme necessidade, além de medidas específicas de cada fenótipo",
+      "Restrição absoluta de exercício físico leve em todos os casos",
+      "Indicação imediata de transplante cardíaco para todo portador de CMH",
+      "Uso universal de imunossupressor independentemente de etiologia"
+    ],
+    "correctIndex": 1,
+    "explanation": "O manejo integra medidas gerais (IC/arrítmias) e terapias específicas segundo o fenótipo.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Diante de um idoso com inflamação mínima e fenótipo restritivo, qual decisão terapêutica inicial é mais alinhada ao fenótipo ATTRwt?",
+    "options": [
+      "Indicar ressincronização biventricular universal para reverter rigidez",
+      "Suspender betabloqueadores e diuréticos por risco de hipotensão ortostática",
+      "Programar cirurgia valvar aórtica por gradiente de via de saída do VE",
+      "Iniciar altas doses de corticosteroide visando reversão do depósito extracelular",
+      "Tratar IC de base e encaminhar para investigação/terapias específicas de ATTR (quando elegível)"
+    ],
+    "correctIndex": 4,
+    "explanation": "No fenótipo ATTRwt, otimizar IC e avaliar terapias-alvo é abordagem coerente; não há papel rotineiro para imunossupressão.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual sequência de passos reflete a ‘avaliação diagnóstica estruturada’ recomendada?",
+    "options": [
+      "Solicitar RMC direta e dispensar ECG/eco/anamneses iniciais",
+      "Triagem familiar apenas após transplante cardíaco realizado",
+      "Iniciar anticoagulação e dispensar avaliação de imagem detalhada",
+      "Cenário clínico → caracterização morfofuncional → traços adicionais (arritmias, genética, extracardíaco, marcadores, patologia)",
+      "Realizar cateterismo → indicar cirurgia → confirmar etiologia genética"
+    ],
+    "correctIndex": 3,
+    "explanation": "A ESC 2023 propõe uma trajetória estruturada integrando clínica, morfofuncional e traços adicionais.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "No contexto de triagem familiar, qual afirmação é adequada?",
+    "options": [
+      "Triagem é desnecessária em doenças de herança autossômica dominante",
+      "A investigação genética substitui completamente a avaliação por imagem",
+      "A triagem baseia-se apenas em dosagens de troponina e BNP",
+      "Parentes de primeiro grau de portadores devem ser avaliados mesmo na ausência de sintomas",
+      "Somente filhos sintomáticos necessitam de avaliação de imagem"
+    ],
+    "correctIndex": 3,
+    "explanation": "Triagem familiar é recomendada em cardiomiopatias com possível base genética; inclui imagem e, quando indicado, genética.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual par ‘achado clínico + fenótipo’ está corretamente correlacionado?",
+    "options": [
+      "Síncope de esforço recorrente + CMH com obstrução dinâmica significativa",
+      "Derrame pericárdico volumoso + NDLVC",
+      "Edema assimétrico de membro + ARVC isolada do VD",
+      "Baixa voltagem difusa + CMD idiopática sem infiltração",
+      "Ritmo juncional crônico assintomático + restritiva pura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Síncope aos esforços pode sinalizar obstrução relevante na CMH e risco arrítmico.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "No ECG, qual achado diferencia mais amiloidose de CMH sarcomérica?",
+    "options": [
+      "Ondas Q profundas septais com QRS alto típicas em amiloidose",
+      "Superdesnivelamento do ST persistente em todas as precordiais na amiloidose",
+      "Baixa voltagem periférica desproporcional à massa ventricular na amiloidose",
+      "Epsilon waves em V1–V3 características na amiloidose",
+      "Bloqueio AV total é mandatório na amiloidose em fases iniciais"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ‘discordância voltagem-massa’ favorece amiloidose, enquanto CMH tende a QRS altos.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual combinação de imagem sugere CMH em vez de amiloidose?",
+    "options": [
+      "Hipertrofia assimétrica septal com SAM e gradiente dinâmico na via de saída",
+      "Átrios muito aumentados com ventrículos de tamanho normal e rigidez",
+      "VE pequeno hiperdinâmico com QRS de baixa amplitude difusa",
+      "Baixa voltagem e realce difuso subendocárdico transmural",
+      "Espessamento concêntrico difuso com ‘apical sparing’ ao strain"
+    ],
+    "correctIndex": 0,
+    "explanation": "SAM e gradiente dinâmico são clássicos da CMH obstrutiva; amiloidose mostra padrões de infiltração.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Escolha a alternativa que melhor resume ‘princípios gerais’ de manejo por fenótipo conforme a ESC 2023:",
+    "options": [
+      "Abordagem por sintomas, prevenção de eventos (MS, TEV), suporte IC e medidas específicas do fenótipo",
+      "Cirurgia precoce em todos os casos com qualquer grau de hipertrofia",
+      "Alta sem seguimento para indivíduos assintomáticos com eco alterado",
+      "Anticoagulação universal e suspensão de todos os betabloqueadores",
+      "Uso rotineiro de antiarrítmicos classe IC independentemente do substrato"
+    ],
+    "correctIndex": 0,
+    "explanation": "A diretriz estrutura manejo por fenótipo + pilares de suporte/estratégias preventivas.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em suspeita de ARVC em jovem com TV de morfologia BRE, qual passo racional?",
+    "options": [
+      "Buscar critérios Task Force com imagem do VD, ECG e história familiar antes de definir terapia",
+      "Assumir pericardite constritiva e iniciar anti-inflamatórios",
+      "Excluir doença estrutural e liberar para esportes competitivos",
+      "Indicar ablação imediata sem documentar substrato estrutural",
+      "Tratar como CMD e prescrever vasodilatadores isolados"
+    ],
+    "correctIndex": 0,
+    "explanation": "Diagnóstico de ARVC exige critérios combinando imagem, ECG, arritmias e genética/história.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual descrição de ‘características adicionais’ é particularmente útil para amarrar etiologia de cardiomiopatia?",
+    "options": [
+      "Apenas VO2 pico de ergoespirometria",
+      "Somente classificação funcional de NYHA isolada",
+      "Radiografia de tórax como exame único de rastreio",
+      "Integração de arritmias, doenças de condução, envolvimento extracardíaco e teste genético",
+      "Cálcio coronariano para decidir etiologia infiltrativa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Traços adicionais orientam etiologia e risco, complementando morfofuncional.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em paciente com ‘apresentação incidental’ (ECG alterado) e história familiar positiva, qual caminho é coerente?",
+    "options": [
+      "Solicitar teste ergométrico isolado e encerrar seguimento",
+      "Eco/RMC para morfofuncional, avaliação elétrica e triagem genética conforme fenótipo",
+      "Apenas dosar biomarcadores e repetir ECG em 2 anos",
+      "Tratar como ansiedade e suspender exames estruturais",
+      "Aguardar sintomas surgirem para só então iniciar investigação"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mesmo sem sintomas, achados incidentais + história familiar pedem investigação estruturada.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual par ‘fenótipo + marcador de imagem’ está mais adequado?",
+    "options": [
+      "ARVC: realce subendocárdico isquêmico; NDLVC: hipertrofia concêntrica",
+      "Amiloidose: strain apical preservado; CMH: LGE não isquêmico focal",
+      "Restritiva: dilatação do VE; CMD: átrios gigantes preservados",
+      "CMH: ausência de fibrose; Amiloidose: QRS alto proporcional à massa",
+      "CMD: RMC normal; Restritiva: derrame pericárdico volumoso"
+    ],
+    "correctIndex": 1,
+    "explanation": "‘Apical sparing’ favorece amiloidose; LGE não isquêmico focal é comum na CMH.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual afirmação sobre insuficiência cardíaca e etiologia é consistente com os materiais?",
+    "options": [
+      "A etiologia é irrelevante para conduta, bastando classificar NYHA",
+      "As classificações etiológicas são simples e sempre suficientes na prática",
+      "Toda IC decorre de doença valvar e dispensa investigação adicional",
+      "A identificação etiológica orienta prognóstico e pode direcionar tratamento específico",
+      "Determinar causa não altera desfechos e pode ser omitido"
+    ],
+    "correctIndex": 3,
+    "explanation": "Diretriz brasileira reforça a importância de buscar causa da IC por impacto em tratamento e prognóstico.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em homem de 75 anos com espessamento de VE, síncope inespecífica e túnel do carpo 6 anos antes, qual fenótipo é mais provável?",
+    "options": [
+      "CMD alcoólica com dilatação importante",
+      "CMH sarcomérica com obstrução dinâmica fixa",
+      "Amiloidose por transtirretina selvagem (ATTRwt) com fisiologia restritiva",
+      "ARVC típica do VD com epsilon em V1–V3",
+      "Pericardite constritiva com calcificação difusa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Idade avançada, sexo masculino e red flags extracardíacas apontam para ATTRwt.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "No contexto de CMD, qual combinação de investigação é mais útil para distinguir etiologia genética de adquirida?",
+    "options": [
+      "História familiar + fenótipo por imagem + avaliação elétrica e, quando indicado, genética",
+      "Somente BNP e troponina em série, sem imagem",
+      "Biópsia obrigatória em 100% dos casos suspeitos",
+      "Cateterismo de rotina em todos sem fatores de risco",
+      "Apenas radiografia de tórax e prova de esforço"
+    ],
+    "correctIndex": 0,
+    "explanation": "A integração clínica-imagem-elétrica e genética selecionada orienta a etiologia na CMD.\n\nAula 12 - Miocardiopatias.pptx\n\n",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a diferença fisiopatológica entre hipertrofia ventricular concêntrica e excêntrica?",
+    "options": [
+      "Hipertrofia concêntrica resulta de aumento simultâneo de massa e volume, excêntrica de massa isolada",
+      "Hipertrofia concêntrica é típica de sobrecarga volêmica, excêntrica de sobrecarga pressórica crônica",
+      "Hipertrofia concêntrica resulta de sobrecarga pressórica, excêntrica de sobrecarga volêmica crônica",
+      "Ambas as formas de hipertrofia ocorrem exclusivamente na miocardiopatia dilatada",
+      "Hipertrofia excêntrica apresenta paredes espessas e cavidade normal, concêntrica cavidade dilatada"
+    ],
+    "correctIndex": 2,
+    "explanation": "A hipertrofia CONCÊNTRICA ocorre em resposta à SOBRECARGA PRESSÓRICA (como na estenose aórtica), onde há espessamento das paredes com cavidade mantida ou reduzida. A hipertrofia EXCÊNTRICA ocorre em SOBRECARGA VOLÊMICA (como nas insuficiências valvares), onde há dilatação da cavidade associada a aumento de massa. Essas adaptações refletem mecanismos compensatórios ao aumento de carga.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com cardiomiopatia dilatada apresenta fração de ejeção (FE) de 30%. Qual o impacto clínico esperado dessa alteração na função ventricular?",
+    "options": [
+      "Reflete disfunção sistólica significativa com sintomas de insuficiência cardíaca e mau prognóstico",
+      "Indica prioridade imediata para transplante cardíaco por falência ventricular irreversível e refratária",
+      "Indica função sistólica normal com preservação adequada do débito cardíaco e capacidade funcional",
+      "Sugere disfunção diastólica isolada sem comprometimento da função sistólica ou sintomas relevantes",
+      "Representa adaptação fisiológica reversível ao esforço sem necessidade de tratamento medicamentoso específico"
+    ],
+    "correctIndex": 0,
+    "explanation": "FE de 30% indica DISFUNÇÃO SISTÓLICA SIGNIFICATIVA do ventrículo esquerdo, correlacionando-se com sintomas de insuficiência cardíaca, baixa capacidade funcional e pior prognóstico. Essa redução da força contrátil ventricular requer manejo clínico específico e estratificação de risco para possíveis intervenções.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual perfil fenotípico caracteriza a cardiomiopatia arritmogênica do ventrículo direito (ARVC) e qual sua principal complicação clínica?",
+    "options": [
+      "Espessamento valvar atrioventricular bilateral por infiltração amiloide com estenose valvar secundária",
+      "Dilatação e substituição fibrogordurosa do VD com risco de arritmias ventriculares e morte súbita",
+      "Dilatação do ventrículo esquerdo isolada sem comprometimento do VD com disfunção sistólica leve",
+      "Hipertrofia simétrica biventricular progressiva com hipertensão pulmonar secundária e insuficiência tricúspide",
+      "Rigidez ventricular progressiva com fibrose difusa e disfunção diastólica restritiva grave"
+    ],
+    "correctIndex": 1,
+    "explanation": "A ARVC apresenta dilatação e substituição fibrogordurosa predominante do ventrículo direito, levando a disfunção sistólica, arritmias ventriculares graves e risco aumentado de morte súbita, especialmente em jovens e atletas. A avaliação inclui histórico familiar, ECG, ecocardiografia e ressonância magnética.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os achados clínicos típicos de pacientes com cardiomiopatia restritiva?",
+    "options": [
+      "Epigastralgia recorrente pós-prandial, perda ponderal progressiva e fadiga crônica inespecífica",
+      "Palpitações isoladas em repouso sem outros sintomas ou sinais de descompensação em jovens",
+      "Dispneia progressiva, palpitações frequentes, edema de membros inferiores e congestão pulmonar",
+      "Dor torácica pleurítica em fisgada, hemoptise volumosa e febre alta persistente",
+      "Angina precordial típica aos esforços, síncope recorrente e hipertensão arterial severa refratária"
+    ],
+    "correctIndex": 2,
+    "explanation": "A cardiomiopatia restritiva caracteriza-se clinicamente por DISPNEIA PROGRESSIVA, PALPITAÇÕES devido a arritmias, EDEMA DE MEMBROS INFERIORES e sinais de congestão pulmonar resultantes da disfunção diastólica ventricular e aumento das pressões de enchimento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente relata palpitações frequentes e história familiar de morte súbita. Qual abordagem diagnóstica integrada deve ser adotada para investigação de possível miocardiopatia hereditária?",
+    "options": [
+      "Avaliação baseada exclusivamente em dosagem de troponina e peptídeo natriurético para estratificação",
+      "Avaliação clínica detalhada, ECG, ecocardiograma, ressonância magnética, teste genético e triagem familiar",
+      "Realização apenas de ECG de repouso e Holter 24h para diagnóstico inicial definitivo",
+      "Solicitação imediata de biópsia endomiocárdica para confirmação diagnóstica histopatológica definitiva",
+      "Início empírico de betabloqueador em dose plena sem necessidade de investigação complementar adicional"
+    ],
+    "correctIndex": 1,
+    "explanation": "A investigação de miocardiopatia hereditária requer abordagem integrada: anamnese detalhada (incluindo história familiar), ECG, ecocardiograma para morfologia e função, ressonância magnética para caracterização tecidual, teste genético para identificação de mutações patogênicas e triagem familiar para detecção precoce e manejo adequado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Como a apresentação clínica e fenótipo morfológico ajudam na diferenciação entre cardiomiopatia hipertrófica e amiloidose cardíaca?",
+    "options": [
+      "CMH apresenta disfunção diastólica com baixa voltagem; amiloidose dilatação e alta voltagem no ECG",
+      "Ambas apresentam hipertrofia ventricular simétrica e baixa voltagem ao ECG sem diferenciação morfológica",
+      "Amiloidose apresenta hipertrofia assimétrica aguda; CMH infiltração tardia e sintomas restritivos progressivos",
+      "CMH apresenta hipertrofia assimétrica por mutação sarcomérica; amiloidose espessamento simétrico com baixa voltagem paradoxal",
+      "Ambas condições apresentam FE preservada e sinais clínicos idênticos sem diferenciação por imagem"
+    ],
+    "correctIndex": 3,
+    "explanation": "A CMH é caracterizada por hipertrofia assimétrica do VE relacionada a mutações sarcoméricas e apresenta aumento da voltagem no ECG. A amiloidose, doença infiltrativa, apresenta espessamento simétrico da parede ventricular, disfunção diastólica, mas paradoxalmente baixa voltagem no ECG. A diferenciação morfofuncional e clínica é essencial para manejo específico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com insuficiência cardíaca apresenta intolerância a IECA e betabloqueadores, além de bradicardia e púrpura periorbitária. Qual hipótese deve ser considerada e qual exame complementar é útil para confirmação?",
+    "options": [
+      "Cardiomiopatia restritiva por fibrose; teste genético para identificação de mutações associadas à doença",
+      "Amiloidose cardíaca; ressonância magnética e cintilografia com pirofosfato para caracterização e confirmação diagnóstica",
+      "Cardiomiopatia hipertrófica com obstrução; ecocardiograma com Doppler para avaliar gradiente intraventricular dinâmico",
+      "Doença de Fabry; biópsia endomiocárdica para avaliação histológica e confirmação diagnóstica definitiva",
+      "Cardiomiopatia dilatada isquêmica; angiografia coronariana invasiva para identificação de obstruções coronarianas significativas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quadro clínico típico de AMILOIDOSE CARDÍACA: manifestações sistêmicas (púrpura periorbitária), sintomas de IC, intolerância a IECA/betabloqueadores, bradicardia e sinais ecocardiográficos. A RMC e a cintilografia com pirofosfato são exames valiosos para diagnóstico e diferenciação do tipo de amiloidose.",
+    "type": "raciocínio"
+  }
+]

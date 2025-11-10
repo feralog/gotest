@@ -1,0 +1,782 @@
+[
+  {
+    "question": "Quais são os exames laboratoriais obrigatórios para triagem de candidatas à doação de leite materno em banco de leite humano?",
+    "options": [
+      "Glicemia de jejum, sorologia para HIV (Anti-HIV), tipagem sanguínea (ABO/Rh), coprocultura e exame parasitológico de fezes",
+      "Hemograma completo, sorologia para HIV (Anti-HIV), sorologia para hepatite B (HBsAg), sorologia para hepatite C (Anti-HCV) e teste para sífilis (VDRL ou teste rápido)",
+      "Sorologia para dengue (IgM e IgG), sorologia para zika vírus, sorologia para chikungunya, hemograma completo e velocidade de hemossedimentação",
+      "Hemograma completo, sorologia para HIV (Anti-HIV), sorologia para toxoplasmose (IgM e IgG), teste para CMV (citomegalovírus) e cultura de urina",
+      "Hemograma completo, função renal (ureia e creatinina), eletrólitos séricos (sódio e potássio), função hepática (TGO e TGP) e proteína C reativa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para ser doadora de leite materno em banco de leite humano, a mãe deve realizar exames obrigatórios que avaliam principalmente doenças infectocontagiosas transmissíveis pelo leite: hemograma completo, Anti-HIV (para detectar HIV), HBsAg (antígeno de superfície para hepatite B), Anti-HCV (anticorpo para hepatite C) e teste para sífilis (VDRL ou teste rápido). Esses exames garantem a segurança do leite doado. Exames como toxoplasmose, CMV, tipagem sanguínea, função renal/hepática e sorologias para arboviroses não fazem parte do protocolo obrigatório de triagem de doadoras.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tempo máximo de armazenamento do leite materno cru (não pasteurizado) quando mantido em geladeira e em freezer doméstico?",
+    "options": [
+      "12 horas em geladeira (2-8°C) e 14 dias em freezer (-18°C ou menos)",
+      "36 horas em geladeira (2-8°C) e 60 dias em freezer (-18°C ou menos)",
+      "72 horas em geladeira (2-8°C) e 45 dias em freezer (-18°C ou menos)",
+      "48 horas em geladeira (2-8°C) e 30 dias em freezer (-18°C ou menos)",
+      "24 horas em geladeira (2-8°C) e 21 dias em freezer (-18°C ou menos)"
+    ],
+    "correctIndex": 4,
+    "explanation": "O leite materno cru (não pasteurizado) pode ser armazenado por até 24 horas em geladeira (2-8°C) e por até 21 dias em freezer (-18°C ou menos). Após esses períodos, o leite deve ser descartado por questões de segurança microbiológica. É importante ressaltar que após descongelado, o leite não pode ser recongelado e deve ser consumido em até 24 horas se mantido sob refrigeração. Esses prazos são fundamentais para garantir a qualidade e segurança do leite para o bebê.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 26 anos, primigesta, em aleitamento materno exclusivo há 2 meses, comparece ao banco de leite manifestando interesse em doar leite. Relata que realizou todos os exames pré-natais, apresentando os seguintes resultados: HBsAg negativo, Anti-HBs positivo, Anti-HCV negativo, Anti-HIV negativo, VDRL negativo. Nega uso de medicamentos. Qual a conduta adequada?",
+    "options": [
+      "Autorizar a doação de leite, pois todos os exames são compatíveis com status de doadora (Anti-HBs positivo indica imunidade prévia por vacina ou infecção resolvida)",
+      "Contraindicar temporariamente a doação por 6 meses e solicitar nova sorologia completa para hepatite B incluindo Anti-HBc IgM e IgG",
+      "Solicitar repetição do HBsAg e Anti-HCV antes de autorizar a doação, pois o Anti-HBs positivo pode ser resultado de janela imunológica",
+      "Contraindicar a doação de leite devido ao Anti-HBs positivo, que indica hepatite B crônica ativa com risco de transmissão viral",
+      "Autorizar a doação apenas após realização de biópsia hepática para avaliar a atividade da hepatite B crônica e quantificação da carga viral"
+    ],
+    "correctIndex": 0,
+    "explanation": "A candidata está apta para doar leite materno. O HBsAg negativo descarta hepatite B ativa/crônica. O Anti-HBs positivo indica IMUNIDADE contra hepatite B, seja por vacinação prévia ou por infecção resolvida no passado, não sendo contraindicação à doação. O Anti-HCV negativo descarta hepatite C, o Anti-HIV negativo descarta HIV e o VDRL negativo descarta sífilis. Todos os exames obrigatórios estão adequados. O Anti-HBs positivo é um MARCADOR DE PROTEÇÃO e não de doença ativa. Mulheres com HBsAg POSITIVO (portadoras do vírus) é que não podem doar. Não há necessidade de novos exames ou avaliações adicionais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 32 anos, 15 dias pós-parto, comparece ao banco de leite queixando-se de dor intensa ao amamentar e fissura mamilar bilateral. Refere que o bebê 'morde' durante a mamada e que suas mamas ficam 'ingurgitadas' após as mamadas. Ao exame: mamilos com fissuras lineares, mamas túrgidas, sem sinais flogísticos. Qual a principal orientação para corrigir o problema?",
+    "options": [
+      "Prescrever antibioticoterapia profilática com cefalexina 500mg VO 6/6h por 7 dias para prevenir mastite infecciosa secundária às fissuras",
+      "Orientar pega correta (boca bem aberta, abocanhar aréola e mamilo, queixo e nariz tocando mama, lábios evertidos) e posicionamento adequado do bebê para prevenir novas fissuras",
+      "Prescrever pomada cicatrizante à base de lanolina modificada para aplicação exclusiva após as mamadas com oclusão do mamilo por 4-6 horas",
+      "Indicar uso de conchas de silicone protetoras durante toda a mamada para evitar contato direto do mamilo com a boca do bebê",
+      "Suspender temporariamente a amamentação por 5-7 dias e orientar ordenha manual com descarte do leite até cicatrização completa das fissuras"
+    ],
+    "correctIndex": 1,
+    "explanation": "A causa mais comum de fissuras mamilares é a PEGA INCORRETA do bebê durante a amamentação. A correção da técnica de amamentação é a principal conduta: o bebê deve abrir bem a boca, abocanhar grande parte da aréola (não apenas o mamilo), o queixo e nariz devem tocar a mama, e os lábios devem estar evertidos (virados para fora). O posicionamento adequado também é fundamental. O ingurgitamento mamário relatado sugere esvaziamento inadequado, também relacionado à pega incorreta. Pomadas podem auxiliar, mas não corrigem a causa. Suspender a amamentação não é necessário na maioria dos casos. Conchas protetoras durante a mamada não são indicadas. Antibiótico só se houver sinais de infecção (não é o caso). A correção da técnica resolve o problema e previne recorrências.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante HIV positiva, 28 anos, em uso regular de terapia antirretroviral, com carga viral indetectável há 6 meses, procura orientação sobre doação de leite materno. Relata que gostaria de ajudar outras mães. Qual a orientação correta?",
+    "options": [
+      "Autorizar a doação de leite desde que a carga viral permaneça indetectável e seja realizada pasteurização do leite a 62,5°C por 30 minutos",
+      "Contraindicar a doação de leite materno, pois HIV positivo é contraindicação absoluta mesmo com carga viral indetectável devido ao risco de transmissão vertical pelo leite",
+      "Contraindicar temporariamente a doação até 12 meses após o parto e nova documentação de carga viral indetectável com CD4 acima de 500 células/mm³",
+      "Autorizar a doação de leite apenas para bebês também HIV positivos ou expostos ao HIV, evitando assim risco de transmissão para bebês HIV negativos",
+      "Solicitar nova carga viral e, se indetectável, autorizar a doação de leite sem necessidade de pasteurização devido aos antivirais presentes no leite materno"
+    ],
+    "correctIndex": 1,
+    "explanation": "O HIV POSITIVO é CONTRAINDICAÇÃO ABSOLUTA para doação de leite materno, independentemente da carga viral estar indetectável ou controlada. O vírus HIV pode ser transmitido através do leite materno (transmissão vertical pós-natal), e mesmo com carga viral indetectável no sangue, não há garantia de ausência do vírus no leite. A pasteurização, embora inative o HIV, não é suficiente para tornar segura a doação, pois o banco de leite não pode assumir esse risco. Para mães HIV positivas, a PRÓPRIA amamentação de seus bebês também é contraindicada no Brasil, onde há acesso a fórmulas infantis seguras. Não existe possibilidade de doação de leite de mães HIV+ mesmo para bebês expostos ao HIV.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 25 anos, 30 dias pós-parto, comparece ao banco de leite para cadastro como doadora. Durante a anamnese, refere ter tido herpes simples labial há 10 dias, já em fase de cicatrização, sem novas lesões. Não apresenta lesões herpéticas em mamas. Todos os exames laboratoriais obrigatórios estão normais. Qual a conduta?",
+    "options": [
+      "Contraindicar temporariamente a doação até realização de PCR para herpes vírus no leite materno com resultado negativo em três amostras consecutivas",
+      "Autorizar a doação apenas do leite ordenhado da mama contralateral às lesões labiais, descartando o leite da mama ipsilateral para reduzir risco de contaminação",
+      "Autorizar a doação de leite, pois herpes simples labial não contraindica doação desde que não haja lesões ativas em mamas e a doadora mantenha higiene adequada (lavar mãos, usar máscara)",
+      "Contraindicar definitivamente a doação de leite, pois herpes simples é contraindicação absoluta devido ao alto risco de transmissão viral mesmo após cicatrização das lesões",
+      "Contraindicar temporariamente a doação por 90 dias após a cicatrização completa das lesões herpéticas labiais e solicitar nova sorologia para herpes vírus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Herpes simples labial NÃO é contraindicação para doação de leite materno, desde que: (1) não haja lesões herpéticas ativas nas MAMAS, (2) a doadora mantenha rigorosa higiene das mãos antes de ordenhar/amamentar, e (3) use máscara ao manipular o leite para evitar contato das lesões orais com o leite. As lesões herpéticas em mamas (herpes mamário) sim contraindicariam a doação temporariamente. O herpes simples labial é comum e não representa risco de contaminação do leite se as medidas de higiene forem adequadas. A transmissão do herpes ao bebê ocorreria por contato direto com as lesões ativas, não através do leite materno. Não há necessidade de contraindicação prolongada, PCR viral ou outras avaliações adicionais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 24 anos comparece à consulta pós-natal com queixa de 'mamas muito cheias e doloridas' 5 dias após o parto. Refere dificuldade do bebê em abocanhar o mamilo. Ao exame: mamas aumentadas de volume, brilhantes, endurecidas difusamente, quentes, mamilos achatados/invertidos. Temperatura axilar 37,2°C. Sem áreas de flutuação ou hiperemia localizada. Qual o diagnóstico e a conduta inicial mais adequada?",
+    "options": [
+      "Mastite puerperal bilateral; prescrever cefalexina 500mg VO 6/6h por 10 dias, anti-inflamatórios, compressas frias contínuas e suspender amamentação temporariamente",
+      "Bloqueio lácteo bilateral; indicar supressão da lactação com cabergolina 0,5mg VO 12/12h por 2 dias e enfaixamento mamário compressivo até resolução",
+      "Edema mamário pós-parto; prescrever diuréticos tiazídicos, restringir ingesta hídrica para 500ml/dia, suspender amamentação por 48-72 horas e realizar enfaixamento compressivo",
+      "Ingurgitamento mamário fisiológico; orientar ordenha manual ou mecânica antes das mamadas para facilitar pega, compressas mornas pré-mamada e frias pós-mamada, amamentação frequente",
+      "Abscesso mamário incipiente bilateral; solicitar ultrassom de mamas urgente, prescrever antibiótico de amplo espectro e agendar drenagem cirúrgica em 24-48 horas"
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro descrito é típico de INGURGITAMENTO MAMÁRIO FISIOLÓGICO, comum entre o 3º e 5º dia pós-parto devido ao aumento da produção láctea (apojadura). Caracteriza-se por: mamas aumentadas de volume, endurecidas difusamente (não há área localizada), brilhantes, mamilos achatados/invertidos (dificultando a pega do bebê), desconforto/dor. Temperatura pode estar discretamente elevada (≤38°C), mas sem febre alta. NÃO há sinais de infecção (hiperemia localizada, flutuação, febre alta >38,5°C). A conduta é: (1) ordenha suave antes das mamadas para amolecer a aréola e facilitar pega, (2) compressas mornas pré-mamada (facilitam saída do leite) e frias pós-mamada (reduzem edema), (3) amamentação em livre demanda. Mastite cursaria com febre alta, área localizada hiperemiada e pior estado geral. Antibiótico, supressão da lactação e drenagem cirúrgica não são indicados no ingurgitamento fisiológico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O que significa a sigla obstétrica G4P2A1C1?",
+    "options": [
+      "4 gestações (incluindo a atual), 2 partos totais (1 vaginal + 1 cesárea), 1 aborto e 1 gemelar",
+      "4 gestações (incluindo a atual), 2 filhos vivos, 1 aborto espontâneo e 1 óbito fetal após 20 semanas",
+      "4 gestações (incluindo a atual), 2 partos, 1 aborto e 1 cesárea",
+      "4 gestações (incluindo a atual), 92 partos pré-termo, 1 aborto induzido e 1 cesárea eletiva a termo",
+      "4 gestações (incluindo a atual), 2 partos cesáreos, 1 aborto e 1 parto vaginal (total de 3 partos = 2 cesáreas + 1 vaginal)"
+    ],
+    "correctIndex": 2,
+    "explanation": "A sigla obstétrica G4P2A1C1 significa: G (Gestas) = 4 gestações incluindo a atual; P (Partos) = 2 partos VAGINAIS; A (Abortos) = 1 aborto (perda antes de 20-22 semanas); C (Cesáreas) = 1 cesárea. O total de partos (gestações que ultrapassaram 20-22 semanas) é 3 (P + C = 2 + 1 = 3). Importante: P refere-se especificamente a partos VAGINAIS, e C a partos CESÁREOS. A soma P + C = total de partos (vaginal + cesárea). O número de filhos vivos não é representado nessa sigla básica. A classificação não distingue partos pré-termo ou a termo, apenas a via de parto. Abortos (A) são perdas antes de 20-22 semanas, independentemente da causa (espontâneo ou provocado).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as três variáveis que definem a relação útero-fetal durante o trabalho de parto e parto?",
+    "options": [
+      "Atitude (grau de flexão/deflexão da cabeça fetal), insinuação (penetração do polo cefálico no estreito superior) e altura (plano de De Lee de -5 a +5)",
+      "Situação (relação entre eixo longitudinal fetal e eixo materno), apresentação (polo fetal que se apresenta no estreito superior da bacia) e posição (relação entre ponto de referência fetal e hemibacia materna)",
+      "Dilatação cervical (abertura do colo de 0 a 10cm), esvaecimento cervical (encurtamento e afinamento do colo) e formação de bolsa das águas",
+      "Tipo de bacia materna (ginecóide, androide, antropoide, platipeloide), peso fetal estimado (pequeno, adequado, grande para idade gestacional) e índice de líquido amniótico",
+      "Dinâmica uterina (frequência, duração e intensidade das contrações), frequência cardíaca fetal (basal, variabilidade e acelerações) e progressão da descida fetal"
+    ],
+    "correctIndex": 1,
+    "explanation": "As três variáveis fundamentais que definem a relação útero-fetal são: (1) SITUAÇÃO: relação entre o eixo longitudinal do feto e o eixo longitudinal do útero materno (longitudinal, transversa, oblíqua); (2) APRESENTAÇÃO: qual polo fetal (parte do feto) está se apresentando no estreito superior da bacia (cefálica, pélvica, córmica); (3) POSIÇÃO: relação entre o ponto de referência da apresentação fetal (occipício na cefálica, sacro na pélvica) e a hemibacia materna (esquerda ou direita, anterior ou posterior). Exemplo: situação longitudinal, apresentação cefálica, posição occipito-esquerda-anterior (OEA). Atitude fetal (grau de flexão), insinuação e altura são características complementares. Dilatação, esvaecimento e bolsa das águas avaliam o colo. Dinâmica uterina e FCF avaliam trabalho de parto. Tipo de bacia, peso fetal e LA avaliam condições para parto, mas não são as três variáveis clássicas da relação útero-fetal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em que momento se caracteriza o início do trabalho de parto?",
+    "options": [
+      "Ruptura espontânea da bolsa amniótica com saída de líquido amniótico claro, independente da presença de contrações uterinas ou dilatação cervical",
+      "Insinuação do polo cefálico fetal no estreito superior da bacia (plano 0 de De Lee) com percepção de puxos involuntários pela gestante",
+      "Percepção de contrações uterinas pela gestante com intervalo ≤20 minutos entre elas, mesmo sem dilatação cervical ou alterações no colo uterino",
+      "Dilatação cervical ≥3-4cm associada a contrações uterinas regulares e rítmicas (≥2 contrações em 10 minutos) com progressão da dilatação cervical",
+      "Esvaecimento cervical ≥50% e colo pérvio para 1-2cm associado a aumento da secreção vaginal mucóide com raias de sangue (tampão mucoso)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O trabalho de parto é caracterizado pelo início da fase ativa, que se define por: (1) dilatação cervical ≥3-4cm E (2) contrações uterinas regulares e rítmicas (pelo menos 2-3 contrações em 10 minutos) COM (3) progressão da dilatação cervical ao longo do tempo. Apenas contrações sem dilatação adequada caracterizam 'pródromos' ou 'falso trabalho de parto'. A ruptura da bolsa (amniorrexe) pode ocorrer antes, durante ou após o início do trabalho de parto, não sendo critério isolado. Esvaecimento e saída do tampão mucoso são sinais de 'iminência' de trabalho de parto. A insinuação e os puxos caracterizam o período expulsivo (segunda fase), que só ocorre após dilatação completa (10cm). A fase latente (0-3cm) não é considerada trabalho de parto ativo propriamente dito.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as três características que definem uma contração uterina durante o trabalho de parto?",
+    "options": [
+      "Amplitude (variação entre pressão basal e pico contrátil), polaridade (sentido de propagação da contração do fundo para o colo) e tonicidade (pressão uterina entre contrações)",
+      "Início (momento de aumento da pressão intrauterina), acme (pico máximo da contração) e relaxamento (retorno à pressão basal entre contrações)",
+      "Latência (tempo entre contrações), efetividade (capacidade de promover dilatação) e coordenação (sincronização entre fibras miometriais)",
+      "Frequência (número de contrações em 10 minutos), duração (tempo em segundos de cada contração) e intensidade (força da contração em mmHg ou palpação)",
+      "Regularidade (padrão temporal constante entre contrações), ritmicidade (alternância previsível de contrações e relaxamento) e progressividade (aumento gradual ao longo do trabalho de parto)"
+    ],
+    "correctIndex": 3,
+    "explanation": "As três características que definem uma contração uterina são: (1) FREQUÊNCIA: número de contrações em 10 minutos (ex: 3-5 contrações/10 min no trabalho de parto ativo); (2) DURAÇÃO: tempo que dura cada contração individual, medido em segundos (ex: 40-60 segundos); (3) INTENSIDADE: força da contração, medida objetivamente em mmHg por tocodinamometria interna (25-50 mmHg) ou subjetivamente por palpação (fraca, moderada, forte - quando não é possível deprimir o útero). Essas três variáveis compõem a 'dinâmica uterina' e são fundamentais para avaliar o trabalho de parto. Amplitude, polaridade, tonicidade, latência, efetividade e coordenação são conceitos relacionados mas não são as três características clássicas definidoras. Regularidade e ritmicidade descrevem o padrão, mas não são as medidas diretas. Início-acme-relaxamento descrevem a morfologia da contração.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Gestante de 29 anos, G3P2A0C0, com 39 semanas, apresenta-se ao pronto-socorro referindo contrações há 6 horas. Ao exame: dinâmica uterina de 4 contrações em 10 minutos com 50 segundos de duração cada, colo com 7cm de dilatação, 80% de apagamento, bolsa íntegra, apresentação cefálica, variedade OEA, plano 0 de De Lee, BCF 145 bpm. Como interpretar corretamente a sigla obstétrica e em qual fase do trabalho de parto ela se encontra?",
+    "options": [
+      "Terceira gestação com 2 cesáreas prévias e nenhum aborto, encontra-se em período expulsivo do trabalho de parto (dilatação ≥7cm com puxos involuntários)",
+      "Terceira gestação com 2 partos vaginais prévios e nenhum aborto, encontra-se em fase latente do trabalho de parto (dilatação <4cm com contrações irregulares)",
+      "Terceira gestação com 2 partos pré-termo prévios e nenhum aborto, encontra-se em fase de transição do trabalho de parto (dilatação 8-10cm com contrações intensas)",
+      "Terceira gestação com 1 parto vaginal, 1 cesárea e nenhum aborto, encontra-se em fase de desaceleração do trabalho de parto (dilatação 8-10cm com progressão lenta)",
+      "Terceira gestação com 2 partos vaginais prévios e nenhum aborto, encontra-se em fase ativa do trabalho de parto (dilatação entre 4-10cm com contrações regulares)"
+    ],
+    "correctIndex": 4,
+    "explanation": "G3P2A0C0 significa: 3 gestações (incluindo a atual), 2 partos VAGINAIS (P refere-se a partos vaginais), 0 abortos e 0 cesáreas. A paciente encontra-se em FASE ATIVA do trabalho de parto, caracterizada por: (1) dilatação cervical entre 3-4cm até 10cm (ela está com 7cm), (2) contrações regulares e efetivas (4 contrações/10min com 50seg de duração), (3) progressão cervical contínua (80% de apagamento). A fase latente vai até 3-4cm. O período expulsivo (segunda fase) só se inicia com dilatação COMPLETA (10cm) e descida do polo cefálico, com puxos involuntários. A fase de desaceleração (8-10cm) ainda faz parte da fase ativa (primeira fase). A fase de transição (8-10cm) também faz parte da fase ativa, sendo o momento de maior intensidade contrátil antes da dilatação completa. O plano 0 de De Lee indica que o polo cefálico está no nível das espinhas ciáticas (insinuado).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Primigesta de 22 anos, 38 semanas, chega ao pronto-socorro queixando-se de dor abdominal há 3 horas. Refere contrações irregulares. Ao exame: dinâmica uterina de 2 contrações em 10 minutos com 25 segundos de duração, colo posterior, 1cm de dilatação, 30% de apagamento, apresentação cefálica móvel, plano -3 de De Lee, BCF 140 bpm. Qual a conduta mais adequada?",
+    "options": [
+      "Realizar amniotomia artificial (rotura artificial de membranas) para acelerar progressão do trabalho de parto e reavaliar dilatação cervical em 2 horas",
+      "Orientar alta hospitalar com retorno se contrações regulares (≥3/10min com ≥40seg) ou perda líquida, ruptura bolsa, sangramento ou redução movimentos fetais (ainda em fase latente/pródromos)",
+      "Prescrever analgesia de parto com bloqueio peridural contínuo para alívio da dor e promover melhor relaxamento cervical com progressão da dilatação",
+      "Internar para indução do trabalho de parto com ocitocina endovenosa devido à idade gestacional de termo (38 semanas) e presença de contrações uterinas",
+      "Solicitar cardiotocografia fetal contínua por 2-4 horas em observação hospitalar para avaliar resposta fetal às contrações e decidir conduta subsequente"
+    ],
+    "correctIndex": 1,
+    "explanation": "A paciente NÃO está em trabalho de parto ativo. Ela apresenta: (1) contrações IRREGULARES e INFREQUENTES (2/10min, quando o ideal seria ≥3/10min), (2) duração CURTA das contrações (25seg, quando o ideal seria ≥40-45seg), (3) dilatação MÍNIMA (1cm, sendo que trabalho de parto ativo inicia com ≥3-4cm), (4) esvaecimento INICIAL (30%), (5) colo POSTERIOR (não centralizado), (6) polo cefálico MÓVEL não insinuado (plano -3). Este quadro caracteriza PRÓDROMOS ou FASE LATENTE INICIAL, não justificando internação. A conduta é ALTA com orientações de retorno se: contrações regulares (≥3/10min com ≥40seg de duração), perda líquida (amniorrexe), sangramento vaginal, redução de movimentos fetais ou dor intensa contínua. Indução, amniotomia e analgesia são indicadas apenas em trabalho de parto ativo estabelecido. Cardiotocografia prolongada não é necessária se BCF normal e sem fatores de risco.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 35 anos, G2P1A0C0, com 40 semanas, internada em trabalho de parto há 4 horas. Evolução: admissão com 4cm de dilatação, após 4 horas apresenta 6cm de dilatação. Dinâmica uterina atual: 5 contrações/10min com 60 segundos, apresentação cefálica, posição ODA, plano -1 de De Lee, BCF 150 bpm, bolsa íntegra. Qual a avaliação da progressão do trabalho de parto?",
+    "options": [
+      "Progressão inadequada caracterizando distócia funcional, pois a velocidade de dilatação está abaixo do esperado (deveria ter ≥2cm/hora), indicar amniotomia artificial e ocitocina",
+      "Progressão estacionada caracterizando parada secundária da dilatação, pois não houve aumento ≥1cm em 2 horas de avaliação, indicar parto cesáreo de urgência",
+      "Progressão acelerada representando trabalho de parto taquitócico, pois a velocidade de dilatação está acima do padrão (deveria ter <1cm/2horas), indicar tocólise imediata",
+      "Progressão limítrofe necessitando reavaliação em 1-2 horas, pois pode evoluir para parada primária da dilatação, realizar amniotomia preventiva para acelerar trabalho de parto",
+      "Progressão adequada, pois apresenta velocidade de dilatação de 0,5cm/hora (2cm em 4 horas), dentro do esperado para multípara (≥0,5-1,0cm/hora), manter conduta expectante"
+    ],
+    "correctIndex": 4,
+    "explanation": "A paciente apresenta PROGRESSÃO ADEQUADA do trabalho de parto. Ela é G2P1 (secundigesta/multípara) e dilatou 2cm em 4 horas, resultando em velocidade de 0,5cm/hora. Os parâmetros de progressão esperados são: PRIMÍPARAS ≥0,5cm/hora (ou 1cm/2horas) e MULTÍPARAS ≥1cm/hora. Como esta é multípara com 0,5cm/hora, está no limite mínimo aceitável, mas ainda dentro da normalidade (alguns protocolos consideram ≥0,5cm/hora aceitável mesmo para multíparas). Adicionalmente: (1) dinâmica uterina adequada (5/10min com 60seg), (2) descida está ocorrendo (plano -1), (3) vitalidade fetal preservada (BCF 150 bpm). A conduta é MANTER acompanhamento expectante. Distócia/parada de progressão seria caracterizada por: <0,5cm/hora por ≥4 horas COM dinâmica adequada, ou ausência de progressão por 2 horas. Não há indicação de intervenção (amniotomia, ocitocina) neste momento. Tocólise não está indicada. Cesárea só se parada confirmada ou sofrimento fetal.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o agente etiológico da gonorreia e qual o meio de cultura específico utilizado para seu diagnóstico laboratorial?",
+    "options": [
+      "Treponema pallidum (espiroqueta anaeróbia) e meio de cultura Nelson (meio de cultura de células de testículo de coelho)",
+      "Neisseria gonorrhoeae (diplococo Gram-negativo) e meio de cultura Thayer-Martin (ágar chocolate enriquecido com antibióticos seletivos)",
+      "Chlamydia trachomatis (bactéria intracelular obrigatória) e meio de cultura McCoy (linhagem celular com cicloheximida)",
+      "Haemophilus ducreyi (cocobacilo Gram-negativo) e meio de cultura Mueller-Hinton (ágar sangue enriquecido com hemoglobina)",
+      "Gardnerella vaginalis (cocobacilo Gram-variável) e meio de cultura Columbia (ágar sangue com colistina e ácido nalidíxico)"
+    ],
+    "correctIndex": 1,
+    "explanation": "A gonorreia é causada pela Neisseria gonorrhoeae, um diplococo Gram-negativo em forma de 'grãos de café' que se dispõem aos pares. O meio de cultura ESPECÍFICO para isolamento do gonococo é o Thayer-Martin (ou meios modificados como Martin-Lewis, NYC), que consiste em ágar chocolate enriquecido com suplementos (hemoglobina, IsoVitaleX) e ANTIBIÓTICOS SELETIVOS (vancomicina, colistina, nistatina/anfotericia, trimetoprim) que inibem crescimento de outras bactérias permitindo crescimento do gonococo. A Chlamydia trachomatis é diagnosticada por NAAT (PCR) ou cultura celular. O Treponema pallidum (sífilis) NÃO é cultivável em meios artificiais. Haemophilus ducreyi (cancro mole) cresce em meio Mueller-Hinton com sangue. Gardnerella vaginalis (vaginose bacteriana) cresce em meios de ágar sangue, mas diagnóstico é clínico/microscópico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema terapêutico recomendado para tratamento da gonorreia não complicada (uretrite, cervicite) segundo as diretrizes atuais?",
+    "options": [
+      "Ceftriaxona 500mg intramuscular em dose única ASSOCIADA a Azitromicina 1g via oral em dose única (tratamento sinérgico e para cobrir possível coinfecção por Chlamydia)",
+      "Ciprofloxacino 500mg via oral dose única ASSOCIADO a Doxiciclina 100mg via oral 12/12h por 7 dias (cobertura para gonococo e clamídia)",
+      "Ceftriaxona 1g intramuscular dose única ISOLADAMENTE sem necessidade de associação com macrolídeo ou tetraciclina (monoterapia suficiente para gonorreia)",
+      "Penicilina Benzatina 2,4 milhões UI intramuscular dose única ASSOCIADA a Azitromicina 1g via oral em dose única (esquema para gonorreia e sífilis)",
+      "Azitromicina 2g via oral em dose única ISOLADAMENTE sem necessidade de associação com cefalosporina (monoterapia com macrolídeo em alta dose)"
+    ],
+    "correctIndex": 0,
+    "explanation": "O tratamento RECOMENDADO para gonorreia não complicada é: Ceftriaxona 500mg IM dose única (alguns protocolos usam 250mg, outros 500mg) ASSOCIADA a Azitromicina 1g VO dose única. Esta TERAPIA DUPLA é recomendada por: (1) aumentar eficácia contra N. gonorrhoeae devido à crescente RESISTÊNCIA aos antimicrobianos, (2) tratar possível COINFECÇÃO por Chlamydia trachomatis (presente em 20-40% dos casos de gonorreia), (3) retardar desenvolvimento de novas resistências. Quinolonas (ciprofloxacino) NÃO são mais recomendadas devido à alta resistência global (>5-10%). Penicilina Benzatina não é eficaz contra gonorreia (trata sífilis). Monoterapia com ceftriaxona ou azitromicina ISOLADAMENTE não é mais recomendada devido à resistência emergente. A combinação ceftriaxona + azitromicina é o padrão-ouro atual.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características clínicas que diferenciam o cancro duro (sífilis primária) do cancro mole (cancroide)?",
+    "options": [
+      "Cancro duro: úlcera em espelho (kissing ulcers) dolorosa, base necrótica, bordas irregulares, adenopatia flutuante bilateral; Cancro mole: úlcera única indolor com halo eritematoso, base limpa, bordas planas, sem adenopatia",
+      "Cancro duro: úlceras múltiplas agrupadas, dolorosas, base amolecida, bordas irregulares, fundo com exsudato amarelado, adenopatia supurativa; Cancro mole: úlcera única, indolor, base endurecida, bordas elevadas, fundo limpo, adenopatia fibroelástica",
+      "Cancro duro: lesão vegetante úmida com bordas elevadas, indolor, fundo granuloso vermelho-vivo, sem adenopatia verdadeira; Cancro mole: úlcera profunda única com bordas em saca-bocado, indolor, base fibrinosa, adenopatia bilateral",
+      "Cancro duro: úlcera única, indolor, base endurecida, bordas infiltradas, fundo limpo, adenopatia indolor móvel bilateral; Cancro mole: úlceras múltiplas, dolorosas, base amolecida, bordas escavadas, fundo purulento/fétido, adenopatia dolorosa unilateral",
+      "Cancro duro: vesículas agrupadas que evoluem para úlceras rasas dolorosas com base eritematosa e adenopatia bilateral; Cancro mole: pápula inicial que evolui para úlcera profunda indolor com bordas elevadas e adenopatia unilateral"
+    ],
+    "correctIndex": 3,
+    "explanation": "CANCRO DURO (Sífilis primária - Treponema pallidum): úlcera ÚNICA, INDOLOR, base ENDURECIDA (daí 'duro'), bordas INFILTRADAS/elevadas, fundo LIMPO, pode ter exsudato seroso; adenopatia INDOLOR, MÓVEL, geralmente BILATERAL ou na cadeia regional. Incubação: 10-90 dias (média 21 dias). Desaparece espontaneamente em 3-6 semanas. CANCRO MOLE (Cancroide - Haemophilus ducreyi): úlceras MÚLTIPLAS (por autoinoculação), DOLOROSAS, base AMOLECIDA (daí 'mole'), bordas ESCAVADAS/irregulares, fundo PURULENTO e FÉTIDO; adenopatia (bubão cancroide) DOLOROSA, UNILATERAL, surge 7-14 dias após úlcera, pode supurar e fistulizar. Incubação: 2-5 dias. As características opostas entre as duas úlceras facilitam o diagnóstico diferencial clínico. Herpes apresenta vesículas prévias. Donovanose apresenta lesão vegetante. LGV tem úlcera inicial transitória com adenopatia tardia flutuante.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o tratamento recomendado para o cancro mole (cancroide)?",
+    "options": [
+      "Penicilina Benzatina 2,4 milhões UI intramuscular dose única OU Doxiciclina 100mg via oral 12/12h por 14 dias (alternativa para alérgicos)",
+      "Metronidazol 500mg via oral 12/12h por 7 dias ASSOCIADO a Azitromicina 1g via oral dose única (cobertura para anaeróbios e gonococo)",
+      "Azitromicina 1g via oral em dose única OU Ceftriaxona 250-500mg intramuscular em dose única OU Ciprofloxacino 500mg via oral 12/12h por 3 dias",
+      "Doxiciclina 100mg via oral 12/12h por 21 dias (mínimo 3 semanas) OU Azitromicina 1g via oral 1x/semana por 3 semanas consecutivas",
+      "Aciclovir 400mg via oral 8/8h por 7-10 dias OU Valaciclovir 1g via oral 12/12h por 7-10 dias (primeira escolha para lesões genitais ulceradas)"
+    ],
+    "correctIndex": 2,
+    "explanation": "O tratamento do CANCRO MOLE (Haemophilus ducreyi) pode ser feito com uma das seguintes opções: (1) Azitromicina 1g VO dose única (primeira escolha pela praticidade e adesão), (2) Ceftriaxona 250mg IM dose única (alguns protocolos usam 500mg), (3) Ciprofloxacino 500mg VO 12/12h por 3 dias. A Azitromicina é preferida por ser dose única e ter excelente eficácia. Contraindicações: Ciprofloxacino em gestantes e <18 anos. Penicilina Benzatina trata SÍFILIS, não cancro mole. Aciclovir e Valaciclovir tratam HERPES GENITAL. Doxiciclina por 21 dias trata DONOVANOSE ou LINFOGRANULOMA VENÉREO. Metronidazol trata infecções por anaeróbios (não H. ducreyi). O seguimento deve avaliar melhora clínica em 7 dias; se não houver resposta, considerar: (1) diagnóstico incorreto, (2) resistência antimicrobiana, (3) coinfecção (especialmente HIV), (4) não adesão ao tratamento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Homem de 28 anos procura atendimento com queixa de lesão genital há 7 dias. Ao exame: úlcera única no sulco balanoprepucial, indolor à palpação, com aproximadamente 1cm de diâmetro, bordas elevadas e endurecidas, fundo limpo com secreção serosa escassa. Linfonodo inguinal direito palpável, móvel, indolor, fibroelástico. Nega outras lesões ou sintomas sistêmicos. Qual o diagnóstico mais provável e a conduta inicial?",
+    "options": [
+      "Cancro duro por sífilis primária, solicitar teste treponêmico rápido e VDRL, iniciar Penicilina Benzatina 2,4 milhões UI IM dose única, notificar e tratar parceiros",
+      "Donovanose por Klebsiella granulomatis, solicitar esfregaço corado (corpúsculos de Donovan), iniciar Doxiciclina 100mg VO 12/12h por 21 dias, seguimento semanal",
+      "Linfogranuloma venéreo por Chlamydia trachomatis L1-L3, solicitar PCR para Chlamydia, iniciar Doxiciclina 100mg VO 12/12h por 21 dias, avaliar adenopatia",
+      "Cancro mole por Haemophilus ducreyi, solicitar cultura em meio específico, iniciar Azitromicina 1g VO dose única, orientar abstinência sexual e retorno em 7 dias",
+      "Herpes genital primário por HSV-2, solicitar sorologia IgM e IgG anti-HSV, iniciar Aciclovir 400mg VO 8/8h por 10 dias, orientar sobre recorrências"
+    ],
+    "correctIndex": 0,
+    "explanation": "O quadro clínico é TÍPICO de CANCRO DURO (sífilis primária): (1) úlcera ÚNICA, (2) INDOLOR, (3) bordas ELEVADAS e ENDURECIDAS (característica patognomônica), (4) fundo LIMPO com secreção SEROSA, (5) adenopatia regional INDOLOR, MÓVEL, fibroelástica (bubão sifilítico). O tempo de evolução (7 dias) está dentro do período esperado (úlcera aparece 1-3 semanas após contágio e persiste 3-6 semanas). CONDUTA: (1) solicitar TESTE TREPONÊMICO RÁPIDO (alta sensibilidade na fase primária) e VDRL (pode ser negativo em fase inicial - 'sífilis soronegativa'), (2) iniciar tratamento com Penicilina Benzatina 2,4 milhões UI IM dose única (padrão-ouro), (3) notificar compulsoriamente, (4) convocar e tratar parceiros sexuais dos últimos 90 dias. DIFERENCIAIS: Cancro mole: múltiplas úlceras DOLOROSAS. Herpes: vesículas precedem úlceras, são DOLOROSAS. Donovanose: lesão VEGETANTE. LGV: úlcera inicial transitória, adenopatia TARDIA e FLUTUANTE.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 24 anos, sexualmente ativa, apresenta corrimento vaginal há 5 dias. Refere disúria terminal e dispareunia. Ao exame especular: colo uterino hiperemiado e friável com secreção mucopurulenta no orifício externo, cérvice com aspecto de 'morango'. Parceiro sexual com história de uretrite tratada há 2 semanas. Qual o diagnóstico sindrômico mais provável e qual o agente menos provável de estar envolvido?",
+    "options": [
+      "Candidíase vulvovaginal (Candida albicans); Chlamydia trachomatis (causa cervicite endocervical, não vulvovaginite com prurido e corrimento grumoso)",
+      "Vaginose bacteriana (Gardnerella vaginalis e anaeróbios); Neisseria gonorrhoeae (causa cervicite purulenta, não vaginose bacteriana com corrimento homogêneo)",
+      "Tricomoníase (Trichomonas vaginalis); Chlamydia trachomatis (causa cervicite não purulenta discreta, não colpite com colo em morango típico de Trichomonas)",
+      "Doença inflamatória pélvica (Chlamydia, gonococo, anaeróbios); Trichomonas vaginalis (raramente ascende ao trato genital superior causando salpingite)",
+      "Cervicite mucopurulenta (Chlamydia trachomatis ou Neisseria gonorrhoeae); Trichomonas vaginalis (causa colpite, não cervicite mucopurulenta típica, embora colo em morango seja sugestivo)"
+    ],
+    "correctIndex": 4,
+    "explanation": "O quadro descrito é típico de CERVICITE MUCOPURULENTA: (1) secreção MUCOPURULENTA no orifício externo do colo, (2) colo HIPEREMIADO e FRIÁVEL (sangra facilmente ao toque), (3) disúria terminal (inflamação uretral), (4) dispareunia, (5) parceiro com uretrite prévia (sugere IST). Os agentes MAIS PROVÁVEIS são: Chlamydia trachomatis (50-70% dos casos) e Neisseria gonorrhoeae (30-50% dos casos), frequentemente em COINFECÇÃO. O 'colo em morango' (strawberry cervix - petéquias puntiformes) é CLÁSSICO de Trichomonas vaginalis, PORÉM o Trichomonas causa principalmente COLPITE (vaginite) com corrimento abundante amarelo-esverdeado espumoso, prurido vulvovaginal intenso e pH >4,5, e NÃO é causa típica de cervicite mucopurulenta endocervical (embora possa causar inflamação cervical). A pergunta pede o agente MENOS provável, e entre os agentes de cervicite mucopurulenta (Chlamydia/gonococo), o Trichomonas seria menos típico, apesar do achado do colo em morango sugerir sua presença. O tratamento empírico deve cobrir Chlamydia E gonococo: Ceftriaxona 500mg IM dose única + Azitromicina 1g VO dose única.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 32 anos procura atendimento referindo 'feridas' genitais há 3 dias, acompanhadas de dor intensa. Nega lesões prévias. Ao exame: múltiplas úlceras (6-7 lesões) com 0,5-1cm de diâmetro distribuídas no prepúcio e glande, bordas irregulares escavadas, base amolecida, fundo com exsudato purulento amarelado e odor fétido. Linfonodo inguinal esquerdo aumentado, doloroso à palpação. Qual o diagnóstico mais provável e o tratamento indicado?",
+    "options": [
+      "Cancro duro por sífilis primária, tratar com Penicilina Benzatina 2,4 milhões UI IM dose única, notificar compulsoriamente, convocar parceiros dos últimos 90 dias",
+      "Herpes genital por HSV-1/HSV-2, tratar com Aciclovir 400mg VO 8/8h por 7-10 dias OU Valaciclovir 1g VO 12/12h por 7 dias, orientar sobre recorrências",
+      "Donovanose por Klebsiella granulomatis, tratar com Doxiciclina 100mg VO 12/12h por no mínimo 21 dias (até cicatrização completa), seguimento semanal",
+      "Cancro mole por Haemophilus ducreyi, tratar com Azitromicina 1g VO dose única OU Ceftriaxona 250-500mg IM dose única, orientar abstinência sexual, reavaliar em 7 dias",
+      "Linfogranuloma venéreo por Chlamydia trachomatis L1-L3, tratar com Doxiciclina 100mg VO 12/12h por 21 dias, avaliar necessidade de drenagem da adenopatia"
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro é TÍPICO de CANCRO MOLE (cancroide): (1) MÚLTIPLAS úlceras (autoinoculação), (2) DOLOROSAS (dor intensa é característica marcante), (3) início AGUDO (3 dias, incubação 2-5 dias), (4) bordas IRREGULARES e ESCAVADAS, (5) base AMOLECIDA (daí 'mole'), (6) fundo com exsudato PURULENTO e odor FÉTIDO, (7) adenopatia (bubão cancroide) DOLOROSA e UNILATERAL (surge 7-14 dias após úlcera, pode supurar). Agente: Haemophilus ducreyi. TRATAMENTO: Azitromicina 1g VO dose única (primeira escolha - praticidade) OU Ceftriaxona 250-500mg IM dose única OU Ciprofloxacino 500mg VO 12/12h por 3 dias. Abstinência sexual até cura. Seguimento em 7 dias para avaliar resposta. DIFERENCIAIS: Cancro duro: úlcera ÚNICA, INDOLOR, base ENDURECIDA. Herpes: vesículas agrupadas precedem úlceras rasas, dolorosas, sem exsudato purulento. Donovanose: lesão VEGETANTE úmida, INDOLOR. LGV: úlcera inicial pequena e transitória, adenopatia TARDIA (2-6 semanas) e FLUTUANTE.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 30 anos, sexualmente ativa, apresenta-se com corrimento vaginal amarelado abundante há 7 dias associado a prurido vulvar intenso, disúria e dispareunia. Ao exame especular: corrimento amarelo-esverdeado bolhoso/espumoso, hiperemia difusa da mucosa vaginal e colo com múltiplas petéquias puntiformes (aspecto em 'morango'). pH vaginal: 5,5. Qual o diagnóstico mais provável, o exame complementar para confirmação e o tratamento?",
+    "options": [
+      "Vaginose bacteriana por Gardnerella vaginalis; bacterioscopia com clue cells (células-guia); Metronidazol 500mg VO 12/12h por 7 dias (tratar apenas a paciente, parceiro não precisa tratamento)",
+      "Cervicite por Neisseria gonorrhoeae; cultura em meio Thayer-Martin de secreção endocervical; Ceftriaxona 500mg IM dose única + Azitromicina 1g VO dose única (tratar parceiro)",
+      "Candidíase vulvovaginal por Candida albicans; exame micológico direto com KOH mostrando hifas/pseudohifas; Fluconazol 150mg VO dose única ou Miconazol creme vaginal por 7 dias",
+      "Tricomoníase por Trichomonas vaginalis; bacterioscopia a fresco com identificação de protozoários flagelados móveis; Metronidazol 2g VO dose única ou 500mg VO 12/12h por 7 dias (tratar parceiro simultaneamente)",
+      "Cervicite por Chlamydia trachomatis; PCR/NAAT para Chlamydia em amostra endocervical; Azitromicina 1g VO dose única (tratar parceiro, notificar compulsoriamente)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro é TÍPICO de TRICOMONÍASE (Trichomonas vaginalis): (1) corrimento AMARELO-ESVERDEADO (classicamente descrito assim), (2) BOLHOSO/ESPUMOSO (característico), (3) PRURIDO vulvovaginal INTENSO, (4) disúria (irritação uretral), (5) dispareunia, (6) hiperemia difusa vaginal (colpite), (7) COLO EM 'MORANGO' (strawberry cervix - petéquias puntiformes - patognomônico, presente em 2-10% dos casos), (8) pH >4,5 (vaginose e tricomoníase têm pH elevado >4,5; candidíase tem pH normal ≤4,5). DIAGNÓSTICO: bacterioscopia a fresco (exame direto da secreção vaginal em solução salina) mostrando PROTOZOÁRIOS FLAGELADOS MÓVEIS (sensibilidade 60-70%). Cultura é mais sensível. TRATAMENTO: Metronidazol 2g VO dose única OU 500mg VO 12/12h por 7 dias. É IST, portanto TRATAR PARCEIRO SIMULTANEAMENTE (mesmo assintomático) e orientar abstinência sexual até cura. ALTERNATIVAS: Tinidazol. Vaginose: corrimento homogêneo acinzentado, sem prurido, pH >4,5, clue cells. Candidíase: corrimento branco grumoso, prurido, pH ≤4,5, KOH com hifas. Cervicites: secreção mucopurulenta endocervical, não causam colpite difusa com corrimento espumoso.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os critérios diagnósticos para doença inflamatória pélvica aguda (DIPA) segundo o CDC e as diretrizes brasileiras?",
+    "options": [
+      "Critérios essenciais: secreção vaginal fétida + febre >38°C + massa anexial palpável ao toque; Critérios complementares: endometrite à histologia + salpingite à laparoscopia + peritonite à exploração cirúrgica",
+      "Critérios maiores: dor pélvica + dispareunia + disúria; Critérios menores: corrimento vaginal + sangramento pós-coital + massa pélvica; Diagnóstico: 2 maiores + 2 menores + PCR elevada ou USG alterado",
+      "Critérios clínicos: dor à compressão abdominal bimanual + defesa muscular + descompressão brusca positiva; Critérios laboratoriais: hemograma com desvio à esquerda + VHS >20mm/h + VDRL positivo; Laparoscopia diagnóstica se dúvida",
+      "Critérios mínimos: dor hipogástrica + dor anexial + dor à mobilização do colo (3 critérios maiores); Critérios adicionais: febre >37,5°C, secreção vaginal anormal, leucocitose, PCR elevada; Critérios elaborados: massa anexial, abscesso tubo-ovariano, laparoscopia compatível",
+      "Critérios obrigatórios: febre >38,5°C + leucocitose >12.000 + secreção vaginal purulenta; Critérios confirmatórios: ultrassom com líquido livre, abscesso, espessamento tubário; Tratamento ambulatorial: ausência de peritonite, massa palpável, vômitos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Segundo as DIRETRIZES DO CDC e protocolos brasileiros, o diagnóstico de DIPA é eminentemente CLÍNICO: CRITÉRIOS MÍNIMOS (diagnóstico presuntivo): presença dos 3 critérios maiores: (1) dor à palpação HIPOGÁSTRICA (dor em baixo ventre), (2) dor à palpação ANEXIAL (dor nos anexos ao toque), (3) dor à MOBILIZAÇÃO DO COLO uterino (chandelier sign - sinal do lustre). A presença desses 3 critérios com atividade sexual desprotegida JUSTIFICA TRATAMENTO EMPÍRICO. CRITÉRIOS ADICIONAIS (aumentam especificidade): temperatura oral >37,5°C (38,3°C para CDC), secreção vaginal/cervical mucopurulenta, leucocitose (>10.000-10.500), VHS ou PCR elevadas. CRITÉRIOS ELABORADOS (definitivos): massa anexial ao exame pélvico ou USG-TV, abscesso tubo-ovariano (ATO) à imagem, achados laparoscópicos de salpingite. A sensibilidade dos critérios mínimos é alta (~90%), mas especificidade moderada (~50%). Devido à gravidade das sequelas (infertilidade, dor pélvica crônica, gestação ectópica), recomenda-se ALTO ÍNDICE DE SUSPEIÇÃO e tratamento precoce mesmo com critérios mínimos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais agentes etiológicos da doença inflamatória pélvica aguda (DIPA) e a classificação de gravidade segundo Monif?",
+    "options": [
+      "Agentes: Candida albicans, Trichomonas vaginalis, Toxoplasma gondii, Listeria monocytogenes, Clostridium perfringens; Classificação: Sem complicações, Com massa anexial, Com abscesso pélvico, Com peritonite difusa",
+      "Agentes: Ureaplasma urealyticum, Haemophilus ducreyi, Treponema pallidum, Klebsiella pneumoniae, Enterococcus faecalis; Classificação: Endometrite, Parametrite, Salpingite, Pelviperitonite, Abscesso pélvico",
+      "Agentes: Mycobacterium tuberculosis, Actinomyces israelii, Escherichia coli, Streptococcus agalactiae, Staphylococcus aureus; Classificação: Leve (ambulatorial), Moderada (hospitalar sem cirurgia), Grave (hospitalar com cirurgia), Complicada (sepse/peritonite)",
+      "Agentes: Citomegalovírus (CMV), Herpes simplex vírus (HSV), Papilomavírus humano (HPV), vírus Epstein-Barr (EBV); Classificação: Aguda (<4 semanas), Subaguda (4-12 semanas), Crônica (>12 semanas), Recorrente (≥3 episódios/ano)",
+      "Agentes: Chlamydia trachomatis, Neisseria gonorrhoeae, anaeróbios (Bacteroides, Prevotella, Peptostreptococcus), Gardnerella vaginalis, Mycoplasma; Classificação Monif: I-Salpingite sem peritonite, II-Salpingite com peritonite, III-Salpingite com massa anexial, IV-Abscesso tubo-ovariano roto"
+    ],
+    "correctIndex": 4,
+    "explanation": "AGENTES ETIOLÓGICOS da DIPA: É uma infecção POLIMICROBIANA ascendente do trato genital inferior. Principais agentes: (1) Chlamydia trachomatis (mais comum, 30-60% dos casos, frequentemente subclínica), (2) Neisseria gonorrhoeae (25-50%, quadro mais agudo), (3) ANAERÓBIOS (Bacteroides fragilis, Prevotella, Peptostreptococcus - presentes em 25-50%, especialmente em casos graves), (4) Gardnerella vaginalis, (5) Mycoplasma genitalium/hominis. Frequentemente há COINFECÇÃO. CLASSIFICAÇÃO DE MONIF (gravidade anatômica): Estágio I: SALPINGITE AGUDA sem peritonite; Estágio II: SALPINGITE AGUDA com peritonite; Estágio III: SALPINGITE com MASSA ANEXIAL (plastrão ou abscesso tubo-ovariano íntegro); Estágio IV: ABSCESSO TUBO-OVARIANO ROTO (emergência cirúrgica, peritonite difusa, sepse). Outras causas menos comuns de DIPA: tuberculose genital (rara no Brasil), actinomicose (associada a DIU). CMV, HSV, HPV, EBV não causam DIPA. Candida e Trichomonas causam vulvovaginite, não DIPA ascendente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 23 anos, sexualmente ativa com múltiplos parceiros, procura atendimento com queixa de dor em baixo ventre há 3 dias, febre (38,2°C) e corrimento vaginal amarelado. Ao exame: dor à palpação do hipogástrio, dor intensa à palpação anexial bilateral e à mobilização do colo uterino, secreção mucopurulenta no orifício cervical externo. USG-TV: líquido livre em fundo de saco posterior, espessamento tubário bilateral. Hemograma: leucócitos 14.000/mm³. Qual o diagnóstico e a conduta terapêutica ambulatorial?",
+    "options": [
+      "Endometriose profunda com síndrome aderencial; iniciar tratamento hormonal com anticoncepcional combinado contínuo ou análogo GnRH, analgésicos e encaminhar para cirurgia videolaparoscópica eletiva",
+      "Apendicite aguda com peritonite localizada; solicitar TC de abdome urgente, iniciar antibioticoterapia de amplo espectro hospitalar e avaliar indicação de apendicectomia cirúrgica em 24-48 horas",
+      "Gestação ectópica rota com hemoperitônio; solicitar beta-hCG quantitativo urgente, internar para reposição volêmica, hemotransfusão se necessário e videolaparoscopia diagnóstico-terapêutica de urgência",
+      "Cisto ovariano roto com peritonite química; conduta expectante com analgesia (dipirona e anti-inflamatórios), observação clínica por 24-48 horas e ultrassom de controle em 7 dias",
+      "Doença inflamatória pélvica aguda (DIPA) estágio II de Monif (salpingite com peritonite); tratar ambulatorialmente com Ceftriaxona 500mg IM dose única + Doxiciclina 100mg VO 12/12h por 14 dias + Metronidazol 500mg VO 12/12h por 14 dias"
+    ],
+    "correctIndex": 4,
+    "explanation": "O diagnóstico é DOENÇA INFLAMATÓRIA PÉLVICA AGUDA (DIPA). Estão presentes: (1) CRITÉRIOS MÍNIMOS: dor hipogástrica + dor anexial bilateral + dor à mobilização do colo (3 critérios maiores); (2) CRITÉRIOS ADICIONAIS: febre >37,5°C (38,2°C), secreção mucopurulenta cervical, leucocitose; (3) CRITÉRIOS ELABORADOS: líquido livre em fundo de saco (peritonite) + espessamento tubário à USG-TV (salpingite). Segundo classificação de MONIF, trata-se de ESTÁGIO II (salpingite com peritonite). TRATAMENTO AMBULATORIAL (indicado se critérios para internação ausentes): Ceftriaxona 500mg IM dose única (cobertura para gonococo) + Doxiciclina 100mg VO 12/12h por 14 dias (cobertura para Chlamydia e anaeróbios) + Metronidazol 500mg VO 12/12h por 14 dias (melhor cobertura para anaeróbios, opcional mas recomendado). Critérios para INTERNAÇÃO: gravidez, falha tratamento ambulatorial após 48-72h, intolerância a tratamento VO, doença grave (febre alta, náuseas/vômitos, peritonite difusa), abscesso tubo-ovariano, imunossupressão. DIFERENCIAIS descartados: Apendicite: dor focalizada em FID, não dor anexial bilateral/mobilização colo, Blumberg+. Ectópica: atraso menstrual, beta-hCG+, dor unilateral, sangramento. Cisto roto: início súbito, sem febre/infecção. Endometriose: dor crônica, dismenorreia progressiva, não infecciosa aguda.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 28 anos, DIU de cobre há 2 anos, queixa de dor pélvica intensa há 4 dias, febre persistente (38,8°C), náuseas e vômitos. Ao exame: regular estado geral, desidratada, pressão arterial 100/60 mmHg, FC 110 bpm. Abdome: dor difusa à palpação com defesa muscular, descompressão brusca positiva. Toque bimanual: massa palpável dolorosa em anexo direito, dor intensa à mobilização do colo. USG-TV: coleção heterogênea de 6x5cm em anexo direito com debris internos, líquido livre em pelve. Hemograma: leucócitos 18.000/mm³ com desvio à esquerda, PCR 180mg/L. Qual o diagnóstico, a classificação e a conduta?",
+    "options": [
+      "Prenhez ectópica rota com hemoperitônio e choque hipovolêmico inicial; solicitar beta-hCG urgente, internar em leito de observação/UTI, repor volemia, hemotransfusão, videolaparoscopia de urgência para salpingectomia",
+      "Cisto ovariano complicado (hemorrágico ou endometriótico) com torção anexial parcial; indicar videolaparoscopia de urgência para destorção, drenagem do cisto e ooforoplastia, preservar função ovariana, alta em 24-48h",
+      "Apendicite aguda complicada com abscesso periapendicular; solicitar TC abdome/pelve com contraste, internar para antibioticoterapia EV (Piperacilina-tazobactam), drenagem percutânea guiada por imagem e apendicectomia em segundo tempo",
+      "DIPA estágio III de Monif (abscesso tubo-ovariano); indicar internação hospitalar, antibioticoterapia intravenosa de amplo espectro (Clindamicina + Gentamicina OU Ampicilina-sulbactam OU Ceftriaxona + Doxiciclina + Metronidazol), retirar DIU, drenagem cirúrgica se não houver resposta em 48-72h ou sinais de ruptura",
+      "DIPA estágio II de Monif (salpingite com peritonite); tratar ambulatorialmente com Ceftriaxona 500mg IM + Doxiciclina + Metronidazol VO por 14 dias, manter DIU se melhora clínica, reavaliar em 48-72h"
+    ],
+    "correctIndex": 3,
+    "explanation": "O diagnóstico é DIPA ESTÁGIO III DE MONIF (ABSCESSO TUBO-OVARIANO - ATO). Evidências: (1) critérios mínimos de DIPA presentes (dor hipogástrica, anexial, mobilização colo), (2) febre alta persistente (38,8°C), (3) sinais de GRAVIDADE (náuseas/vômitos, desidratação, taquicardia, leucocitose acentuada 18.000, PCR muito elevada 180mg/L), (4) MASSA ANEXIAL palpável, (5) USG-TV com COLEÇÃO HETEROGÊNEA com debris (abscesso), (6) líquido livre (peritonite), (7) DIU (fator de risco para DIPA grave). CLASSIFICAÇÃO: Estágio III (abscesso tubo-ovariano ÍNTEGRO). Se houvesse sinais de RUPTURA (abdome agudo difuso, sepse, instabilidade hemodinâmica) seria estágio IV. CONDUTA: (1) INTERNAÇÃO HOSPITALAR (critérios: massa anexial/ATO, gravidade, vômitos, febre alta, falha ambulatorial esperada); (2) ANTIBIOTICOTERAPIA INTRAVENOSA de amplo espectro: Clindamicina 900mg IV 8/8h + Gentamicina 5mg/kg/dia OU Ampicilina-sulbactam OU Ceftriaxona + Doxiciclina + Metronidazol; (3) RETIRAR DIU após iniciar antibiótico; (4) DRENAGEM CIRÚRGICA (videolaparoscopia ou laparotomia) se: não resposta em 48-72h, piora clínica, ruptura de abscesso. Tratamento ambulatorial CONTRAINDICADO neste caso (gravidade, ATO). Apendicite: dor FID, sem massa anexial. Cisto: sem febre/infecção. Torção: dor súbita intensa, sem febre/leucocitose. Ectópica: beta-hCG+, atraso menstrual.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 26 anos procura atendimento com queixa de dor em baixo ventre há 2 dias associada a corrimento vaginal e dispareunia. Nega febre, náuseas ou vômitos. Ao exame: bom estado geral, afebril. Toque bimanual: discreta dor à palpação hipogástrica e anexial bilateral, dor moderada à mobilização do colo, sem massas palpáveis. USG-TV sem alterações. Hemograma e PCR normais. Qual a conduta mais adequada?",
+    "options": [
+      "Solicitar cultura de secreção cervical para Chlamydia e gonococo e aguardar resultado antes de iniciar tratamento antibiótico, orientar retorno em 7 dias com os exames para decisão terapêutica",
+      "Descartar DIPA devido à ausência de febre, leucocitose e alterações ultrassonográficas; diagnosticar dismenorreia primária e prescrever anti-inflamatórios não hormonais (ibuprofeno) e analgésicos simples (paracetamol)",
+      "Diagnosticar síndrome do intestino irritável com manifestação ginecológica, prescrever antiespasmódicos (hioscina) e orientações dietéticas (reduzir fibras e lactose), encaminhar para gastroenterologia",
+      "Diagnosticar DIPA estágio I de Monif (salpingite sem peritonite) pelos critérios mínimos presentes, iniciar tratamento ambulatorial com Ceftriaxona 500mg IM dose única + Doxiciclina 100mg VO 12/12h por 14 dias + Metronidazol 500mg VO 12/12h por 14 dias, orientar abstinência sexual, reavaliar em 48-72h, notificar e tratar parceiros",
+      "Solicitar laparoscopia diagnóstica para confirmação de DIPA antes de iniciar antibioticoterapia, pois os critérios clínicos têm baixa especificidade e exames complementares (USG, hemograma, PCR) estão normais"
+    ],
+    "correctIndex": 3,
+    "explanation": "A paciente preenche os CRITÉRIOS MÍNIMOS para diagnóstico de DIPA: (1) dor à palpação HIPOGÁSTRICA, (2) dor à palpação ANEXIAL bilateral, (3) dor à MOBILIZAÇÃO DO COLO. Segundo as diretrizes do CDC e MS, a presença dos 3 critérios mínimos em mulher sexualmente ativa JUSTIFICA O DIAGNÓSTICO PRESUMPTIVO DE DIPA e o INÍCIO IMEDIATO DO TRATAMENTO EMPÍRICO, mesmo na AUSÊNCIA de critérios adicionais (febre, leucocitose, PCR elevada) ou critérios elaborados (massa anexial, abscesso à USG). JUSTIFICATIVA: (1) especificidade dos critérios mínimos é moderada (~50%), mas sensibilidade alta (~90%), (2) as SEQUELAS da DIPA não tratada são GRAVES (infertilidade tubária, dor pélvica crônica, risco de gestação ectópica aumentado 7-10x, risco de novo episódio aumentado), (3) tratamento precoce REDUZ sequelas. Classificação: DIPA ESTÁGIO I de Monif (salpingite sem peritonite - sem líquido livre, sem massa). TRATAMENTO AMBULATORIAL: Ceftriaxona 500mg IM dose única + Doxiciclina 100mg VO 12/12h 14d + Metronidazol 500mg VO 12/12h 14d. Orientar: abstinência sexual até fim do tratamento e 7 dias após, notificar/tratar parceiros dos últimos 60 dias, reavaliar em 48-72h. Laparoscopia NÃO é necessária para iniciar tratamento. Aguardar cultura ATRASA tratamento desnecessariamente. Não descartar DIPA só porque exames complementares normais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Segundo as diretrizes brasileiras do Ministério da Saúde para rastreamento do câncer de colo uterino, qual é a população-alvo e a periodicidade recomendada para o exame citopatológico (Papanicolaou)?",
+    "options": [
+      "Mulheres de 30 a 65 anos, com teste de HPV DNA a cada 5 anos como método primário de rastreamento, sem necessidade de citologia oncótica",
+      "Mulheres de 25 a 64 anos, com exame citopatológico (Papanicolaou) anual até dois resultados normais consecutivos, após o que o intervalo passa a ser de 3 anos",
+      "Mulheres de 21 a 70 anos, com exame citopatológico (Papanicolaou) a cada 3 anos independente de resultados prévios desde o início do rastreamento",
+      "Mulheres sexualmente ativas independente da idade, com exame citopatológico (Papanicolaou) bienal após os 40 anos e anual antes dos 40 anos",
+      "Mulheres de 18 anos ou início da atividade sexual, com exame citopatológico (Papanicolaou) anual durante toda a vida reprodutiva até a menopausa"
+    ],
+    "correctIndex": 1,
+    "explanation": "As DIRETRIZES BRASILEIRAS (MS/INCA) para rastreamento do câncer de colo uterino recomendam: POPULAÇÃO-ALVO: mulheres de 25 a 64 anos (ou que já iniciaram atividade sexual). PERIODICIDADE: (1) exame citopatológico (Papanicolaou) ANUAL até obter DOIS resultados NORMAIS CONSECUTIVOS, (2) após dois exames normais consecutivos, o intervalo passa para A CADA 3 ANOS. JUSTIFICATIVA: (1) história natural LENTA da doença (progressão de lesão precursora para câncer invasor leva 10-15 anos), (2) rastreamento trienal após dois exames normais tem eficácia semelhante ao anual (~93% vs 95% de proteção), (3) otimiza recursos do sistema de saúde, (4) reduz danos do rastreamento excessivo (procedimentos desnecessários por achados benignos). SITUAÇÕES ESPECIAIS: (1) mulheres HIV+ ou imunossuprimidas: rastreio ANUAL independente de resultados prévios (risco aumentado de progressão rápida), (2) gestantes: podem realizar rastreio normalmente. INTERRUPÇÃO: rastreio pode ser interrompido aos 64 anos se dois exames negativos consecutivos nos últimos 5 anos. OBSERVAÇÃO: teste de HPV como rastreio primário está sendo incorporado gradualmente no Brasil, mas a diretriz oficial vigente ainda é citologia trienal após dois exames anuais normais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a porcentagem de cânceres cervicais atribuível aos tipos de HPV de alto risco 16 e 18, e quais outros tipos de HPV oncogênicos são importantes?",
+    "options": [
+      "HPV 16 e 18 são responsáveis por aproximadamente 40% dos cânceres cervicais; tipos de baixo risco como HPV 6 e 11 podem progredir para câncer em 30% dos casos",
+      "HPV 16 e 18 são responsáveis por aproximadamente 90% dos cânceres cervicais; outros tipos oncogênicos importantes incluem HPV 6, 11, 42, 43 e 44 (baixo risco)",
+      "HPV 16 e 18 são responsáveis por 100% dos cânceres cervicais; não existem outros tipos oncogênicos clinicamente relevantes além destes dois",
+      "HPV 16 e 18 são responsáveis por aproximadamente 70% dos cânceres cervicais; outros tipos oncogênicos importantes incluem HPV 31, 33, 35, 39, 45, 51, 52, 56, 58 e 59",
+      "HPV 16 e 18 são responsáveis por aproximadamente 50% dos cânceres cervicais; outros tipos oncogênicos importantes incluem HPV 26, 53, 66, 68, 70 e 73"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os tipos de HPV 16 e 18 são responsáveis por aproximadamente 70% de TODOS os cânceres cervicais no mundo (HPV 16 sozinho causa ~50-55%, HPV 18 causa ~15-20%). OUTROS TIPOS DE HPV DE ALTO RISCO (oncogênicos) importantes incluem: HPV 31, 33, 35, 39, 45, 51, 52, 56, 58, 59. Estes tipos adicionais são responsáveis pelos ~30% restantes dos cânceres cervicais. A classificação dos HPV: (1) ALTO RISCO/ONCOGÊNICOS (14-15 tipos): 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68, 73, 82; (2) PROVÁVEL ALTO RISCO: 26, 53, 66; (3) BAIXO RISCO (não oncogênicos, causam verrugas genitais): 6, 11, 40, 42, 43, 44, 54, 61, 70, 72, 81. IMPORTÂNCIA CLÍNICA: (1) vacinas QUADRIVALENTE (Gardasil) cobrem HPV 6, 11, 16, 18 (~70% proteção contra câncer cervical + verrugas genitais); (2) vacina NONAVALENTE (Gardasil 9) cobre adicionalmente HPV 31, 33, 45, 52, 58 (~90% proteção contra câncer cervical). Os tipos 6 e 11 (baixo risco) causam ~90% das verrugas genitais, mas NÃO causam câncer. O rastreamento citológico é importante porque detecta lesões precursoras causadas por TODOS os tipos oncogênicos, não apenas 16/18.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 28 anos, HIV positiva em uso regular de TARV com CD4 580 células/mm³ e carga viral indetectável, procura orientação sobre rastreamento de câncer de colo uterino. Refere nunca ter realizado exame preventivo. Qual a recomendação adequada?",
+    "options": [
+      "Realizar colposcopia de rastreamento anual ao invés de citologia, pois a sensibilidade do Papanicolaou é reduzida em mulheres HIV+ mesmo com imunidade controlada",
+      "Aguardar até 30 anos para iniciar rastreamento, pois mulheres HIV+ com TARV e imunidade preservada (CD4 >500) seguem as mesmas recomendações da população geral (25-64 anos, trienal após dois normais)",
+      "Iniciar rastreamento imediatamente com Papanicolaou, repetir após 1 ano se normal e, se ambos normais, espaçar para cada 3 anos como população geral (imunossupressão controlada com CD4 >500 e CV indetectável não requer rastreio diferenciado)",
+      "Iniciar rastreamento imediatamente com Papanicolaou, repetir após 1 ano se normal e, se ambos normais, manter periodicidade ANUAL indefinidamente (mulheres HIV+ devem fazer rastreio anual mesmo com dois exames normais, não podem espaçar para 3 anos)",
+      "Solicitar teste de HPV DNA como método primário de rastreamento ao invés de citologia, pois mulheres imunossuprimidas têm maior risco de HPV persistente e o teste molecular é mais sensível"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mulheres HIV POSITIVAS têm risco AUMENTADO de: (1) infecção persistente por HPV de alto risco, (2) progressão MAIS RÁPIDA de lesões precursoras (NIC) para câncer invasor (pode ocorrer em <5 anos vs 10-15 anos na população geral), (3) recidiva de lesões após tratamento. Portanto, as RECOMENDAÇÕES ESPECÍFICAS para rastreamento em HIV+ são: (1) INICIAR rastreamento imediatamente após diagnóstico de HIV, independente da idade (mesmo se <25 anos); (2) realizar Papanicolaou ANUAL; (3) após DOIS exames anuais NORMAIS consecutivos, MANTER periodicidade ANUAL (diferente da população geral que espaça para 3 anos); (4) rastreio deve continuar mesmo após 64 anos enquanto expectativa de vida >5-10 anos. JUSTIFICATIVA para rastreio anual contínuo: a imunossupressão (mesmo controlada com TARV) aumenta risco de progressão rápida, e o intervalo de 3 anos pode ser inseguro. O CD4 >500 e CV indetectável indicam bom controle, mas NÃO mudam a recomendação de rastreio anual. Teste de HPV DNA ainda não é padrão no Brasil para rastreio primário (citologia é padrão). Colposcopia é indicada para investigação de exames alterados, não como rastreio primário. Outras situações de rastreio anual: imunossuprimidas (transplantadas, quimioterapia), história de NIC2/3 tratada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 32 anos, nuligesta, sem comorbidades, procura orientação sobre rastreamento de câncer de colo uterino. Refere ter realizado Papanicolaou há 3 anos com resultado normal, mas não retornou para novo exame. Nega sangramento anormal ou corrimento. Qual a conduta adequada?",
+    "options": [
+      "Informar que o exame de 3 anos atrás ainda é válido e ela pode aguardar mais 3 anos para o próximo (total de 6 anos desde o último), pois um único exame normal é suficiente para intervalo trienal",
+      "Realizar colposcopia de rastreamento ao invés de citologia, pois ela está há 3 anos sem exame e pode ter lesões não detectadas que requerem avaliação direta do colo",
+      "Solicitar teste de HPV DNA como método primário de rastreamento ao invés de repetir citologia, pois ela está fora do prazo recomendado e o teste molecular identifica melhor pacientes de alto risco",
+      "Orientar que deve realizar novo Papanicolaou imediatamente, e se este for normal, repetir após 1 ano; tendo dois exames normais consecutivos, pode espaçar para cada 3 anos conforme protocolo brasileiro",
+      "Orientar que nuligestas têm menor risco de câncer cervical e podem iniciar rastreamento apenas aos 35 anos ou após primeira gestação, o que ocorrer primeiro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Segundo as diretrizes brasileiras, a paciente deve: (1) realizar novo Papanicolaou IMEDIATAMENTE (está fora do prazo de seguimento); (2) se o resultado for NORMAL, repetir após 1 ANO; (3) se AMBOS os exames (atual + após 1 ano) forem NORMAIS, então pode ESPAÇAR o intervalo para cada 3 ANOS. JUSTIFICATIVA: o protocolo brasileiro exige DOIS exames NORMAIS CONSECUTIVOS (com intervalo anual) para liberar o intervalo trienal. Como ela tem apenas UM exame normal há 3 anos e não retornou para o segundo, ela precisa 'reiniciar' o protocolo. Não se considera o exame de 3 anos atrás como suficiente para manter intervalo trienal sem ter feito o segundo exame confirmatório. A nuliparidade (ausência de gestações) NÃO modifica as recomendações de rastreamento - idade é o critério (25-64 anos). Colposcopia é para investigação de exames alterados, não rastreio primário. Teste de HPV DNA não é padrão no Brasil como rastreio primário (embora esteja sendo gradualmente incorporado em alguns municípios). O rastreio é pela IDADE (25-64 anos) e história sexual, não pela paridade. Mulheres que iniciaram atividade sexual devem fazer rastreio mesmo sendo nuligestas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 42 anos, histerectomizada há 5 anos por miomatose uterina (laudo anatomopatológico: leiomioma, sem displasia), sem história de lesões cervicais prévias, procura orientação sobre rastreamento ginecológico. Qual a orientação correta?",
+    "options": [
+      "Realizar colposcopia da cúpula vaginal anualmente para rastreamento visual direto, pois a sensibilidade da citologia é reduzida na ausência do colo uterino",
+      "Solicitar teste de HPV DNA da cúpula vaginal anualmente, pois é mais sensível que a citologia para detectar lesões precursoras em mulheres histerectomizadas",
+      "Manter rastreamento citopatológico anual da cúpula vaginal, pois mulheres histerectomizadas têm risco aumentado de neoplasia vaginal independente da indicação da histerectomia",
+      "Suspender rastreamento citopatológico, pois mulheres histerectomizadas por doença benigna SEM história de lesão cervical de alto grau (NIC2/3) NÃO necessitam rastreio citológico de cúpula vaginal",
+      "Realizar rastreamento citológico da cúpula vaginal a cada 3 anos seguindo o mesmo protocolo do rastreamento cervical, pois a cúpula pode desenvolver lesões HPV-induzidas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mulheres submetidas a HISTERECTOMIA TOTAL (com remoção do colo uterino) por DOENÇA BENIGNA e SEM história de lesão cervical de alto grau (NIC2/3 ou câncer) NÃO necessitam de rastreamento citológico de cúpula vaginal. JUSTIFICATIVA: (1) o risco de câncer/displasia de cúpula vaginal em mulheres sem história de lesão cervical é MUITO BAIXO (<0,1-0,2%), (2) a citologia de cúpula tem baixa sensibilidade e especificidade, (3) o rastreio gera mais danos (procedimentos desnecessários por falsos positivos) do que benefícios. EXCEÇÕES que REQUEREM rastreamento de cúpula: (1) histerectomia por NIC2/3 ou carcinoma in situ (rastreio anual por 20 anos), (2) histerectomia por câncer cervical (seguimento oncológico específico), (3) história prévia de NIC2/3 tratada, mesmo que a histerectomia tenha sido por outro motivo. Esta paciente foi histerectomizada por MIOMATOSE (doença BENIGNA) sem displasia no laudo, portanto NÃO necessita rastreio de cúpula. Ela ainda deve manter: (1) rastreamento mamográfico (40-69 anos), (2) exames ginecológicos de rotina conforme necessário (avaliação de queixas, DST, etc). Teste de HPV e colposcopia não são indicados como rastreio em histerectomizadas por doença benigna. Reforçar importância de documentação adequada do motivo da histerectomia e ausência de lesões cervicais prévias.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 48 anos realiza Papanicolaou de rotina. Resultado: ASCUS (células escamosas atípicas de significado indeterminado). Último exame há 2 anos normal. Nega sangramento anormal, corrimento ou sintomas. Qual a conduta recomendada segundo diretrizes brasileiras?",
+    "options": [
+      "Prescrever tratamento empírico com criocauterização cervical sem necessidade de colposcopia prévia, pois a maioria dos casos de ASCUS representa lesões de baixo grau que regridem com cauterização",
+      "Solicitar teste de HPV DNA como teste reflexo; se HPV positivo para tipos de alto risco, encaminhar para colposcopia; se HPV negativo, retornar ao rastreamento de rotina trienal",
+      "Repetir citologia (Papanicolaou) em 6 meses; se persistir ASCUS ou surgir lesão (LSIL/HSIL), encaminhar para colposcopia; se normalizar, retornar ao rastreamento de rotina (anual até dois normais, depois trienal)",
+      "Realizar conização cervical diagnóstica imediata, pois ASCUS pode ocultar lesão de alto grau não visualizada na citologia e a conização permite avaliação histológica completa da zona de transformação",
+      "Encaminhar imediatamente para colposcopia com biópsia, pois ASCUS em mulher >40 anos tem alto risco de lesão de alto grau (NIC2/3) subjacente e não deve ter seguimento conservador"
+    ],
+    "correctIndex": 2,
+    "explanation": "ASCUS (Atypical Squamous Cells of Undetermined Significance - células escamosas atípicas de significado indeterminado) representa alteração citológica INESPECÍFICA que pode ser: (1) reacional/inflamatória (mais comum - ~70%), (2) lesão de baixo grau - LSIL/NIC1 (~15-20%), (3) lesão de alto grau - HSIL/NIC2-3 (~5-10%), (4) raramente câncer (<1%). CONDUTA recomendada no BRASIL (MS/INCA): REPETIR CITOLOGIA em 6 MESES. Após repetição: (1) Se NORMAL: retornar ao rastreamento de rotina (anual até dois normais, depois trienal); (2) Se PERSISTIR ASCUS ou surgir ASCUS-H, ASC-H, LSIL, HSIL, AGC: encaminhar para COLPOSCOPIA com biópsia se necessário; (3) Se surgir outra alteração benigna (inflamatória): tratar e repetir em 6 meses. JUSTIFICATIVA: (1) 70% dos ASCUS regridem espontaneamente, (2) repetir citologia identifica os 30% que persistem/progridem, (3) evita colposcopias desnecessárias em alterações transitórias. ALTERNATIVA (alguns protocolos internacionais): teste de HPV reflexo (se HPV+ → colposcopia; se HPV- → rotina). No Brasil, teste de HPV ainda não é padrão nacional. Colposcopia imediata para ASCUS geraria sobretratamento. Conização diagnóstica é excessiva para ASCUS. Criocauterização sem avaliação histológica não é indicada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Segundo as diretrizes brasileiras vigentes, qual é a recomendação de rastreamento mamográfico para mulheres de risco habitual (sem história familiar significativa ou mutações genéticas)?",
+    "options": [
+      "Mamografia anual dos 35 aos 74 anos associada a ultrassom mamário anual para todas as mulheres, além de autoexame mensal orientado como método primário de rastreamento",
+      "Mamografia trienal dos 40 aos 64 anos associada a exame clínico das mamas semestral por profissional de saúde, sem necessidade de exames de imagem em mulheres assintomáticas",
+      "Mamografia digital com tomossíntese bienal dos 45 aos 70 anos associada a ressonância magnética anual para todas as mulheres, priorizando detecção precoce com métodos avançados",
+      "Mamografia anual iniciando aos 30 anos ou 10 anos antes do caso índice familiar (o que ocorrer primeiro) para toda a população, sem distinção entre risco habitual e alto risco",
+      "Mamografia bienal dos 50 aos 69 anos (MS/INCA 2015) OU mamografia anual a partir dos 40 anos (SBM/CBR/FEBRASGO) - há divergência entre sociedades; autoexame mensal não é recomendado como método de rastreio"
+    ],
+    "correctIndex": 4,
+    "explanation": "No Brasil, há DIVERGÊNCIA entre as recomendações para rastreamento mamográfico em mulheres de RISCO HABITUAL: MINISTÉRIO DA SAÚDE/INCA (2015): mamografia BIENAL dos 50 aos 69 anos. Justificativa: melhor balanço benefício/dano nessa faixa etária (maior redução de mortalidade, menor sobrediagnóstico). SOCIEDADES MÉDICAS (SBM - Sociedade Brasileira de Mastologia, CBR - Colégio Brasileiro de Radiologia, FEBRASGO): mamografia ANUAL a partir dos 40 anos até 69-74 anos. Justificativa: maior sensibilidade para detecção precoce, especialmente em mulheres <50 anos com mamas densas. Na PRÁTICA CLÍNICA: a maioria dos mastologistas e ginecologistas segue a recomendação das sociedades (anual a partir dos 40 anos). Mulheres devem ser informadas sobre as duas recomendações e decidir com seu médico. AUTOEXAME: NÃO é recomendado como método de rastreamento (não reduz mortalidade, aumenta biópsias desnecessárias), mas a mulher deve estar atenta a alterações mamárias e reportá-las. EXAME CLÍNICO DAS MAMAS (ECM): anual por profissional durante consulta de rotina, mas NÃO substitui mamografia. ALTO RISCO (história familiar forte, mutações BRCA1/2): iniciar rastreio mais cedo (25-30 anos) e considerar RM mamária adicional.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 35 anos, sem fatores de risco conhecidos, procura orientação sobre rastreamento de câncer de mama. Nega história familiar de câncer. Ao exame clínico, mamas sem alterações. Qual a orientação adequada segundo as principais diretrizes?",
+    "options": [
+      "Solicitar mamografia de rastreamento imediatamente, pois mulheres ≥35 anos já se beneficiam do rastreamento mamográfico mesmo sem fatores de risco, segundo todas as diretrizes nacionais",
+      "Orientar exame clínico das mamas anual e aguardar 40 anos para iniciar mamografia de rastreamento (seguindo recomendação da maioria das sociedades brasileiras); orientar que esteja atenta a alterações mamárias e procure atendimento se notar nódulos ou mudanças",
+      "Solicitar ultrassom mamário anual dos 35 aos 39 anos como método de rastreamento, e iniciar mamografia apenas aos 40 anos, pois mulheres jovens têm mamas densas com menor sensibilidade mamográfica",
+      "Orientar apenas autoexame mensal como método de rastreamento até 40 anos, pois é o método mais custo-efetivo para mulheres jovens sem fatores de risco e tem comprovada redução de mortalidade",
+      "Solicitar ressonância magnética de mamas como rastreamento inicial, pois é o método mais sensível para mulheres <40 anos e permite detecção de lesões não palpáveis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para mulher de 35 anos SEM fatores de risco e sem história familiar significativa, a orientação é: (1) Realizar EXAME CLÍNICO DAS MAMAS (ECM) ANUAL durante consultas de rotina; (2) AGUARDAR 40 anos para INICIAR MAMOGRAFIA de rastreamento (segundo SBM/CBR/FEBRASGO) OU aguardar 50 anos (segundo MS/INCA); (3) Orientar que esteja ATENTA a alterações mamárias (nódulos, retrações, secreções, alterações de pele) e PROCURE atendimento se notar mudanças (conscientização mamária - breast awareness). JUSTIFICATIVA: (1) mulheres <40 anos SEM risco aumentado têm BAIXA incidência de câncer de mama (~1-2% dos cânceres ocorrem <35 anos), (2) mamas de mulheres jovens são mais DENSAS (menor sensibilidade mamográfica, mais falsos positivos), (3) rastreio <40 anos leva a SOBREDIAGNÓSTICO e biópsias desnecessárias sem redução comprovada de mortalidade. AUTOEXAME mensal NÃO é recomendado como método de rastreamento (não reduz mortalidade). ULTRASSOM não é método de rastreamento primário (é complementar à mamografia em mamas densas ou para avaliar achados). RESSONÂNCIA MAGNÉTICA é reservada para ALTO RISCO (mutações genéticas, risco >20% em 10 anos). Se a paciente apresentar NÓDULO PALPÁVEL ou outra alteração clínica, está indicada INVESTIGAÇÃO diagnóstica (não é rastreamento), independente da idade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 38 anos procura orientação sobre rastreamento de câncer de mama. Relata que sua mãe teve câncer de mama aos 46 anos. Pergunta quando deve iniciar mamografia de rastreamento. Qual a orientação adequada considerando o antecedente familiar?",
+    "options": [
+      "Iniciar mamografia de rastreamento aos 40 anos seguindo protocolo de risco habitual, pois antecedente familiar em parente de primeiro grau >50 anos não configura alto risco significativo que justifique antecipação do rastreio",
+      "Iniciar mamografia de rastreamento aos 46 anos (mesma idade da mãe ao diagnóstico), pois estudos mostram que o risco aumentado se manifesta na mesma faixa etária do familiar afetado",
+      "Iniciar mamografia de rastreamento imediatamente (aos 38 anos), pois a recomendação é começar 10 anos antes da idade do caso índice (mãe diagnosticada aos 46 anos: 46 - 10 = 36 anos) OU aos 35 anos, o que ocorrer primeiro, porém como já tem 38 anos, deve iniciar agora com mamografia anual",
+      "Solicitar teste genético para mutações BRCA1/2 antes de decidir quando iniciar rastreamento, pois história familiar de câncer de mama sempre indica necessidade de avaliação genética prévia",
+      "Solicitar apenas ultrassom mamário anual dos 38 aos 50 anos e iniciar mamografia apenas aos 50 anos, pois ela ainda é jovem e tem mamas provavelmente densas com baixa sensibilidade mamográfica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para mulheres com ANTECEDENTE FAMILIAR de câncer de mama em PARENTE DE PRIMEIRO GRAU (mãe, irmã, filha), a recomendação é: INICIAR rastreamento mamográfico 10 ANOS ANTES da idade do diagnóstico do caso índice OU aos 35 anos, O QUE OCORRER PRIMEIRO. No caso: mãe diagnosticada aos 46 anos → iniciar aos 36 anos (46 - 10 = 36) OU aos 35 anos, o que ocorrer primeiro → como ela já tem 38 anos, deve INICIAR IMEDIATAMENTE. Mamografia ANUAL. JUSTIFICATIVA: (1) mulheres com familiar de 1º grau afetado têm risco 2-3x maior de câncer de mama, (2) o risco é ainda maior se o caso índice foi diagnosticado ANTES DOS 50 ANOS (pré-menopausa), (3) a antecipação do rastreio visa detectar cânceres que podem ocorrer em idades mais jovens devido à predisposição familiar/genética. OBSERVAÇÕES: (1) caso índice <50 anos aumenta suspeita de componente hereditário (considerar aconselhamento genético), (2) se houver MÚLTIPLOS casos na família (≥2 parentes de 1º grau, casos bilaterais, associação com câncer de ovário, casos masculinos), considerar ALTO RISCO e investigar mutações BRCA1/2, (3) em ALTO RISCO confirmado (mutação genética, risco >20-25% em 10 anos), adicionar RESSONÂNCIA MAGNÉTICA anual ao rastreamento. Ultrassom isolado NÃO é método de rastreio primário.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o esquema vacinal para HPV recomendado pelo Programa Nacional de Imunizações (PNI/SUS) para a população geral e para grupos específicos?",
+    "options": [
+      "População geral (9-14 anos): 2 DOSES (0 e 6 meses); Grupos específicos (imunossuprimidos): 2 DOSES (mesmo esquema); Vacina disponível no SUS: nonavalente (HPV 6, 11, 16, 18, 31, 33, 45, 52, 58)",
+      "População geral (9-26 anos): DOSE ÚNICA para todos; Não há esquema diferenciado para imunossuprimidos; Vacina disponível no SUS: quadrivalente (HPV 6, 11, 16, 18) ou nonavalente conforme disponibilidade",
+      "População geral (9-14 anos): 3 DOSES (0, 1 e 6 meses); Grupos específicos (≥15 anos): DOSE ÚNICA reforçada; Vacina disponível no SUS: bivalente (HPV 16 e 18 apenas)",
+      "População geral (12-17 anos): 2 DOSES (0 e 12 meses); Grupos específicos (oncológicos): 4 DOSES (0, 2, 6 e 12 meses); Vacina disponível no SUS: bivalente (HPV 16 e 18)",
+      "População geral (9-14 anos): DOSE ÚNICA; Grupos específicos (HIV+, transplantados, oncológicos, 15-45 anos): 3 DOSES (0, 2 e 6 meses); Vacina disponível no SUS: quadrivalente (HPV 6, 11, 16, 18)"
+    ],
+    "correctIndex": 4,
+    "explanation": "ESQUEMA VACINAL HPV no SUS (atualização 2024): POPULAÇÃO GERAL (9-14 anos): DOSE ÚNICA (mudança recente de 2 doses para dose única baseada em evidências de não-inferioridade). GRUPOS ESPECÍFICOS que recebem 3 DOSES (0, 2 e 6 meses): (1) IMUNOSSUPRIMIDOS: HIV+/AIDS, transplantados de órgãos sólidos ou medula óssea, pacientes oncológicos em quimio/radioterapia; (2) INDIVÍDUOS DE 15 A 45 ANOS vivendo com HIV/AIDS (independente de CD4); (3) VÍTIMAS DE VIOLÊNCIA SEXUAL (9-45 anos). JUSTIFICATIVA para 3 doses em imunossuprimidos: resposta imune potencialmente reduzida, necessitando esquema completo para imunogenicidade adequada. TIPO DE VACINA no SUS: QUADRIVALENTE (Gardasil) - protege contra HPV 6, 11, 16, 18 (~70% dos cânceres cervicais + 90% das verrugas genitais). Na rede PRIVADA está disponível vacina NONAVALENTE (Gardasil 9) - protege adicionalmente contra HPV 31, 33, 45, 52, 58 (~90% dos cânceres cervicais). IMPORTANTE: vacina é PREVENTIVA, não terapêutica; pode ser administrada mesmo em quem já iniciou atividade sexual; não substitui rastreamento citopatológico. Vacina bivalente (HPV 16, 18 apenas) não está mais disponível no Brasil.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Adolescente de 13 anos, masculino, hígido, sem comorbidades, procura UBS para vacinação contra HPV. Refere nunca ter sido vacinado. Os pais perguntam quantas doses são necessárias. Qual a orientação correta segundo o PNI vigente?",
+    "options": [
+      "Orientar que vacina HPV não está indicada para meninos no SUS, apenas para meninas de 9-14 anos, e encaminhar para rede privada caso família deseje vacinação do adolescente",
+      "Administrar DOSE ÚNICA da vacina quadrivalente contra HPV, explicar que estudos recentes demonstraram não-inferioridade da dose única comparada ao esquema de 2 doses para indivíduos imunocompetentes de 9-14 anos, orientar sobre importância do rastreio de parceiras no futuro",
+      "Administrar dose única da vacina quadrivalente apenas se houver história de verrugas genitais prévias ou diagnóstico de condiloma acuminado; caso contrário, não vacinar pois não há indicação para prevenção primária em meninos",
+      "Administrar 3 DOSES da vacina quadrivalente contra HPV com intervalo de 2 e 6 meses (esquema 0, 2 e 6 meses), pois o sexo masculino requer esquema completo independente da idade",
+      "Administrar 2 DOSES da vacina quadrivalente contra HPV com intervalo de 6 meses entre as doses (esquema 0 e 6 meses), pois meninos adolescentes requerem duas doses para imunogenicidade adequada"
+    ],
+    "correctIndex": 1,
+    "explanation": "O PNI (Programa Nacional de Imunizações) INCLUI meninos de 9-14 anos na vacinação contra HPV desde 2017. ESQUEMA ATUAL (atualização 2024): DOSE ÚNICA da vacina quadrivalente (HPV 6, 11, 16, 18) para meninos e meninas de 9-14 anos imunocompetentes. JUSTIFICATIVA: (1) estudos demonstraram NÃO-INFERIORIDADE da resposta imune com dose única comparada a 2 doses nessa faixa etária (sistema imune de pré-adolescentes/adolescentes jovens responde robustamente com dose única); (2) simplificação do esquema melhora COBERTURA VACINAL (não depende de retorno para segunda dose); (3) otimiza RECURSOS. IMPORTANTE: (1) se o adolescente tiver ≥15 anos, o esquema é 2 doses (0 e 6 meses); (2) se for IMUNOSSUPRIMIDO (HIV+, oncológico, transplantado), o esquema é 3 doses (0, 2 e 6 meses) independente da idade; (3) a vacina em meninos visa: (a) proteção contra verrugas genitais (condiloma acuminado - HPV 6/11), (b) proteção contra cânceres anogenitais associados ao HPV (ânus, pênis, orofaringe), (c) IMUNIDADE DE REBANHO (reduzir circulação viral e proteger indiretamente meninas/mulheres). Vacina é PREVENTIVA e mais eficaz se administrada ANTES do início da atividade sexual.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 28 anos, HIV positiva com CD4 de 380 células/mm³ em uso de TARV, procura vacinação contra HPV. Refere nunca ter sido vacinada. Qual o esquema recomendado?",
+    "options": [
+      "Administrar DOSE ÚNICA da vacina quadrivalente contra HPV, pois mesmo sendo HIV+ com CD4 >350 células/mm³, estudos mostram resposta imune adequada com dose única em adultos",
+      "Aguardar elevação do CD4 para >500 células/mm³ com otimização da TARV antes de vacinar, pois a resposta vacinal só é adequada com imunidade preservada acima desse limiar",
+      "Contraindicar vacinação contra HPV, pois mulheres HIV+ com CD4 <500 células/mm³ não devem receber vacinas de vírus vivos ou recombinantes devido ao risco de replicação viral",
+      "Administrar 3 DOSES da vacina quadrivalente contra HPV nos intervalos de 0, 2 e 6 meses (esquema 0-2-6), pois indivíduos vivendo com HIV de 15-45 anos requerem esquema completo de 3 doses para imunogenicidade adequada mesmo com imunidade relativamente preservada",
+      "Administrar 2 DOSES da vacina quadrivalente contra HPV com intervalo de 6 meses (esquema 0-6), pois HIV+ com CD4 >200 células/mm³ em uso de TARV têm imunidade suficiente para esquema reduzido"
+    ],
+    "correctIndex": 3,
+    "explanation": "Indivíduos vivendo com HIV/AIDS de 9 a 45 anos devem receber 3 DOSES da vacina HPV no esquema 0, 2 e 6 meses, INDEPENDENTEMENTE do valor de CD4 ou uso de TARV. JUSTIFICATIVA: (1) pessoas HIV+ têm MAIOR risco de: (a) infecção persistente por HPV, (b) lesões pré-cancerosas e câncer associados ao HPV (cervical, anal, orofaringe), (c) verrugas genitais recorrentes; (2) resposta imune à vacina pode ser REDUZIDA na imunodeficiência, portanto o esquema COMPLETO de 3 doses é necessário para garantir imunogenicidade adequada; (3) a vacina é SEGURA em HIV+ (vacina de partículas semelhantes a vírus - VLP, NÃO contém vírus vivo ou DNA viral, portanto não há risco de replicação ou doença); (4) idade estendida até 45 anos no PNI para HIV+ (vs 9-14 anos na população geral) reconhece o risco aumentado e o benefício da vacinação mesmo após início da atividade sexual. NÃO há necessidade de aguardar CD4 >500 para vacinar (pode vacinar com qualquer CD4). A vacina HPV é de partículas recombinantes (VLP), NÃO é vacina de vírus vivo (diferente de febre amarela, varicela, que têm contraindicações relativas em imunossupressão grave). Outros imunossuprimidos que recebem 3 doses: transplantados, oncológicos em quimio/radioterapia.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 32 anos, G5P3A1C1, com 39 semanas, apresenta-se em trabalho de parto. Ao exame: dilatação 8cm, apresentação cefálica em occipito-sacra-posterior (OSP). Como interpretar a sigla obstétrica e qual a variedade de posição apresentada?",
+    "options": [
+      "Quinta gestação com 4 partos vaginais e 1 aborto; apresentação cefálica com occipício anterior, posição favorável para progressão normal do trabalho de parto",
+      "Quinta gestação com 3 cesáreas e 1 parto vaginal; apresentação córmica com dorso posterior, contraindicação absoluta para parto vaginal mesmo com trabalho de parto avançado",
+      "Quinta gestação com 3 partos vaginais, 1 aborto e 1 cesárea; apresentação cefálica com occipício posterior (occipito-sacra significa posterior), posição desfavorável que pode prolongar trabalho de parto e requerer rotação manual ou instrumentalização",
+      "Quinta gestação com 2 partos vaginais e 2 cesáreas; apresentação pélvica com sacro posterior, indicação de cesárea de urgência devido à posição fetal desfavorável",
+      "Quinta gestação com 2 partos vaginais, 1 cesárea e 1 gemelar; apresentação cefálica defletida em bregma, indicação de cesárea devido à deflexão da apresentação"
+    ],
+    "correctIndex": 2,
+    "explanation": "G5P3A1C1: 5 gestações, 3 partos VAGINAIS (P), 1 aborto (A), 1 cesárea (C). Total de partos = P + C = 3 + 1 = 4. OSP (occipito-sacra-posterior): O = occipício (ponto de referência da apresentação cefálica), S = sacra (hemibacia posterior), P = posterior. Significa apresentação CEFÁLICA com occipício voltado para o SACRO materno (posterior). Esta é uma VARIEDADE POSTERIOR, considerada DESFAVORÁVEL porque: (1) diâmetro maior atravessa o estreito superior, (2) trabalho de parto mais prolongado, (3) pode necessitar rotação manual/espontânea para posição anterior (OEA/ODA), (4) maior risco de laceração perineal, (5) pode requerer instrumentalização (fórceps/vácuo-extrator). Variedades ANTERIORES (OEA, ODA) são favoráveis. Variedades TRANSVERSAS (OET, ODT) são intermediárias. Se OSP persistir no período expulsivo, pode tentar parto vaginal, mas com maior dificuldade. Apresentação pélvica (sacro como referência) seria indicada como S (sacro), não O (occipício). Apresentação córmica teria como referência o acrômio (A).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Primigesta de 26 anos, 40 semanas, internada em trabalho de parto há 6 horas. Evolução: admissão com 4cm, após 3h apresenta 6cm, após mais 3h (total 6h) apresenta 7cm de dilatação. Dinâmica uterina: 4 contrações/10min com 50seg. Apresentação cefálica, plano -1, BCF 145 bpm. Como avaliar a progressão do trabalho de parto?",
+    "options": [
+      "Progressão ESTACIONADA caracterizando parada secundária da dilatação, pois não houve aumento ≥2cm em 4 horas, indicar cesárea de urgência imediata",
+      "Progressão NORMAL mas com provável hipotonia uterina secundária, pois a dinâmica está adequada (4/10min) mas progressão lenta, indicar ocitocina de rotina independente de avaliação adicional",
+      "Progressão ACELERADA caracterizando trabalho de parto taquitócico, pois dilatou 3cm em 6 horas (mais rápido que o esperado para primigesta), indicar tocólise para evitar laceração cervical",
+      "Progressão ADEQUADA dentro dos padrões normais, pois a velocidade de 0,5cm/hora está dentro do aceitável para primigesta (mínimo 0,5cm/hora), manter conduta expectante e reavaliar em 2-4 horas",
+      "Progressão INADEQUADA sugerindo distócia funcional, pois primigesta deve dilatar ≥1cm/hora na fase ativa e ela dilatou apenas 3cm em 6 horas (0,5cm/hora), considerar amniotomia e/ou ocitocina se dinâmica inadequada, descartar desproporção cefalopélvica"
+    ],
+    "correctIndex": 4,
+    "explanation": "A paciente apresenta PROGRESSÃO INADEQUADA (distócia funcional/discinesia). Ela dilatou de 4cm → 6cm → 7cm em 6 horas totais (3cm em 6h = 0,5cm/hora). Para PRIMIGESTA na FASE ATIVA, a velocidade mínima esperada é ≥1cm/hora (alguns protocolos aceitam ≥0,5cm/hora, mas 1cm/hora é o ideal). Com 0,5cm/hora, está no LIMITE INFERIOR ou ABAIXO do esperado. AVALIAÇÃO: (1) verificar DINÂMICA UTERINA: está com 4 contrações/10min com 50seg → adequada; (2) verificar DESPROPORÇÃO CEFALOPÉLVICA: apresentação em plano -1 (ainda não insinuada completamente) após 6h de trabalho pode sugerir desproporção; (3) verificar variedade de posição (não informada, mas posterior seria desfavorável). CONDUTA: (1) realizar AMNIOTOMIA (rotura artificial de membranas) se bolsa íntegra → aumenta eficiência contrátil e pode acelerar trabalho de parto; (2) se dinâmica inadequada após amniotomia, considerar OCITOCINA; (3) reavaliar em 2-4h; (4) se não houver progressão apesar de dinâmica adequada → considerar DESPROPORÇÃO e indicar CESÁREA. Parada secundária = ausência de progressão por ≥4h COM dinâmica adequada (ainda não configura). Não está taquitócico (seria >5cm/h em primipara). Ocitocina não é 'de rotina', só se dinâmica inadequada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 28 anos, G2P1A0C0, 38 semanas, chega ao pronto-socorro após amniorrexe espontânea há 2 horas com líquido claro. Nega contrações. Ao exame: colo posterior, 1cm de dilatação, 20% de apagamento, apresentação cefálica móvel, plano -3, BCF 140 bpm. Qual a conduta?",
+    "options": [
+      "Indução imediata do trabalho de parto com ocitocina endovenosa, pois rotura de membranas com colo desfavorável (Bishop <5) é indicação absoluta de indução para prevenir corioamnionite",
+      "Antibioticoprofilaxia com ampicilina endovenosa e conduta expectante indefinida, aguardando início espontâneo do trabalho de parto sem limite de tempo desde que sem sinais de infecção",
+      "Conduta expectante por até 12-24 horas aguardando início espontâneo do trabalho de parto (60-70% entram em trabalho de parto em 24h), monitorizar sinais de infecção (febre, taquicardia materna/fetal, líquido fétido), avaliar vitalidade fetal, considerar indução se não iniciar trabalho de parto",
+      "Realização de amnioinfusão transcervical para reposição do líquido amniótico e prevenção de compressão do cordão, seguida de conduta expectante domiciliar por 48-72 horas",
+      "Cesárea de urgência imediata, pois rotura de membranas sem trabalho de parto estabelecido (colo 1cm desfavorável) é contraindicação para parto vaginal devido ao alto risco infeccioso"
+    ],
+    "correctIndex": 2,
+    "explanation": "AMNIORREXE PREMATURA (rotura prematura de membranas) a TERMO (≥37 semanas) SEM trabalho de parto. CONDUTA: (1) CONDUTA EXPECTANTE por até 12-24 horas é aceitável se gestação a termo, vitalidade fetal preservada e ausência de infecção. JUSTIFICATIVA: 60-70% das gestantes entram em trabalho de parto ESPONTANEAMENTE em 24h, 90-95% em 48h. (2) MONITORIZAÇÃO: temperatura materna, frequência cardíaca materna e fetal (taquicardia = sinal precoce de corioamnionite), aspecto do líquido se houver perda (claro/meconial/fétido), contagem de movimentos fetais. (3) Se NÃO iniciar trabalho de parto em 12-24h → INDUÇÃO recomendada (reduz risco de corioamnionite sem aumentar taxa de cesárea). (4) Se sinais de INFECÇÃO (febre, leucocitose, taquicardia, líquido fétido) → INDUÇÃO IMEDIATA ou cesárea se contraindicação ao parto vaginal. (5) ANTIBIOTICOPROFILAXIA: geralmente iniciada quando há expectativa de parto em <4-6h ou se sinais de infecção (não rotineiramente em conduta expectante inicial a termo). OBSERVAÇÃO: em PRÉ-TERMO (<37 semanas), conduta expectante pode ser mais prolongada (até 34 semanas) com antibioticoprofilaxia e corticoide. Cesárea não é indicação por amniorrexe isolada (só se outras indicações). Amnioinfusão não é indicada neste contexto. Indução imediata não é obrigatória (pode aguardar 12-24h).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 25 anos procura atendimento com corrimento uretral purulento amarelo-esverdeado há 3 dias, disúria intensa, polaciúria. Nega lesões genitais. Exame físico: secreção uretral purulenta abundante, meato uretral hiperemiado, sem adenopatia inguinal. Qual o diagnóstico mais provável e o tratamento?",
+    "options": [
+      "Uretrite gonocócica (gonorreia); tratar com Ceftriaxona 500mg IM dose única + Azitromicina 1g VO dose única (cobertura para gonorreia e possível coinfecção por Chlamydia), notificar, tratar parceiras, orientar abstinência sexual",
+      "Tricomoníase urogenital; tratar com Metronidazol 2g VO dose única OU 500mg VO 12/12h por 7 dias, tratar parceira simultaneamente, orientar abstinência alcoólica durante tratamento",
+      "Uretrite não-gonocócica por Chlamydia trachomatis; tratar com Azitromicina 1g VO dose única OU Doxiciclina 100mg VO 12/12h por 7 dias (monoterapia suficiente para clamídia)",
+      "Prostatite bacteriana aguda; tratar com Ciprofloxacino 500mg VO 12/12h por 28 dias + anti-inflamatórios, avaliar necessidade de internação se febre ou toxemia",
+      "Cistite bacteriana aguda; tratar com Ciprofloxacino 500mg VO 12/12h por 7 dias OU Norfloxacino 400mg VO 12/12h por 7 dias, hidratação abundante"
+    ],
+    "correctIndex": 0,
+    "explanation": "O quadro é típico de URETRITE GONOCÓCICA (gonorreia): (1) corrimento uretral PURULENTO, ABUNDANTE, AMARELO-ESVERDEADO (característico do gonococo), (2) disúria INTENSA, (3) início AGUDO (3 dias), (4) sintomas proeminentes (homens são geralmente sintomáticos ~95% vs mulheres 60-80% assintomáticas). Agente: Neisseria gonorrhoeae. DIAGNÓSTICO DIFERENCIAL com Chlamydia (uretrite não-gonocócica): Chlamydia causa corrimento mais ESCASSO, MUCOIDE/claro, disúria LEVE a moderada, início SUBAGUDO (1-3 semanas). TRATAMENTO: Ceftriaxona 500mg IM dose única + Azitromicina 1g VO dose única. JUSTIFICATIVA da TERAPIA DUPLA: (1) resistência crescente do gonococo a antimicrobianos, (2) COINFECÇÃO com Chlamydia em 20-40% dos casos, (3) retardar desenvolvimento de novas resistências. IMPORTANTE: (1) NOTIFICAÇÃO COMPULSÓRIA, (2) tratar PARCEIROS sexuais dos últimos 60 dias (mesmo assintomáticos), (3) orientar ABSTINÊNCIA SEXUAL até 7 dias após tratamento completo e cura de sintomas, (4) testar para outras ISTs (HIV, sífilis, hepatites). Complicações não tratadas: epididimite, orquite, infertilidade (raro em homens), disseminação (artrite, meningite). Cistite não causa corrimento uretral. Prostatite causa febre, dor perineal, sintomas obstrutivos. Tricomoníase em homens é geralmente assintomática ou causa uretrite leve.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 30 anos procura atendimento com corrimento vaginal há 10 dias. Refere corrimento esbranquiçado, espesso, grumoso, associado a prurido vulvar intenso, ardência, disúria e dispareunia. Nega odor fétido. Ao exame especular: corrimento branco aderido à parede vaginal em 'placas', hiperemia difusa da mucosa vaginal e vulvar. pH vaginal: 4,0. Qual o diagnóstico mais provável, o exame confirmatório e o tratamento?",
+    "options": [
+      "Vaginose bacteriana; bacterioscopia com clue cells; Metronidazol 500mg VO 12/12h por 7 dias OU Metronidazol gel vaginal 0,75% por 5 noites (tratar parceiro simultaneamente)",
+      "Tricomoníase; bacterioscopia a fresco com protozoários flagelados móveis; Metronidazol 2g VO dose única (tratar parceiro simultaneamente, abstinência sexual até cura)",
+      "Dermatite de contato vulvovaginal; teste de contato cutâneo (patch test); corticoide tópico (Hidrocortisona 1%) + suspensão do agente irritante (sabonetes, duchas, roupas sintéticas)",
+      "Cervicite por Chlamydia trachomatis; PCR/NAAT para Chlamydia em secreção endocervical; Azitromicina 1g VO dose única (tratar parceiro, notificar compulsoriamente)",
+      "Candidíase vulvovaginal; exame direto a fresco com KOH 10% mostrando hifas e/ou pseudohifas; Fluconazol 150mg VO dose única OU derivados imidazólicos tópicos (Miconazol, Clotrimazol, Isoconazol) creme vaginal por 3-7 dias (não tratar parceiro de rotina)"
+    ],
+    "correctIndex": 4,
+    "explanation": "O quadro é típico de CANDIDÍASE VULVOVAGINAL: (1) corrimento BRANCO, ESPESSO, GRUMOSO (aspecto de 'leite coalhado' ou 'queijo cottage'), ADERIDO à parede vaginal em placas, (2) PRURIDO vulvovaginal INTENSO (sintoma cardinal), (3) ardência, disúria, dispareunia (irritação vulvar), (4) hiperemia vulvovaginal difusa, (5) pH NORMAL (≤4,5, diferente de vaginose/tricomoníase com pH >4,5), (6) AUSÊNCIA de odor fétido (diferente de vaginose bacteriana). Agente: Candida albicans (80-90%) ou não-albicans (C. glabrata, C. tropicalis). DIAGNÓSTICO: exame DIRETO a fresco da secreção com KOH 10% (clarifica células epiteliais) mostrando HIFAS e/ou PSEUDOHIFAS (sensibilidade 50-70%); cultura é mais sensível se suspeita alta e microscopia negativa. TRATAMENTO: (1) FLUCONAZOL 150mg VO dose ÚNICA (primeira escolha - praticidade, eficácia ~90%), (2) DERIVADOS IMIDAZÓLICOS intravaginais: Miconazol, Clotrimazol, Isoconazol creme/óvulo por 3-7 dias (opção para gestantes - fluconazol contraindicado). IMPORTANTE: NÃO tratar parceiro de rotina (não é IST típica, colonização fúngica normal), exceto se parceiro sintomático (balanite). FATORES DE RISCO: diabetes, gravidez, antibioticoterapia recente, imunossupressão, ACO. Candidíase RECORRENTE (≥4 episódios/ano): investigar fatores predisponentes, considerar supressão com fluconazol semanal por 6 meses.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 26 anos, sexualmente ativa, procura atendimento com corrimento vaginal há 5 dias. Refere corrimento acinzentado, fluido, com odor fétido 'de peixe' que piora após relação sexual. Nega prurido, disúria ou dispareunia. Ao exame: corrimento acinzentado homogêneo recobrindo paredes vaginais, pH vaginal: 5,2, teste das aminas (whiff test) positivo. Qual o diagnóstico, os critérios diagnósticos e o tratamento?",
+    "options": [
+      "Vaginose bacteriana; critérios de Amsel (3 de 4): corrimento homogêneo acinzentado + pH >4,5 + teste das aminas positivo + clue cells na microscopia; Metronidazol 500mg VO 12/12h por 7 dias OU gel vaginal 0,75% por 5 noites (NÃO tratar parceiro de rotina)",
+      "Tricomoníase; critérios: corrimento espumoso + pH >4,5 + protozoários móveis; Metronidazol 2g VO dose única + tratamento simultâneo do parceiro + abstinência sexual até cura",
+      "Candidíase vulvovaginal; critérios: corrimento grumoso + pH <4,5 + hifas na microscopia; Fluconazol 150mg VO dose única (não tratar parceiro de rotina)",
+      "Atrofia vaginal pós-menopausa; critérios: mucosa pálida + pH >5,0 + ausência de flora normal; estrogenioterapia vaginal (promestrieno creme) ou sistêmica conforme indicação",
+      "Cervicite por gonococo/clamídia; critérios: secreção mucopurulenta + friabilidade cervical + pH variável; Ceftriaxona 500mg IM + Azitromicina 1g VO (tratar parceiro e notificar)"
+    ],
+    "correctIndex": 0,
+    "explanation": "O diagnóstico é VAGINOSE BACTERIANA (VB): desequilíbrio da flora vaginal com DIMINUIÇÃO de lactobacilos e SUPERCRESCIMENTO de anaeróbios (Gardnerella vaginalis, Prevotella, Mobiluncus, Bacteroides). Não é IST típica (não requer tratamento de parceiro). CRITÉRIOS DE AMSEL (3 de 4 necessários): (1) corrimento vaginal HOMOGÊNEO ACINZENTADO recobrindo paredes vaginais ✓, (2) pH vaginal >4,5 (aqui 5,2) ✓, (3) teste das AMINAS (whiff test) POSITIVO: odor fétido de 'peixe' ao adicionar KOH 10% à secreção (volatilização de aminas) ✓, (4) presença de CLUE CELLS na microscopia: células epiteliais recobertas por cocobacilos dando aspecto 'granuloso' (não mencionado, mas com 3 critérios já fecha diagnóstico). CARACTERÍSTICAS: corrimento acinzentado, fluido, odor fétido (piora após coito ou menstruação por alcalinização), SEM prurido/ardência (diferente de candidíase/tricomoníase), pH >4,5. TRATAMENTO: Metronidazol 500mg VO 12/12h por 7 dias OU Metronidazol gel vaginal 0,75% 1 aplicação/noite por 5 noites OU Clindamicina creme vaginal. IMPORTANTE: NÃO tratar parceiro de rotina (não altera taxa de recorrência). Gestantes com sintomas devem ser tratadas (associação com trabalho de parto prematuro). VB recorrente é comum (30% em 3 meses). Tricomoníase: corrimento amarelo-esverdeado espumoso, prurido intenso, colo em morango. Candidíase: corrimento grumoso branco, prurido intenso, pH ≤4,5.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 34 anos, sexualmente ativa com múltiplos parceiros nos últimos 6 meses, sem uso de preservativo, procura atendimento para rastreio de ISTs. Assintomática. Solicita 'fazer todos os exames'. Quais exames devem ser solicitados para rastreio de ISTs nesta paciente?",
+    "options": [
+      "Teste rápido ou sorologia para HIV (Anti-HIV), teste rápido ou VDRL para sífilis (teste treponêmico + não-treponêmico se positivo), sorologia para hepatite B (HBsAg e Anti-HBs) e hepatite C (Anti-HCV), NAAT/PCR ou cultura para Chlamydia e gonorreia (secreção endocervical), considerar Papanicolaou se fora da rotina de rastreamento",
+      "Hemograma completo, VHS, PCR, sorologias para HIV, sífilis, hepatite A, B, C, D e E, herpes simples (IgM e IgG), CMV, toxoplasmose, rubéola (TORCH), cultura para Chlamydia, gonorreia, Ureaplasma e Mycoplasma",
+      "Teste rápido para HIV, VDRL para sífilis, tipagem sanguínea (ABO/Rh), coprocultura, urina tipo I e urocultura, ultrassom transvaginal, Papanicolaou, colposcopia de rastreamento",
+      "Sorologia completa para HIV 1 e 2, HTLV 1 e 2, sífilis (FTA-Abs), hepatites virais (A, B, C), teste de HPV DNA, biópsia cervical dirigida por colposcopia, cultura de secreção vaginal para fungos e bactérias",
+      "Teste rápido para HIV e sífilis apenas, pois são as ISTs de notificação compulsória prioritária, associado a exame clínico ginecológico completo incluindo inspeção vulvar e colposcopia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para rastreio de ISTs em mulher ASSINTOMÁTICA com COMPORTAMENTO DE RISCO (múltiplos parceiros, sem preservativo), solicitar: (1) HIV: teste rápido (resultado em 20-30min) OU sorologia Anti-HIV (ELISA/quimioluminescência); se positivo, confirmar com Western Blot ou testes moleculares. (2) SÍFILIS: teste rápido treponêmico (resultado em 20-30min) OU VDRL/RPR (não-treponêmico); se positivo, confirmar com teste treponêmico (FTA-Abs, TPHA) + quantificar VDRL para seguimento. (3) HEPATITE B: HBsAg (detecta infecção ativa) + Anti-HBs (detecta imunidade); considerar Anti-HBc total se suspeita de infecção prévia. (4) HEPATITE C: Anti-HCV; se positivo, confirmar com PCR quantitativo (carga viral). (5) CHLAMYDIA e GONORREIA: NAAT/PCR (teste de amplificação de ácidos nucleicos - padrão-ouro, mais sensível que cultura) em amostra de secreção endocervical ou urina (primeira micção). Mulheres frequentemente assintomáticas (60-80% para clamídia, 50-80% para gonorreia). (6) PAPANICOLAOU: se indicado pelo protocolo de rastreamento de câncer cervical (anual até 2 normais, depois trienal). OPCIONAL: considerar sorologia para herpes (HSV-1 e HSV-2) se sintomas prévios ou história de parceiro com herpes. NÃO solicitar rotineiramente: TORCH (para gestantes), hepatites A/D/E (não IST prioritárias), Ureaplasma/Mycoplasma (não há recomendação de rastreio), culturas inespecíficas. Colposcopia NÃO é rastreio. HTLV não é IST prioritária no Brasil.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 42 anos, HIV positivo com CD4 250 células/mm³, em uso irregular de TARV, procura atendimento com lesão anal. Refere nódulo próximo ao ânus há 2 meses, indolor, sem sangramento. Nega relações anais receptivas recentes. Ao exame: lesão vegetante, úmida, de aspecto verrucoso, com aproximadamente 2cm na margem anal, coloração rósea, base séssil, indolor à palpação. Sem adenopatia inguinal. Qual o diagnóstico mais provável e a conduta?",
+    "options": [
+      "Condiloma acuminado (verrugas anogenitais) por HPV de baixo risco (tipos 6 e 11); conduta: biópsia para confirmação histológica e exclusão de neoplasia (CD4 baixo aumenta risco de câncer anal associado ao HPV), tratamento com exérese cirúrgica ou métodos destrutivos (eletrocauterização, criocirurgia, laser) ou medicamentoso (Podofilina, Imiquimode), rastreio de lesões intra-anais (anuscopia), TARV otimizada",
+      "Sífilis secundária com condiloma plano (condyloma lata); conduta: sorologia para sífilis (VDRL quantitativo + teste treponêmico), tratamento com Penicilina Benzatina 2,4 milhões UI IM semanal por 3 semanas (neurossífilis por CD4 <350 - investigar com punção lombar), notificação compulsória",
+      "Carcinoma espinocelular anal (câncer anal) por HPV de alto risco (tipos 16 e 18); conduta: biópsia excisional urgente, estadiamento com TC tórax-abdome-pelve, RM pelve, encaminhamento oncológico para quimiorradioterapia concomitante (esquema de Nigro), considerar cirurgia de resgate se falha",
+      "Hemorroida externa trombosada; conduta: analgesia com anti-inflamatórios, medidas locais (banhos de assento, pomadas anestésicas), orientações dietéticas (fibras, hidratação), trombectomia cirúrgica se dor intensa nas primeiras 48-72h, encaminhamento para colonoscopia diagnóstica",
+      "Abscesso perianal em fase inicial; conduta: antibioticoterapia empírica de amplo espectro (Ciprofloxacino + Metronidazol), analgesia, observação clínica por 48-72h, drenagem cirúrgica se evolução para flutuação ou sinais sistêmicos, investigar doença de Crohn"
+    ],
+    "correctIndex": 0,
+    "explanation": "O diagnóstico mais provável é CONDILOMA ACUMINADO (verrugas anogenitais) causado por HPV de BAIXO RISCO (tipos 6 e 11 - 90% dos casos). CARACTERÍSTICAS: (1) lesões VEGETANTES, ÚMIDAS, aspecto VERRUCOSO/em couve-flor, (2) coloração rósea ou acinzentada, (3) base SÉSSIL ou pediculada, (4) geralmente INDOLORES, (5) localizações: vulva, vagina, colo, períneo, ânus, pênis. Em HIV+: (1) lesões mais EXTENSAS e REFRATÁRIAS, (2) MAIOR risco de progressão (CD4 <200), (3) ASSOCIAÇÃO com câncer anal (HPV de alto risco 16/18 - 90% dos cânceres anais). CONDUTA: (1) BIÓPSIA para confirmação histológica e EXCLUSÃO de neoplasia (essencial em HIV+, especialmente CD4 baixo), (2) TRATAMENTO: (a) métodos DESTRUTIVOS: eletrocauterização, criocirurgia, laser CO2, exérese cirúrgica (para lesões grandes); (b) métodos QUÍMICOS: Podofilina 10-25% (consultório, 2x/semana), Ácido tricloroacético 80-90%; (c) imunomoduladores: Imiquimode 5% creme (paciente aplica 3x/semana, não usar em HIV+ com CD4 muito baixo). (3) Avaliar CANAL ANAL (anuscopia de alta resolução) para lesões intra-anais, (4) OTIMIZAR TARV (CD4 250 + uso irregular → risco aumentado), (5) rastrear outras ISTs. DIFERENCIAIS: Carcinoma anal: lesões ulceradas, sangrantes, fixas, endurecidas, dor (biópsia confirma). Condiloma plano (sífilis secundária): placas úmidas acinzentadas, não vegetantes, serologia positiva. Hemorroidas: azuladas/arroxeadas se trombosadas, dolorosas. Abscesso: dor intensa, flutuação, sinais flogísticos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a idade de início, frequência e população-alvo recomendada para o rastreamento de câncer de mama segundo as principais diretrizes brasileiras?",
+    "options": [
+      "Todas as sociedades recomendam: mamografia bienal dos 45-70 anos para risco habitual, mamografia anual dos 30 anos para alto risco, autoexame mensal obrigatório como método primário de rastreamento",
+      "MS/INCA: exame clínico anual dos 40-69 anos sem mamografia de rotina; SBM: mamografia anual dos 30-80 anos; Alto risco: mamografia digital com tomossíntese + ultrassom automatizado dos 25 anos",
+      "MS/INCA: mamografia anual dos 40-69 anos (risco habitual); SBM/CBR: mamografia trienal dos 50-74 anos (risco habitual); Alto risco: ressonância magnética isolada (sem mamografia) anual dos 25-70 anos",
+      "Todas as sociedades recomendam: mamografia anual dos 35-75 anos para toda a população, sem distinção entre risco habitual e alto risco, associada a ultrassom mamário anual para mulheres com mamas densas",
+      "MS/INCA: mamografia bienal dos 50-69 anos (risco habitual); SBM/CBR/FEBRASGO: mamografia anual dos 40-69/74 anos (risco habitual); Alto risco (história familiar significativa ou mutações): iniciar aos 30-35 anos ou 10 anos antes do caso índice, RM mamária anual adicional"
+    ],
+    "correctIndex": 4,
+    "explanation": "Há DIVERGÊNCIA nas recomendações brasileiras para rastreamento mamográfico: MINISTÉRIO DA SAÚDE/INCA (2015): (1) Mulheres 50-69 anos (risco habitual): mamografia BIENAL; (2) Mulheres 40-49 anos: decisão compartilhada (informar riscos/benefícios); (3) Exame clínico das mamas (ECM) anual. JUSTIFICATIVA: melhor relação benefício/dano em 50-69 anos (redução mortalidade, menor sobrediagnóstico e falsos positivos). SOCIEDADES MÉDICAS (SBM, CBR, FEBRASGO): (1) Mulheres ≥40 anos (risco habitual): mamografia ANUAL até 69-74 anos; (2) ECM anual a partir de 25 anos. JUSTIFICATIVA: maior sensibilidade para detecção precoce, especialmente <50 anos com mamas densas. ALTO RISCO (história familiar forte, mutações BRCA1/2, radioterapia torácica prévia, síndromes genéticas): (1) INICIAR rastreio aos 30-35 anos OU 10 anos antes do caso índice (o que ocorrer primeiro); (2) Mamografia ANUAL; (3) RESSONÂNCIA MAGNÉTICA (RM) mamária ANUAL ADICIONAL (maior sensibilidade em mamas densas e alto risco); (4) considerar USG mamário se RM indisponível. IMPORTANTE: autoexame mensal NÃO é recomendado como método de rastreamento (não reduz mortalidade, aumenta biópsias desnecessárias), mas conscientização mamária (breast awareness) é incentivada. ECM não substitui mamografia. Mamografia é o ÚNICO método com comprovada redução de mortalidade em estudos randomizados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 52 anos, sem comorbidades, realizou mamografia de rastreamento. Laudo BI-RADS 4 (suspeito de malignidade) com nódulo irregular de 1,2cm em quadrante superior externo da mama direita, microcalcificações pleomórficas agrupadas. Nega história familiar de câncer. Ao exame clínico, nódulo palpável correspondente. Qual a conduta?",
+    "options": [
+      "Solicitar nova mamografia em 3 meses para avaliar progressão da lesão antes de indicar biópsia, pois BI-RADS 4 não é diagnóstico definitivo de malignidade",
+      "Iniciar quimioterapia neoadjuvante (pré-operatória) imediatamente baseada no achado mamográfico BI-RADS 4, seguida de mastectomia após 4-6 ciclos de quimioterapia",
+      "Solicitar ressonância magnética das mamas para melhor caracterização da lesão antes de indicar biópsia, pois RM tem maior especificidade que mamografia para diferenciar lesões benignas e malignas",
+      "Realizar exérese cirúrgica diagnóstica imediata (setorectomia com margens) sem biópsia prévia, pois BI-RADS 4 tem alta probabilidade de malignidade e biópsia pode disseminar células neoplásicas",
+      "Realizar biópsia percutânea guiada por imagem (core biopsy ou mamotomia) para diagnóstico histológico antes de qualquer tratamento; se carcinoma confirmado, estadiamento (USG axilar, TC tórax, cintilografia óssea conforme estadio) e planejamento terapêutico multidisciplinar (cirurgia + oncologia clínica + radioterapia)"
+    ],
+    "correctIndex": 4,
+    "explanation": "BI-RADS 4 (BIRADS 4): lesão SUSPEITA de malignidade com probabilidade intermediária (2-95% conforme subcategoria 4A/4B/4C). CARACTERÍSTICAS SUSPEITAS neste caso: nódulo IRREGULAR, microcalcificações PLEOMÓRFICAS AGRUPADAS. CONDUTA OBRIGATÓRIA: BIÓPSIA percutânea guiada por imagem (mamografia ou ultrassom) para DIAGNÓSTICO HISTOLÓGICO. Tipos de biópsia: (1) CORE BIOPSY (agulha grossa 14G): obtém fragmentos - permite análise histológica + receptores hormonais + HER2 (padrão-ouro); (2) MAMOTOMIA (agulha 8-11G, vácuo): maior volume de amostra, ideal para microcalcificações; (3) PAAF (agulha fina): citologia - menos usado (não define invasão). APÓS CONFIRMAÇÃO DE CARCINOMA: (1) ESTADIAMENTO: exame clínico, USG axilar (linfonodos), TC tórax (se indicado), cintilografia óssea (se T≥2cm ou sintomas), marcadores tumorais (CEA, CA 15-3). (2) PLANEJAMENTO TERAPÊUTICO MULTIDISCIPLINAR: cirurgia (setorectomia + linfonodo sentinela OU mastectomia) ± quimioterapia ± radioterapia ± hormonioterapia ± terapia anti-HER2 conforme subtipo molecular e estadio. IMPORTANTE: NUNCA iniciar tratamento sem confirmação histológica (10-30% dos BI-RADS 4 são BENIGNOS). Biópsia NÃO dissemina células (mito). Seguimento sem biópsia é erro grave. RM pode ser solicitada APÓS biópsia para avaliar extensão/multicentricidade/mama contralateral, mas NÃO substitui biópsia. Quimioterapia neoadjuvante só se carcinoma confirmado + indicação específica (tumores grandes, localmente avançados).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 35 anos, G2P1A0C0, 28 semanas, faz pré-natal regularmente. Refere diminuição da movimentação fetal nas últimas 24 horas. Nega sangramento, perda de líquido, contrações ou dor. Qual a conduta imediata mais adequada?",
+    "options": [
+      "Prescrever dexametasona para maturação pulmonar fetal e aguardar 48 horas para realizar cesariana eletiva pois hipomobilidade sugere insuficiência placentária grave necessitando antecipação do parto",
+      "Internar imediatamente para indução do parto com misoprostol pois hipomobilidade fetal após 28 semanas indica sofrimento fetal agudo com risco de óbito intrauterino se não realizar parto urgente",
+      "Solicitar ultrassom obstétrico com Doppler para avaliar peso fetal, líquido amniótico e circulação placentária, agendar retorno em 7 dias para reavaliação clínica e repetir exame se sintomas persistirem",
+      "Tranquilizar a gestante informando que diminuição dos movimentos é normal no terceiro trimestre devido ao menor espaço intrauterino, orientar retorno na próxima consulta de rotina agendada sem necessidade de avaliação adicional imediata",
+      "Realizar cardiotocografia (CTG) basal imediatamente para avaliar vitalidade fetal (BCF, variabilidade, acelerações, movimentos fetais), se padrão tranquilizador orientar contagem de movimentos fetais e retorno se persistir hipomobilidade, se não tranquilizador investigar com perfil biofísico fetal e Doppler"
+    ],
+    "correctIndex": 4,
+    "explanation": "DIMINUIÇÃO DA MOVIMENTAÇÃO FETAL (DMF) é queixa que SEMPRE requer avaliação imediata - pode indicar sofrimento fetal. Conduta: (1) CARDIOTOCOGRAFIA (CTG) BASAL IMEDIATA: avalia BCF (110-160bpm normal), variabilidade (6-25bpm normal), presença de acelerações transitórias (≥2 acelerações de ≥15bpm por ≥15seg em 20min = padrão tranquilizador/reativo), movimentos fetais percebidos. (2) Se CTG TRANQUILIZADOR (reativo): orientar CONTAGEM DE MOVIMENTOS FETAIS domiciliar (≥6 movimentos em 2h, ou ≥10 movimentos em 12h), retornar SE persistir hipomobilidade. (3) Se CTG NÃO TRANQUILIZADOR (não reativo, desacelerações): investigar com PERFIL BIOFÍSICO FETAL (movimentos fetais, tônus, movimentos respiratórios, líquido amniótico + CTG = score 0-10) e DOPPLER (artéria umbilical, artéria cerebral média, ducto venoso). (4) Conforme gravidade: corticoide para maturação pulmonar (se 24-34sem), internação, resolução da gestação. IMPORTANTE: DMF NUNCA deve ser ignorada - é sinal de alerta para hipóxia/acidose fetal. Causas: insuficiência placentária, RCIU, oligoidrâmnio, descolamento prematuro de placenta, infecções, malformações. 'Feto tem menos espaço' NÃO justifica DMF importante. Indução imediata sem avaliação é precipitada (<34sem avaliar benefício vs prematuridade).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Primigesta de 18 anos, 32 semanas, vem ao pronto-socorro com queixa de cefaleia intensa, epigastralgia e edema há 2 dias. Nega sangramento ou contrações. PA: 160/110 mmHg (média de 3 medidas). Proteinúria de fita: 3+. Exames: plaquetas 90.000/mm³, TGO 80 U/L, TGP 95 U/L, creatinina 1,4 mg/dL. Qual o diagnóstico e a conduta?",
+    "options": [
+      "Hepatite aguda viral com hipertensão secundária; conduta: solicitar sorologias para hepatites A, B, C e E, encaminhar para hepatologista, tratar hipertensão com Metildopa, acompanhar função hepática semanalmente, programar parto para 37 semanas se estabilizada",
+      "Pré-eclâmpsia leve sem critérios de gravidade; conduta: repouso domiciliar, dieta hipossódica rigorosa, anti-hipertensivo oral (Metildopa 750mg/dia), controle ambulatorial semanal de PA, peso, proteinúria e exames laboratoriais, manter gestação até 37-39 semanas para parto a termo",
+      "Síndrome nefrótica idiopática da gestação; conduta: corticoterapia com Prednisona 1mg/kg/dia, diuréticos para reduzir edema (Furosemida), reposição de albumina endovenosa, acompanhamento nefrológico e obstétrico ambulatorial mensal",
+      "Hipertensão arterial crônica exacerbada pela gestação; conduta: ajustar anti-hipertensivos com associação de 3 drogas (Metildopa + Nifedipina + Hidralazina), manter gestação com vigilância até termo (39-40 semanas) pois PA controlada permite esperar maturidade fetal completa",
+      "Pré-eclâmpsia com sinais de gravidade (PA ≥160/110, cefaleia, epigastralgia, plaquetopenia <100.000, transaminases elevadas, creatinina >1,1); conduta: internação imediata, sulfato de magnésio para neuroproteção e prevenção de eclâmpsia, anti-hipertensivos (Nifedipina ou Hidralazina ou Metildopa), corticoide para maturação pulmonar, avaliação de vitalidade fetal (CTG, perfil biofísico), programar parto em 24-48h após corticoide (cesárea ou indução conforme condições)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Diagnóstico: PRÉ-ECLÂMPSIA COM SINAIS DE GRAVIDADE (pré-eclâmpsia grave). CRITÉRIOS DIAGNÓSTICOS de pré-eclâmpsia: hipertensão (PA ≥140/90mmHg após 20 semanas) + proteinúria (≥300mg/24h ou fita ≥1+) OU hipertensão + disfunção de órgão-alvo. SINAIS DE GRAVIDADE presentes: (1) PA ≥160/110mmHg, (2) sintomas cerebrais (cefaleia intensa, escotomas), (3) dor epigástrica/hipocôndrio direito (distensão cápsula hepática), (4) plaquetopenia <100.000/mm³, (5) transaminases >2x limite superior (TGO/TGP >70-80), (6) creatinina >1,1mg/dL. CONDUTA: (1) INTERNAÇÃO em unidade de alto risco, (2) SULFATO DE MAGNÉSIO: dose ataque 4-6g EV em 20min, manutenção 1-2g/h (previne eclâmpsia - convulsões - reduz risco em 50%), monitorar reflexos, diurese, FR, (3) ANTI-HIPERTENSIVOS: Nifedipina 10mg VO (repetir 20/20min até PA <160/110) OU Hidralazina 5mg EV (repetir 20/20min) OU Metildopa (manutenção), (4) CORTICOIDE: Betametasona 12mg IM 24/24h (2 doses) para maturação pulmonar fetal <34sem, (5) Avaliação FETAL: CTG, perfil biofísico, Doppler, (6) PARTO em 24-48h após corticoide (não esperar termo - risco materno alto): cesárea se condições desfavoráveis ou <34sem, indução se favorável e ≥34sem. Sulfato de magnésio manter até 24h pós-parto. COMPLICAÇÕES: eclâmpsia (convulsões), HELLP (hemólise, enzimas hepáticas elevadas, plaquetas baixas), IRA, edema agudo pulmão, AVC, DPP, morte materna/fetal.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Parturiente de 30 anos, G1P0A0C0, 39 semanas, em trabalho de parto ativo. Exame: colo 9cm, bolsa íntegra. Cardiotocografia mostra desacelerações tardias repetidas com recuperação lenta do BCF. BCF basal 155bpm. Líquido amniótico claro pela amnioscopia. Apresentação cefálica OEA em plano +1. Qual a interpretação e conduta?",
+    "options": [
+      "Desacelerações tardias são FISIOLÓGICAS no período expulsivo próximo (dilatação 9cm), representando compressão cefálica; conduta: aguardar dilatação completa (mais 30-60min esperados), orientar puxos imediatos ao completar 10cm, parto vaginal normal sem necessidade de intervenções adicionais ou cesárea",
+      "Desacelerações tardias indicam HIPÓXIA FETAL por insuficiência útero-placentária (acidose fetal progressive); conduta: posicionar em decúbito lateral esquerdo, oxigênio sob máscara 8-10L/min, hidratação EV, suspender ocitocina se em uso, reavaliar BCF; se persistirem desacelerações tardias apesar de medidas ressuscitativas, indicar parto IMEDIATO por cesárea de emergência devido sofrimento fetal agudo",
+      "Desacelerações tardias indicam compressão funicular (circular de cordão); conduta: realizar amniotomia artificial imediata para liberar possível circular apertada, reposicionar gestante em posição genupeitoral, aguardar 20 minutos e reavaliar BCF, parto vaginal se normalizar o traçado",
+      "Desacelerações tardias são padrão TRANQUILIZADOR quando líquido amniótico é claro e BCF basal normal; conduta: manter conduta expectante sem intervenções, observar evolução natural do trabalho de parto, permitir que chegue a dilatação completa espontaneamente em ambiente de baixo risco",
+      "Desacelerações tardias indicam hipertonia uterina por taquissistolia; conduta: administrar tocolítico (Terbutalina 0,25mg SC) imediatamente para relaxar útero, suspender ocitocina se em uso, aguardar recuperação da dinâmica uterina normal, retomar condução do trabalho de parto após normalização"
+    ],
+    "correctIndex": 1,
+    "explanation": "DESACELERAÇÕES TARDIAS (DIP II): quedas do BCF que iniciam APÓS o pico da contração e retornam à linha de base APÓS o fim da contração. Indicam: HIPÓXIA/ACIDOSE FETAL por INSUFICIÊNCIA ÚTERO-PLACENTÁRIA (fluxo sanguíneo placentário inadequado durante contração → hipóxia → queda reflexa do BCF). SEMPRE PATOLÓGICAS e indicam sofrimento fetal. Causas: hipertonia uterina (taquissistolia por ocitocina), hipotensão materna, insuficiência placentária crônica, DPP. Diferenciar de: Desacelerações PRECOCES (DIP I): espelho da contração, início/fim simultâneos, benignas (compressão cefálica); Desacelerações VARIÁVEIS (DIP III): início abrupto, variáveis em forma/tempo, indicam compressão de cordão (nem sempre patológicas se isoladas e com recuperação rápida). CONDUTA para desacelerações tardias: (1) MEDIDAS RESSUSCITATIVAS INTRA-ÚTERO: decúbito lateral ESQUERDO (melhora retorno venoso e débito cardíaco, desvia útero da veia cava), O2 suplementar 8-10L/min sob máscara (aumenta oferta O2 fetal), hidratação EV (expande volemia materna), SUSPENDER ocitocina, (2) Reavaliar CTG em 10-15min, (3) Se PERSISTIREM: indicar PARTO IMEDIATO - com 9cm pode-se considerar fórceps de alívio se descida adequada e operador experiente, caso contrário CESÁREA DE EMERGÊNCIA. Líquido claro NÃO exclui hipóxia (mecônio aparece em ~40% das hipóxias). Taquissistolia deve ser tratada mas causa é a hipóxia placentária, não só hipertonia.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 26 anos, G1P0A0C0, 36 semanas, assintomática, faz ultrassom de rotina que mostra oligoidrâmnio (ILA = 4cm, maior bolsão vertical = 1,5cm). Crescimento fetal adequado (percentil 45), Doppler de artéria umbilical normal. Sem comorbidades. Qual a conduta?",
+    "options": [
+      "Oligoidrâmnio leve sem complicações permite conduta expectante com reavaliação ultrassonográfica em 4 semanas e manter gestação até 40-41 semanas para parto espontâneo",
+      "Internar imediatamente para indução do parto com misoprostol pois oligoidrâmnio sempre indica insuficiência placentária grave com risco de óbito fetal iminente",
+      "Indicar amnioinfusão terapêutica (infusão de soro fisiológico na cavidade amniótica) para restaurar volume de líquido e permitir prolongar gestação até termo completo de 39-40 semanas",
+      "Oligoidrâmnio com ILA <5cm é indicação para vigilância intensiva: cardiotocografia 2-3x/semana, perfil biofísico fetal semanal, avaliar vitalidade fetal, considerar interrupção da gestação se ≥37 semanas ou se surgirem sinais de comprometimento fetal mesmo antes do termo",
+      "Prescrever repouso absoluto no leito e hiperhidratação oral vigorosa (3-4 litros/dia) pois essas medidas reconhecidamente aumentam líquido amniótico permitindo normalização"
+    ],
+    "correctIndex": 3,
+    "explanation": "OLIGOIDRÂMNIO: líquido amniótico reduzido. Definições: ILA (índice de líquido amniótico) <5cm OU maior bolsão vertical <2cm. Causas: rotura de membranas, insuficiência placentária/RCIU, malformações renais/urinárias fetais, pós-datismo, medicações (IECA, AINE). RISCOS: compressão funicular, hipoplasia pulmonar, deformidades (se precoce), sofrimento fetal. CONDUTA depende de: idade gestacional, gravidade, causa, vitalidade fetal. Neste caso (36sem, oligoidrâmnio moderado ILA=4, feto com crescimento adequado, Doppler normal): (1) VIGILÂNCIA INTENSIVA: CTG 2-3x/semana (avaliar hipóxia por compressão funicular - variáveis podem aparecer), perfil biofísico fetal semanal (score), repetir ultrassom/Doppler semanalmente; (2) Investigar CAUSA: descartar ROM (teste cristalização, Amniosure), avaliar função renal fetal (visualização de rins/bexiga); (3) Avaliar INTERRUPÇÃO: se ≥37 semanas pode-se oferecer indução do parto (reduz risco de compressão funicular no trabalho de parto espontâneo), se <37sem manter vigilância a menos que haja comprometimento fetal. Amnioinfusão anteparto NÃO tem benefício comprovado (diferente de amnioinfusão intraparto para melhorar traçado). Hidratação materna tem benefício mínimo/controverso. Corticoide se <34sem. Oligoidrâmnio isolado leve-moderado NÃO é indicação de cesariana (via de parto conforme indicações obstétricas habituais).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a classificação de Robson (ou classificação dos 10 grupos de Robson) para análise das taxas de cesárea e qual sua utilidade?",
+    "options": [
+      "Sistema de pontuação que avalia risco materno-fetal em 10 parâmetros (idade, IMC, paridade, comorbidades, apresentação fetal, trabalho de parto, BCF, líquido amniótico, Doppler, história obstétrica pregressa) e classifica gestantes em baixo/médio/alto risco para indicar via de parto mais adequada",
+      "Classificação que divide cesáreas em 10 tipos de indicações específicas (sofrimento fetal, desproporção cefalopélvica, apresentação pélvica, gemelares, placenta prévia, cesárea anterior, HIV+, herpes genital ativo, DPP, parada de progressão) permitindo analisar causas individuais das cesáreas",
+      "Sistema de estratificação de risco para complicações da cesárea que avalia 10 fatores (obesidade, diabetes, hipertensão, idade >35 anos, anemia, cesáreas prévias, gemelaridade, corioamnionite, trabalho de parto prolongado, urgência) e calcula escore preditivo de morbidade pós-operatória",
+      "Sistema de classificação que divide gestantes em 10 grupos mutuamente exclusivos baseados em: paridade, idade gestacional, apresentação fetal, número de fetos, trabalho de parto (espontâneo/induzido/cesárea eletiva); permite identificar quais grupos contribuem mais para taxa de cesárea institucional e comparar taxas entre diferentes serviços de forma padronizada",
+      "Classificação internacional que divide hospitais em 10 categorias conforme recursos disponíveis (centro obstétrico, UTI neonatal, banco de sangue, anestesista 24h, ultrassom, centro cirúrgico) e estabelece taxas esperadas de cesárea para cada categoria permitindo comparações adequadas entre serviços"
+    ],
+    "correctIndex": 3,
+    "explanation": "CLASSIFICAÇÃO DE ROBSON (10 GRUPOS): sistema recomendado pela OMS para monitorar e comparar taxas de cesárea. Divide TODAS as gestantes em 10 grupos mutuamente exclusivos e totalmente inclusivos baseados em características obstétricas: GRUPO 1: Nulíparas, feto único cefálico ≥37sem, trabalho parto espontâneo. GRUPO 2: Nulíparas, feto único cefálico ≥37sem, indução ou cesárea antes trabalho parto. GRUPO 3: Multíparas sem cesárea prévia, feto único cefálico ≥37sem, trabalho espontâneo. GRUPO 4: Multíparas sem cesárea prévia, feto único cefálico ≥37sem, indução ou cesárea antes trabalho parto. GRUPO 5: Multíparas com ≥1 cesárea prévia, feto único cefálico ≥37sem. GRUPO 6: Nulíparas, feto único pélvico. GRUPO 7: Multíparas, feto único pélvico. GRUPO 8: Gestações múltiplas. GRUPO 9: Feto único situação transversa/oblíqua. GRUPO 10: Feto único cefálico prematuro <37sem. UTILIDADE: (1) identificar grupos que mais contribuem para taxa de cesárea (tipicamente grupos 2 e 5), (2) comparar serviços de forma padronizada, (3) implementar estratégias para reduzir cesáreas desnecessárias em grupos específicos, (4) analisar tendências temporais. Brasil: taxa de cesárea ~55% (privado 85%, público 40%), OMS recomenda ≤15% para população.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Parturiente G2P1A0C0, 40 semanas, em trabalho de parto. Exame: colo 4cm, bolsa rota há 12 horas com líquido claro, apresentação cefálica -2 De Lee, temperatura 38,2°C. Leucócitos 18.000/mm³, PCR 45mg/L. Dinâmica regular 3/10min. BCF 165bpm sem desacelerações. Qual o diagnóstico provável e conduta?",
+    "options": [
+      "Trabalho de parto normal com resposta inflamatória fisiológica ao stress do parto; conduta: continuar acompanhamento habitual do trabalho de parto sem intervenções adicionais, febre é esperada em trabalhos prolongados e não indica necessariamente infecção intra-amniótica",
+      "Rotura prolongada de membranas sem infecção pois líquido ainda claro sem odor; conduta: manter hidratação, observação clínica ambulatorial, aguardar trabalho de parto espontâneo até 24-48h de bolsa rota antes de considerar indução, antibiótico apenas se surgirem sinais claros de infecção",
+      "Provável infecção urinária concomitante causando febre e leucocitose; conduta: coletar urocultura, iniciar antibioticoterapia para ITU com Cefalexina ou Nitrofurantoína, manter condução normal do trabalho de parto, parto vaginal sem antibiótico amplo espectro se urocultura confirmar apenas ITU",
+      "Síndrome do desconforto respiratório materno com taquipneia e febre; conduta: solicitar radiografia de tórax urgente, gasometria arterial, considerar antibiótico para pneumonia comunitária (Azitromicina), oxigenoterapia, transferir para UTI se necessário, programar cesárea eletiva após estabilização respiratória",
+      "Corioamnionite clínica (febre >38°C + taquicardia fetal >160bpm ou materna, leucocitose, líquido com odor fétido ou PCR elevado em contexto de bolsa rota); conduta: antibioticoterapia empírica imediata amplo espectro (Ampicilina 2g EV 6/6h + Gentamicina 5mg/kg/dia EV + Metronidazol ou Clindamicina se cesárea), acelerar parto (considerar ocitocina para trabalho ativo, cesárea se indicação obstétrica), monitorar rigorosamente BCF e sinais maternos"
+    ],
+    "correctIndex": 4,
+    "explanation": "CORIOAMNIONITE CLÍNICA (tríplice I: infecção/inflamação intra-amniótica intraparto): infecção/inflamação das membranas amnióticas, córion e líquido amniótico durante trabalho de parto. DIAGNÓSTICO CLÍNICO (presença de febre + ≥1 dos seguintes): (1) FEBRE materna >38°C intra-parto, (2) TAQUICARDIA fetal (>160bpm persistente) OU materna (>100bpm), (3) LEUCOCITOSE >15.000-20.000/mm³, (4) Líquido amniótico PURULENTO ou com ODOR FÉTIDO, (5) Dor uterina à palpação. FATORES DE RISCO: rotura prolongada de membranas (>18-24h), múltiplos toques vaginais, trabalho de parto prolongado, cerclagem, monitorização interna. CONDUTA: (1) ANTIBIOTICOTERAPIA EMPÍRICA IMEDIATA de amplo espectro ANTES do parto: Ampicilina 2g EV 6/6h + Gentamicina 5mg/kg/dia EV em dose única. Se cesárea: adicionar Clindamicina 900mg EV 8/8h ou Metronidazol 500mg EV 8/8h (cobertura anaeróbica). Manter ATB até 24-48h afebril pós-parto. (2) ACELERAR O PARTO: considerar ocitocina se trabalho lento (mas sem retardar excessivamente), cesárea se indicações obstétricas. Parto é tratamento definitivo. (3) Monitorar BCF (risco sofrimento fetal), (4) RN: avaliar sepse neonatal, ATB neonatal profilático/terapêutico. COMPLICAÇÕES: sepse materna, atonia uterina pós-parto, sepse neonatal (20%), pneumonia neonatal, meningite.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 24 semanas com cultura para Streptococcus agalactiae (Estreptococo do grupo B - GBS) positiva em urina assintomática (bacteriúria assintomática). Qual a conduta adequada?",
+    "options": [
+      "Não tratar bacteriúria assintomática pois em gestante não há benefício comprovado; aguardar cultura de rastreio retal-vaginal entre 35-37 semanas conforme rotina, realizar profilaxia intraparto apenas se cultura 35-37sem for positiva ou se trabalho de parto prematuro",
+      "Tratar bacteriúria com antibiótico mas repetir cultura de controle após 1 semana; se negativa aguardar nova cultura retal-vaginal 35-37 semanas para decidir sobre profilaxia intraparto, se cultura controle positiva realizar novo tratamento e dispensar profilaxia intraparto por colonização já eliminada",
+      "Tratar bacteriúria apenas se houver sintomas urinários pois tratamento de bacteriúria assintomática não está mais indicado; realizar cultura retal-vaginal 35-37 semanas independente do tratamento, profilaxia intraparto conforme resultado da cultura tardia ou fatores de risco intraparto",
+      "Tratar bacteriúria imediatamente com antibiótico oral (Cefalexina 500mg 6/6h por 7 dias ou Amoxicilina 500mg 8/8h por 7 dias), NÃO repetir cultura de rastreio retal-vaginal 35-37 semanas pois GBS positivo em urina indica colonização massiva, realizar profilaxia intraparto obrigatória independente de cultura posterior",
+      "Administrar dose única de Penicilina G Benzatina 2,4 milhões UI IM imediatamente pois trata bacteriúria e colonização, dispensando necessidade de profilaxia intraparto ou culturas adicionais devido à longa duração do antibiótico (até 3-4 semanas de ação)"
+    ],
+    "correctIndex": 3,
+    "explanation": "ESTREPTOCOCO DO GRUPO B (GBS/Streptococcus agalactiae) NA GESTAÇÃO: principal causa de sepse neonatal precoce (primeiras 72h de vida), meningite neonatal, pneumonia. Colonização: 10-30% das gestantes (vagina/reto). RASTREIO: cultura retal-vaginal entre 35-37 semanas. EXCEÇÃO: GBS em URINA (qualquer quantidade, mesmo bacteriúria assintomática) em QUALQUER momento da gestação indica: (1) Colonização MASSIVA do trato geniturinário, (2) Risco aumentado de sepse neonatal. CONDUTA quando GBS positivo em urina: (1) TRATAR BACTERIÚRIA imediatamente: Cefalexina 500mg VO 6/6h por 7 dias OU Amoxicilina 500mg VO 8/8h por 7 dias (alternativas: Ampicilina, Nitrofurantoína - evitar no termo). (2) NÃO precisa repetir cultura de rastreio 35-37 semanas - considerar AUTOMATICAMENTE positiva para GBS. (3) PROFILAXIA INTRAPARTO OBRIGATÓRIA independente de cultura posterior ou tratamento prévio (tratamento anteparto NÃO elimina colonização no momento do parto). PROFILAXIA INTRAPARTO: Penicilina G Cristalina 5 milhões UI EV ataque, depois 2,5-3 milhões UI EV 4/4h até parto OU Ampicilina 2g EV ataque, 1g EV 4/4h. Se alergia: Cefazolina 2g EV ataque, 1g EV 8/8h OU Clindamicina 900mg EV 8/8h (se susceptibilidade conhecida) OU Vancomicina 1g EV 12/12h. Iniciar no início do trabalho de parto ou na rotura de membranas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 32 anos, G3P2A0C0, 20 semanas, realizou ultrassom morfológico que detectou feto com gastrosquise (defeito da parede abdominal anterior com evisceração de alças intestinais). Cariótipo normal 46,XX. Sem outras malformações detectadas. Como deve ser o acompanhamento e planejamento do parto?",
+    "options": [
+      "Gestação de alto risco que deve ser acompanhada semanalmente com perfil biofísico fetal e Doppler, parto deve ser realizado assim que maturidade pulmonar for atingida (28-30 semanas com corticoide) através de cesárea obrigatória, adiar parto aumenta risco de óbito intrauterino por compressão de alças",
+      "Gestação deve evoluir até termo completo (39-40 semanas) para maximizar maturidade fetal pois correção cirúrgica da gastrosquise só pode ser realizada em recém-nascidos >2,5kg, parto vaginal normal é contraindicado devido risco de rompimento de alças, cesárea eletiva obrigatória para todos os casos",
+      "Interrupção da gestação deve ser oferecida até 24 semanas pois gastrosquise tem mortalidade neonatal >80% e sequelas graves inevitáveis com péssimo prognóstico neurológico a longo prazo, continuidade da gestação expõe família a sofrimento desnecessário sem perspectiva de sobrevida",
+      "Ultrassonografias seriadas a cada 2-3 semanas para avaliar crescimento fetal, líquido amniótico, dilatação de alças (indicador de mau prognóstico), Doppler; parto programado 36-37 semanas em centro terciário com cirurgia pediátrica/neonatologia disponível; cesárea eletiva NÃO é obrigatória (pode ser parto vaginal se condições favoráveis), indicar cesárea apenas por indicações obstétricas ou se alças muito dilatadas/comprometidas; RN necessita correção cirúrgica imediata pós-nascimento",
+      "Realizar fetoscopia intrauterina entre 22-26 semanas para correção cirúrgica pré-natal da gastrosquise (reposição de vísceras e fechamento da parede abdominal) pois correção intraútero melhora significativamente prognóstico e reduz necessidade de múltiplas cirurgias pós-natais"
+    ],
+    "correctIndex": 3,
+    "explanation": "GASTROSQUISE: defeito congênito da parede abdominal anterior (geralmente à DIREITA do cordão umbilical) com evisceração de vísceras abdominais (principalmente alças intestinais) para cavidade amniótica. SEM membrana cobrindo (diferente de onfalocele que TEM membrana). CARACTERÍSTICAS: (1) defeito geralmente PEQUENO (2-4cm), (2) NÃO associada a anomalias cromossômicas (cariótipo normal), (3) PODE associar-se a atresia/estenose intestinal, má-rotação, necrose de alças. Fatores de risco: mães jovens (<20 anos), uso de medicamentos vasoativos. ACOMPANHAMENTO PRÉ-NATAL: (1) Ultrassom seriado a cada 2-4 semanas: avaliar crescimento fetal (risco RCIU), líquido amniótico (poli ou oligoidrâmnio), DILATAÇÃO DE ALÇAS intestinais (>17mm indica pior prognóstico - provável atresia/isquemia), espessamento de paredes das alças; (2) Doppler para avaliar bem-estar fetal; (3) Acompanhamento em centro terciário. PARTO: (1) ÉPOCA: 36-37 semanas (evitar pós-datismo que aumenta risco deterioração intestinal, mas permitir maturidade adequada); (2) VIA: NÃO há consenso - cesárea NÃO é obrigatória, pode ser parto vaginal se condições favoráveis e alças sem dilatação significativa. Indicar cesárea se: alças muito dilatadas/comprometidas, outras indicações obstétricas. (3) LOCAL: centro terciário com UTI neonatal e cirurgia pediátrica. PÓS-NATAL: correção cirúrgica IMEDIATA (fechamento primário se possível, ou silo com redução gradual se vísceras muito volumosas). Prognóstico: sobrevida >90% em centros especializados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 42 anos com sangramento vaginal irregular há 3 meses. Nega uso de anticoncepcional hormonal. Exame ginecológico: útero aumentado de volume, irregular, móvel, indolor. USG transvaginal: útero 12cm, múltiplos miomas intramurais e submucosos, o maior de 6cm submucoso deformando cavidade. Endométrio espessado 14mm heterogêneo. Hemoglobina 8,5 g/dL. Qual a melhor conduta?",
+    "options": [
+      "Realizar embolização de artérias uterinas como primeira escolha terapêutica pois é procedimento minimamente invasivo que resolve sangramento e reduz miomas sem necessidade de cirurgia, não requer biópsia endometrial prévia, permite preservação uterina com possibilidade de gestações futuras",
+      "Iniciar anticoncepcional oral combinado para controle do sangramento e redução do volume dos miomas, repetir ultrassom em 3-6 meses, considerar cirurgia apenas se não houver resposta ao tratamento clínico hormonal ou se miomas aumentarem de tamanho significativamente",
+      "Prescrever ácido tranexâmico 1g 8/8h durante menstruações e sulfato ferroso para correção da anemia, solicitar repetir ultrassom em 6 meses para avaliar evolução, cirurgia apenas se sangramento persistir ou anemia não corrigir com reposição de ferro oral",
+      "Realizar biópsia de endométrio (histeroscopia com biópsia dirigida) para descartar hiperplasia/carcinoma endometrial (mulher >40 anos + sangramento irregular + endométrio espessado >11-12mm); se benigno: opções terapêuticas incluem miomectomia histeroscópica (mioma submucoso), embolização de artérias uterinas, histerectomia (se prole completa e sintomas refratários), ou tratamento clínico temporário com análogos GnRH",
+      "Indicar histerectomia total imediata sem necessidade de biópsia prévia pois mulher >40 anos com miomas múltiplos e sangramento tem alto risco de malignidade, procedimento conservador não está indicado, anemia justifica cirurgia urgente para resolver sangramento definitivamente"
+    ],
+    "correctIndex": 3,
+    "explanation": "ABORDAGEM DE SANGRAMENTO UTERINO ANORMAL (SUA) em mulher >40 anos: SEMPRE investigar malignidade endometrial. Fatores de risco: idade >45 anos, obesidade, diabetes, hipertensão, SOP, nuliparidade, tamoxifeno, terapia estrogênica sem progesterona, Lynch syndrome. INVESTIGAÇÃO: (1) Espessamento endometrial >11-12mm na pós-menopausa OU >16mm na menacme com sangramento irregular → BIÓPSIA OBRIGATÓRIA. Métodos: histeroscopia com biópsia dirigida (padrão-ouro), curetagem, biópsia ambulatorial (Pipelle). (2) Descartar HIPERPLASIA ENDOMETRIAL (simples/complexa, com/sem atipias) ou CARCINOMA ENDOMETRIAL. MIOMAS UTERINOS: tumores benignos do músculo liso uterino. Classificação FIGO: tipo 0-2 (submucosos), 3-4 (intramurais com contato cavidade), 5-7 (intramurais), 8 (subserosos). SINTOMAS: sangramento (principalmente submucosos), anemia, dor, sintomas compressivos, infertilidade. TRATAMENTO: (1) EXPECTANTE: assintomáticos, pequenos. (2) CLÍNICO: análogos GnRH (reduz tamanho 30-60%, temporário), DIU-LNG (reduz sangramento), ACO (controvertido - pode aumentar miomas), ácido tranexâmico (apenas sintomático). (3) CIRÚRGICO: Miomectomia histeroscópica (submucosos tipo 0-2, preserva útero), Miomectomia abdominal/laparoscópica (múltiplos, desejo fertilidade), Embolização artérias uterinas (sem desejo fertilidade), Histerectomia (prole constituída, sintomas refratários, >45 anos). Neste caso: biópsia primeiro (mandatória) → tratar conforme histologia + sintomas + desejo fertilidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a definição de aborto segundo critérios obstétricos, e quais são os principais tipos de aborto conforme apresentação clínica e evolutividade?",
+    "options": [
+      "Aborto: morte embrionária ou fetal até 28 semanas de gestação conforme OMS; Tipos anatômicos: tubário (gestação ectópica rota), ovariano (implantação ovariana), cervical (no colo uterino), angular (corno uterino)",
+      "Aborto: qualquer perda gestacional independente de idade gestacional ou peso fetal; Tipos conforme causa: espontâneo (natural), provocado (induzido intencionalmente), terapêutico (indicação médica), criminoso (ilegal), habitual (≥2 perdas consecutivas)",
+      "Aborto: interrupção da gestação antes de viabilidade fetal (24 semanas); Tipos: precoce (<12sem), tardio (12-24sem), recorrente (≥3 perdas), euploide (cariótipo normal), aneuplóide (cromossomopatia), imunológico (anticorpos antifosfolípides)",
+      "Aborto: perda gestacional antes de 20-22 semanas ou feto <500g; Tipos: ameaça (sangramento com colo fechado, viável), inevitável (colo dilatado, viável), incompleto (restos ovulares no útero), completo (expulsão total), retido (morte embrionária sem expulsão), infectado/séptico (febre, leucocitese, odor fétido)",
+      "Aborto: expulsão do concepto antes de atingir peso de 1000g ou 28 semanas; Tipos evolutivos: embrionário (<8sem), fetal (≥8sem), gemelar (um ou ambos conceptos), molar (completa ou parcial com degeneração trofoblástica)"
+    ],
+    "correctIndex": 3,
+    "explanation": "ABORTO: perda gestacional ANTES de 20-22 semanas (critério mais usado: 20 semanas) OU feto com peso <500g. Incidência: 10-20% das gestações clinicamente reconhecidas. TIPOS CLÍNICOS: (1) AMEAÇA DE ABORTO: sangramento vaginal, colo fechado, embrião VIVO ao USG, útero compatível com IG. Evolução: 50% progridem normalmente. Conduta: repouso relativo, abstinência sexual, progesterona (controverso), reavaliação. (2) ABORTO INEVITÁVEL: sangramento, COLO DILATADO/PÉRVIO, pode ter rotura de bolsa, embrião ainda vivo mas perda iminente. Conduta: esvaziamento uterino (AMIU, curetagem). (3) ABORTO INCOMPLETO: expulsão PARCIAL (restos ovulares no útero), sangramento persistente, colo aberto. USG: material ecogênico intracavitário. Conduta: esvaziamento (AMIU/curetagem/misoprostol). (4) ABORTO COMPLETO: expulsão TOTAL do material ovular, sangramento cessa, colo fecha, útero involuído. USG: cavidade vazia. Conduta: expectante. (5) ABORTO RETIDO/MISSED ABORTION: morte embrionária/fetal sem expulsão, colo fechado, ausência de BCF, pode ser assintomático. Conduta: aguardar expulsão espontânea (até 4sem) OU esvaziamento (AMIU/misoprostol). (6) ABORTO INFECTADO/SÉPTICO: febre, dor, secreção fétida, leucocitose. Conduta: ATB amplo espectro + esvaziamento APÓS estabilização (risco de sepse, choque, CID, perfuração uterina). Causas: cromossômicas (50%), anatômicas (útero septado, incompetência cervical), endócrinas (diabetes, tireoideopatias), imunológicas (SAF), infecciosas, trombofilias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o significado das siglas LSIL e HSIL no sistema Bethesda para citologia cervical, e suas equivalências histológicas?",
+    "options": [
+      "LSIL (Low-grade Squamous Intraepithelial Lesion): lesão escamosa de baixo grau, equivale a NIC 1 (displasia leve); HSIL (High-grade Squamous Intraepithelial Lesion): lesão escamosa de alto grau, equivale a NIC 2 e NIC 3 (displasia moderada/grave e carcinoma in situ); Sistema Bethesda unifica terminologia citológica com HPV como causa",
+      "LSIL: lesão escamosa leve de baixa significância, equivale a alterações reacionais inflamatórias reversíveis; HSIL: lesão histológica de alta severidade, equivale a adenocarcinoma in situ do endocérvice ou invasor inicial",
+      "LSIL: lesão epitelial scamosa inicial (early lesion), equivale a metaplasia escamosa imatura benigna sem displasia; HSIL: lesão epitelial escamosa histológica, equivale apenas a NIC 3 (carcinoma in situ), NIC 2 não é considerado alto grau",
+      "LSIL: lesão superficial do epitélio escamoso limitada ao terço superior, equivale a coilocitose por HPV sem displasia; HSIL: lesão histológica severa profunda, equivale a carcinoma microinvasivo (estádio IA1) que já invadiu estroma <3mm",
+      "LSIL: lesão limitada ao epitélio escamoso sem comprometer camada basal, equivale a atipia de células escamosas; HSIL: lesão histológica com invasão, equivale a carcinoma invasor estádio IB ou superior que invadiu >5mm"
+    ],
+    "correctIndex": 0,
+    "explanation": "SISTEMA BETHESDA: padronização internacional para laudos citológicos cervicais. Reflete conhecimento de que HPV é causador das lesões. TERMINOLOGIA CITOLÓGICA: (1) ASC-US: células escamosas atípicas de significado indeterminado; (2) ASC-H: células escamosas atípicas não podendo excluir HSIL; (3) LSIL (Low-grade Squamous Intraepithelial Lesion): lesão escamosa de BAIXO GRAU; (4) HSIL (High-grade Squamous Intraepithelial Lesion): lesão escamosa de ALTO GRAU; (5) Carcinoma escamoso invasor; (6) AGC: células glandulares atípicas; (7) Adenocarcinoma. EQUIVALÊNCIAS HISTOLÓGICAS (biópsia): LSIL (citologia) = NIC 1 (histologia) = displasia LEVE = alterações citopáticas por HPV (coilocitose) + displasia do terço inferior do epitélio. Maioria REGRIDE espontaneamente (60-80% em 2 anos). HSIL (citologia) = NIC 2 + NIC 3 (histologia) = displasia MODERADA (NIC 2 - 2/3 do epitélio) + displasia GRAVE/carcinoma in situ (NIC 3 - >2/3 ou espessura total). Risco de progressão para câncer invasor: NIC 2 ~5%, NIC 3 ~12-40% se não tratado. Sistema UNIFICA NIC 2 e 3 como HSIL pois: (1) reprodutibilidade inter-observador ruim entre NIC 2 e 3, (2) ambos requerem tratamento excisional geralmente, (3) ambos têm significado clínico similar (pré-câncer). CONDUTA: LSIL geralmente seguimento (repetir citologia ou colposcopia), HSIL sempre colposcopia + biópsia + tratamento se confirmado.",
+    "type": "conteudista"
+  }
+]

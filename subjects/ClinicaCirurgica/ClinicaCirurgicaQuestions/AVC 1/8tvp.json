@@ -1,0 +1,535 @@
+[
+  {
+    "question": "Qual é a definição mais precisa de Trombose Venosa Profunda (TVP) dos membros inferiores?",
+    "options": [
+      "Formação crônica de trombos em veias superficiais dos membros inferiores situadas acima da fáscia muscular, incluindo safena magna e parva",
+      "Formação aguda de trombos em veias profundas dos membros inferiores situadas abaixo da fáscia muscular, incluindo poplítea, femoral, tibiais, fibulares, gastrocnêmios e soleares",
+      "Formação subaguda de trombos em veias perfurantes dos membros inferiores conectando sistemas superficial e profundo na região da panturrilha",
+      "Formação aguda de trombos em artérias profundas dos membros inferiores situadas abaixo da fáscia muscular, incluindo femoral, poplítea e tibiais",
+      "Formação aguda de trombos em vasos linfáticos dos membros inferiores situados junto aos trajetos venosos profundos da coxa e perna"
+    ],
+    "correctIndex": 1,
+    "explanation": "A TVP é definida como a formação aguda de trombos em veias profundas dos membros inferiores situadas abaixo da fáscia muscular, incluindo veias poplítea, femoral, tibiais, fibulares, gastrocnêmios e soleares. Esta definição diferencia TVP de trombose venosa superficial e estabelece a localização anatômica específica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a complicação mais temida da Trombose Venosa Profunda e sua mortalidade em pacientes não tratados?",
+    "options": [
+      "Embolia Pulmonar (EP) com mortalidade de 30% em pacientes não tratados, sendo causa imediata de morte em 10% dos indivíduos internados",
+      "Insuficiência venosa crônica com desenvolvimento de úlceras de estase em 1,5% da população geral e 60% destas devido à SPT",
+      "Síndrome pós-trombótica com incapacidade funcional permanente em 20% dos pacientes após 20 anos da trombose inicial",
+      "Trombocitopenia induzida por heparina com complicações hemorrágicas graves em 3% dos pacientes em uso prolongado de HBPM",
+      "Extensão proximal do trombo para veia ilíaca e cava inferior com obstrução venosa completa e flegmasia cerúlea em 5% dos casos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A Embolia Pulmonar (EP) é a complicação mais temida da TVP, com mortalidade de 30% em pacientes não tratados. A EP é causa imediata de morte em 10% dos indivíduos internados e representa aproximadamente 50.000 mortes anuais nos EUA e Europa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os dados epidemiológicos da TVP/EP no Brasil segundo estudos de necrópsia?",
+    "options": [
+      "Embolia Pulmonar foi encontrada em 12% das necropsias, sendo 2,1% como causa mortis, com incidência de 45 casos/100.000 hab./ano",
+      "Trombose Venosa Profunda foi encontrada em 8% das necropsias, sendo 1,5% como causa mortis, com incidência de 35 casos/100.000 hab./ano",
+      "Trombose Venosa Profunda foi encontrada em 25% das necropsias, sendo 5,2% como causa mortis, com incidência de 80 casos/100.000 hab./ano",
+      "Embolia Pulmonar foi encontrada em 19% das necropsias, sendo 3,7% como causa mortis, com incidência de 60 casos/100.000 hab./ano",
+      "Embolia Pulmonar foi encontrada em 22% das necropsias, sendo 4,3% como causa mortis, com incidência de 70 casos/100.000 hab./ano"
+    ],
+    "correctIndex": 3,
+    "explanation": "No Brasil, estudos de necrópsia mostram que a Embolia Pulmonar foi encontrada em 19% dos casos, sendo considerada causa mortis em 3,7%. A incidência de TVP/EP é de aproximadamente 60 casos/100.000 habitantes/ano, valores consistentes com a literatura internacional.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 68 anos com TVP proximal de membro inferior há 2 anos desenvolve dermatite ocre, edema persistente e úlcera varicosa dolorosa. Qual diagnóstico e sua incidência esperada?",
+    "options": [
+      "Linfoedema secundário à obstrução linfática por fibrose perivenosa pós-trombótica com elefantíase do membro inferior afetado",
+      "Tromboflebite superficial recorrente com extensão para sistema venoso profundo e recidiva da trombose venosa profunda proximal",
+      "Embolia pulmonar crônica tromboembólica com hipertensão pulmonar e cor pulmonale por obstrução vascular pulmonar persistente",
+      "Síndrome pós-trombótica (SPT) ou Insuficiência Venosa Crônica, complicação que afeta 20% dos pacientes com TVP em 20 anos de evolução",
+      "Erisipela de repetição com linfangite crônica e fibrose tecidual por infecções bacterianas recorrentes no membro inferior afetado"
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro descrito caracteriza Síndrome pós-trombótica (SPT) ou Insuficiência Venosa Crônica, complicação não-mortal que afeta 20% dos pacientes com TVP em 20 anos de evolução. A SPT cursa com dermatite ocre, edema, lipodermatosclerose e úlceras de estase, sendo responsável por 60% das úlceras venosas que afetam 1,5% da população geral.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o risco de TVP relacionado à imobilização prolongada em pacientes acamados?",
+    "options": [
+      "25% de TVP em acamados até 1 semana, aumentando para até 60% após este período, com maior risco no membro não paralisado em AVE",
+      "20% de TVP em acamados até 1 semana, aumentando para até 70% após este período, com risco equivalente em todos os membros",
+      "15% de TVP em acamados até 1 semana, aumentando para até 80% após este período, com maior risco no membro paralisado em casos de AVE",
+      "10% de TVP em acamados até 1 semana, aumentando para até 50% após este período, com risco predominante em membros superiores",
+      "5% de TVP em acamados até 1 semana, aumentando para até 30% após este período, com risco igual em ambos os membros inferiores"
+    ],
+    "correctIndex": 2,
+    "explanation": "A imobilização prolongada apresenta risco de 15% de TVP em pacientes acamados até 1 semana, aumentando progressivamente para até 80% após este período. Em casos de Acidente Vascular Encefálico (AVE), a trombose ocorre predominantemente no membro paralisado devido à maior estase venosa por imobilidade completa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o impacto do TEV prévio no risco de nova trombose em pacientes submetidos à cirurgia?",
+    "options": [
+      "TVP prévia aumenta em 1-2 vezes o risco em indivíduos submetidos à cirurgia, subindo para 70% se história prévia inclui Embolia Pulmonar",
+      "TVP prévia aumenta em 2-3 vezes o risco em indivíduos submetidos à cirurgia, subindo para 80% se história prévia inclui Embolia Pulmonar",
+      "TVP prévia aumenta em 5-6 vezes o risco em indivíduos submetidos à cirurgia, subindo para 95% se história prévia inclui Embolia Pulmonar",
+      "TVP prévia aumenta em 3-4 vezes o risco em indivíduos submetidos à cirurgia, subindo para 100% se história prévia inclui Embolia Pulmonar",
+      "TVP prévia aumenta em 4-5 vezes o risco em indivíduos submetidos à cirurgia, subindo para 90% se história prévia inclui Embolia Pulmonar"
+    ],
+    "correctIndex": 3,
+    "explanation": "História prévia de Tromboembolismo Venoso (TEV) aumenta em 3-4 vezes o risco de nova trombose em pacientes submetidos à cirurgia. Este risco sobe para 100% (risco absoluto) quando há história prévia de Embolia Pulmonar, reforçando a necessidade obrigatória de profilaxia adequada nestes casos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a relação entre câncer e Tromboembolismo Venoso (TEV) na comunidade?",
+    "options": [
+      "O câncer responde por 15% das causas de TEV na comunidade, aumentando o risco em 2 vezes no câncer e 4 vezes em casos submetidos à quimioterapia",
+      "O câncer responde por 20% das causas de TEV na comunidade, aumentando o risco em 4 vezes no câncer e 6 vezes em casos submetidos à quimioterapia",
+      "O câncer responde por 10% das causas de TEV na comunidade, aumentando o risco em 3 vezes no câncer e 5 vezes em casos submetidos à quimioterapia",
+      "O câncer respponde por 30% das causas de TEV na comunidade, aumentando o risco em 5 vezes no câncer e 7 vezes em casos submetidos à quimioterapia",
+      "O câncer responde por 25% das causas de TEV na comunidade, aumentando o risco em 6 vezes no câncer e 8 vezes em casos submetidos à quimioterapia"
+    ],
+    "correctIndex": 1,
+    "explanation": "As neoplasias malignas são responsáveis por aproximadamente 20% dos casos de Tromboembolismo Venoso (TEV) na comunidade. O câncer aumenta o risco de TEV em 4 vezes, risco que sobe para 6 vezes em pacientes submetidos à quimioterapia. A TVP pode ser a primeira manifestação de um câncer oculto em 5-10% dos casos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o risco de TVP relacionado ao uso de Anticoncepcionais Hormonais Orais (ACHO) de diferentes gerações?",
+    "options": [
+      "1ª geração com 40mg de estrógeno, 2ª geração com 35mg + progestina, 3ª geração com 25mg + progestina diferente, risco constante durante todo uso",
+      "1ª geração com 35mg de estrógeno, 2ª geração com 25mg + progestina, 3ª geração com 20mg + progestina diferente, maior risco entre 6-12 meses de uso",
+      "1ª geração com 30mg de estrógeno, 2ª geração com 20mg + progestina, 3ª geração com 15mg + progestina diferente, maior risco após 12 meses de uso",
+      "1ª geração com 45mg de estrógeno, 2ª geração com 40mg + progestina, 3ª geração com 35mg + progestina diferente, maior risco após 24 meses de uso",
+      "1ª geração com 50mg de estrógeno, 2ª geração com 30mg + progestina, 3ª geração com 30mg + progestina diferente, maior risco nos primeiros 4 meses de uso"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os anticoncepcionais hormonais orais apresentam diferentes composições: 1ª geração com 50mg de estrógeno, 2ª geração com 30mg de estrógeno + progestina, 3ª geração com 30mg de estrógeno + progestina diferente. O risco de TEV é maior nos primeiros 4 meses de uso, independentemente da geração, com redução progressiva após este período.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 52 anos, obesa (IMC 38), com insuficiência cardíaca classe III, submetida a artroplastia total de quadril sob anestesia geral, em uso de terapia hormonal para menopausa há 3 meses. Quantos fatores de risco para TVP ela apresenta?",
+    "options": [
+      "3 fatores de risco: obesidade, cirurgia ortopédica, anestesia geral, sendo insuficiência cardíaca e TRH fatores de menor magnitude nesta situação",
+      "6 fatores de risco: obesidade, insuficiência cardíaca (2-3x risco), cirurgia ortopédica de grande porte, anestesia geral, TRH nos primeiros 4 meses, idade >40 anos",
+      "5 fatores de risco: obesidade, insuficiência cardíaca, cirurgia ortopédica, anestesia geral, TRH, excluindo idade por ser fator isolado pouco relevante",
+      "4 fatores de risco: obesidade, insuficiência cardíaca, cirurgia ortopédica, anestesia geral, excluindo TRH por tempo de uso e idade por limite inferior",
+      "7 fatores de risco: obesidade, insuficiência cardíaca, cirurgia ortopédica, anestesia geral, TRH, idade, sexo feminino como fator independente"
+    ],
+    "correctIndex": 1,
+    "explanation": "A paciente apresenta 6 fatores de risco significativos: 1) obesidade (especialmente quando acamada ou em pós-operatório), 2) insuficiência cardíaca (aumenta risco em 2-3 vezes), 3) cirurgia ortopédica de grande porte (prótese de quadril), 4) anestesia geral (> risco que peridural/raqui), 5) TRH nos primeiros 4 meses de uso (período de maior risco), 6) idade >40 anos (risco aumenta exponencialmente após esta idade).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 35 anos com trombose venosa profunda recorrente sem fatores desencadeantes identificados. Qual investigação para trombofilia hereditária é mais apropriada?",
+    "options": [
+      "Pesquisa de deficiência do cofator II de heparina, deficiência de histidina rica em glicoproteína e inibidor do ativador do plasminógeno",
+      "Pesquisa de deficiência de antitrombina, proteína C, proteína S, resistência à proteína C ativada (Fator V Leyden) e variante da protrombina G20210A",
+      "Pesquisa de hiperhomocisteinemia, disfibrinogenemia e hipo-displasminogenemia como trombofilias hereditárias menos frequentes",
+      "Pesquisa de hemoglobinúria paroxística noturna, síndromes mieloproliferativos crônicos e leucemia promielocítica aguda como causas adquiridas",
+      "Pesquisa de diabetes mellitus, hiperlipemia e síndrome nefrótico como trombofilias adquiridas relacionadas a comorbidades metabólicas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Em paciente jovem com TVP recorrente sem fatores desencadeantes, deve-se investigar as trombofilias hereditárias bem estabelecidas: deficiência de antitrombina, proteína C, proteína S, resistência à proteína C ativada (Fator V Leyden) e variante da protrombina G20210A. Estas representam as causas hereditárias mais frequentes e com maior impacto clínico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os componentes da Tríade de Virchow (1856) que explicam a fisiopatologia da trombose?",
+    "options": [
+      "Vasoconstrição arterial, aumento da viscosidade sanguínea e agregação plaquetária, com formação de microtrombos",
+      "Diminuição do fluxo arterial, aumento da pressão venosa e incompetência valvar, com refluxo venoso retrogressivo",
+      "Ativação leucocitária, liberação de citocinas pró-inflamatórias e disfunção microvascular, com extravasamento plasmático",
+      "Hipóxia tecidual, acidose metabólica e inflamação sistêmica, com ativação da cascata de coagulação",
+      "Estase sanguínea, lesão endotelial e hipercoagulabilidade, com risco máximo na interseção dos três fatores"
+    ],
+    "correctIndex": 4,
+    "explanation": "A Tríade de Virchow, descrita em 1856, estabelece os três pilares fisiopatológicos da trombose: 1) Estase sanguínea (diminuição do fluxo venoso), 2) Lesão endotelial (trauma ao revestimento vascular), 3) Hipercoagulabilidade (estado de coagulação aumentada). O risco trombótico é máximo quando os três fatores estão presentes simultaneamente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais trombofilias hereditárias são consideradas bem estabelecidas segundo a classificação atual?",
+    "options": [
+      "Diabetes mellitus, hiperlipemia, síndrome nefrótico e doenças autoimunes com anticorpos antifosfolípides",
+      "Deficiência de antitrombina, proteína C, proteína S, resistência à proteína C ativada (Fator V Leyden), variante da protrombina G20210A e hiperhomocisteinemia",
+      "Deficiência do inibidor do ativador do plasminógeno, aumento do fator VIII, deficiência de fator XII e anomalias do fibrinogênio",
+      "Hemoglobinúria paroxística noturna, síndromes mieloproliferativos crônicos, leucemia promielocítica aguda e neoplasias sólidas",
+      "Disfibrinogenemia, hipo-displasminogenemia, deficiência do cofator II de heparina e deficiência de histidina rica em glicoproteína"
+    ],
+    "correctIndex": 1,
+    "explanation": "As trombofilias hereditárias bem estabelecidas incluem: deficiência de antitrombina, deficiência de proteína C, deficiência de proteína S, resistência à proteína C ativada (Fator V Leyden), variante da protrombina G20210A e hiperhomocisteinemia. Estas condições apresentam forte evidência científica de associação com aumento do risco trombótico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são exemplos de trombofilias adquiridas com alterações plaquetárias?",
+    "options": [
+      "Leucemia promielocítica aguda e coagulação intravascular disseminada com consumo de fatores de coagulação e plaquetas",
+      "Síndromes mieloproliferativos crônicos e hemoglobinúria paroxística noturna com ativação plaquetária e risco trombótico aumentado",
+      "Diabetes mellitus e hiperlipemia com disfunção endotelial e aumento da adesividade plaquetária à parede vascular",
+      "Gravidez e uso de anticoncepcionais hormonais com alterações nos fatores de coagulação e inibidores fisiológicos",
+      "Doenças neoplásicas sólidas e síndrome nefrótico com perda de antitrombina e outros inibidores naturais da coagulação"
+    ],
+    "correctIndex": 1,
+    "explanation": "As trombofilias adquiridas com alterações plaquetárias incluem principalmente as síndromes mieloproliferativos crônicos (policitemia vera, trombocitemia essencial) e a hemoglobinúria paroxística noturna. Nestas condições, há ativação plaquetária constitutiva que predispõe a eventos trombóticos arteriais e venosos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com deficiência de proteína C, em uso de varfarina, desenvolve necrose de pele. Qual o mecanismo fisiopatológico e conduta imediata?",
+    "options": [
+      "Necrose por deficiência de vitamina K-dependente com alteração da matriz dérmica, requerendo suplementação de vitamina K e continuidade da varfarina",
+      "Necrose por hipercoagulabilidade paradoxal devido à resistência à proteína C ativada, requerendo aumento da dose de varfarina para atingir INR mais elevado",
+      "Necrose por vasculite alérgica à varfarina com inflamação de vasa vasorum, requerendo corticoterapia e troca para anticoagulante alternativo",
+      "Necrose por warfarina devido à depleção rápida da proteína C (meia-vida curta) antes da redução dos fatores de coagulação, requerendo suspensão da varfarina e uso de heparina",
+      "Necrose por embolização de cristais de colesterol com oclusão de arteríolas dérmicas, requerendo antiagregação plaquetária e manutenção da anticoagulação"
+    ],
+    "correctIndex": 3,
+    "explanation": "A necrose de pele por warfarina ocorre em pacientes com deficiência de proteína C devido à rápida depleção desta proteína (meia-vida de 4-8 horas) antes da redução dos fatores de coagulação vitamina K-dependentes (meia-vida de 24-72 horas). Isso gera um estado hipercoagulante transitório. A conduta é suspender a varfarina e iniciar heparina não fracionada ou HBPM.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o mecanismo fisiopatológico principal da estase venosa como fator de TVP?",
+    "options": [
+      "Aumento da pressão venosa central, diminuição do retorno venoso, congestão capilar e extravasamento de líquido para o interstício",
+      "Vasodilatação venosa por inibição do tônus simpático, aumento da capacitância venosa e redução da velocidade de fluxo sanguíneo",
+      "Oclusão venosa parcial por compressão extrínseca, desenvolvimento de circulação colateral e redistribuição do fluxo sanguíneo",
+      "Incompetência valvar venosa, refluxo sanguíneo retrogressivo, hipertensão venosa ambulatorial e dilatação venosa progressiva",
+      "Diminuição do fluxo venoso e da velocidade, aumento do fluxo em colaterais, não acionamento da bomba venosa periférica e acúmulo local de elementos sanguíneos"
+    ],
+    "correctIndex": 4,
+    "explanation": "A estase venosa, principal fator de TVP, caracteriza-se por diminuição do fluxo venoso e da velocidade, aumento do fluxo em colaterais, não acionamento da bomba venosa periférica (músculo da panturrilha) e acúmulo local de hemácias, leucócitos e plaquetas. Isto leva ao desaparecimento da oscilação respiratória normal da velocidade do fluxo e aumento da pressão venosa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as consequências hemodinâmicas da estase venosa na fisiopatologia da TVP?",
+    "options": [
+      "Aumento da pressão venosa com acúmulo de líquido no interstício e distensão da parede venosa, gerando edema e dor no membro afetado",
+      "Aumento da pressão arterial com vasoconstrição reflexa e redução do fluxo sanguíneo arterial para o membro afetado",
+      "Diminuição da pressão venosa com colapso de vênulas e capilares, gerando isquemia tecidual e necrose de pele e subcutâneo",
+      "Diminuição da pressão oncótica com extravasamento de proteínas plasmáticas e formação de edema linfático puro não depressível",
+      "Normalização da pressão de pulso com equalização das pressões sistólica e diastólica no território venoso do membro afetado"
+    ],
+    "correctIndex": 0,
+    "explanation": "A estase venosa leva ao aumento da pressão venosa, resultando em acúmulo de líquido no interstício (edema) e distensão da parede venosa. Isto gera dor por distensão de terminações nervosas e ativação de mecanorreceptores, explicando o edema e dor característicos da TVP.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com imobilização prolongada pós-fratura de fêmur desenvolve edema unilateral e dor em panturrilha. Qual mecanismo fisiopatológico explica a formação do trombo?",
+    "options": [
+      "Resposta inflamatória sistêmica à fratura com liberação de citocinas pró-coagulantes e aumento da síntese de fibrinogênio hepático",
+      "Estase venosa por imobilidade da bomba muscular da panturrilha, com acúmulo de fatores de coagulação e ativação plaquetária nas válvulas venosas",
+      "Hipercoagulabilidade por liberação de fator tissular do osso fraturado com ativação da cascata extrínseca e geração de trombina",
+      "Lesão endotelial direta por trauma da fratura com exposição de colágeno subendotelial e ativação da cascata intrínseca de coagulação",
+      "Vasoconstrição reflexa por dor com redução do fluxo arterial e consequente diminuição do fluxo venoso por mecanismo de Starling"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na imobilização prolongada, o mecanismo fisiopatológico predominante é a estase venosa por falta de atividade da bomba muscular da panturrilha. Isto leva ao acúmulo de fatores de coagulação ativados e agregação plaquetária, especialmente nas cúspides das válvulas venosas onde o fluxo é mais turbulento, iniciando a formação do trombo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a frequência dos sinais e sintomas na apresentação clínica da TVP conforme estudos epidemiológicos?",
+    "options": [
+      "Dor 89%, edema 91%, aumento da consistência muscular 76%, dor à palpação muscular 71%, dor no trajeto venoso 61%, Sinal de Homans 63%, dilatação veias superficiais 51%, cianose 19%",
+      "Dor 92%, edema 85%, aumento da consistência muscular 78%, dor à palpação muscular 72%, dor no trajeto venoso 58%, Sinal de Homans 65%, dilatação veias superficiais 52%, cianose 22%",
+      "Dor 84%, edema 88%, aumento da consistência muscular 81%, dor à palpação muscular 67%, dor no trajeto venoso 64%, Sinal de Homans 60%, dilatação veias superficiais 47%, cianose 14%",
+      "Dor 87%, edema 87%, aumento da consistência muscular 87%, dor à palpação muscular 69%, dor no trajeto venoso 63%, Sinal de Homans 61%, dilatação veias superficiais 48%, cianose 17%",
+      "Dor 81%, edema 79%, aumento da consistência muscular 83%, dor à palpação muscular 65%, dor no trajeto venoso 68%, Sinal de Homans 59%, dilatação veias superficiais 45%, cianose 15%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Estudos mostram que os sinais e sintomas da TVP apresentam as seguintes frequências: dor (87%), edema (87%), aumento da consistência muscular (87%), dor à palpação muscular (69%), dor no trajeto venoso (63%), Sinal de Homans (61%), dilatação de veias superficiais (48%) e cianose (17%). É importante notar que 30-50% dos sinais e sintomas não se confirmam ao exame objetivo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais sinais semiológicos são avaliados na palpação do membro com suspeita de TVP?",
+    "options": [
+      "Edema muscular, dor à palpação dos trajetos venosos, dor à palpação de panturrilha, Sinal da Bandeira, Sinal de Moses e Sinal de Homans",
+      "Linfonodos inguinais, tônus muscular, trofismo cutâneo e presença de áreas de hiperestesia ou hipoestesia",
+      "Temperatura cutânea, pulsos arteriais distais, sensibilidade superficial, turgor da pele e tempo de preenchimento capilar",
+      "Presença de frêmito venoso, sopro arterial, ruídos hidroaéreos e crepitação subcutânea na região da panturrilha",
+      "Mobilidade articular, força muscular, reflexos osteotendinosos e sensibilidade profunda do membro inferior"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na palpação do membro com suspeita de TVP, avaliam-se: edema muscular (aumento de consistência), dor à palpação dos trajetos venosos, dor à palpação de panturrilha, Sinal da Bandeira (dor à compressão medial da panturrilha), Sinal de Moses (dor à compressão anteroposterior da panturrilha) e Sinal de Homans (dor à dorsiflexão do pé).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais achados são observados na inspeção do membro com TVP?",
+    "options": [
+      "Petéquias, equimoses, hematomas espontâneos e sinais de sangramento em tecidos moles",
+      "Trajetos venosos superficiais visíveis (Sinal de Pratt), cianose, palidez e edema unilateral do membro afetado",
+      "Vesículas, bolhas, pústulas e lesões erosivas com formação de crostas hemáticas na superfície cutânea",
+      "Eritema difuso, descamação cutânea, fissuras interdigitais e hiperqueratose plantar assimétrica",
+      "Atrofia muscular, contraturas articulares, deformidades ósseas e alterações posturais do membro inferior"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na inspeção do membro com TVP, observam-se: trajetos venosos superficiais visíveis (Sinal de Pratt - indicando sobrecarga do sistema superficial), cianose (por estase venosa), palidez (em casos de edema importante com compressão arterial) e edema unilateral do membro afetado. Estes achados refletem a obstrução venosa e o desvio do fluxo para colaterais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 45 anos chega ao PS com queixa de dor e edema em perna esquerda há 2 dias. Ao exame: sensibilidade dolorosa em trajeto venoso profundo, edema com cacifo, veias colaterais visíveis, imobilização pós-cirurgia de apendicectomia há 5 dias. Qual escore de Wells e probabilidade?",
+    "options": [
+      "3 pontos no escore de Wells (sensibilidade dolorosa, edema com cacifo, veias colaterais), caracterizando probabilidade moderada de TVP",
+      "5 pontos no escore de Wells (sensibilidade dolorosa, edema com cacifo, veias colaterais, imobilização pós-cirurgia, neoplasia não mencionada), caracterizando alta probabilidade",
+      "2 pontos no escore de Wells (sensibilidade dolorosa, imobilização pós-cirurgia), caracterizando probabilidade moderada de TVP",
+      "1 ponto no escore de Wells (apenas imobilização pós-cirurgia), caracterizando probabilidade baixa de TVP",
+      "4 pontos no escore de Wells (1 ponto cada: sensibilidade dolorosa, edema com cacifo, veias colaterais, imobilização pós-cirurgia), caracterizando alta probabilidade clínica de TVP"
+    ],
+    "correctIndex": 4,
+    "explanation": "O paciente apresenta 4 critérios do escore de Wells, cada um valendo 1 ponto: 1) sensibilidade dolorosa no sistema venoso profundo, 2) edema com cacifo (edema compressível), 3) veias colaterais superficiais não varicosas, 4) imobilização no leito ≥3 dias após cirurgia (apendicectomia há 5 dias). Total: 4 pontos, caracterizando alta probabilidade clínica de TVP (>2 pontos).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 60 anos com edema unilateral e dor em panturrilha direita. Ao exame: aumento de 3,5cm na circunferência da panturrilha direita (medida 10cm abaixo da tuberosidade tibial), sensibilidade dolorosa à palpação, neoplasia de pulmão em tratamento. Não há diagnóstico alternativo mais provável. Qual escore de Wells?",
+    "options": [
+      "2 pontos no escore de Wells (aumento panturrilha >3cm, neoplasia ativa), caracterizando probabilidade moderada de TVP",
+      "5 pontos no escore de Wells (aumento panturrilha >3cm, sensibilidade dolorosa, neoplasia ativa, imobilização não mencionada, idade >60 anos)",
+      "1 ponto no escore de Wells (apenas neoplasia ativa), caracterizando probabilidade baixa de TVP",
+      "3 pontos no escore de Wells (aumento panturrilha >3cm, sensibilidade dolorosa, neoplasia ativa), caracterizando alta probabilidade de TVP",
+      "4 pontos no escore de Wells (aumento panturrilha >3cm, sensibilidade dolorosa, neoplasia ativa, edema não mencionado), caracterizando alta probabilidade"
+    ],
+    "correctIndex": 3,
+    "explanation": "O paciente apresenta 3 critérios do escore de Wells: 1) aumento da panturrilha >3cm em relação à assintomática (medido 10cm abaixo da tuberosidade tibial) - 1 ponto, 2) sensibilidade dolorosa no sistema venoso profundo - 1 ponto, 3) neoplasia maligna ativa - 1 ponto. Total: 3 pontos, caracterizando alta probabilidade clínica de TVP (>2 pontos). Não há diagnóstico alternativo mais provável (que daria -2 pontos).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os critérios do escore de Wells para probabilidade clínica de TVP?",
+    "options": [
+      "Sensibilidade dolorosa sistema venoso profundo (1pt), aumento volume toda perna (1pt), aumento panturrilha >3cm (1pt), edema compressível (1pt), veias colaterais superficiais (1pt), neoplasia ativa (1pt), paralisia/paresia/imobilização MMII (1pt), imobilização ≥3 dias ou cirurgia última 4 semanas (1pt), diagnóstico alternativo mais provável (-2pt)",
+      "Palidez cutânea (1pt), cianose distal (1pt), diminuição pulsos (1pt), hipotermia (1pt), parestesias (1pt), paralisia (1pt), anestesia (1pt), rigidez muscular (1pt), dor à mobilização (-2pt)",
+      "Náuseas (1pt), vômitos (1pt), diarreia (1pt), dor abdominal (1pt), distensão abdominal (1pt), sangramento digestivo (1pt), icterícia (1pt), hepatomegalia (1pt, ascite (-2pt)",
+      "Dor espontânea em repouso (1pt), edema assimétrico (1pt), rubor local (1pt), aumento temperatura cutânea (1pt), limitação funcional (1pt), história prévia TVP (1pt), uso de anticoncepcionais (1pt), tabagismo (1pt), obesidade (-1pt)",
+      "Hipotensão arterial (1pt), taquicardia (1pt), febre (1pt), leucocitose (1pt), elevação PCR (1pt), hipóxia (1pt), alterações ECG (1pt), infiltrado radiográfico (1pt), hemoptise (-2pt)"
+    ],
+    "correctIndex": 0,
+    "explanation": "O escore de Wells para TVP inclui: sensibilidade dolorosa no sistema venoso profundo (1pt), aumento do volume de toda perna (1pt), aumento da panturrilha >3cm em relação à assintomática (medido 10cm abaixo da tuberosidade tibial - 1pt), edema compressível (cacifo - 1pt), veias colaterais superficiais não varicosas (1pt), neoplasia maligna ativa (1pt), paralisia/paresia/imobilização de MMII (1pt), imobilização no leito ≥3 dias ou grande cirurgia nas últimas 4 semanas (1pt), diagnóstico alternativo mais provável que TVP (-2pt). Probabilidade: baixa <0pt, moderada 1-2pt, alta >2pt.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é interpretado o escore de Wells para probabilidade clínica de TVP?",
+    "options": [
+      "Baixa probabilidade: 0-1 pontos; probabilidade moderada: 2-3 pontos; alta probabilidade: ≥4 pontos",
+      "Baixa probabilidade: 0 pontos; probabilidade intermediária: 1 ponto; alta probabilidade: ≥2 pontos",
+      "Baixa probabilidade: <1 ponto; probabilidade moderada: 1-2 pontos; alta probabilidade: >2 pontos",
+      "Baixa probabilidade: ≤0 pontos; probabilidade moderada: 1-3 pontos; alta probabilidade: ≥4 pontos",
+      "Baixa probabilidade: <0 pontos; probabilidade moderada: 1,0-2,0 pontos; alta probabilidade: >2,0 pontos"
+    ],
+    "correctIndex": 4,
+    "explanation": "O escore de Wells é interpretado como: baixa probabilidade clínica de TVP quando <0 pontos (geralmente quando há diagnóstico alternativo mais provável); probabilidade moderada quando 1,0-2,0 pontos; e alta probabilidade quando >2,0 pontos. Esta estratificação guia a sequência diagnóstica com D-dímero e Doppler venoso.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com probabilidade clínica baixa para TVP (escore de Wells -1) e D-dímero de 350 ng/mL. Qual conduta mais apropriada?",
+    "options": [
+      "Descartar TVP sem necessidade de investigação adicional, pois D-dímero <500 ng/mL em probabilidade baixa tem valor preditivo negativo >98%",
+      "Repetir D-dímero em 48 horas para confirmar tendência de normalização antes de descartar definitivamente o diagnóstico de TVP",
+      "Solicitar Doppler venoso imediato devido à discordância entre escore clínico e resultado laboratorial que requer confirmação objetiva",
+      "Solicitar angiotomografia de tórax para investigar embolia pulmonar subclínica como causa dos sintomas atípicos",
+      "Iniciar anticoagulação empírica com HBPM enquanto aguarda resultado de Doppler venoso marcado para as próximas 24 horas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em paciente com probabilidade clínica baixa para TVP (escore de Wells <0) e D-dímero <500 ng/mL, pode-se descartar TVP com segurança sem necessidade de investigação adicional. O valor preditivo negativo desta combinação é superior a 98%, sendo estratégia validada em diretrizes internacionais para excluir TVP.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a interpretação e utilidade clínica do D-dímero no diagnóstico de TVP?",
+    "options": [
+      "D-dímero >2000 ng/mL é específico para TVP proximal, D-dímero 500-2000 ng/mL sugere TVP distal, D-dímero <500 ng/mL tem 5% de falso negativo",
+      "D-dímero >1500 ng/mL correlaciona com TVP extensa, D-dímero 500-1500 ng/mL sugere TVP limitada, D-dímero <500 ng/mL tem 10% de falso negativo com Doppler",
+      "D-dímero >750 ng/mL indica alta probabilidade de TVP, D-dímero 250-750 ng/mL requer repetição em 48h, D-dímero <250 ng/mL exclui TVP",
+      "D-dímero >1000 ng/mL confirma TVP, D-dímero 500-1000 ng/mL é indeterminado, D-dímero <500 ng/mL não exclui TVP sem Doppler",
+      "D-dímero >500 ng/mL sugere possível TVP (não confirmatório), D-dímero <500 ng/mL exclui TVP, quando associado com Doppler tem <1% de falso negativo"
+    ],
+    "correctIndex": 4,
+    "explanation": "O D-dímero é utilizado como teste de exclusão: valor <500 ng/mL (ou conforme ponto de corte do laboratório) exclui TVP com alta sensibilidade. Valores >500 ng/mL sugerem possível TVP mas não confirmam (baixa especificidade). Quando o D-dímero é associado ao Doppler venoso, a taxa de falso negativo é inferior a 1%, proporcionando alto valor preditivo negativo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os achados ultrassonográficos característicos de TVP no Doppler venoso?",
+    "options": [
+      "Presença de septos intraluminais, ecogenicidade parietal aumentada, aderências valvares, duplicação venosa congênita, trajeto venoso anomalous",
+      "Espessamento parietal venoso difuso, calcificações parietais, refluxo valvar ao Doppler colorido, aumento do diâmetro venoso em ortostatismo, tortuosidade venosa",
+      "Compressibilidade normal da veia, fluxo venoso laminar com fasicidade respiratória preservada, ausência de material intraluminal, resposta venosa normal à manobra de Valsalva",
+      "Compressão extrínseca da veia, desvio do trajeto venoso, efeito massa adjacente, aumento de fluxo em veias colaterais, sinais de invasão vascular por neoplasia",
+      "Incompressibilidade total ou parcial da veia, visualização do trombo agudo intraluminal ecoluscente ou ecogenicidade intermediária, dilatação venosa com oclusão, alteração do fluxo Doppler com ausência de fluxo e perda da fasicidade respiratória"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os achados ultrassonográficos característicos de TVP no Doppler venoso incluem: incompressibilidade total ou parcial da veia (critério primário), visualização do trombo agudo intraluminal (ecoluscente nas fases iniciais, ecogenicidade intermediária após organização), dilatação venosa com possível oclusão pelo trombo, alteração do fluxo ao Doppler (ausência de fluxo, perda da fasicidade respiratória, ausência de variação com Valsalva).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais métodos diagnósticos estão disponíveis para confirmação de TVP além do Doppler venoso?",
+    "options": [
+      "Angiografia por subtração digital, aortografia, venografia ascendente, linfocintilografia e bioimpedância elétrica segmentar",
+      "Cintilografia óssea, densitometria, radiografia digital, tomografia por emissão de pósitrons e ressonância magnética funcional",
+      "Radiografia simples de membros, termografia, capilaroscopia, laser Doppler, impedanciometria e tensiometria venosa",
+      "Mapeamento dúplex ou eco-Doppler, pletismografia, tomografia computadorizada, ressonância magnética, flebografia e métodos radioisotópicos",
+      "Eletromiografia, velocidade de condução nervosa, potencial evocado somatossensorial, reflexo H e teste de F resposta para neuropatia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Além do Doppler venoso (padrão-ouro não invasivo), os métodos diagnósticos para TVP incluem: mapeamento dúplex ou eco-Doppler (combina ultrassom modo-B e Doppler), pletismografia (mede variações de volume), tomografia computadorizada (especialmente para veias ilíacas e cavas), ressonância magnética (boa para trombose pélvica), flebografia (contraste venoso, método invasivo) e métodos radioisotópicos (menos utilizados atualmente).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com D-dímero de 680 ng/mL e probabilidade clínica moderada para TVP (escore de Wells 1,5). Qual a sequência diagnóstica mais apropriada?",
+    "options": [
+      "Descartar TVP sem necessidade de investigação adicional, pois D-dímero <1000 ng/mL em probabilidade moderada tem bom valor preditivo negativo",
+      "Solicitar angiorressonância magnética de membros inferiores como método mais sensível para trombose venosa profunda distal",
+      "Iniciar anticoagulação empírica com HBPM e agendar Doppler venoso eletivo para dentro de 7-10 dias para confirmação tardia",
+      "Solicitar Doppler venoso dos membros inferiores para confirmação diagnóstica, pois D-dímero positivo em probabilidade moderada não exclui TVP",
+      "Repetir D-dímero em 72 horas para confirmar persistência de elevação antes de solicitar exames de imagem mais complexos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em paciente com probabilidade clínica moderada para TVP (escore de Wells 1-2 pontos) e D-dímero >500 ng/mL, a conduta apropriada é solicitar Doppler venoso para confirmação diagnóstica. O D-dímero positivo nesta situação não exclui TVP (baixo valor preditivo negativo) e requer confirmação objetiva com método de imagem.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os objetivos do tratamento da TVP dos membros inferiores?",
+    "options": [
+      "Dissolução completa do trombo com trombolíticos, restauração imediata da permeabilidade venosa, prevenção de danos valvares e evitar completamente a SPT com terapia agressiva",
+      "Remoção mecânica do trombo por trombectomia, correção de fatores de risco subjacentes, tratamento das comorbidades e reabilitação vascular precoce com fisioterapia intensiva",
+      "Alívio dos sintomas, impedir extensão do trombo para perfurantes e SVP, impedir progressão para TEP, evitar recorrência e diminuir chance de SPT, sem remoção do trombo ou fibrinólise pela anticoagulação",
+      "Prevenção de extensão proximal do trombo, controle dos sintomas agudos, observação seriada com Doppler e intervenção apenas se houver progressão documentada",
+      "Eliminação do risco embólico imediato, tratamento da inflamação venosa, melhora do retorno venoso e prevenção de complicações hemorrágicas da anticoagulação"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os objetivos do tratamento da TVP são: 1) alívio dos sintomas, 2) impedir extensão do trombo para veias perfurantes e sistema venoso profundo (de distal para proximal), 3) impedir progressão para Tromboembolismo Pulmonar (TEP), 4) evitar recorrência, 5) diminuir chance de Síndrome pós-trombótica (SPT). A anticoagulação NÃO visa remoção do trombo ou fibrinólise, apenas impede a progressão e recorrência.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as indicações de anticoagulação para TVP conforme sua localização?",
+    "options": [
+      "TVP proximal: anticoagulação por 6 semanas; TVP distal: anticoagulação por 12 semanas com monitorização frequente do INR",
+      "TVP proximal: apenas pacientes com fatores de risco adicionais; TVP distal: todos os pacientes devem receber anticoagulação por 6 semanas",
+      "TVP proximal: apenas se houver sintomas significativos; TVP distal: tratamento conservador com meias elásticas e observação",
+      "TVP proximal: todos os pacientes devem receber anticoagulação; TVP distal: alguns casos selecionados, podendo optar por Doppler seriado a cada 14 dias",
+      "TVP proximal: anticoagulação por 3 meses; TVP distal: anticoagulação por 6 meses independentemente de fatores de risco"
+    ],
+    "correctIndex": 3,
+    "explanation": "As indicações de anticoagulação para TVP baseiam-se na localização: TVP proximal (veia poplítea e acima) - TODOS os pacientes devem receber anticoagulação devido ao alto risco de embolização e complicações. TVP distal (veias tibiais, fibulares, soleares, gastrocnêmicas) - apenas alguns casos selecionados (sintomáticos, com fatores de risco, extensão >5cm), podendo optar por Doppler seriado a cada 14 dias para monitorar progressão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais pacientes com TVP são candidatos ao tratamento ambulatorial?",
+    "options": [
+      "TVP distal assintomática detectada incidentalmente, com todos os tipos de função renal, desde que familiar disponível para aplicação de HBPM",
+      "TVP não complicada e sem evento embólico, clinicamente estável/IRC com clearance de creatinina >15 ml/min, baixo risco de sangramento domiciliar, nível e condição social adequada para uso e seguimento",
+      "TVP com TEP subsegmentar mínimo, estável hemodinamicamente, com acesso a serviço de emergência próximo e plano de saúde que cubra medicamentos",
+      "TVP proximal isolada sem comorbidades, independentemente de suporte social ou condições econômicas, desde que sem história prévia de sangramento",
+      "TVP em paciente com neoplasia ativa em tratamento, desde que plaquetas >50.000, sem quimioterapia recente e com acompanhamento oncológico regular"
+    ],
+    "correctIndex": 1,
+    "explanation": "São candidatos ao tratamento ambulatorial da TVP: pacientes com TVP não complicada e sem evento embólico associado, clinicamente estáveis (incluindo IRC com clearance de creatinina >15 ml/min), baixo risco de sangramento domiciliar, nível e condição social adequada para uso correto da medicação e seguimento (incluindo condições econômicas, pois medicamentos de início podem custar R$300-400).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com TVP iliofemoral extensa, TEP associado confirmado por angiotomografia, sangramento digestivo alto há 1 mês em investigação. Qual conduta mais apropriada?",
+    "options": [
+      "Internação para trombolise dirigida por cateter da TVP iliofemoral e alta precoce com anticoagulação oral direta após 24 horas",
+      "Tratamento ambulatorial com warfarina e acompanhamento semanal do INR no posto de saúde com suspensão se sangramento recorrer",
+      "Tratamento ambulatorial com DOAC de início direto e seguimento com gastroenterologia em 30 dias para investigação do sangramento prévio",
+      "Internação hospitalar obrigatória devido à TVP extensa (iliofemoral), TEP associado e alto risco de sangramento ativo não completamente investigado",
+      "Internação apenas para colocação de filtro de veia cava e alta com meias elásticas e acompanhamento ambulatorial da anticoagulação"
+    ],
+    "correctIndex": 3,
+    "explanation": "Este paciente apresenta critérios absolutos para internação: 1) TVP extensa (iliofemoral), 2) TEP associado, 3) alto risco de sangramento (sangramento digestivo recente não completamente investigado). A internação permite anticoagulação parenteral controlada, monitorização hemodinâmica, investigação do sangramento e possível necessidade de filtro de veia cava inferior se anticoagulação for contraindicada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o tempo recomendado de anticoagulação para TVP distal com etiologia conhecida e revertida?",
+    "options": [
+      "Anticoagulação perene para TVP distal com etiologia conhecida, independentemente de reversão do fator desencadeante inicial",
+      "6 semanas de anticoagulação para TVP distal sintomática, seguida de reavaliação com Doppler venoso para definir necessidade de extensão",
+      "3 meses de anticoagulação para TVP distal (abaixo da veia poplítea) com etiologia conhecida e revertida, sem fatores de risco adicionais",
+      "6 meses de anticoagulação para TVP distal independentemente de etiologia, devido ao risco de recorrência e extensão proximal tardia",
+      "12 meses de anticoagulação para TVP distal com etiologia conhecida, devido ao risco aumentado de recorrência comparado à TVP proximal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para TVP distal (abaixo da veia poplítea) com etiologia conhecida e revertida (ex: pós-cirúrgica, pós-traumática), sem fatores de risco adicionais, o tempo recomendado de anticoagulação é de 3 meses. Este período balanceia eficácia na prevenção de recorrência com minimização do risco hemorrágico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tempo recomendado de anticoagulação para TVP proximal com etiologia desconhecida e sem fatores de risco adicionais?",
+    "options": [
+      "Anticoagulação perene para TVP proximal com etiologia desconhecida, considerando o caráter idiopático como fator de risco permanente",
+      "6 semanas de anticoagulação para TVP proximal com etiologia desconhecida, seguida de reavaliação clínica e com Doppler para extensão se necessário",
+      "3 meses de anticoagulação para TVP proximal com etiologia desconhecida, independentemente de fatores de risco associados ou comorbidades",
+      "12 meses de anticoagulação para TVP proximal com etiologia desconhecida, devido ao alto risco de recorrência em trombose não provocada",
+      "6 meses de anticoagulação para TVP proximal (veia poplítea e acima) com etiologia desconhecida e sem fatores de risco adicionais como neoplasia ou trombofilia"
+    ],
+    "correctIndex": 4,
+    "explanation": "Para TVP proximal (veia poplítea e acima) com etiologia desconhecida (não provocada) e sem fatores de risco adicionais (neoplasia, trombofilia, acamado), o tempo recomendado de anticoagulação é de 6 meses. TVP não provocada tem maior risco de recorrência que TVP provocada, justificando período mais prolongado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em quais situações está indicada anticoagulação estendida ou perene para TEV?",
+    "options": [
+      "Exclusivamente para TEV associado a neoplasia ativa em tratamento quimioterápico com resposta parcial ou doença estável por 6 meses",
+      "Apenas para TEV recorrente (terceiro episódio ou mais) em pacientes com contraindicação formal à colocação de filtro de veia cava inferior",
+      "Exclusivamente para TVP proximal com etiologia desconhecida em pacientes jovens (<50 anos) sem comorbidades associadas ou fatores de risco",
+      "Apenas para TVP iliofemoral extensa com síndrome de May-Thurner confirmada por estudo de imagem vascular com reconstrução tridimensional",
+      "Qualquer Tromboembolismo Venoso em portador de fator de risco permanente (ex: trombofilia de alto risco, neoplasia ativa) ou TEV recorrente (segundo episódio)"
+    ],
+    "correctIndex": 4,
+    "explanation": "A anticoagulação estendida ou perene está indicada em duas situações principais: 1) qualquer episódio de Tromboembolismo Venoso (TVP ou TEP) em portador de fator de risco permanente (trombofilia de alto risco como deficiência de antitrombina, neoplasia ativa, síndrome antifosfolípide); 2) TEV recorrente (segundo episódio), independentemente da presença de fatores de risco.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 42 anos com primeiro episódio de TVP proximal não provocada (etiologia desconhecida), sem fatores de risco adicionais. Qual tempo de anticoagulação e critério para considerar extensão?",
+    "options": [
+      "12 meses de anticoagulação obrigatória para todos os casos de TVP proximal não provocada, independentemente de fatores de risco associados",
+      "6 semanas de anticoagulação com HBPM seguida de 4 semanas com warfarina, totalizando 10 semanas de tratamento para TVP proximal de baixo risco",
+      "Anticoagulação perene imediata devido ao caráter idiopático como indicador de trombofilia subjacente não diagnosticada necessitando proteção contínua",
+      "6 meses de anticoagulação inicial, com reavaliação do risco-benefício para considerar extensão baseado no risco hemorrágico individual e preferência do paciente",
+      "3 meses de anticoagulação obrigatória, com suspensão independentemente de fatores residuais devido ao baixo risco de recorrência em primeiro episódio"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para primeiro episódio de TVP proximal não provocada (etiologia desconhecida) sem fatores de risco adicionais, o tempo inicial recomendado é de 6 meses. Após este período, deve-se reavaliar o risco-benefício considerando: risco de recorrência (~10% no primeiro ano sem tratamento), risco hemorrágico individual, preferência do paciente e possibilidade de investigação para trombofilia. A extensão não é obrigatória, mas deve ser discutida.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os métodos profiláticos físicos ou mecânicos para prevenção de tromboembolismo venoso?",
+    "options": [
+      "Crioterapia intermitente, eletroestimulação neuromuscular, laserterapia de baixa potência e ultrassom terapêutico pulsátil",
+      "Hidratação venosa vigorosa, hemodiluição normovolêmica, plasmaférese seletiva e transfusão de concentrado de hemácias para manter hematócrito",
+      "Nutrição parenteral total, suplementação com ômega-3, restrição de sódio e diuréticos de alça em doses baixas para controle de edema",
+      "Oxigenoterapia suplementar, ventilação mecânica protetora, pressão positiva contínua nas vias aéreas e aspiração traqueal frequente",
+      "Fisioterapia/deambulação precoce, compressão elástica/pneumática externa, bloqueio de veia cava inferior com filtros (reduzem a estase venosa)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os métodos profiláticos físicos ou mecânicos para prevenção de tromboembolismo venoso atuam reduzindo a estase venosa e incluem: fisioterapia/deambulação precoce (ativa a bomba muscular da panturrilha), compressão elástica/pneumática externa (aumenta a velocidade do fluxo venoso), bloqueio de veia cava inferior com filtros (impede a migração de trombos para circulação pulmonar).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os métodos profiláticos químicos ou farmacológicos para prevenção de tromboembolismo venoso?",
+    "options": [
+      "Estatinas em altas doses, fibratos, ezetimiba, ácido nicotínico e sequestradores de ácidos biliares (modulam perfil lipídico)",
+      "Inibidores da ECA, bloqueadores de receptores de angiotensina, betabloqueadores, diuréticos tiazídicos e antagonistas de aldosterona",
+      "Heparina não fracionada, heparina de baixo peso molecular (HBPM), warfarina, dextran ou hemodiluição intencional (reduzem coagulação ou aumentam fibrinólise)",
+      "Corticosteroides, imunossupressores, anticorpos monoclonais, terapia biológica e moduladores da resposta imune inata e adaptativa",
+      "Aspirina em baixas doses, clopidogrel, ticagrelor, dipiridamol e cilostazol (inibem agregação plaquetária de forma irreversível)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os métodos profiláticos químicos ou farmacológicos para prevenção de tromboembolismo venoso atuam reduzindo a coagulação ou aumentando a fibrinólise e incluem: heparina não fracionada, heparina de baixo peso molecular (HBPM), warfarina (antagonista da vitamina K), dextran ou hemodiluição intencional. Estes agentes interferem em diferentes pontos da cascata de coagulação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os 4 passos da tromboprofilaxia segundo a campanha 'safer healthcare now!'?",
+    "options": [
+      "1) Solicitar D-dímero de rotina; 2) Realizar Doppler venoso preventivo; 3) Iniciar anticoagulação empírica; 4) Suspender após alta hospitalar",
+      "1) Prescrever meias elásticas; 2) Orientar deambulação precoce; 3) Solicitar fisioterapia; 4) Avaliar resposta em 72 horas",
+      "1) Avaliar se profilaxia é indicada; 2) Avaliar se anticoagulantes são contraindicados (risco sangramento); 3) Fornecer tromboprofilaxia apropriada (farmacológica ou mecânica); 4) Reavaliar necessidade de profilaxia",
+      "1) Identificar fatores de risco; 2) Classificar risco em escores; 3) Solicitar avaliação vascular; 4) Encaminhar para cirurgia vascular",
+      "1) Dosar anticoagulantes naturais; 2) Pesquisar trombofilias; 3) Inici terapia de longo prazo; 4) Monitorar complicações hemorrágicas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os 4 passos da tromboprofilaxia são: 1) Avaliar se a profilaxia é indicada (baseado em fatores de risco e escore de risco), 2) Avaliar se anticoagulantes são contraindicados (avaliar risco de sangramento), 3) Fornecer tromboprofilaxia apropriada (farmacológica, mecânica ou combinada conforme indicação), 4) Reavaliar a necessidade de profilaxia (durante internação e considerar na alta). Esta abordagem sistemática reduz a incidência de TEV hospitalar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 72 anos será submetido a prostatectomia radical por neoplasia de próstata. Tem história de úlcera péptica sangrante há 6 meses, currently assintomático. Qual abordagem profilática mais adequada?",
+    "options": [
+      "Profilaxia farmacológica com HBPM em dose profilática padrão, considerando o risco trombótico da neoplasia e cirurgia pélvica como superior ao risco hemorrágico",
+      "Profilaxia combinada com meias elásticas e HBPM em dose reduzida (50% da dose profilática) para balancear risco trombótico e hemorrágico",
+      "Ausência de profilaxia específica, apenas deambulação precoce e hidratação vigorosa, com monitorização clínica rigorosa para sinais de TVP",
+      "Profilaxia mecânica com meias de compressão graduada e compressão pneumática intermitente durante internação, evitando anticoagulantes devido ao alto risco de sangramento",
+      "Profilaxia farmacológica com warfarina em dose baixa (INR alvo 1,5-2,0) por curto período (7 dias) devido ao menor risco hemorrágico comparado às heparinas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Este paciente apresenta alto risco trombótico (idade >70 anos, neoplasia ativa, cirurgia pélvica de grande porte) mas também alto risco hemorrágico (história de sangramento digestivo recente - úlcera péptica há 6 meses). A abordagem mais segura é profilaxia mecânica com meias de compressão graduada e compressão pneumática intermitente, evitando anticoagulantes. Se o risco trombótico for considerado extremamente alto, pode-se considerar adicionar anticoagulantes após avaliação gastroenterológica e endoscópica.",
+    "type": "raciocínio"
+  }
+]

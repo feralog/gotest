@@ -1,0 +1,262 @@
+[
+  {
+    "question": "A aterogênese é uma doença inflamatória crônica que resulta na formação de placas. Qual combinação de características define uma Placa Aterosclerótica Instável (Vulnerável), associada ao maior risco de eventos aterotrombóticos agudos?",
+    "options": [
+      "Presença de necrose gordurosa extensa, mas com atividade inflamatória mínima e acometimento exclusivo das artérias de grande e médio calibre.",
+      "Capa fibrosa espessa, presença de calcificação avançada e baixa concentração de macrófagos e células inflamatórias, prevenindo a ruptura.",
+      "Predomínio de colágeno na estrutura da placa e grande estabilidade da cápsula fibrosa, impedindo a exposição de material lipídico trombogênico.",
+      "Capa fibrosa fina, com alta concentração de células inflamatórias (macrófagos e linfócitos T), o que facilita o rompimento e a exposição do material trombogênico subjacente.",
+      "Acúmulo de lipoproteínas na parede arterial devido à disfunção endotelial, mas com reparo tecidual eficaz e formação de uma cápsula elástica."
+    ],
+    "correctIndex": 3,
+    "explanation": "A placa instável (vulnerável) é caracterizada pela presença de capa fibrosa fina e grande atividade inflamatória, tornando-a mais suscetível à ruptura, expondo o material lipídico altamente trombogênico e levando à aterotrombose [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O perfil lipídico é essencial para o diagnóstico de dislipidemia. De acordo com as diretrizes de coleta laboratorial, qual situação clínica específica exige a recoleta do perfil lipídico com jejum obrigatório de 12 horas?",
+    "options": [
+      "Quando o nível de Colesterol Total (CT) está superior a 310 mg/dL, para confirmar a presença de hipercolesterolemia primária em adultos assintomáticos.",
+      "Quando o HDL-c (colesterol de lipoproteína de alta densidade) está abaixo de 40 mg/dL em homens, caracterizando um baixo HDL-c, um fator de risco cardiovascular significativo.",
+      "Quando o nível de Triglicerídeos (TG) plasmático está acima de 440 mg/dL, pois este valor pode interferir na acurácia do cálculo do LDL-c pela fórmula de Friedewald.",
+      "Quando os níveis de LDL-c (colesterol de lipoproteína de baixa densidade) estão acima de 160 mg/dL, indicando hipercolesterolemia isolada em pacientes de risco intermediário.",
+      "Quando o paciente relata ter ingerido peixes ricos em Ômega-3 (EPA e DHA) nas últimas 24 horas, devido ao seu efeito conhecido de elevar discretamente o LDL-c."
+    ],
+    "correctIndex": 2,
+    "explanation": "Não é necessário jejum para CT, HDL-c e LDL-c. No entanto, se o nível de Triglicerídeos (TG) for superior a 440 mg/dL, a coleta deve ser repetida com jejum de 12 horas [2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Hipercolesterolemia Familiar Heterozigótica (HeHF) é um distúrbio genético comum. Qual valor de Colesterol LDL (LDL-c) e critério adicional é utilizado para levantar a suspeita diagnóstica em adultos, considerando o alto risco CV associado?",
+    "options": [
+      "LDL-c acima de 160 mg/dL em adultos assintomáticos, exigindo o rastreio em cascata dos parentes de primeiro grau, independentemente do histórico familiar.",
+      "LDL-c acima de 250 mg/dL em crianças e adolescentes (abaixo de 20 anos), o que exige a referência imediata a um especialista em lipídios.",
+      "LDL-c acima de 100 mg/dL em pacientes que já tiveram um evento cardiovascular (Muito Alto Risco), exigindo o uso de Inibidores da PCSK9 como primeira linha.",
+      "LDL-c acima de 130 mg/dL, se associado a um risco cardiovascular intermediário pelo Escore de Risco Global (ERG).",
+      "LDL-c acima de 190 mg/dL, associado ou não a histórico familiar de Doença Arterial Coronariana (DAC) precoce (homens < 55 anos ou mulheres < 65 anos)."
+    ],
+    "correctIndex": 4,
+    "explanation": "Para adultos, os valores de LDL-c considerados para o diagnóstico de Hipercolesterolemia Familiar Heterozigótica (HeHF) são acima de 190 mg/dL [3]. O diagnóstico também é baseado nos valores de LDL-c e no histórico familiar de DAC precoce [3].",
+    "type": "conteudista"
+  },
+  {
+    "question": "No metabolismo lipídico, a Lipoproteína de Alta Densidade (HDL-c) desempenha um papel protetor contra a aterosclerose. Qual é o papel funcional primário do HDL-c em relação aos lípides nos tecidos periféricos e vasos sanguíneos?",
+    "options": [
+      "Principal carreador de colesterol, responsável pelo depósito lipídico nas paredes arteriais, o que contribui diretamente para a aterogênese.",
+      "Aumento da permeabilidade endotelial para permitir a entrada de lipoproteínas plasmáticas, iniciando a resposta inflamatória crônica na íntima arterial.",
+      "Ação como precursor de hormônios esteroides e ácidos biliares, com pouca influência direta no transporte reverso de colesterol do vaso para o fígado.",
+      "Transporte de Triglicerídeos endógenos, sintetizados no fígado, para os tecidos periféricos, através da ação da Lipoproteína Lipase (LPL).",
+      "Auxiliar na 'vasculhagem' (scavenge) e remoção do colesterol e gordura dos tecidos periféricos, incluindo os vasos sanguíneos, reduzindo o depósito aterosclerótico."
+    ],
+    "correctIndex": 4,
+    "explanation": "O HDL-c ajuda a 'vasculhar' e puxar (scavenge) o colesterol e a gordura dos tecidos periféricos, como os vasos sanguíneos, auxiliando na redução da aterosclerose [4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A classificação laboratorial das dislipidemias inclui a Hiperlipidemia Mista. Qual é a definição laboratorial dessa condição, de acordo com as concentrações de lipídios plasmáticos?",
+    "options": [
+      "Colesterol Total (CT) maior ou igual a 310 mg/dL em adultos, desde que todas as causas de dislipidemia secundária tenham sido previamente excluídas.",
+      "Aumento isolado do LDL-c (maior ou igual a 160 mg/dL) com Triglicerídeos normais (abaixo de 150 mg/dL em jejum).",
+      "Elevação exclusiva de Triglicerídeos (TG maior ou igual a 175 mg/dL sem jejum) com LDL-c ou Colesterol Total normais.",
+      "Aumento do Colesterol LDL (LDL-c ou não-HDL) associado à elevação dos níveis de Triglicerídeos (TG $\\ge$ 150 mg/dL em jejum ou $\\ge$ 175 mg/dL sem jejum).",
+      "Níveis de HDL-c abaixo de 40 mg/dL em homens ou 50 mg/dL em mulheres, independentemente da concentração de LDL-c ou Triglicerídeos."
+    ],
+    "correctIndex": 3,
+    "explanation": "A Hiperlipidemia mista é definida pelo aumento do LDL-c (ou do não-HDL) e também pela elevação dos Triglicerídeos (TG $\\ge$ 150 mg/dL em jejum ou $\\ge$ 175 mg/dL sem jejum) [5].",
+    "type": "conteudista"
+  },
+  {
+    "question": "As estatinas são a classe de medicamentos mais validada para a redução de eventos cardiovasculares. Qual é o mecanismo de ação primário das estatinas que leva à redução do colesterol LDL (LDL-c) plasmático?",
+    "options": [
+      "Redução da ação da lipase tecidual nos adipócitos, resultando em menor liberação de ácidos graxos livres para a corrente sanguínea e consequente redução da síntese de VLDL.",
+      "Aumento da produção e ação da Lipoproteína Lipase (LPL), o que acelera a hidrólise intravascular dos Triglicerídeos (TG) das partículas VLDL e Quilomícrons.",
+      "Ligação aos ácidos biliares no lúmen intestinal, resultando na sua excreção fecal e subsequente aumento da síntese hepática de colesterol endógeno.",
+      "Inibição da enzima HMG-CoA redutase, o que reduz a síntese de colesterol intracelular e induz o aumento dos receptores de LDL (LDLR) na superfície do hepatócito.",
+      "Inibição da absorção de colesterol na borda em escova do intestino delgado, através do bloqueio do receptor NPC1-L1, diminuindo o colesterol hepático."
+    ],
+    "correctIndex": 3,
+    "explanation": "As estatinas inibem a HMG-CoA redutase, o que leva à redução do colesterol intracelular e, subsequentemente, ao aumento dos receptores de LDL (LDLR), influenciando o metabolismo das lipoproteínas [6, 7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a regra geral de redução do LDL-c que se aplica a qualquer estatina, ao dobrar a dose da medicação, segundo a literatura clínica?",
+    "options": [
+      "Ocorre uma redução média de 25% do LDL-c, desde que a dose inicial tenha sido de baixa ou moderada intensidade (ex: sinvastatina 10 mg/dia).",
+      "A redução média adicional do LDL-c é de 6 a 7 %, independentemente da estatina utilizada ou da dose inicial administrada (conhecida como 'regra dos 6%').",
+      "Ocorre uma redução de 15 a 35% do HDL-c, o que exige a adição de Niacina para compensar o efeito e otimizar a meta.",
+      "Ocorre uma redução média de 50% do LDL-c, mas com o aumento do risco de rabdomiólise acima de 30% em pacientes de alto risco.",
+      "Ocorre uma redução máxima de 35% dos Triglicerídeos, se o paciente tiver uma hipertrigliceridemia com valores basais abaixo de 400 mg/dL."
+    ],
+    "correctIndex": 1,
+    "explanation": "A cada vez que se dobra a dose de qualquer uma das estatinas, a redução média adicional do LDL-c é de 6 a 7 % [6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Ezetimiba é um hipolipemiante importante. Qual é a principal indicação de uso deste medicamento no cenário de dislipidemia mista ou hipercolesterolemia?",
+    "options": [
+      "Tratamento de pacientes com baixos níveis de HDL-c isolado (abaixo de 40 mg/dL), sendo superior aos fibratos e Niacina nesta indicação.",
+      "Adição à terapia com estatina na maior dose tolerada, ou uso isolado em pacientes intolerantes a estatinas, para ajudar a alcançar a meta de LDL-c.",
+      "Monoterapia em crianças e adolescentes com hipercolesterolemia e Triglicerídeos acima de 500 mg/dL, devido à sua segurança na gestação e amamentação.",
+      "Uso exclusivo em pacientes com doença hepática aguda ou esteatose hepática não alcoólica, devido ao seu efeito anti-inflamatório direto no tecido hepático.",
+      "Tratamento de pacientes com hipertrigliceridemia isolada, devido ao seu efeito de reduzir a síntese de TG pelos hepatócitos, sendo a primeira linha para prevenir pancreatite."
+    ],
+    "correctIndex": 1,
+    "explanation": "A Ezetimiba é utilizada nos pacientes intolerantes a estatinas ou em associação às estatinas para atingir a meta lipídica [8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os Inibidores da PCSK9 (Evolocumabe, Alirocumabe) são agentes injetáveis potentes. Qual é a indicação rigorosa para o uso desses medicamentos, conforme a estratégia de escalonamento terapêutico?",
+    "options": [
+      "Pacientes com sintomas musculares graves relacionados à estatina (SMRE), sendo a primeira escolha em monoterapia após a descontinuação da estatina.",
+      "Pacientes com dislipidemia mista e Triglicerídeos acima de 500 mg/dL, para redução do risco de pancreatite aguda, antes mesmo da introdução de fibratos.",
+      "Pacientes de Baixo Risco Cardiovascular (CV), nos quais o LDL-c se mantém acima de 100 mg/dL após a otimização das mudanças de estilo de vida (MEV).",
+      "Indivíduos com LDL-c abaixo de 100 mg/dL, mas com PCR-US acima de 10 mg/dL (Muito Alto Risco Inflamatório), para reduzir a progressão da placa aterosclerótica.",
+      "Pacientes com risco CV elevado (Muito Alto Risco) que não atingiram as metas de LDL-c ou não-HDL-c recomendadas, mesmo após o tratamento otimizado com estatina na maior dose tolerada, associada ou não à Ezetimiba."
+    ],
+    "correctIndex": 4,
+    "explanation": "Os Inibidores da PCSK9 são indicados somente em pacientes com risco CV elevado, em tratamento otimizado com estatinas na maior dose tolerada, associado ou não à Ezetimiba, e que não tenham alcançado as metas de LDL-c ou não-HDL-c recomendadas [9, 10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Hipotireoidismo é uma causa comum de dislipidemia secundária. Qual é o mecanismo fisiopatológico primário que liga a deficiência de hormônios tireoidianos (T3 e T4) ao aumento do colesterol plasmático?",
+    "options": [
+      "Aumento da atividade simpática, o que leva à lipólise excessiva e liberação de ácidos graxos livres para a circulação, induzindo a produção de Quilomícrons.",
+      "Perda de albumina na urina devido à síndrome nefrótica, estimulando o fígado a compensar, sintetizando proteínas plasmáticas, incluindo VLDL e LDL.",
+      "Aumento da síntese de lipoproteínas de densidade muito baixa (VLDL) pelo fígado, devido à sobrecarga de ácidos graxos livres, elevando primariamente os Triglicerídeos.",
+      "Diminuição da eficácia da insulina, o que leva à inibição da Lipoproteína Lipase (LPL) e consequente acúmulo de partículas ricas em Triglicerídeos (VLDL e Quilomícrons).",
+      "Redução da expressão dos receptores de LDL (LDLR) na superfície do hepatócito (down-regulation), resultando no acúmulo de LDL-c no sangue."
+    ],
+    "correctIndex": 4,
+    "explanation": "No hipotireoidismo, a diminuição de T3 e T4 leva ao *down-regulation* dos receptores de LDL (LDLR) no fígado, o que impede a ligação e internalização do LDL, resultando no acúmulo de LDL-c no sangue e hipercolesterolemia [11].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Diabetes Mellitus (DM) é uma condição metabólica que leva à dislipidemia secundária, especialmente se houver resistência à insulina. Qual é o mecanismo que causa o acúmulo de Triglicerídeos e VLDL no paciente diabético?",
+    "options": [
+      "Defeito na proteína ApoE, que impede a captação hepática de remanescentes de Quilomícrons e VLDL, causando hiperlipidemia mista de origem genética.",
+      "Aumento da absorção de colesterol intestinal pelo receptor NPC1-L1, o que satura a via hepática e desvia a produção para partículas ricas em Triglicerídeos.",
+      "Aumento da síntese hepática de lipoproteínas LDL e VLDL em resposta à perda de albumina na urina, como visto na síndrome nefrótica.",
+      "Deficiência de hormônios T3 e T4, o que leva à supressão dos receptores de LDL e acúmulo de colesterol na circulação.",
+      "Diminuição da Lipoproteína Lipase (LPL) ou redução de sua atividade, devido à baixa eficácia da insulina, inibindo a quebra dos Triglicerídeos em VLDL e Quilomícrons."
+    ],
+    "correctIndex": 4,
+    "explanation": "No diabetes, a diminuição da eficácia da insulina leva à inibição ou diminuição da atividade da Lipoproteína Lipase (LPL). A LPL é responsável por hidrolisar os triglicerídeos do VLDL e dos Quilomícrons, e sua inibição causa o acúmulo destas partículas [12, 13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os fibratos são a primeira opção no manejo da hipertrigliceridemia isolada. Qual é o mecanismo de ação primário dessa classe de medicamentos?",
+    "options": [
+      "Sequestro dos ácidos biliares no intestino, o que leva à depleção do colesterol celular hepático e subsequente aumento da síntese de LDLR.",
+      "Diminuição da ação da lipase tecidual nos adipócitos, resultando em menor liberação de ácidos graxos livres para a corrente sanguínea.",
+      "Aumento da produção e ação da Lipoproteína Lipase (LPL), que é a enzima responsável pela hidrólise intravascular dos Triglicerídeos das partículas VLDL e Quilomícrons.",
+      "Inibição da HMG-CoA redutase, diminuindo a síntese de colesterol hepático e aumentando os receptores de LDL na superfície do hepatócito.",
+      "Inibição da absorção de colesterol no intestino delgado (receptor NPC1-L1), reduzindo a quantidade de colesterol disponível para a formação de VLDL."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os fibratos agem aumentando a produção e a ação da Lipoproteína Lipase (LPL), responsável pela hidrólise intravascular dos Triglicerídeos (TG) [14, 15].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação às medidas não farmacológicas (MEV) para o manejo da dislipidemia, qual recomendação dietética é considerada fundamental para a prevenção cardiovascular, especialmente visando a redução do LDL-c?",
+    "options": [
+      "Aumento da ingesta de ácidos graxos saturados (carnes e derivados de leite) para menos de 10% do total calórico em indivíduos de alto risco, visando o aumento do HDL-c.",
+      "Aumento da ingesta de açúcares simples para garantir a síntese hepática adequada de VLDL, o que indiretamente reduz a concentração de LDL-c.",
+      "Redução da ingesta de carboidratos, com aumento do consumo de peixes ricos em Ômega-3 (EPA e DHA) para 2 ou mais vezes por semana, e exclusão de ácidos graxos trans.",
+      "Consumo de óleos reutilizados para fritura e margarina, pois são fontes de gordura hidrogenada que não possuem ação pró-inflamatória sobre o endotélio.",
+      "Redução da ingesta alcoólica a zero, independentemente da categoria de risco CV do paciente, e aumento do consumo de ácidos biliares sequestrados por resinas."
+    ],
+    "correctIndex": 2,
+    "explanation": "O tratamento não farmacológico inclui a cessação do tabagismo, o aumento da atividade física, a redução de açúcares e carboidratos, a ingestão de peixes ricos em ômega-3 (2 ou mais vezes por semana), e uma dieta isenta de ácidos graxos trans, com redução do consumo de AG saturados [16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos hipolipemiantes listados a seguir é o único agente autorizado para uso durante a gestação e a amamentação, devido à sua ausência de absorção sistêmica?",
+    "options": [
+      "Os Fibratos, devido à sua ação de aumentar a Lipoproteína Lipase (LPL), o que é essencial para o metabolismo dos Triglicerídeos maternos.",
+      "Inibidores da PCSK9 (Evolocumabe/Alirocumabe), devido ao seu mecanismo de ação que aumenta a internalização de receptores de LDL.",
+      "A Ezetimiba, devido à sua seletividade em inibir o receptor NPC1-L1 na borda em escova do intestino delgado.",
+      "Inibidores da HMG-CoA redutase (Estatinas), pois são a terapia mais validada para a diminuição de eventos cardiovasculares.",
+      "As Resinas (Colestiramina), pois agem sequestrando ácidos biliares no intestino, o que leva à depleção do colesterol celular hepático sem absorção sistêmica."
+    ],
+    "correctIndex": 4,
+    "explanation": "As Resinas (ou sequestradores de ácidos biliares) não possuem absorção sistêmica, sendo o único hipolipemiante autorizado na gestação e amamentação [17].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Proteína C Reativa Ultrassensível (PCR-US) pode ser utilizada para reclassificar o risco cardiovascular (CV) em pacientes assintomáticos. Um paciente de Risco Intermediário com PCR-US superior a 2 mg/dL deve ser reclassificado para qual categoria de risco?",
+    "options": [
+      "Baixo Risco CV, pois o ERG já considera a maioria dos fatores inflamatórios sistêmicos.",
+      "Risco Intermediário, mantendo o manejo de metas de LDL-c abaixo de 100 mg/dL.",
+      "Muito Alto Risco CV, que é reservado apenas para pacientes que já tiveram um evento clínico (IAM, AVC).",
+      "Alto Risco CV, exigindo o início de tratamento farmacológico com estatina, além das Mudanças no Estilo de Vida (MEV).",
+      "Risco de Pancreatite Aguda, o que exige a avaliação imediata do nível de Triglicerídeos séricos."
+    ],
+    "correctIndex": 3,
+    "explanation": "A PCR-US é utilizada para reclassificar o paciente de risco intermediário para uma categoria superior. Níveis acima de 2 mg/dL são considerados Alto Risco [18].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente de 65 anos, sexo masculino, apresentou um Acidente Vascular Cerebral Isquêmico (AVC) há 6 meses, e seu perfil lipídico mostra LDL-c de 120 mg/dL. Qual é a correta classificação de risco cardiovascular (CV) deste paciente e a abordagem terapêutica inicial obrigatória?",
+    "options": [
+      "Muito Alto Risco CV; o paciente deve iniciar imediatamente Terapia com Estatinas de Alta Intensidade (Atorvastatina 40-80 mg ou Rosuvastatina 20-40 mg) e Mudanças de Estilo de Vida (MEV).",
+      "Alto Risco CV; deve-se iniciar apenas Terapia Nutricional e controle de Triglicerídeos, se estiverem acima de 200 mg/dL.",
+      "Risco Genético; deve-se realizar o rastreio em cascata em parentes de primeiro grau e dosar a Apolipoproteína E, antes de iniciar qualquer terapia farmacológica.",
+      "Intermediário Risco CV; deve-se iniciar uma estatina de intensidade moderada (ex: Rosuvastatina 10 mg), para atingir LDL-c abaixo de 100 mg/dL.",
+      "Baixo Risco CV; apenas as Mudanças no Estilo de Vida (MEV) são suficientes, pois o LDL-c já está abaixo do valor crítico de 190 mg/dL."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pacientes que já tiveram um evento cardiovascular (como AVC, IAM ou equivalentes) são classificados como de Muito Alto Risco CV [18]. Nesses casos, o tratamento obrigatório inclui o início imediato de estatinas de alta intensidade (Atorvastatina 40-80 mg ou Rosuvastatina 20-40 mg) e Mudanças de Estilo de Vida (MEV) [19-21].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com hiperlipidemia mista e Triglicerídeos (TG) de 600 mg/dL chega ao ambulatório. Sua prioridade clínica é reduzir o risco de pancreatite aguda. Qual é a estratégia terapêutica de primeira linha recomendada neste caso de hipertrigliceridemia grave?",
+    "options": [
+      "Início de um Inibidor da PCSK9 (Evolocumabe) em monoterapia, devido ao seu potencial de reduzir em média 60% do LDL-c e grande parte do TG.",
+      "Recomendação de dieta isenta de ácidos graxos trans e aumento da atividade física, com reavaliação laboratorial em 6 meses, devido ao risco de miopatia com fármacos.",
+      "Início de Niacina (Ácido Nicotínico) de liberação rápida para otimizar o aumento do HDL-c e reduzir o *flushing* associado à dose elevada.",
+      "Início de estatina de alta intensidade (Atorvastatina 80 mg/dia) associada à Ezetimiba 10 mg/dia, devido à sua eficácia na redução do LDL-c e TG simultaneamente.",
+      "Início imediato de um Fibrato (ex: Fenofibrato ou Bezafibrato), para aumentar a ação da Lipoproteína Lipase (LPL) e reduzir o TG para menos de 500 mg/dL."
+    ],
+    "correctIndex": 4,
+    "explanation": "Quando os Triglicerídeos (TG) estão acima de 500 mg/dL, o tratamento com terapia específica, como Fibratos, é a primeira opção, devido ao alto risco de pancreatite aguda [10, 14]. Fibratos agem aumentando a ação da LPL, hidrolisando os TG [14].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com alto risco CV está em uso otimizado de Rosuvastatina 40 mg/dia e Ezetimiba 10 mg/dia, mas seu LDL-c permanece persistentemente acima da meta (ex: 75 mg/dL quando a meta é < 50 mg/dL). Qual é a próxima etapa de escalonamento farmacológico, segundo o protocolo de terapia combinada?",
+    "options": [
+      "Adicionar um Inibidor da PCSK9 (Evolocumabe ou Alirocumabe) ao regime, visto que o paciente não atingiu a meta com estatina de alta intensidade + Ezetimiba.",
+      "Prescrever Resinas (Colestiramina) para otimizar a excreção de colesterol fecal, visto que este medicamento é isento de absorção sistêmica.",
+      "Trocar a Rosuvastatina 40 mg pela Atorvastatina 80 mg (sem aumentar a intensidade da estatina), mantendo a Ezetimiba, para tentar atingir a meta.",
+      "Adicionar um fibrato (ex: Fenofibrato) à combinação, priorizando a redução do risco de rabdomiólise com a associação estatina/fibrato.",
+      "Substituir a Rosuvastatina pelo Ácido Nicotínico (Niacina), devido à sua capacidade de aumentar o HDL-c e reduzir o risco de eventos neurocognitivos."
+    ],
+    "correctIndex": 0,
+    "explanation": "Se o paciente de risco elevado não atingiu as metas de LDL-c após o tratamento otimizado com estatina na maior dose tolerada (Rosuvastatina 40 mg é alta intensidade), associada à Ezetimiba, o próximo passo é a adição de um Inibidor da PCSK9 [9, 10, 22].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente inicia tratamento para dislipidemia com estatinas e, devido à hipertrigliceridemia persistente (TG 350 mg/dL), adiciona um fibrato (ex: Gemfibrozila). Qual efeito colateral potencial desta terapia combinada exige monitorização contínua de rotina da Creatinoquinase (CK) e interrupção do tratamento se for confirmado?",
+    "options": [
+      "Fenômeno de rubor e prurido (*flushing*), o que exige a administração concomitante de aspirina 30 minutos antes do fibrato.",
+      "Hepatotoxicidade grave e elevação das enzimas hepáticas (ALT/AST), o que exige a troca imediata para inibidores da PCSK9.",
+      "Desenvolvimento de litíase biliar (cálculos na vesícula), o que exige a monitorização periódica por ultrassonografia abdominal.",
+      "Rabdomiólise e elevação da CK, devido ao risco aumentado de efeitos adversos musculares quando estatinas são associadas a fibratos, especialmente Gemfibrozila.",
+      "Diarréia grave e desidratação, devido à inibição da absorção de colesterol intestinal pelo fibrato, necessitando de reposição hidroeletrolítica intravenosa."
+    ],
+    "correctIndex": 3,
+    "explanation": "A associação de estatina com fibrato, especialmente a Gemfibrozila, aumenta o risco de rabdomiólise e exige cautela. Os efeitos musculares, como mialgia e rabdomiólise (com elevação da CK), são os mais comuns das estatinas e são exacerbados pela combinação [14, 15, 23].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente tem o seguinte perfil lipídico em coleta sem jejum: CT 350 mg/dL, HDL-c 50 mg/dL e TG 550 mg/dL. Qual é o valor do Colesterol Não-HDL (não-HDL-c) e qual é a conduta inicial correta para o diagnóstico do perfil lipídico deste paciente, considerando as limitações do cálculo de LDL-c?",
+    "options": [
+      "O não-HDL-c é 300 mg/dL. A fórmula de Friedewald deve ser utilizada, e o LDL-c calculado é 240 mg/dL, indicando hipercolesterolemia isolada.",
+      "O não-HDL-c é 500 mg/dL. O paciente deve recoletar o exame com jejum de 12 horas, e o resultado do não-HDL-c deve ser desconsiderado devido à interferência do TG.",
+      "O não-HDL-c é 400 mg/dL. O paciente deve ser reclassificado como de Risco Intermediário e a PCR-US deve ser realizada para reavaliação da terapia.",
+      "O não-HDL-c é 300 mg/dL. Devido ao TG ser maior que 400 mg/dL, a fórmula de Friedewald é inválida, mas o não-HDL-c deve ser a meta secundária avaliada (CT - HDL-c).",
+      "O não-HDL-c é 350 mg/dL. O paciente deve ser classificado como Hipertrigliceridemia isolada, sendo a ezetimiba a primeira linha de tratamento."
+    ],
+    "correctIndex": 3,
+    "explanation": "O Colesterol Não-HDL é calculado por CT – HDL-c, resultando em 350 – 50 = 300 mg/dL [2]. Como os TG estão acima de 400 mg/dL, a fórmula de Friedewald para o cálculo do LDL-c é inválida [2]. O não-HDL-c se torna uma meta secundária importante neste cenário [2].",
+    "type": "raciocínio"
+  }
+]

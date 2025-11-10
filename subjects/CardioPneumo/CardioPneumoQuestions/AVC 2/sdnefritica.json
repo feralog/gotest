@@ -1,0 +1,522 @@
+[
+  {
+    "question": "Qual tríade clínica define a apresentação típica da síndrome nefrítica aguda?",
+    "options": [
+      "Proteinúria, poliúria e hipotensão ortostática",
+      "Glicossúria, taquicardia e dor torácica",
+      "Anemia, febre e dor lombar",
+      "Hiperuricemia, oligúria e ascite",
+      "Hematúria, edema e hipertensão arterial"
+    ],
+    "correctIndex": 4,
+    "explanation": "A tríade hematúria + edema + HAS reflete inflamação glomerular, retenção hidrossalina e ativação do eixo renina-angiotensina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na barreira de filtração glomerular, qual estrutura impede a passagem de proteínas plasmáticas carregadas negativamente?",
+    "options": [
+      "Epitélio tubular proximal com microvilosidades",
+      "Membrana basal carregada com glicosaminoglicanos",
+      "Endotélio fenestrado isento de carga elétrica",
+      "Fenda diafragmática entre podócitos neutra",
+      "Camada mesangial interna avascular"
+    ],
+    "correctIndex": 1,
+    "explanation": "A membrana basal glomerular possui carga aniônica (heparan-sulfato) que repele proteínas negativas como a albumina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Proteínas do complemento ativadas na lesão imunomediada da síndrome nefrítica pertencem principalmente à via:",
+    "options": [
+      "Lectina dependente de manose",
+      "Cascata de coagulação extrínseca",
+      "Alternativa independente de anticorpo",
+      "Clássica dependente de anticorpo",
+      "Fosfolipase A2 citoplasmática"
+    ],
+    "correctIndex": 3,
+    "explanation": "A deposição de imunocomplexos IgG/C3 aciona a via clássica, gerando C3a e C5a quimiotáticos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Hematúria microscópica de origem glomerular é sugerida quando o sedimento apresenta:",
+    "options": [
+      "≥5 % de acantócitos e cilindros hemáticos",
+      "Cristais de oxalato de cálcio em grande número",
+      "Hemácias isomórficas e ausência de cilindros",
+      "Leucócitos >50 células/campo e cilindros leucocitários",
+      "Proteinúria isolada <150 mg/24 h sem hemácias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dismorfismo eritrocitário e cilindros de hemácia indicam sangramento intraglomerular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Hematúria macroscópica \"tipo Coca-Cola\" sugere hemoglobina oxidada por:",
+    "options": [
+      "Presença de porfirinas urinárias",
+      "Pigmento biliar não conjugado",
+      "PH ácido na urina glomerular",
+      "Bilirrubina conjugada em excesso",
+      "Cristais de cistina na urina alcalina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hemoglobina livre acidifica-se e oxida-se, conferindo cor castanho-escura característica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Cilindros hemáticos formam-se principalmente no:",
+    "options": [
+      "Espaço de Bowman subcapsular",
+      "Glomérulo na alça capilar visceral",
+      "Túbulo proximal rico em glicose",
+      "Alça de Henle fino ascendente",
+      "Túbulo distal e ducto coletor ácido"
+    ],
+    "correctIndex": 4,
+    "explanation": "Ambiente tubular distal ácido promove desnudamento de hemácias que aderem a Tamm-Horsfall, formando cilindros.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado NÃO está associado à hematúria glomerular crônica?",
+    "options": [
+      "Eritrócitos dismórficos variados",
+      "Cilindros lipídicos abundantes",
+      "Proteinúria subnefrótica persistente",
+      "Hipertensão arterial leve",
+      "Taxa de filtração em declínio lento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cilindros lipídicos são típicos de síndrome nefrótica; raramente ocorrem na forma nefrítica isolada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em sedimentoscopia, acantócitos em \"anel de Mickey\" representam:",
+    "options": [
+      "Cristais de colesterol vistos em luz polarizada",
+      "Leucócitos degenerados após alcalinização",
+      "Glóbulos vermelhos originados da pelve renal",
+      "Eritrócitos intactos filtrados sem alterações morfológicas",
+      "Hemácias deformadas pelo gradiente osmótico glomerular"
+    ],
+    "correctIndex": 4,
+    "explanation": "O trajeto através da barreira lesada causa protrusões que lembram orelhas do personagem, sinal pathognomônico de hematúria glomerular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Consumo isolado de C3 com C4 normal sugere glomerulonefrite:",
+    "options": [
+      "Por IgA pura",
+      "Anti-MBG isolada",
+      "Lúpica classe III",
+      "Pós-estreptocócica clássica",
+      "Pauci-imune ANCA positiva"
+    ],
+    "correctIndex": 3,
+    "explanation": "GNPE ativa a via alternativa consumindo C3 enquanto preserva C4, padrão típico laboratorial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual anticorpo é mais relacionado a vasculite glomerular pauci-imune?",
+    "options": [
+      "ASLO anti-estreptolisina O",
+      "c-ANCA contra proteinase 3",
+      "Anti-DNA nativo de alta afinidade",
+      "Anti-MBG contra colágeno IV",
+      "IgA antigliadina circulante"
+    ],
+    "correctIndex": 1,
+    "explanation": "c-ANCA (PR3) está presentE em granulomatose de Wegener, causando GNRP pauci-imune.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em que situação a biópsia renal é obrigatória na síndrome nefrítica?",
+    "options": [
+      "HAS leve com sedimento inativo",
+      "C3 consumido com recuperação em 2 dias",
+      "Hematúria microscópica isolada em criança afebril",
+      "Elevação rápida da creatinina ou queda de TFG >30 % em 4 semanas",
+      "Proteinúria discreta <300 mg/24 h sem hipertensão"
+    ],
+    "correctIndex": 3,
+    "explanation": "Perda acelerada da função sugere GNRP; o atraso na biópsia compromete prognóstico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "ASLO elevado na GNPE reflete produção de anticorpos contra:",
+    "options": [
+      "Estreptolisina O do Streptococcus pyogenes",
+      "Enterotoxina C de E. coli enterotoxigênica",
+      "Toxina B do Clostridioides difficile",
+      "Exotoxina A do Staphylococcus aureus",
+      "Antígeno H de Salmonella typhi"
+    ],
+    "correctIndex": 0,
+    "explanation": "A reação anti-estreptolisina O confirma infecção estreptocócica recente relacionada à GNPE.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O período de latência típico da GNPE após faringoamigdalite é de:",
+    "options": [
+      "4 a 6 semanas",
+      "4 a 6 horas",
+      "1 a 3 semanas",
+      "6 a 12 meses",
+      "2 a 4 meses"
+    ],
+    "correctIndex": 2,
+    "explanation": "Deposição de imunocomplexos ocorre após resposta imune adaptativa, levando a latência média de 10 dias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado laboratorial indica fase de recuperação da GNPE?",
+    "options": [
+      "c-ANCA positivo de novo",
+      "Normalização do C3 em 8 semanas",
+      "Persistência de proteinúria nefrótica",
+      "Elevação contínua de creatinina >6 meses",
+      "ASLO crescente após 12 semanas"
+    ],
+    "correctIndex": 1,
+    "explanation": "C3 retorna ao normal em 6–12 semanas, sinalizando remissão imunológica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Prognóstico em crianças com GNPE é considerado favorável pois:",
+    "options": [
+      "Necessidade de diálise é frequente e prolongada",
+      "Deixa cicatrizes renais extensas em 80 %",
+      "TFG permanece estável em apenas 30 %",
+      "Progressão a síndrome nefrótica é regra",
+      "≥95 % recuperam função renal normal"
+    ],
+    "correctIndex": 4,
+    "explanation": "A maioria das crianças apresenta reversão completa sem sequelas crônicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na classificação ISN/RPS, nefrite lúpica difusa proliferativa corresponde à classe:",
+    "options": [
+      "Classe V",
+      "Classe III",
+      "Classe VI",
+      "Classe IV",
+      "Classe II"
+    ],
+    "correctIndex": 3,
+    "explanation": "Classe IV envolve ≥50 % dos glomérulos com lesões proliferativas endo/extra-capilares.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Esquema NIH clássico para indução de nefrite lúpica inclui:",
+    "options": [
+      "Metilprednisolona em pulso + ciclofosfamida IV mensal 6 doses",
+      "Prednisona baixa dose + hidroxicloroquina oral",
+      "Micofenolato 500 mg/d + placebo esteroide",
+      "Rituximabe isolado semanal por 4 doses",
+      "Azatioprina isolada por 3 meses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pulsoterapia esteroide seguida de ciclofosfamida mensal mostrou redução de progressão renal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Nefrite lúpica classe V caracteriza-se por:",
+    "options": [
+      "Lesão membranosa com proteinúria nefrótica",
+      "Esclerose global ≥90 % glomérulos",
+      "Proliferação segmentar focal <50 % glomérulos",
+      "Deposição isolada de IgA no mesângio",
+      "Mesangite mínima com sedimento inativo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Classe V é membranosa e cursa com proteinúria maciça e edema.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Terapia de manutenção pós-indução em nefrite lúpica recomenda uso de:",
+    "options": [
+      "Metotrexato semanal isolado",
+      "Prednisona 1 mg/kg/d indefinida",
+      "Ciclofosfamida mensal contínua",
+      "Azatioprina ou micofenolato em dose estável",
+      "Interferon alfa subcutâneo diário"
+    ],
+    "correctIndex": 3,
+    "explanation": "Imunossupressores antimetabólitos com esteroide reduzido mantêm remissão e limitam toxicidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual anticorpo sérico correlaciona-se melhor com atividade de nefrite lúpica?",
+    "options": [
+      "Anti-Ro 52 isolado",
+      "Anti-centromério positivo",
+      "Anti-La isolado",
+      "Anti-Jo-1 elevado",
+      "Anti-DNA de dupla hélice alto título"
+    ],
+    "correctIndex": 4,
+    "explanation": "Elevação de anti-DNA acompanha consumo de complemento e atividade glomerular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Lesão patológica típica na nefropatia por IgA é:",
+    "options": [
+      "Necrose fibrinoide intersticial pura",
+      "Ausência total de imunoglobulinas",
+      "Depósito mesangial dominante de IgA",
+      "Depósito lineAr de IgG na MBG",
+      "Depósito subepitelial de C1q"
+    ],
+    "correctIndex": 2,
+    "explanation": "Imunofluorescência mostra IgA no mesângio, diferenciando de GNPE ou nefropatia lúpica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Fator preditor de mau prognóstico na nefropatia por IgA inclui:",
+    "options": [
+      "Idade <20 anos ao diagnóstico",
+      "Pressão arterial <120/80 mmHg",
+      "TFG >90 mL/min constante",
+      "Hematúria microscópica isolada",
+      "Proteinúria >1 g/24 h persistente"
+    ],
+    "correctIndex": 4,
+    "explanation": "Proteinúria sustentada >1 g/d aumenta risco de progressão para DRC estágio 5.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Tratamento inicial recomendado na nefropatia por IgA com proteinúria 0,8 g/d é:",
+    "options": [
+      "Interferon beta subcutâneo",
+      "Rituximabe bimestral",
+      "Plasmaférese seriada",
+      "Ciclofosfamida IV mensal",
+      "Inibidor da ECA em dose titulada"
+    ],
+    "correctIndex": 4,
+    "explanation": "Controle pressórico e redução da proteinúria com IECA ou BRA é a primeira linha antes de imunossupressão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Surto de hematúria macroscópica pós-infecção respiratória em adulto jovem sugere:",
+    "options": [
+      "Doença de Alport ligada ao X",
+      "Vasculite anti-MBG isolada",
+      "Nefropatia por IgA recorrente",
+      "Nefrite lúpica classe I",
+      "GN pós-estreptocócica tardia"
+    ],
+    "correctIndex": 2,
+    "explanation": "A característica \"synpharyngitic\" (hematuria concomitante à infecção) é típica da IgA.",
+    "type": "conteudista"
+  },
+  {
+    "question": "GNRP é definida histologicamente por:",
+    "options": [
+      "Crescente extracapilar em >50 % dos glomérulos",
+      "Cicatriz global em <10 % dos glomérulos",
+      "Espessamento uniforme da MBG sem crescências",
+      "Ausência de necrose fibrinoide segmentar",
+      "Deposição membranosa subepitelial difusa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Crescentes formadas por proliferação de células epiteliais parietais causam rápida perda de função.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na síndrome de Goodpasture, o alvo autoimune clássico é:",
+    "options": [
+      "Colágeno IV cadeia α3 da MBG",
+      "Podocina expressão no podócito",
+      "Proteinase 3 citoplasmática",
+      "Mieloperoxidase perinuclear",
+      "Transglutaminase 2 endotelial"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anti-MBG reconhece o epítopo na α3(IV)NC1, levando a hemorragia alveolar e GNRP.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Tratamento inicial da GNRP anti-MBG inclui:",
+    "options": [
+      "Plasmaférese diária + metilprednisolona + ciclofosfamida",
+      "Observação clínica sem intervenção",
+      "IECA isolado e dieta hipoproteica",
+      "Hidroclorotiazida como monoterapia",
+      "Azatioprina oral exclusiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "A remoção de autoanticorpos com plasmaférese associada a imunossupressão agressiva preserva função renal e pulmonar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Restrição de sódio indicada na síndrome nefrítica visa principalmente:",
+    "options": [
+      "Reduzir edema e hipertensão",
+      "Controlar hiperfosfatemia crônica",
+      "Aumentar excreção de ácido úrico",
+      "Diminuir risco de cálculos renais",
+      "Prevenir hipocalemia persistente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ao limitar o sódio, reduz-se a retenção hídrica dependente de aldosterona, melhorando edema e PA.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Dose usual de prednisona para nefrite lúpica proliferativa ativa é:",
+    "options": [
+      "60 mg VO por semana única",
+      "15 mg VO ao deitar por 3 dias",
+      "0,5–1 mg/kg/dia VO em esquema decrescente",
+      "5 mg VO em dias alternados",
+      "2 mg/kg/dia por 12 meses sem taper"
+    ],
+    "correctIndex": 2,
+    "explanation": "Doses altas iniciais com redução gradual controlam inflamação mantendo menor toxicidade a longo prazo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Critério de internação imediato em síndrome nefrítica é:",
+    "options": [
+      "ASLO positivo em título baixo",
+      "Hematúria microscópica assintomática",
+      "Proteinúria 500 mg/24 h isolada",
+      "Edema periorbitário discreto",
+      "Hipertensão maligna com encefalopatia"
+    ],
+    "correctIndex": 4,
+    "explanation": "HAS grave com lesão de órgão-alvo exige controle parenteral e monitorização intensiva.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Adolescente apresenta hematúria macroscópica 24 h após faringite viral, creatinina normal, C3 normal, proteinúria 600 mg/d. Qual hipótese é mais provável?",
+    "options": [
+      "GN pós-estreptocócica latente",
+      "Lesão renal aguda pré-renal",
+      "Nefrite lúpica classe II",
+      "Nefropatia por IgA sinfaringítica",
+      "GNRP pauci-imune inicial"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hematúria concomitante à infecção, complemento normal e proteinúria subnefrótica apontam para IgA.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com GNPE recebe alta e retorna após 10 semanas com C3 normalizado, mas proteinúria permanece 2,4 g/d. Qual conduta?",
+    "options": [
+      "Tratar com antibiótico prolongado",
+      "Solicitar biópsia renal para avaliar lesão residual",
+      "Iniciar plasmaférese imediata",
+      "Introduzir esteroide em altas doses",
+      "Aguardar recuperação espontânea até 12 meses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Proteinúria persistente acima de 2 g sugere lesão crônica ou outra glomerulopatia; biópsia é indicada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Idosa chega com oligúria, creatinina 6,2 mg/dL em 3 semanas, sedimento com cilindros hemáticos, c-ANCA positivo. Primeira etapa terapêutica:",
+    "options": [
+      "IECA em monoterapia sem imunossupressão",
+      "Tiazídico para controle pressórico leve",
+      "Observação ambulatorial a cada 4 semanas",
+      "Azatioprina oral dose de manutenção",
+      "Pulso de metilprednisolona 1 g/dia por 3 dias"
+    ],
+    "correctIndex": 4,
+    "explanation": "GNRP pauci-imune exige imunossupressão agressiva precoce; pulso esteroide é inicial.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem com nefrite lúpica classe V em edema duro, albumina 2,0 g/dL, TFG 50 mL/min. Qual combinação inicial é mais adequada?",
+    "options": [
+      "Ciclofosfamida isolada",
+      "Rituximabe único sem esteroide",
+      "Plasmaférese diária",
+      "Prednisona + micofenolato mofetil",
+      "Hidroclorotiazida isolada"
+    ],
+    "correctIndex": 3,
+    "explanation": "Classe V responde a esteroide e MMF, controlando proteinúria com menos toxicidade que ciclofosfamida.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com GNRP anti-MBG, hemorragia alveolar e creatinina 9 mg/dL recusa diálise. Qual informação prognóstica é correta?",
+    "options": [
+      "Plasmaférese é contraindicada em creatinina elevada",
+      "Creatinina >5,7 mg/dL na apresentação indica risco elevado de falência renal irreversível",
+      "Auto-anticorpo anti-MBG negativo implica bom prognóstico",
+      "Crescências <50 % descartam progressão rápida",
+      "Pacientes sempre recuperam TFG total após 4 semanas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Valores acima de 5,7 mg/dL associam-se a necessidade de TRS permanente mesmo com terapia completa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Criança com edema orbital, PA 150/95, hematúria microscópica, C3 baixo, ASLO alto. Após 2 dias desenvolve encefalopatia hipertensiva. Conduta inicial:",
+    "options": [
+      "Nitroprussiato IV em ambiente monitorado",
+      "Enalapril VO dose única",
+      "Diurético tiazídico isolado",
+      "Nenhuma terapia, pois é autolimitada",
+      "Ambulatorizar com dieta hipossódica"
+    ],
+    "correctIndex": 0,
+    "explanation": "HAS maligna é emergência; vasodilatador IV titulado reduz risco de convulsões e AVC.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Adulto com síndrome nefrítica apresenta proteinúria 3,6 g/d, hipoalbuminemia 3,1 g/dL, C3 normal. Isso sugere?",
+    "options": [
+      "Doença de Fabry primária",
+      "Sobreposição nefrítica-nefrótica, requer biópsia",
+      "GNPE típica com evolução benigna",
+      "Lesão minimal change pura",
+      "IRA pré-renal por desidratação"
+    ],
+    "correctIndex": 1,
+    "explanation": "Proteinúria no limite nefrótico com hematúria glomerular obriga investigação histológica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher 30 anos, IgA confirmada, PA 140/90, proteinúria 1,2 g/d mesmo com IECA máximo. Próxima medida terapêutica?",
+    "options": [
+      "Adicionar prednisona 0,5-1 mg/kg/d por 6 meses",
+      "Realizar nefrectomia profilática",
+      "Suspender IECA e iniciar diurético de alça",
+      "Aumentar ingestão de sal para 8 g/d",
+      "Plasmaférese semanal profilática"
+    ],
+    "correctIndex": 0,
+    "explanation": "Refratariedade à terapia antiproteinúrica justifica esteroide para retardar DRC.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com síndrome nefrítica recebe prescrição de repouso absoluto prolongado. Quais complicações essa conduta pode gerar?",
+    "options": [
+      "Resolução acelerada do edema e hipertensão",
+      "Redução da imunogenicidade de auto-anticorpos",
+      "Perda muscular, trombose venosa e atraso da recuperação",
+      "Maior excreção proteica e queda de C3",
+      "Aumento direto na depuração de creatinina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Inatividade prolongada predispõe a sarcopenia, trombose e não beneficia a inflamação glomerular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem 25 anos, GNPE há 8 dias, creatinina 1,8 mg/dL, débito urinário 0,3 mL/kg/h, potássio 6,2 mEq/L. Manejo imediato:",
+    "options": [
+      "Diálise de urgência por hipercalemia refratária",
+      "Prescrever bicarbonato de sódio VO",
+      "Administrar antibiótico profilático",
+      "Aguardar diurese espontânea",
+      "Incrementar diurético tiazídico oral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Oligúria e K+ >6 mEq/L configuram indicação clássica de terapia dialítica emergencial.",
+    "type": "raciocínio"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "question": "Qual é a posição do câncer de colo uterino na causa de mortalidade por câncer entre mulheres no Brasil em 2023?",
+    "options": [
+      "8ª posição na causa de mortalidade por câncer entre mulheres no Brasil em 2023",
+      "2ª posição na causa de mortalidade por câncer entre mulheres no Brasil em 2023",
+      "6ª posição na causa de mortalidade por câncer entre mulheres no Brasil em 2023",
+      "4ª posição na causa de mortalidade por câncer entre mulheres no Brasil em 2023",
+      "1ª posição na causa de mortalidade por câncer entre mulheres no Brasil em 2023"
+    ],
+    "correctIndex": 3,
+    "explanation": "O câncer de colo uterino ocupa a 4ª posição na causa de mortalidade por câncer entre mulheres no Brasil em 2023, segundo dados epidemiológicos atualizados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a porcentagem de casos de câncer de colo uterino associados à infecção persistente por HPV oncogênico?",
+    "options": [
+      "85% dos casos estão associados à infecção persistente por HPV oncogênico",
+      "55% dos casos estão associados à infecção persistente por HPV oncogênico",
+      "65% dos casos estão associados à infecção persistente por HPV oncogênico",
+      "75% dos casos estão associados à infecção persistente por HPV oncogênico",
+      "95% dos casos estão associados à infecção persistente por HPV oncogênico"
+    ],
+    "correctIndex": 4,
+    "explanation": "Estudos epidemiológicos demonstram que 95% dos casos de câncer de colo uterino estão associados à infecção persistente por HPV oncogênico, sendo este o principal fator etiológico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais fatores de risco comportamentais para o desenvolvimento do câncer de colo uterino?",
+    "options": [
+      "Obesidade mórbida, diabetes descompensado e hipertensão arterial",
+      "Início precoce da atividade sexual, múltiplos parceiros sexuais e parceiro com múltiplas parceiras",
+      "Dieta hiperlipídica, consumo excessivo de sal e baixa ingestão hídrica",
+      "Tabagismo intenso, consumo alcoólico elevado e sedentarismo prolongado",
+      "Exposição ocupacional, poluição ambiental e radiação solar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os principais fatores de risco comportamentais incluem início precoce da atividade sexual, múltiplos parceiros sexuais e parceiro com múltiplas parceiras, que aumentam a probabilidade de exposição ao HPV.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual região do Brasil apresenta a maior taxa de incidência de câncer de colo uterino?",
+    "options": [
+      "Região Nordeste com 17,59 casos por 100 mil mulheres",
+      "Região Sul com 14,55 casos por 100 mil mulheres",
+      "Região Centro-Oeste com 16,66 casos por 100 mil mulheres",
+      "Região Sudeste com 12,93 casos por 100 mil mulheres",
+      "Região Norte com 20,48 casos por 100 mil mulheres"
+    ],
+    "correctIndex": 4,
+    "explanation": "A Região Norte apresenta a maior taxa de incidência com 20,48 casos por 100 mil mulheres, refletindo possíveis desigualdades no acesso aos serviços de prevenção e rastreio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 42 anos, tabagista, com múltiplos parceiros sexuais ao longo da vida e diagnóstico recente de infecção por HPV 16. Qual fator NÃO representa risco adicional para progressão de lesões cervicais?",
+    "options": [
+      "Infecção persistente por HPV 16 (tipo de alto risco oncogênico)",
+      "História familiar de câncer de mama em parente de primeiro grau",
+      "Baixo nível socioeconômico com dificuldade acesso à saúde",
+      "Multiplicidade de parceiros sexuais ao longo da vida reprodutiva",
+      "Tabagismo crônico com consumo de 20 cigarros diários"
+    ],
+    "correctIndex": 1,
+    "explanation": "História familiar de câncer de mama não representa fator de risco adicional para progressão de lesões cervicais, enquanto tabagismo, HPV 16, múltiplos parceiros e baixo nível socioeconômico são fatores de risco estabelecidos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais tipos de HPV são responsáveis por aproximadamente 70% dos casos de câncer cervical?",
+    "options": [
+      "HPV 16 e 18 são responsáveis por 70% dos cânceres cervicais",
+      "HPV 31 e 33 são responsáveis por 70% dos cânceres cervicais",
+      "HPV 45 e 52 são responsáveis por 70% dos cânceres cervicais",
+      "HPV 56 e 58 são responsáveis por 70% dos cânceres cervicais",
+      "HPV 6 e 11 são responsáveis por 70% dos cânceres cervicais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os tipos 16 e 18 do HPV são responsáveis por aproximadamente 70% dos casos de câncer cervical em todo o mundo, sendo os mais frequentemente associados a lesões de alto grau e carcinoma invasor.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a porcentagem de regressão espontânea das infecções por HPV em até 2 anos?",
+    "options": [
+      "40-50% das infecções regridem espontaneamente em até 2 anos",
+      "80-90% das infecções regridem espontaneamente em até 2 anos",
+      "70-80% das infecções regridem espontaneamente em até 2 anos",
+      "60-70% das infecções regridem espontaneamente em até 2 anos",
+      "50-60% das infecções regridem espontaneamente em até 2 anos"
+    ],
+    "correctIndex": 1,
+    "explanation": "A maioria das infecções por HPV é transitória, com regressão espontânea em 80-90% dos casos em até dois anos, devido à resposta imunológica eficaz do hospedeiro.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os tipos de HPV considerados de baixo risco oncogênico?",
+    "options": [
+      "HPV 31 e 33 são considerados de baixo risco oncogênico",
+      "HPV 45 e 52 são considerados de baixo risco oncogênico",
+      "HPV 56 e 58 são considerados de baixo risco oncogênico",
+      "HPV 16 e 18 são considerados de baixo risco oncogênico",
+      "HPV 6 e 11 são considerados de baixo risco oncogênico"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os tipos 6 e 11 são considerados de baixo risco oncogênico, estando principalmente associados a condilomas acuminados (verrugas genitais) e raramente relacionados a lesões malignas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tempo médio entre a infecção persistente por HPV de alto risco e o desenvolvimento do câncer cervical?",
+    "options": [
+      "15 a 20 anos é o tempo médio entre infecção persistente e desenvolvimento do câncer",
+      "2 a 5 anos é o tempo médio entre infecção persistente e desenvolvimento do câncer",
+      "5 a 8 anos é o tempo médio entre infecção persistente e desenvolvimento do câncer",
+      "20 a 25 anos é o tempo médio entre infecção persistente e desenvolvimento do câncer",
+      "10 a 15 anos é o tempo médio entre infecção persistente e desenvolvimento do câncer"
+    ],
+    "correctIndex": 4,
+    "explanation": "O tempo médio entre a infecção persistente por HPV de alto risco e o desenvolvimento do câncer cervical é de 10 a 15 anos, o que oferece uma ampla janela de oportunidade para detecção e tratamento das lesões precursoras.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a porcentagem de infecções por HPV que evoluem para carcinoma invasor?",
+    "options": [
+      "15-25% das infecções evoluem para carcinoma invasor",
+      "Menos de 1% das infecções evoluem para carcinoma invasor",
+      "10-20% das infecções evoluem para carcinoma invasor",
+      "3-5% das infecções evoluem para carcinoma invasor",
+      "5-10% das infecções evoluem para carcinoma invasor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Apenas menos de 1% das infecções por HPV evoluem para carcinoma invasor, após passar pelos estágios de persistência viral e lesões precursoras.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com infecção por HPV 18 detectada há 3 anos mantém persistência viral. Considerando a história natural da infecção, qual é o risco mais provável de evolução nos próximos anos?",
+    "options": [
+      "Risco de 70-80% de desenvolver condilomas acuminados extensos pelo tempo de infecção",
+      "Risco de 20-30% de desenvolver carcinoma invasor imediato pela cronicidade da infecção",
+      "Risco de 3-5% de desenvolver lesões precursoras devido à persistência viral por HPV de alto risco",
+      "Risco de 90-95% de desenvolver adenocarcinoma em 2 anos pela virulência do tipo 18",
+      "Risco de 50-60% de regressão espontânea apesar da persistência documentada"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na história natural da infecção por HPV, apenas 3-5% das infecções persistentes evoluem para lesões precursoras, sendo este o risco mais provável para paciente com persistência de HPV 18 há 3 anos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com infecção transitória por HPV 6 apresenta lesões genitais. Qual a conduta mais adequada considerando o potencial oncogênico?",
+    "options": [
+      "Realizar histerectomia profilática pelo risco acumulado ao longo do tempo",
+      "Encaminhamento imediato para colposcopia devido ao risco elevado de progressão para câncer",
+      "Iniciar quimioterapia tópica devido ao potencial metastático do HPV 6",
+      "Indicação de conização profilática pela possibilidade de transformação maligna",
+      "Manejo conservador com acompanhamento, pois HPV 6 tem baixo risco oncogênico e alta taxa de regressão"
+    ],
+    "correctIndex": 4,
+    "explanation": "HPV 6 é de baixo risco oncogênico, associado principalmente a condilomas, com alta taxa de regressão espontânea. O manejo conservador com acompanhamento é a conduta mais adequada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o tipo de epitélio que reveste a ectocérvice?",
+    "options": [
+      "Epitélio glandular reveste a ectocérvice",
+      "Epitélio de transição reveste a ectocérvice",
+      "Epitélio pavimentoso estratificado não queratinizado reveste a ectocérvice",
+      "Epitélio cúbico simples reveste a ectocérvice",
+      "Epitélio colunar simples reveste a ectocérvice"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ectocérvice é revestida por epitélio pavimentoso estratificado não queratinizado, que é mais resistente e possui múltiplas camadas celulares em contato com o ambiente vaginal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal local de desenvolvimento de lesões precursoras e câncer cervical?",
+    "options": [
+      "Junção uterotubária é o principal local de desenvolvimento de lesões precursoras e câncer",
+      "Fundo vaginal é o principal local de desenvolvimento de lesões precursoras e câncer",
+      "Zona de transformação é o principal local de desenvolvimento de lesões precursoras e câncer",
+      "Ectocérvice distal é o principal local de desenvolvimento de lesões precursoras e câncer",
+      "Endocérvice profunda é o principal local de desenvolvimento de lesões precursoras e câncer"
+    ],
+    "correctIndex": 2,
+    "explanation": "A zona de transformação, área entre a JEC original e a nova JEC onde ocorre a metaplasia escamosa, é o principal local de desenvolvimento de lesões precursoras e câncer cervical.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual característica torna a zona de transformação particularmente vulnerável à infecção pelo HPV?",
+    "options": [
+      "Ausência de vascularização na área de transformação dificulta resposta imune",
+      "Espessamento do epitélio escamoso proporciona barreira protetora inadequada",
+      "Produção excessiva de muco cervical cria ambiente favorável à replicação viral",
+      "Presença de células ciliadas aumenta a aderência viral ao epitélio",
+      "Intensa atividade celular durante a metaplasia escamosa facilita a entrada do vírus"
+    ],
+    "correctIndex": 4,
+    "explanation": "A zona de transformação apresenta intensa atividade celular durante o processo de metaplasia escamosa, o que facilita a entrada do vírus HPV e o estabelecimento da infecção persistente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Durante o exame preventivo, qual área anatômica deve ser priorizada na coleta citológica para garantir amostra adequada?",
+    "options": [
+      "Fundo de saco vaginal posterior deve ser priorizado por acumular células descamadas",
+      "Zona de transformação deve ser priorizada por ser principal local de desenvolvimento de lesões",
+      "Orifício externo do colo deve ser priorizado por concentrar células glandulares",
+      "Ectocérvice distal deve ser priorizada por apresentar epitélio mais espesso",
+      "Endocérvice profunda deve ser priorizada por abrigar células reservatórios virais"
+    ],
+    "correctIndex": 1,
+    "explanation": "A zona de transformação deve ser priorizada na coleta citológica por ser o principal local de desenvolvimento de lesões precursoras e câncer cervical, garantindo que células desta área sejam adequadamente amostradas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a faixa etária da população-alvo para rastreio do câncer de colo uterino no Brasil?",
+    "options": [
+      "Mulheres de 30 a 70 anos constituem a população-alvo para rastreio no Brasil",
+      "Mulheres de 21 a 65 anos constituem a população-alvo para rastreio no Brasil",
+      "Mulheres de 18 a 60 anos constituem a população-alvo para rastreio no Brasil",
+      "Mulheres de 35 a 75 anos constituem a população-alvo para rastreio no Brasil",
+      "Mulheres de 25 a 64 anos constituem a população-alvo para rastreio no Brasil"
+    ],
+    "correctIndex": 4,
+    "explanation": "No Brasil, a população-alvo para rastreio do câncer de colo uterino são mulheres de 25 a 64 anos, incluindo as gestantes que seguem a mesma rotina de rastreio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o intervalo recomendado para rastreio do câncer de colo uterino no Brasil após dois exames normais consecutivos?",
+    "options": [
+      "A cada 4 anos após 2 exames normais consecutivos com intervalo anual",
+      "A cada 6 anos após 2 exames normais consecutivos com intervalo anual",
+      "A cada 5 anos após 2 exames normais consecutivos com intervalo anual",
+      "A cada 3 anos após 2 exames normais consecutivos com intervalo anual",
+      "A cada 2 anos após 2 exames normais consecutivos com intervalo anual"
+    ],
+    "correctIndex": 3,
+    "explanation": "O intervalo recomendado é a cada 3 anos após 2 exames normais consecutivos com intervalo anual, periodicidade que otimiza recursos sem comprometer a segurança do programa de rastreio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual grupo de mulheres deve realizar rastreio anual devido ao maior risco de progressão?",
+    "options": [
+      "Mulheres com história familiar de câncer de mama devem realizar rastreio anual",
+      "Mulheres com menopausa precoce devem realizar rastreio anual",
+      "Mulheres com múltiplas gestações devem realizar rastreio anual",
+      "Mulheres HIV positivas e imunossuprimidas devem realizar rastreio anual",
+      "Mulheres com miomatose uterina devem realizar rastreio anual"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mulheres HIV positivas e imunossuprimidas devem realizar rastreio anual devido ao maior risco de progressão das lesões precursoras para câncer invasor.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que não há necessidade de rastreio para mulheres abaixo de 25 anos?",
+    "options": [
+      "O desenvolvimento do câncer leva 10 a 15 anos e infecções são frequentemente transitórias nessa faixa",
+      "A maturidade celular só é alcançada após os 25 anos com estabilização do epitélio cervical",
+      "A atividade sexual geralmente se inicia após os 25 anos na maioria das populações",
+      "A vacinação contra HPV é universalmente eficaz antes dos 25 anos prevenindo totalmente o câncer",
+      "O sistema imunológico é imaturo antes dos 25 anos não respondendo adequadamente ao rastreio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Não há necessidade de rastreio abaixo de 25 anos porque o desenvolvimento do câncer cervical leva 10 a 15 anos e as infecções por HPV nessa faixa etária são frequentemente transitórias, com alta taxa de regressão espontânea.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a recomendação para mulheres com história de NIC II/III após os 64 anos?",
+    "options": [
+      "Realizar apenas exames clínicos sem citologia após os 64 anos",
+      "Realizar histerectomia profilática aos 64 anos",
+      "Manter rastreio anual vitalício após os 64 anos",
+      "Interromper completamente o rastreio após os 64 anos",
+      "Manter seguimento por 5 anos mesmo após os 64 anos"
+    ],
+    "correctIndex": 4,
+    "explanation": "Mulheres com história de NIC II/III devem manter seguimento por 5 anos mesmo após os 64 anos devido ao risco residual de recorrência ou progressão de lesões.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 68 anos, assintomática, com último exame citológico normal aos 63 anos e história prévia de NIC III tratada com conização aos 55 anos. Qual conduta de rastreio mais adequada?",
+    "options": [
+      "Realizar apenas teste HPV sem citologia pelos próximos 3 anos",
+      "Encaminhar para histerectomia profilática pelo histórico de NIC III",
+      "Manter seguimento por mais 2 anos completando 5 anos de acompanhamento pós-64 anos",
+      "Indicar colposcopia de rotina anual pelo resto da vida",
+      "Interromper rastreio imediatamente pela idade e último exame normal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mulheres com história de NIC II/III devem manter seguimento por 5 anos mesmo após os 64 anos. Como a paciente tem 68 anos e história de NIC III, deve completar os 5 anos de acompanhamento pós-64 anos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a sensibilidade da citologia convencional (Papanicolau) para detecção de lesões precursoras?",
+    "options": [
+      "80-90% é a sensibilidade da citologia convencional para detecção de lesões precursoras",
+      "50-70% é a sensibilidade da citologia convencional para detecção de lesões precursoras",
+      "90-95% é a sensibilidade da citologia convencional para detecção de lesões precursoras",
+      "40-60% é a sensibilidade da citologia convencional para detecção de lesões precursoras",
+      "70-80% é a sensibilidade da citologia convencional para detecção de lesões precursoras"
+    ],
+    "correctIndex": 1,
+    "explanation": "A citologia convencional apresenta sensibilidade de 50-70% para detecção de lesões precursoras, o que limita sua eficácia como método isolado de rastreio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual método de rastreio apresenta sensibilidade de 90-95% para detecção de lesões precursoras?",
+    "options": [
+      "Teste de DNA HPV apresenta sensibilidade de 90-95% para lesões precursoras",
+      "Citologia convencional apresenta sensibilidade de 90-95% para lesões precursoras",
+      "Citologia em base líquida apresenta sensibilidade de 90-95% para lesões precursoras",
+      "Colposcopia de rotina apresenta sensibilidade de 90-95% para lesões precursoras",
+      "Inspeção visual com ácido acético apresenta sensibilidade de 90-95% para lesões precursoras"
+    ],
+    "correctIndex": 0,
+    "explanation": "O teste de DNA HPV apresenta sensibilidade superior de 90-95% para detecção de lesões precursoras, comparado à citologia convencional (50-70%) e base líquida (70-80%).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a vantagem da citologia em base líquida em comparação com a citologia convencional?",
+    "options": [
+      "Não requer treinamento específico para coleta e pode ser realizado por pacientes",
+      "Dispensa necessidade de fixação imediata e permite armazenamento prolongado",
+      "Menor custo operacional e maior rapidez no processamento das amostras",
+      "Permite diagnóstico histológico completo além da avaliação citológica",
+      "Maior sensibilidade (70-80%) e menor índice de amostras insatisfatórias"
+    ],
+    "correctIndex": 4,
+    "explanation": "A citologia em base líquida apresenta maior sensibilidade (70-80%) e menor índice de amostras insatisfatórias em comparação com a citologia convencional, além de permitir testes reflexos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual técnica de detecção de HPV é considerada semi-quantitativa e detecta 13 tipos de alto risco?",
+    "options": [
+      "Imuno-histoquímica é método semi-quantitativo que detecta 13 tipos de HPV de alto risco",
+      "PCR em tempo real é método semi-quantitativo que detecta 13 tipos de HPV de alto risco",
+      "Captura Híbrida 2 é método semi-quantitativo que detecta 13 tipos de HPV de alto risco",
+      "Western blot é método semi-quantitativo que detecta 13 tipos de HPV de alto risco",
+      "Sequenciamento genético é método semi-quantitativo que detecta 13 tipos de HPV de alto risco"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Captura Híbrida 2 é um método semi-quantitativo que detecta 13 tipos de HPV de alto risco (16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59 e 68), sem diferenciar tipos específicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 35 anos comparece para rastreio rotineiro. Considerando disponibilidade de recursos e evidências atuais, qual método oferece melhor custo-efetividade a longo prazo?",
+    "options": [
+      "Colposcopia de rotina bienal oferece melhor custo-efetividade pela acurácia diagnóstica",
+      "Teste de DNA HPV com intervalo de 5 anos oferece melhor custo-efetividade pela maior sensibilidade",
+      "Inspeção visual semestral oferece melhor custo-efetividade pela simplicidade técnica",
+      "Co-teste anual oferece melhor custo-efetividade pela combinação de métodos complementares",
+      "Citologia convencional anual oferece melhor custo-efetividade pela ampla disponibilidade"
+    ],
+    "correctIndex": 1,
+    "explanation": "O teste de DNA HPV com intervalo de 5 anos oferece melhor custo-efetividade a longo prazo devido à maior sensibilidade (90-95%) e maior intervalo entre exames, apesar do custo inicial mais elevado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual categoria do Sistema Bethesda representa 'células escamosas atípicas de significado indeterminado'?",
+    "options": [
+      "ASC-US representa células escamosas atípicas de significado indeterminado",
+      "ASC-H representa células escamosas atípicas de significado indeterminado",
+      "AGC representa células escamosas atípicas de significado indeterminado",
+      "LSIL representa células escamosas atípicas de significado indeterminado",
+      "HSIL representa células escamosas atípicas de significado indeterminado"
+    ],
+    "correctIndex": 0,
+    "explanation": "ASC-US (Atypical Squamous Cells of Undetermined Significance) representa células escamosas atípicas de significado indeterminado no Sistema Bethesda de classificação citológica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta recomendada para resultado citológico de ASC-US em mulher de 30 anos?",
+    "options": [
+      "Interromper rastreio por 5 anos considerando baixo risco de malignidade",
+      "Indicar conização imediata sem necessidade de confirmação diagnóstica",
+      "Realizar histerectomia profilática devido ao risco de progressão",
+      "Repetir citologia em 12 meses ou teste de HPV reflexo conforme protocolo de manejo",
+      "Encaminhamento imediato para colposcopia independente de outros fatores"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para ASC-US em mulher de 30 anos, a conduta recomendada é repetir citologia em 12 meses ou realizar teste de HPV reflexo, seguindo os algoritmos de manejo baseados em evidências.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual categoria citológica corresponde à lesão intraepitelial escamosa de alto grau (NIC II e III)?",
+    "options": [
+      "HSIL corresponde à lesão intraepitelial escamosa de alto grau (NIC II e III)",
+      "LSIL corresponde à lesão intraepitelial escamosa de alto grau (NIC II e III)",
+      "ASC-US corresponde à lesão intraepitelial escamosa de alto grau (NIC II e III)",
+      "ASC-H corresponde à lesão intraepitelial escamosa de alto grau (NIC II e III)",
+      "AGC corresponde à lesão intraepitelial escamosa de alto grau (NIC II e III)"
+    ],
+    "correctIndex": 0,
+    "explanation": "HSIL (High-Grade Squamous Intraepithelial Lesion) corresponde à lesão intraepitelial escamosa de alto grau, abrangendo NIC II e III no Sistema Bethesda.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta para resultado citológico de células glandulares atípicas (AGC) em mulher de 40 anos?",
+    "options": [
+      "Colposcopia + curetagem endocervical + avaliação endometrial pela idade e sangramento",
+      "Encaminhamento imediato para histerectomia radical pelo risco elevado",
+      "Realizar apenas teste HPV e aguardar resultado para definição de conduta",
+      "Indicar quimioterapia tópica seguida de reevaliação em 3 meses",
+      "Apenas repetir citologia em 6 meses para confirmação diagnóstica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para AGC em mulher de 40 anos, a conduta recomendada é colposcopia + curetagem endocervical + avaliação endometrial, especialmente em mulheres acima de 35 anos ou com sangramento anormal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 28 anos apresenta resultado citológico de ASC-H. Qual a conduta mais adequada considerando o potencial biológico desta alteração?",
+    "options": [
+      "Interromper rastreio por 3 anos considerando baixa probabilidade de progressão",
+      "Indicar tratamento excisional imediato sem confirmação histológica",
+      "Repetir citologia em 12 meses conforme protocolo para ASC-US",
+      "Realizar apenas teste HPV e aguardar resultado para definir conduta",
+      "Encaminhamento para colposcopia imediata por não poder excluir lesão de alto grau"
+    ],
+    "correctIndex": 4,
+    "explanation": "ASC-H (não pode excluir lesão de alto grau) requer encaminhamento para colposcopia imediata devido ao maior risco de associação com lesões precursoras de alto grau.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual NÃO é indicação para realização de colposcopia?",
+    "options": [
+      "Rastreio de rotina em mulheres assintomáticas com citologia normal",
+      "Alterações na citologia oncótica como ASC-H, LSIL ou HSIL",
+      "IVA positiva (inspeção visual com ácido acético) durante exame ginecológico",
+      "Seguimento pós-tratamento de lesões precursoras de alto grau",
+      "HPV oncogênico positivo (especialmente tipos 16 e 18) em rastreio primário"
+    ],
+    "correctIndex": 0,
+    "explanation": "Colposcopia NÃO é exame de rastreio e não deve ser realizada em mulheres assintomáticas com citologia normal. Suas indicações incluem alterações citológicas, IVA positiva, seguimento pós-tratamento e HPV oncogênico positivo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza um teste de Schiller positivo durante a colposcopia?",
+    "options": [
+      "Presença de vasos atípicos que sangram ao contato com o espéculo",
+      "Ausência completa de reação ao ácido acético aplicado previamente",
+      "Áreas do colo uterino que não absorvem iodo e não se coram com Lugol",
+      "Visualização completa da junção escamo-colunar sem áreas de transição",
+      "Coloração homogênea marrom escuro de todo o epitélio cervical"
+    ],
+    "correctIndex": 2,
+    "explanation": "Teste de Schiller positivo ocorre quando há áreas do colo uterino que não absorvem o iodo e não se coram com a solução de Lugol, indicando possível presença de células displásicas ou neoplásicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com citologia HSIL e colposcopia satisfatória mostra área de epitélio acetobranco denso com mosaico grosseiro. Qual conduta imediata?",
+    "options": [
+      "Indicar histerectomia radical pelo achado colposcópico sugestivo",
+      "Realizar conização imediata sem confirmação histológica prévia",
+      "Biópsia dirigida da área anormal para confirmação histológica",
+      "Apenas repetir colposcopia em 6 meses para reavaliação",
+      "Realizar teste HPV para confirmar etiologia viral antes de biópsia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na colposcopia satisfatória com achados sugestivos de lesão de alto grau (epitélio acetobranco denso, mosaico grosseiro), a conduta imediata é biópsia dirigida para confirmação histológica antes de qualquer tratamento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual método de tratamento de lesões precursoras preserva material para análise histológica completa?",
+    "options": [
+      "Crioterapia profunda preserva material para análise histológica completa",
+      "Eletrocoagulação superficial preserva material para análise histológica completa",
+      "Vaporização a laser preserva material para análise histológica completa",
+      "Terapia fotodinâmica tópica preserva material para análise histológica completa",
+      "Conização a frio com bisturi preserva material para análise histológica completa"
+    ],
+    "correctIndex": 4,
+    "explanation": "A conização a frio com bisturi preserva material para análise histológica completa, permitindo avaliação das margens e confirmação diagnóstica, diferentemente dos métodos ablativos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual vacina contra HPV está disponível no SUS e protege contra os tipos 6, 11, 16 e 18?",
+    "options": [
+      "Vacina pentavalente protege contra HPV 6, 11, 16 e 18 e está disponível no SUS",
+      "Vacina quadrivalente protege contra HPV 6, 11, 16 e 18 e está disponível no SUS",
+      "Vacina bivalente protege contra HPV 6, 11, 16 e 18 e está disponível no SUS",
+      "Vacina octavalente protege contra HPV 6, 11, 16 e 18 e está disponível no SUS",
+      "Vacina nonavalente protege contra HPV 6, 11, 16 e 18 e está disponível no SUS"
+    ],
+    "correctIndex": 1,
+    "explanation": "A vacina quadrivalente protege contra os tipos 6, 11, 16 e 18 do HPV e está disponível no Sistema Único de Saúde (SUS) para a população-alvo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema vacinal padrão contra HPV no SUS para meninas de 9-14 anos?",
+    "options": [
+      "Duas doses (0 e 6 meses) é o esquema padrão para meninas de 9-14 anos no SUS",
+      "Quatro doses (0, 1, 6 e 12 meses) é o esquema padrão para meninas de 9-14 anos no SUS",
+      "Dose única anual por 3 anos é o esquema padrão para meninas de 9-14 anos no SUS",
+      "Três doses (0, 2 e 6 meses) é o esquema padrão para meninas de 9-14 anos no SUS",
+      "Uma dose é o esquema padrão para meninas de 9-14 anos no SUS"
+    ],
+    "correctIndex": 4,
+    "explanation": "O esquema padrão no SUS para meninas de 9-14 anos é de uma dose única, considerada suficiente para induzir títulos de anticorpos protetores em pessoas jovens com sistema imunológico competente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual vacina contra HPV oferece proteção potencial de até 90% contra os tipos relacionados ao câncer cervical?",
+    "options": [
+      "Vacina nonavalente oferece proteção de até 90% contra tipos relacionados ao câncer cervical",
+      "Vacina pentavalente oferece proteção de até 90% contra tipos relacionados ao câncer cervical",
+      "Vacina quadrivalente oferece proteção de até 90% contra tipos relacionados ao câncer cervical",
+      "Vacina bivalente oferece proteção de até 90% contra tipos relacionados ao câncer cervical",
+      "Vacina heptavalente oferece proteção de até 90% contra tipos relacionados ao câncer cervical"
+    ],
+    "correctIndex": 0,
+    "explanation": "A vacina nonavalente (Gardasil 9V) amplia a cobertura para HPV 6, 11, 16, 18, 31, 33, 45, 52 e 58, elevando a proteção contra o câncer cervical para aproximadamente 90%.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Menina de 13 anos comparece para vacinação contra HPV no SUS. Qual esquema deve ser oferecido considerando as diretrizes atuais?",
+    "options": [
+      "Duas doses de vacina nonavalente com intervalo de 0 e 6 meses",
+      "Uma dose de vacina quadrivalente conforme população-alvo de 9-14 anos",
+      "Três doses de vacina bivalente com intervalo de 0, 1 e 6 meses",
+      "Duas doses de vacina quadrivalente com intervalo de 0 e 12 meses",
+      "Três doses de vacina quadrivalente com intervalo de 0, 2 e 6 meses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para menina de 13 anos na população-alvo do SUS (9-14 anos), o esquema é uma dose única de vacina quadrivalente, conforme as diretrizes do Programa Nacional de Imunizações.",
+    "type": "raciocínio"
+  }
+]

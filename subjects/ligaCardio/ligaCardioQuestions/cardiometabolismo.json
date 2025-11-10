@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Qual é o principal objetivo da abordagem cardiometabólica na prática clínica?",
+    "options": [
+      "Tratar exclusivamente doenças cardiovasculares estabelecidas com intervenções cirúrgicas e farmacológicas avançadas específicas",
+      "Prevenir eventos cardiovasculares mediante controle integrado de fatores de risco metabólicos (obesidade, diabetes, dislipidemia)",
+      "Focar no manejo farmacológico da hipertensão arterial sistêmica sem considerar componentes metabólicos ou endócrinos",
+      "Promover perda de peso corporal por meio de restrições dietéticas rigorosas ignorando a fisiopatologia subjacente",
+      "Gerenciar condições respiratórias como apneia obstrutiva do sono de forma isolada da saúde cardiovascular sistêmica"
+    ],
+    "correctIndex": 1,
+    "explanation": "A cardiometabolismo visa a prevenção de eventos cardiovasculares através de uma abordagem multidisciplinar que integra cardiologia, endocrinologia e outras especialidades para controlar fatores de risco metabólicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a FDA passou a exigir ensaios de segurança cardiovascular para novos medicamentos antidiabéticos após 2010?",
+    "options": [
+      "Devido a preocupações com hipoglicemia grave observada em ensaios clínicos iniciais de sulfoniluréias",
+      "Porque a rosiglitazona demonstrou aumentar o risco de infarto do miocárdio apesar de controlar glicemia",
+      "Devido a interações medicamentosas graves com anticoagulantes orais comumente usados em cardiologia clínica",
+      "Para garantir que os medicamentos não causem ganho de peso corporal como efeito colateral metabólico",
+      "Porque pacientes diabéticos frequentemente têm insuficiência renal crônica que afeta metabolismo dos fármacos"
+    ],
+    "correctIndex": 1,
+    "explanation": "A rosiglitazona foi associada a aumento de risco cardiovascular, levando à exigência de que todos os novos antidiabéticos demonstrem segurança cardiovascular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com a Obesity Medicine Association (OMA), como a obesidade é definida?",
+    "options": [
+      "Condição caracterizada exclusivamente por consumo calórico excessivo e redução do gasto energético basal total",
+      "Doença neurocomportamental multifatorial crônica progressiva na qual o aumento da adiposidade promove disfunção tecidual",
+      "Estado definido apenas por índice de massa corpórea maior que 30 kg/m² sem considerar outros fatores fisiopatológicos",
+      "Problema cosmético que pode ser resolvido com dieta voluntária e exercício físico sem intervenções adicionais",
+      "Desordem primariamente genética que não pode ser modificada por intervenções farmacológicas ou comportamentais"
+    ],
+    "correctIndex": 1,
+    "explanation": "A OMA define obesidade como uma doença complexa com componentes biológicos, psicológicos e ambientais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o valor de circunferência abdominal que indica risco metabólico muito aumentado em homens?",
+    "options": [
+      "≥94 cm segundo critérios da Organização Mundial da Saúde",
+      "≥102 cm segundo critérios da Organização Mundial da Saúde",
+      "≥88 cm segundo critérios da Organização Mundial da Saúde",
+      "≥80 cm segundo critérios da Organização Mundial da Saúde",
+      "≥110 cm segundo critérios da Organização Mundial da Saúde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Segundo a OMS, valores ≥102 cm em homens indicam risco muito aumentado para complicações metabólicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes NÃO é considerado um fator multifatorial da obesidade?",
+    "options": [
+      "Fatores biológicos como controle cerebral do apetite e da fome regulados por hormônios",
+      "Fatores genéticos responsáveis por 40-70% da variação do peso corporal entre indivíduos",
+      "Dependência exclusiva da força de vontade para controle ponderal ignorando influências biológicas e ambientais",
+      "Fatores psicológicos como estresse emocional e angústia que afetam o apetite e comportamento alimentar",
+      "Fatores sociais incluindo desigualdades econômicas e de acesso à saúde e alimentos saudáveis"
+    ],
+    "correctIndex": 2,
+    "explanation": "A obesidade é influenciada por múltiplos fatores, e a ideia de que depende apenas da vontade é um equívoco.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a consequência primária do tecido adiposo disfuncional na obesidade?",
+    "options": [
+      "Melhora da sensibilidade à insulina periférica e redução da pressão arterial sistêmica",
+      "Aumento da massa muscular esquelética e captação de glicose pelos miócitos",
+      "Resistência à insulina, produção de citocinas inflamatórias e dislipidemia aterogênica",
+      "Prevenção do diabetes tipo 2 por estabilização glicêmica e melhora da função de células beta",
+      "Causa de falência hepática fulminante imediata por acúmulo de gordura em hepatócitos"
+    ],
+    "correctIndex": 2,
+    "explanation": "O tecido adiposo disfuncional libera mediadores inflamatórios que promovem resistência insulínica e alterações lipídicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como a deposição ectópica de gordura no pâncreas contribui para o diabetes?",
+    "options": [
+      "Melhora a função das células beta pancreáticas por fornecimento adicional de energia metabólica",
+      "Causa pancreatite aguda necro-hemorrágica que reduz os níveis glicêmicos por perda de função",
+      "Leva a esteatose pancreática prejudicando a secreção de insulina e aumentando o glucagon",
+      "Não tem efeito significativo na função endócrina pancreática de células alfa e beta",
+      "Aumenta a sensibilidade à insulina nos tecidos periféricos por mecanismo compensatório hormonal"
+    ],
+    "correctIndex": 2,
+    "explanation": "A gordura ectópica no pâncreas compromete a função das células beta e alfa, exacerbando a hiperglicemia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o papel da resistência à insulina hepática no desenvolvimento da dislipidemia aterogênica?",
+    "options": [
+      "Aumenta a produção de VLDL levando a triglicerídeos elevados e partículas de LDL pequenas e densas",
+      "Reduz os níveis de colesterol LDL por aumento da depuração mediada por receptores hepáticos",
+      "Promove a produção de HDL colesterol aumentado reduzindo o risco cardiovascular aterosclerótico",
+      "Não impacta o metabolismo lipídico hepático afetando apenas a homeostase da glicose sanguínea",
+      "Causa colestase biliar e reduz a síntese de ácidos biliares prejudicando absorção lipídica"
+    ],
+    "correctIndex": 0,
+    "explanation": "A resistência insulínica hepática aumenta a síntese de VLDL, resultando em perfil lipídico aterogênico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo de ação dos agonistas do receptor de GLP-1 na perda de peso?",
+    "options": [
+      "Atuam no cérebro para aumentar saciedade, no estômago para retardar esvaziamento e no pâncreas modulando insulina e glucagon",
+      "Aumentam a taxa metabólica basal através da estimulação direta da função tireoidiana por hormônios tireotróficos",
+      "Bloqueiam a absorção de gorduras no intestino delgado via inibição enzimática de lipases pancreáticas",
+      "Causam catabolismo muscular proteico para reduzir a massa corporal total por balanço nitrogenado negativo",
+      "Suprimem o apetite exclusivamente por ação em receptores de serotonina no sistema nervoso central"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os agonistas de GLP-1 têm múltiplos sítios de ação que contribuem para a saciedade e controle glicêmico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que ocorre reganho de peso após a interrupção dos agonistas de GLP-1?",
+    "options": [
+      "Adaptação metabólica com redução do gasto energético e aumento de hormônios da fome aliada à falta de mudanças lifestyle permanentes",
+      "Danos permanentes aos adipócitos por apoptose celular que impedem a manutenção do peso corporal alcançado",
+      "Desenvolvimento de imunidade à medicação após uso prolongado com formação de anticorpos neutralizantes",
+      "Efeitos cumulativos farmacológicos que exigem dosagem contínua para benefício sustentado a longo prazo",
+      "Retenção hídrica causada pela medicação com aumento do volume extracelular e edema periférico"
+    ],
+    "correctIndex": 0,
+    "explanation": "O organismo compensa a perda de peso com mecanismos que promovem fome e reduzem gasto energético.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a progressão típica da doença hepática esteatótica metabólica (MASLD)?",
+    "options": [
+      "Fígado normal → Esteatose (MASLD) → Esteato-hepatite (MASH) → Fibrose progressiva → Cirrose hepática",
+      "Esteatose hepática → Hepatite → Fibrose → Resolução espontânea com regeneração hepatocitária completa",
+      "Fígado normal → Cirrose hepática descompensada sem estágios intermediários de evolução fisiopatológica",
+      "Esteatose → Falência hepática aguda fulminante → Carcinoma hepatocelular → Transplante hepático emergencial",
+      "Inflamação → Fibrose → Esteatose → Cirrose micronodular em ordem fisiopatológica inversa"
+    ],
+    "correctIndex": 0,
+    "explanation": "A MASLD progride desde esteatose simples até cirrose através de estágios de inflamação e fibrose.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como a apneia do sono contribui para doenças cardiovasculares?",
+    "options": [
+      "Causa hipóxia recorrente e fragmentação do sono levando à ativação simpática estresse oxidativo e inflamação sistêmica",
+      "Afeta apenas a sonolência diurna excessiva sem consequências metabólicas ou cardiovasculares significativas",
+      "Melhora a saúde cardiovascular por redução do estresse durante o sono com relaxamento muscular",
+      "Causa bradicardia sinusal e hipotensão arterial reduzindo a carga cardíaca e consumo de oxigênio miocárdico",
+      "Não tem ligação com obesidade central ou diabetes mellitus tipo 2 descompensado"
+    ],
+    "correctIndex": 0,
+    "explanation": "A apneia do sono induz alterações fisiopatológicas que promovem hipertensão, resistência insulínica e síndrome metabólica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais complicações renais estão associadas à síndrome metabólica?",
+    "options": [
+      "Hipertensão glomerular proteinúria e fibrose progressiva por estresse oxidativo e inflamação sistêmica crônica",
+      "Aumento do fluxo sanguíneo renal com melhora da função excretora e filtração glomerular aumentada",
+      "Redução dos níveis de ácido úrico sérico prevenindo gota e artropatia por deposição de cristais",
+      "Excreção de sódio urinária aumentada causando hipotensão arterial e hipovolemia relativa",
+      "Nenhum impacto significativo na função renal ou estrutura glomerular a longo prazo"
+    ],
+    "correctIndex": 0,
+    "explanation": "A síndrome metabólica promove injúria renal através de mecanismos hemodinâmicos e inflamatórios.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a força da recomendação e certeza da evidência para dieta e atividade física no manejo do risco cardiometabólico?",
+    "options": [
+      "Recomendação forte com certeza alta para dieta e certeza moderada para atividade física segundo diretrizes atuais",
+      "Recomendação fraca com certeza baixa para ambos sem evidências robustas de ensaios clínicos randomizados",
+      "Forte apenas para intervenções farmacológicas sem evidência para mudanças de estilo de vida",
+      "Moderada para dieta e alta para atividade física segundo metanálises de ensaios clínicos",
+      "Recomendada apenas para pacientes sem obesidade estabelecida ou síndrome metabólica completa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Baseado nas diretrizes, dieta tem evidência alta e atividade física moderada, ambas com recomendação forte.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual percentual de perda de peso está associado à remissão do diabetes tipo 2?",
+    "options": [
+      "0-5% do peso corporal inicial",
+      "5-10% do peso corporal inicial",
+      "10-15% do peso corporal inicial",
+      "Maior que 15% do peso corporal inicial",
+      "20-25% do peso corporal inicial"
+    ],
+    "correctIndex": 3,
+    "explanation": "Estudos mostram que perda >15% do peso corporal pode levar à remissão do diabetes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um homem de 45 anos com IMC 32 kg/m², circunferência abdominal de 100 cm, hipertensão e dislipidemia busca avaliação. Qual conduta é mais adequada?",
+    "options": [
+      "Avaliar componentes da síndrome metabólica (glicemia perfil lipídico PA) e implementar mudanças de estilo de vida com manejo farmacológico",
+      "Recomendar cirurgia bariátrica imediata devido à obesidade grau I com comorbidades metabólicas associadas",
+      "Prescrever agonistas de GLP-1 sem avaliação prévia do risco cardiovascular e perfil metabólico completo",
+      "Focar apenas em orientações dietéticas para perda de peso ignorando comorbidades metabólicas presentes",
+      "Solicitar polissonografia para investigação de apneia do sono como investigação primária isolada"
+    ],
+    "correctIndex": 0,
+    "explanation": "A abordagem integrada é essencial para manejar síndrome metabólica e prevenir complicações.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com obesidade central e elevação de enzimas hepáticas apresenta esteatose hepática ao ultrassom. Qual é o próximo passo?",
+    "options": [
+      "Avaliar a gravidade da MASLD com escores de fibrose ou biópsia hepática e implementar mudanças de estilo de vida",
+      "Iniciar tratamento imediato com ácido ursodesoxicólico para colestase biliar sem investigação adicional",
+      "Encaminhar para avaliação de transplante hepático devido ao alto risco de cirrose descompensada",
+      "Prescrever estatinas apenas para dislipidemia sem monitorização hepática ou avaliação de fibrose",
+      "Recomendar dieta rica em carboidratos simples para reduzir gordura hepática por mecanismo compensatório"
+    ],
+    "correctIndex": 0,
+    "explanation": "A estratificação de risco e intervenções no estilo de vida são fundamentais no manejo da MASLD.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com diabetes tipo 2 e obesidade deseja iniciar terapia com agonistas de GLP-1. O que deve ser considerado?",
+    "options": [
+      "Garantir que o paciente compreenda a necessidade de uso prolongado (mínimo 2 anos) e compromisso com mudanças de estilo de vida",
+      "Prescrever para uso curto de 3 meses para perda de peso rápida sem monitorização adicional",
+      "Recomendar apenas se a função renal estiver completamente normal com clearance de creatinina acima de 90 mL/min",
+      "Evitar em todos os pacientes diabéticos devido ao risco aumentado de hipoglicemia grave sintomática",
+      "Usar como terapia de primeira linha sem considerar outros antidiabéticos orais ou mudanças de estilo de vida"
+    ],
+    "correctIndex": 0,
+    "explanation": "O sucesso terapêutico exige uso prolongado e abordagem multifatorial.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com obesidade, diabetes e hipertensão apresenta creatinina sérica elevada e proteinúria. Qual é a fisiopatologia subjacente mais provável?",
+    "options": [
+      "Doença renal diabática exacerbada pela síndrome metabólica com hiperfiltração glomerular disfunção endotelial e vias inflamatórias levando à fibrose",
+      "Necrose tubular aguda por desidratação e hipovolemia sem relação com fatores metabólicos sistêmicos",
+      "Uropatia obstrutiva baixa por aumento prostático benigno com hidronefrose bilateral progressiva",
+      "Glomerulonefrite autoimune mediada por imunocomplexos sem relação com fatores metabólicos presentes",
+      "Estenose da artéria renal unilateral aterosclerótica como causa primária de hipertensão renovascular"
+    ],
+    "correctIndex": 0,
+    "explanation": "A síndrome metabólica acelera a nefropatia diabática através de mecanismos hemodinâmicos e inflamatórios.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 50 anos com síndrome metabólica busca orientação para prevenção. Qual abordagem é mais abrangente?",
+    "options": [
+      "Implementar modificações de estilo de vida (dieta balanceada exercício regular cessação do tabagismo e moderação alcoólica) com monitorização e manejo de fatores de risco individuais",
+      "Focar apenas em medicamentos para perda de peso sem mudanças de estilo de vida ou modificações comportamentais",
+      "Recomendar intervenção cirúrgica bariátrica como tratamento de primeira linha sem tentativa clínica prévia",
+      "Aconselhar suplementos fitoterápicos e nutracêuticos sem embasamento científico ou evidência clínica robusta",
+      "Aguardar o surgimento de sintomas cardiovasculares ou metabólicos para iniciar tratamento farmacológico específico"
+    ],
+    "correctIndex": 0,
+    "explanation": "A prevenção efetiva requer abordagem multifatorial e promoção de hábitos saudáveis.",
+    "type": "raciocínio"
+  }
+]

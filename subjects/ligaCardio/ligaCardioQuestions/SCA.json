@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Sobre a fisiopatologia da aterotrombose na SCA, qual é o evento inicial crítico?",
+    "options": [
+      "Vasoespasmo coronariano transitório induzido por estresse emocional ou físico intenso",
+      "Deposição progressiva de cálcio na camada média da parede arterial coronariana",
+      "Ruptura ou erosão de placa aterosclerótica com exposição do conteúdo lipídico trombogênico",
+      "Obstrução fixa do lume vascular por estenose calcificada de evolução crônica",
+      "Embolização de material ateromatoso originado de placas coronarianas proximais instáveis"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ruptura/erosão da placa aterosclerótica é o evento inicial que desencadeia a formação do trombo intracoronário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes afirmações melhor descreve a diferença fundamental entre angina estável e infarto agudo do miocárdio?",
+    "options": [
+      "A angina estável sempre apresenta supradesnivelamento do segmento ST ao ECG de repouso",
+      "O infarto caracteriza-se por necrose miocárdica com elevação de biomarcadores, enquanto a angina é isquemia reversível",
+      "A angina estável apresenta dor torácica com duração superior a 30 minutos, diferente do infarto",
+      "O infarto agudo do miocárdio ocorre apenas em pacientes com fatores de risco não controlados",
+      "A angina estável sempre requer intervenção coronária percutânea imediata para tratamento definitivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "O IAM envolve necrose miocárdica (troponina elevada), enquanto a angina representa isquemia reversível.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo as diretrizes atuais, qual é o tempo máximo recomendado para realização do ECG de 12 derivações após a chegada do paciente com dor torácica suspeita?",
+    "options": [
+      "5 minutos da chegada ao pronto-socorro",
+      "10 minutos da chegada ao pronto-socorro",
+      "20 minutos da chegada ao pronto-socorro",
+      "30 minutos da chegada ao pronto-socorro",
+      "60 minutos da chegada ao pronto-socorro"
+    ],
+    "correctIndex": 1,
+    "explanation": "Diretrizes recomendam ECG em até 10 minutos da chegada ao PS.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal mecanismo de ação dos trombolíticos como o TNK-tPA na SCA?",
+    "options": [
+      "Inibição da agregação plaquetária via bloqueio dos receptores P2Y12 e inibição de ADP",
+      "Ativação do plasminogênio para plasmina com consequente lise enzimática do trombo de fibrina",
+      "Bloqueio dos receptores beta-adrenérgicos com redução do consumo miocárdico de oxigênio",
+      "Vasodilatação coronariana direta através da liberação de óxido nítrico endotelial",
+      "Estabilização da placa aterosclerótica através de efeito anti-inflamatório sistêmico potente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trombolíticos ativam o sistema fibrinolítico endógeno, convertendo plasminogênio em plasmina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Sobre a troponina cardíaca como marcador de injúria miocárdica, é CORRETO afirmar:",
+    "options": [
+      "É um marcador absolutamente específico para infarto isquêmico coronariano agudo",
+      "Pode elevar-se em outras condições como embolia pulmonar, sepse grave e trauma cardíaco",
+      "Mantém-se invariavelmente normal mesmo em infartos extensos de parede anterior do VE",
+      "Sua elevação ocorre apenas após 12 horas do início dos sintomas isquêmicos",
+      "É o marcador preferencial para diagnóstico de angina instável sem necrose miocárdica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Troponina eleva-se em qualquer lesão miocárdica, não sendo específica apenas para IAM isquêmico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes características da dor torácica é MAIS SUGESTIVA de origem isquêmica coronariana?",
+    "options": [
+      "Dor em pontada aguda e localizada que piora nitidamente com a palpação local",
+      "Dor em queimação epigástrica difusa relacionada temporalmente à ingestão alimentar recente",
+      "Dor em aperto retroesternal com irradiação característica para membro superior esquerdo e mandíbula",
+      "Dor pleurítica lateralizada que piora significativamente com a inspiração profunda e tosse",
+      "Dor em faixa no hemitórax direito acompanhada de hiperestesia cutânea segmentar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dor retroesternal em aperto com irradiação característica é o padrão típico de isquemia coronariana.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No contexto do tratamento da SCA, qual é a principal indicação para uso de betabloqueadores na fase aguda?",
+    "options": [
+      "Redução da pressão arterial sistêmica em pacientes hipertensos assintomáticos estáveis",
+      "Diminuição do consumo de oxigênio miocárdico através da redução da FC e contratilidade",
+      "Prevenção de espasmo coronariano em pacientes com angina variante de Prinzmetal",
+      "Tratamento de primeira linha para insuficiência cardíaca descompensada classe IV",
+      "Reversão de distúrbios de condução atrioventricular de segundo e terceiro graus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Betabloqueadores reduzem demanda de oxigênio através da diminuição da FC e contratilidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a estratégia de reperfusão PREFERENCIAL para IAMCST quando disponível em tempo adequado?",
+    "options": [
+      "Angioplastia primária com implante de stent (ICP primária) em laboratório de hemodinâmica",
+      "Terapia fibrinolítica com estreptoquinase ou tenecteplase intravenosa em até 12 horas",
+      "Cirurgia de revascularização miocárdica emergencial com enxertos de safena e mamária",
+      "Tratamento clínico isolado com antiagregantes plaquetários duplos e anticoagulação plena",
+      "Angioplastia de resgate após falha da fibrinólise evidenciada por critérios eletrocardiográficos"
+    ],
+    "correctIndex": 0,
+    "explanation": "ICP primária é superior à fibrinólise quando disponível em tempo adequado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Sobre a terapia antiplaquetária dupla na SCA, qual das seguintes combinações é MAIS frequentemente utilizada?",
+    "options": [
+      "Ácido acetilsalicílico associado a varfarina oral em dose ajustada por INR",
+      "Clopidogrel associado a dabigatrana oral em dose fixa",
+      "Ácido acetilsalicílico associado a clopidogrel (ou ticagrelor/prasugrel)",
+      "Ticagrelor associado a enoxaparina subcutânea em dose terapêutica",
+      "Dipiridamol associado a heparina não fracionada intravenosa contínua"
+    ],
+    "correctIndex": 2,
+    "explanation": "AAS + clopidogrel constituem a DAPT padrão-ouro na SCA.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o critério eletrocardiográfico para diagnóstico de IAM com supradesnivelamento do segmento ST (IAMCST)?",
+    "options": [
+      "Supradesnivelamento do segmento ST ≥1 mm em pelo menos duas derivações contíguas",
+      "Infradesnivelamento do segmento ST ≥2 mm em derivações inferiores (DII, DIII, aVF)",
+      "Inversão de onda T simétrica e profunda em derivações pré-cordiais esquerdas",
+      "Prolongamento do intervalo QT corrigido acima de 480 ms em múltiplas derivações",
+      "Presença de bloqueio de ramo direito completo novo com QRS ≥120 ms"
+    ],
+    "correctIndex": 0,
+    "explanation": "Supra de ST ≥1mm em derivações contíguas é critério para IAMCST.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação aos fatores de risco para aterosclerose, qual dos seguintes NÃO é considerado fator de risco major modificável?",
+    "options": [
+      "Hipertensão arterial sistêmica descontrolada",
+      "Dislipidemia com LDL-colesterol elevado",
+      "Tabagismo ativo de qualquer intensidade",
+      "Idade avançada acima de 65 anos",
+      "Diabetes mellitus tipo 2 descompensado"
+    ],
+    "correctIndex": 3,
+    "explanation": "Idade é fator de risco não modificável.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tempo máximo aceitável para realização de angioplastia primária (porta-balão) quando o paciente é transferido de outro serviço?",
+    "options": [
+      "30 minutos da chegada ao hospital",
+      "60 minutos da chegada ao hospital",
+      "90 minutos da chegada ao hospital",
+      "120 minutos da chegada ao hospital",
+      "180 minutos da chegada ao hospital"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tempo porta-balão deve ser ≤90 minutos para pacientes transferidos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes é uma contraindicação ABSOLUTA para terapia fibrinolítica?",
+    "options": [
+      "Idade acima de 75 anos sem comorbidades graves associadas",
+      "Hipertensão arterial sistólica maior que 180 mmHg não controlada",
+      "Acidente vascular cerebral hemorrágico prévio em qualquer momento",
+      "Diabetes mellitus com retinopatia diabética proliferativa avançada",
+      "Cirurgia de grande porte realizada há 3 semanas do evento atual"
+    ],
+    "correctIndex": 2,
+    "explanation": "AVC hemorrágico prévio é contraindicação absoluta para fibrinólise.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Sobre o mnemônico MONABCH para tratamento adjuvante da SCA, a letra 'H' representa:",
+    "options": [
+      "Hidralazina para controle pressórico",
+      "Haloperidol para sedação e ansiedade",
+      "Heparina para anticoagulação plena",
+      "Hidroclorotiazida para controle diurético",
+      "Halotano para analgesia inalatória"
+    ],
+    "correctIndex": 2,
+    "explanation": "'H' representa Heparina no mnemônico MONABCH.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal complicação temida da terapia fibrinolítica que justifica suas contraindicações?",
+    "options": [
+      "Insuficiência renal aguda por nefrotoxicidade direta do fármaco",
+      "Hepatotoxicidade grave com elevação de transaminases hepáticas",
+      "Hemorragia intracraniana com sequelas neurológicas graves ou óbito",
+      "Anafilaxia com choque anafilático refratário a tratamento",
+      "Síndrome de reperfusão coronariana com arritmias ventriculares malignas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hemorragia intracraniana é a complicação mais grave da fibrinólise.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente de 68 anos chega ao PS com dor torácica em aperto há 2 horas, com irradiação para braço esquerdo, acompanhada de sudorese e náuseas. O ECG mostra supradesnivelamento de ST em V1-V4. O hospital não possui laboratório de hemodinâmica 24h e o tempo previsto para transferência é de 150 minutos. Qual a conduta MAIS adequada?",
+    "options": [
+      "Manter apenas tratamento clínico conservador e aguardar vaga em hospital terciário",
+      "Iniciar terapia fibrinolítica imediatamente e posteriormente transferir para cateterismo",
+      "Realizar ecocardiograma transtorácico para confirmação diagnóstica antes de qualquer intervenção",
+      "Administrar apenas antiagregantes plaquetários duplos e anticoagulantes sem reperfusão",
+      "Encaminhar diretamente para cirurgia de revascularização miocárdica emergencial no centro cirúrgico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quando tempo para ICP >120 minutos, fibrinólise seguida de cateterismo é estratégia recomendada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 72 anos, diabético, chega ao PS referindo 'indigestão' e 'mal-estar' há 3 horas. Ao exame: PA 100/60 mmHg, FC 112 bpm, saturação 94%. O ECG mostra infradesnivelamento de ST difuso em derivações anteriores. A primeira troponina colhida na admissão está normal. Qual a conduta MAIS apropriada?",
+    "options": [
+      "Alta hospitalar imediata com diagnóstico de dispepsia funcional e orientações gerais",
+      "Repetir troponina em 3-6 horas e manter paciente em monitorização contínua",
+      "Solicitar tomografia de tórax com contraste para investigação de embolia pulmonar aguda",
+      "Realizar endoscopia digestiva alta emergencial para investigação de úlcera péptica complicada",
+      "Iniciar antibioticoterapia empírica de amplo espectro para gastrite bacteriana aguda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sintomas atípicos em diabético + ECG alterado exigem serialização de troponina.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 55 anos, tabagista, é admitido com IAMCST de parede inferior tratado com angioplastia primária. No pós-procedimento, queixa-se de dor torácica intensa e súbita. O ECG mostra resupradesnivelamento de ST. Qual a complicação MAIS provável?",
+    "options": [
+      "Pericardite epistenótica com atrito pericárdico audível",
+      "Reoclusão aguda do stent com trombose intra-stent",
+      "Síndrome de Dressler tardia com derrame pericárdico",
+      "Rotura de cordoalha tendínea com insuficiência mitral aguda",
+      "Embolia pulmonar aguda por tromboembolismo paradoxal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dor + resupradesnivelamento de ST sugerem reoclusão aguda do stent.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente do sexo feminino, 65 anos, hipertensa, chega ao PS com dor torácica atípica. O ECG inicial é não-diagnóstico. A primeira troponina ultrasensível colhida na admissão é de 0,08 ng/mL (valor de referência <0,04 ng/mL). Qual a interpretação MAIS adequada?",
+    "options": [
+      "Descartar definitivamente síndrome coronariana aguda pelo baixo valor absoluto encontrado",
+      "Confirmar diagnóstico de infarto agudo do miocárdio com indicação de reperfusão imediata",
+      "Considerar injúria miocárdica aguda e repetir dosagem seriada em 3-6 horas",
+      "Atribuir elevação exclusivamente à insuficiência renal crônica conhecida da paciente",
+      "Solicitar ressonância magnética cardíaca com gadolínio para confirmação diagnóstica definitiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "Troponina elevada na admissão requer confirmação com dosagem seriada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Após administração de fibrinolítico em paciente com IAMCST, observa-se redução de 80% do supradesnivelamento de ST e melhora completa da dor torácica em 30 minutos. Qual a conduta subsequente MAIS indicada?",
+    "options": [
+      "Alta hospitalar imediata com acompanhamento ambulatorial em 7 dias",
+      "Realização de cateterismo cardíaco dentro de 24 horas (estratégia farmacoinvasiva)",
+      "Manter apenas tratamento clínico otimizado por 72 horas em unidade coronariana",
+      "Repetir dose de fibrinolítico para consolidação do efeito trombolítico alcançado",
+      "Realizar ecocardiograma transtorácico de controle em 7 dias para avaliação de função ventricular"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sucesso da fibrinólise não dispensa cateterismo subsequente (estratégia farmacoinvasiva).",
+    "type": "raciocínio"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Qual a relação correta entre hemostasia e coagulação sanguínea, conforme descrito nos materiais?",
+    "options": [
+      "São processos totalmente independentes. A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios.",
+      "A coagulação é uma das etapas da hemostasia. Essa compreensão orienta a prevenção e manejo de sangramentos e tromboses em procedimentos cirúrgicos. Na prática clínica, serve de base para a indicação de anticoagulantes, reposição de fatores e cuidados periprocedimento. O entendimento das etapas de coagulação e hemostasia auxilia na interpretação de exames e na identificação de distúrbios hemorrágicos.",
+      "A hemostasia é uma etapa da coagulação. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose.",
+      "A coagulação impede a hemostasia. O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica.",
+      "A hemostasia é sinônimo de coagulação. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina."
+    ],
+    "correctIndex": 1,
+    "explanation": "A hemostasia é o processo de prevenção da perda sanguínea, que engloba diversos mecanismos. A coagulação é especificamente a terceira etapa desse processo, focada na formação de um coágulo para fechar o orifício rompido.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as três etapas gerais para a ocorrência da coagulação sanguínea?",
+    "options": [
+      "Vasodilatação, liberação de ADP, ativação de plasmina. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário. O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente.",
+      "Liberação de fator tecidual, ativação de plaquetas, retração do coágulo. Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia.",
+      "Espasmo vascular, agregação plaquetária, fibrinólise. O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes.",
+      "Inibição de plaquetas, degradação de fibrina, reparo do vaso. Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios.",
+      "Ativação da protrombina, conversão em trombina, formação de fibrina. A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina."
+    ],
+    "correctIndex": 4,
+    "explanation": "A coagulação sanguínea ocorre em três etapas principais: 1) Formação do ativador da protrombina (complexo de substâncias ativadas), 2) Conversão da protrombina em trombina a partir do ativador, e 3) Conversão do fibrinogênio em fibrina pela trombina, formando o coágulo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual fator de coagulação inicia a via extrínseca da coagulação sanguínea após um trauma?",
+    "options": [
+      "Fator V",
+      "Fator IX",
+      "Fator III",
+      "Fator XII",
+      "Fator XIII"
+    ],
+    "correctIndex": 2,
+    "explanation": "A via extrínseca se inicia com a liberação do Fator Tecidual (também conhecido como Fator III) em resposta ao trauma da parede vascular. Este fator, juntamente com o Fator VII e cálcio, ativa o Fator X.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A via intrínseca da coagulação é iniciada pela ativação de qual fator, geralmente por trauma vascular ou contato com superfícies carregadas?",
+    "options": [
+      "Fator X",
+      "Fator XII",
+      "Fator V",
+      "Fator XIII",
+      "Fator VII"
+    ],
+    "correctIndex": 1,
+    "explanation": "A via intrínseca se inicia no sangue pela ativação do Fator XII (Fator de Hageman), que ocorre por trauma vascular ou pelo contato com as plaquetas e superfícies carregadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal evento da via comum da coagulação, onde as vias intrínseca e extrínseca convergem?",
+    "options": [
+      "Ativação do Fator VII",
+      "Conversão de fibrina em fibrinogênio",
+      "Ativação do Fator X",
+      "Ativação do Fator XII",
+      "Liberação do Fator Tecidual"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ambas as vias, intrínseca e extrínseca, culminam na ativação do Fator X. O Fator X ativado, junto com o Fator V, forma o ativador de protrombina, iniciando a via comum.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Após ser ativada, qual a principal função da trombina na cascata de coagulação?",
+    "options": [
+      "Degradar o coágulo de fibrina. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose. A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica.",
+      "Converter protrombina em fibrinogênio. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica. Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios.",
+      "Inibir a agregação plaquetária. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário. O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente. O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual.",
+      "Polimerizar o fibrinogênio em fibrina e ativar o Fator XIII. Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia. Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional.",
+      "Ativar o Fator XII. O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina."
+    ],
+    "correctIndex": 3,
+    "explanation": "A trombina (Fator II ativado) desempenha dois papéis cruciais: polimeriza o fibrinogênio (Fator I), uma proteína plasmática solúvel, em longas cadeias insolúveis de fibrina, e ativa o Fator XIII (Fator Estabilizador de Fibrina) para estabilizar a rede de fibrina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Comparando as vias intrínseca e extrínseca, qual delas é descrita como sendo mais rápida e por que?",
+    "options": [
+      "A extrínseca, por se iniciar diretamente no trauma da parede vascular e ser questão de segundos. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose.",
+      "A intrínseca, por envolver mais fatores. A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica.",
+      "A intrínseca, por ser limitada pela quantidade de fator tecidual. O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário.",
+      "Ambas têm a mesma velocidade. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina.",
+      "A extrínseca, por levar alguns minutos para acontecer. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes. O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual."
+    ],
+    "correctIndex": 0,
+    "explanation": "A via extrínseca, uma vez iniciada pelo trauma da parede vascular e liberação de fator tecidual, ocorre em questão de segundos e é considerada muito mais rápida que a via intrínseca, que leva alguns minutos para acontecer.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como o sulfato de heparina, um anticoagulante natural, atua para prevenir a coagulação indesejada?",
+    "options": [
+      "Desativando o Fator Tecidual. Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia. O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente.",
+      "Inibindo diretamente a agregação plaquetária. Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia.",
+      "Degradando o fibrinogênio. A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina.",
+      "Ativando a plasmina para dissolver o coágulo. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose.",
+      "Ligando-se e ativando a antitrombina III. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica."
+    ],
+    "correctIndex": 4,
+    "explanation": "O sulfato de heparina, um glicosaminoglicano presente nas células endoteliais, liga-se e ativa a antitrombina III. A antitrombina III, por sua vez, degrada e inativa os fatores de coagulação Fator II (trombina), Fator IX e Fator X.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o papel da Proteína C ativada no mecanismo de prevenção da coagulação, conforme mediado pela trombomodulina?",
+    "options": [
+      "Promover a agregação plaquetária. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário. O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente. O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual.",
+      "Iniciar a via extrínseca. O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica.",
+      "Ativar o Fator X. Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário.",
+      "Inibir os Fatores V e VIII. A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina. Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia.",
+      "Degradar o fibrinogênio. Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose."
+    ],
+    "correctIndex": 3,
+    "explanation": "A trombomodulina, uma proteína presente nas células endoteliais, liga-se à trombina (Fator II), ativando a Proteína C. A Proteína C ativada degrada e inibe os fatores de coagulação Fator V e Fator VIII, mantendo-os inativos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a enzima responsável pela quebra da rede de fibrina e dissolução do coágulo no processo de fibrinólise?",
+    "options": [
+      "Fator XIII; Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina.",
+      "Fibrinogênio; Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios.",
+      "Protrombina; A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose.",
+      "Trombina; O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica.",
+      "Plasmina; A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário."
+    ],
+    "correctIndex": 4,
+    "explanation": "O ativador de plasminogênio tecidual (tPA) converte o plasminogênio (uma proteína inativa) em plasmina. A plasmina, então, atua como uma 'enzima digestiva', quebrando a rede de fibrina e dissolvendo o coágulo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual produto da degradação da fibrina é um importante indicador diagnóstico de formação de coágulos?",
+    "options": [
+      "Trombina",
+      "Protrombina",
+      "Fibrinogênio",
+      "D-dímero",
+      "Plasminogênio"
+    ],
+    "correctIndex": 3,
+    "explanation": "A degradação da fibrina pela plasmina libera produtos de degradação, incluindo o D-dímero. Níveis elevados de D-dímero em exames de sangue são um importante indicador diagnóstico de formação de coágulos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes substâncias é liberada pelas plaquetas ativadas e contribui para a vasoconstrição, potencializando o espasmo vascular?",
+    "options": [
+      "Fator de von Willebrand; O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina.",
+      "Serotonina (5-hidroxitriptamina); O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário.",
+      "Prostaciclina (PGI2); Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes. O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual.",
+      "Óxido Nítrico; Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica.",
+      "Antitrombina III; A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose. Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia."
+    ],
+    "correctIndex": 1,
+    "explanation": "As plaquetas ativadas liberam serotonina (5-hidroxitriptamina), que, juntamente com o tromboxano A2, causa contração do músculo liso e vasoconstrição, potencializando o espasmo vascular iniciado pelo dano ao vaso.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual fator de coagulação é ativado pela trombina e, com a ajuda do cálcio, entrelaça as cadeias de fibrina para formar uma rede estável?",
+    "options": [
+      "Fator V",
+      "Fator X",
+      "Fator VII",
+      "Fator XIII",
+      "Fator XI"
+    ],
+    "correctIndex": 3,
+    "explanation": "A trombina ativa o Fator XIII (Fator Estabilizador de Fibrina). Com a ajuda do cálcio, o Fator XIII entrelaça as cadeias de fibrina, formando uma rede de fibrina estável, essencial para fixar o tampão plaquetário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O cálcio é um cofator essencial em diversas etapas da coagulação. Em qual das seguintes reações o cálcio não está explicitamente envolvido nas descrições fornecidas?",
+    "options": [
+      "Polimerização do fibrinogênio em fibrina. Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente.",
+      "Ativação do Fator X pela via extrínseca. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina.",
+      "Formação do ativador de protrombina. A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose.",
+      "Ativação do Fator X pela via intrínseca. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica.",
+      "Estabilização da rede de fibrina pelo Fator XIII. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário."
+    ],
+    "correctIndex": 0,
+    "explanation": "O cálcio é necessário para a ativação do Fator X tanto na via extrínseca (Fator VII + Fator Tecidual + Cálcio) quanto na intrínseca (Fator IX ativado + Fator VIII ativado + fosfolipídios plaquetários + Cálcio), na formação do ativador de protrombina e na estabilização da rede de fibrina pelo Fator XIII. A polimerização do fibrinogênio em fibrina é catalisada diretamente pela trombina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Além do sulfato de heparina e da trombomodulina, qual substância secretada pelas células endoteliais ajuda a inibir as plaquetas, mantendo-as inativas?",
+    "options": [
+      "ADP; O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário.",
+      "Tromboxano A2; Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes. O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual.",
+      "Óxido Nítrico e Prostaciclina (PGI2); A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina.",
+      "Fator de von Willebrand; O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose.",
+      "Endotelina; Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica."
+    ],
+    "correctIndex": 2,
+    "explanation": "As células endoteliais secretam Óxido Nítrico e Prostaciclina (PGI2), que inibem as plaquetas, mantendo-as inativas e impedindo sua ligação ao revestimento endotelial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente será submetido a uma cirurgia e seu coagulograma pré-operatório indica um Tempo de Protrombina (TP) prolongado, mas um Tempo de Tromboplastina Parcial ativado (TTPa) normal. Com base nessas informações e nas vias da coagulação, qual via provavelmente está comprometida?",
+    "options": [
+      "Ambas as vias; Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia.",
+      "Via comum; Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes.",
+      "Nenhuma via, é um problema plaquetário; A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina.",
+      "Via intrínseca; A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose.",
+      "Via extrínseca; O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica."
+    ],
+    "correctIndex": 4,
+    "explanation": "A via extrínseca é iniciada pelo Fator Tecidual (Fator III) e Fator VII, e prossegue com a ativação do Fator X. Esta via é descrita como sendo muito mais rápida, ocorrendo em questão de segundos. Um resultado de Tempo de Protrombina (TP) prolongado, enquanto o Tempo de Tromboplastina Parcial ativado (TTPa) permanece normal, indica um comprometimento seletivo dos fatores da via extrínseca, como o Fator VII, sem afetar a via intrínseca ou fatores que são comuns a ambos e avaliados pelo TTPa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente em uso de Varfarina precisa de uma cirurgia de emergência. Considerando o mecanismo de ação da Varfarina e o risco cirúrgico, qual é a principal preocupação e qual fator a medicação impacta?",
+    "options": [
+      "Risco de falha no reparo tecidual, pois inibe o PDGF. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário. O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente.",
+      "Risco de sangramento excessivo, pois inibe a vitamina K epóxido redutase, essencial para a ativação de fatores II, VII, IX, X. A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo.",
+      "Risco de trombose, pois inibe a agregação plaquetária. O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia.",
+      "Risco de embolia pulmonar, pois potencializa a antitrombina III. Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes.",
+      "Risco de vasoconstrição, pois bloqueia a glicoproteína 2B/3A. Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios."
+    ],
+    "correctIndex": 1,
+    "explanation": "A Varfarina inibe a enzima vitamina K epóxido redutase, o que impede a ativação de vários fatores pró-coagulantes (Fatores II, VII, IX, X) e proteínas reguladoras. Isso leva a um aumento significativo do risco de sangramento excessivo durante procedimentos cirúrgicos, sendo uma preocupação crucial para o manejo do paciente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante uma cirurgia, um paciente apresenta sangramento excessivo e prolongado. Testes rápidos indicam um problema principalmente na via intrínseca da coagulação. Qual dos seguintes fatores estaria mais provavelmente deficiente ou disfuncional, com base nas vias da coagulação?",
+    "options": [
+      "Fator VII",
+      "Fator V",
+      "Fator I",
+      "Fator III",
+      "Fator XII"
+    ],
+    "correctIndex": 4,
+    "explanation": "A via intrínseca da coagulação é iniciada pela ativação do Fator XII, que então ativa o Fator XI, Fator IX e, com o Fator VIII, culmina na ativação do Fator X. Uma deficiência ou disfunção do Fator XII afetaria especificamente o início da via intrínseca, levando a um sangramento prolongado conforme a descrição.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente em uso de Heparina para profilaxia de trombose precisa de um procedimento cirúrgico. Para reduzir o risco de sangramento, qual é a abordagem mais direta baseada no mecanismo de ação da Heparina?",
+    "options": [
+      "Aumentar a dose de Fator Tecidual. Fatores da via intrínseca e extrínseca convergem na via comum, onde ocorre a ativação do fator X e formação de trombina. Na avaliação pré-operatória, exames de coagulação ajudam a estratificar risco de sangramento e orientar preparo transfusional. A cascata resulta na geração de trombina, conversão de fibrinogênio em fibrina e subsequente ativação do sistema fibrinolítico para dissolução do coágulo após a hemostasia.",
+      "Inibir a plasmina para fortalecer o coágulo, já que ela quebra o coágulo. Medicamentos como varfarina e heparina agem em pontos diferentes da cascata de coagulação e exigem monitorização e ajuste de dose. A hemostasia inclui vasoconstrição, formação do tampão plaquetário e ativação das cascatas intrínseca e extrínseca da coagulação, culminando na deposição de fibrina para estabilizar o coágulo.",
+      "Interromper a Heparina para reduzir o potencial de sangramento excessivo, já que ela potencializa a antitrombina III. A ativação plaquetária envolve liberação de ADP e tromboxano A2, contribuindo para a agregação e formação do tampão primário. Na prática, distúrbios de hemostasia são investigados através de exames como TAP/INR, TTPA, contagem plaquetária e avaliação dos fatores de coagulação, com base em diretrizes.",
+      "Inibir a glicoproteína 2B/3A para prevenir agregação plaquetária, já que ela induz antitrombina III. O sistema fibrinolítico, através da plasmina, degrada a fibrina e modula a dissolução do coágulo após reparo tecidual. O processo é influenciado por fatores como vitamina K, função hepática e níveis de plaquetas, e sua disfunção se manifesta em sangramentos ou tromboses que lidamos diariamente.",
+      "Administrar Varfarina para antagonizar seus efeitos. Distúrbios hereditários como hemofilia A e B resultam em deficiência de fatores específicos e necessitam reposição terapêutica. Estados de hipercoagulabilidade como a síndrome de anticorpos antifosfolípides aumentam o risco de trombose e requerem profilaxia. A interação entre sistema vascular, plaquetas e proteínas plasmáticas determina a efetividade da coagulação, sendo modulada por fatores genéticos, medicamentos e estados inflamatórios."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Heparina potencializa a ação da antitrombina III, aumentando sua capacidade de inativar fatores pró-coagulantes como Fatores II, IX e X, o que leva a um maior risco de sangramento. Para um procedimento cirúrgico, onde o controle da coagulação é vital, a interrupção da Heparina é crucial para diminuir o risco hemorrágico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Em caso de uma lesão vascular, qual é a sequência correta dos eventos primários e secundários para o controle do sangramento, conforme os mecanismos de hemostasia e coagulação?",
+    "options": [
+      "Espasmo vascular, coagulação, formação do tampão plaquetário.",
+      "Espasmo vascular, formação do tampão plaquetário, coagulação.",
+      "Fibrinólise, formação do coágulo, espasmo vascular.",
+      "Coagulação, retração do coágulo, espasmo vascular.",
+      "Formação do tampão plaquetário, espasmo vascular, fibrinólise."
+    ],
+    "correctIndex": 1,
+    "explanation": "As cinco etapas principais da hemostasia são: 1) Espasmo Vascular, 2) Formação do Tampão Plaquetário (hemostasia primária), 3) Coagulação (hemostasia secundária, formação da rede de fibrina), 4) Retração e Reparo do Coágulo, e 5) Fibrinólise. Os primeiros eventos cruciais para o controle inicial do sangramento são o espasmo vascular, seguido pela formação do tampão plaquetário e, então, a estabilização por meio da coagulação.",
+    "type": "raciocínio"
+  }
+]

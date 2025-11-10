@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Qual a duração temporal de um quadrado grande (5mm) no papel de ECG padrão (25 mm/s)?",
+    "options": [
+      "0,04 segundos por quadrado grande",
+      "0,20 segundos por quadrado grande",
+      "0,16 segundos por quadrado grande",
+      "0,08 segundos por quadrado grande",
+      "0,12 segundos por quadrado grande"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cada quadrado pequeno (1mm) tem 0,04s, portanto um quadrado grande (5 pequenos) tem 0,20s. As alternativas incorretas apresentam valores que não correspondem ao cálculo correto baseado na velocidade padrão do papel de ECG.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como são denominadas as ondas do complexo QRS de acordo com sua posição em relação à linha de base?",
+    "options": [
+      "Onda Q (primeira negativa), R (primeira positiva), S (primeira negativa após R)",
+      "Onda Q (qualquer negativa), R (qualquer positiva), S (qualquer negativa após R)",
+      "Onda Q (negativa antes de R), R (positiva), S (negativa após R)",
+      "Onda Q (positiva antes de R), R (negativa), S (positiva após R)",
+      "Onda Q (primeira positiva), R (primeira negativa), S (segunda positiva)"
+    ],
+    "correctIndex": 2,
+    "explanation": "A nomenclatura segue ordem alfabética: Q (negativa antes do R), R (primeira deflexão positiva), S (negativa após o R). As demais alternativas invertem esta sequência padrão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual método NÃO é adequado para cálculo preciso da frequência cardíaca em ritmo irregular?",
+    "options": [
+      "Contar número de QRS em derivação longa (10s) e multiplicar por 6",
+      "1500 dividido pelo número de quadradinhos pequenos entre R-R consecutivos",
+      "300 dividido pelo número de quadradões grandes entre R-R consecutivos",
+      "Medir intervalo P-P em derivação II e aplicar regra de 300",
+      "Utilizar a derivação DII longo para contar todos os complexos QRS"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os métodos de 1500/quadradinhos e 300/quadradões pressupõem ritmo regular. Em ritmo irregular, deve-se contar todos os QRS em período conhecido (ex: 10s × 6). As demais são métodos válidos para diferentes contextos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a definição de taquiarritmia segundo os critérios apresentados?",
+    "options": [
+      "Frequência cardíaca superior a 60 batimentos por minuto",
+      "Frequência cardíaca superior a 100 batimentos por minuto",
+      "Frequência cardíaca entre 100-150 batimentos por minuto",
+      "Frequência cardíaca superior a 150 batimentos por minuto",
+      "Qualquer ritmo cardíaco com intervalo RR irregular"
+    ],
+    "correctIndex": 1,
+    "explanation": "Taquiarritmia é definida como FC > 100 bpm. As demais alternativas apresentam valores incorretos ou definições parciais que não correspondem ao conceito completo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "As taquicardias supraventriculares são definidas como aquelas que necessitam de pelo menos uma estrutura:",
+    "options": [
+      "Localizada exclusivamente nos átrios sem envolvimento de outras estruturas",
+      "Acima do ou exatamente no feixe de His (átrios ou nó AV)",
+      "Restrita ao nó atrioventricular sem envolvimento atrial",
+      "Confinada ao sistema de Purkinje ventricular intramiocárdico",
+      "Situada abaixo do feixe de His no sistema de condução ventricular"
+    ],
+    "correctIndex": 1,
+    "explanation": "Taquicardias supraventriculares envolvem estruturas a partir do feixe de His para cima. As demais descrevem localizações específicas que não abrangem toda a definição.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente apresenta ECG com frequência de 180 bpm, QRS estreito (0,08s) e ritmo regular. Qual a conduta INICIAL se estável?",
+    "options": [
+      "Cardiversão elétrica sincronizada imediata com 100 Joules",
+      "Infusão de amiodarona 150mg em 10 minutos IV",
+      "Manobras vagais e/ou adenosina 6-12mg IV em bolus rápido",
+      "Iniciar anticoagulação plena com heparina intravenosa contínua",
+      "Beta-bloqueador oral para controle da frequência cardíaca"
+    ],
+    "correctIndex": 2,
+    "explanation": "Taquicardia supraventricular com QRS estreito e paciente estável: início com manobras vagais/adenosina. Cardioversão é para instáveis, amiodarona para QRS largo, anticoagulação não é inicial, beta-bloqueador oral não é agudo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o escore CHA₂DS₂-VASc MÍNIMO que indica necessidade de anticoagulação oral na fibrilação atrial?",
+    "options": [
+      "≥ 0 pontos no escore total",
+      "≥ 1 ponto no escore total",
+      "≥ 2 pontos no escore total",
+      "≥ 3 pontos no escore total",
+      "≥ 4 pontos no escore total"
+    ],
+    "correctIndex": 2,
+    "explanation": "Escore ≥2 indica anticoagulação; 1 ponto considera-se; 0 não precisa. Diretrizes atuais recomendam anticoagulação definitiva a partir de 2 pontos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na fibrilação atrial, o risco tromboembólico está diretamente relacionado à:",
+    "options": [
+      "Estase sanguínea atrial por perda da contração atrial eficaz coordenada",
+      "Aumento do débito cardíaco e fluxo sanguíneo turbulento intra-atrial",
+      "Redução da pressão arterial sistêmica e hipoperfusão cerebral crônica",
+      "Aumento da fração de ejeção ventricular esquerda por sobrecarga",
+      "Vasoconstrição periférica e hipertensão reativa por ativação simpática"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na FA, a estase sanguínea no átrio (especialmente apêndice atrial esquerdo) é o principal mecanismo de formação de trombos. As demais não correspondem à fisiopatologia da FA.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo a nova diretriz, qual a abordagem para paciente com FA estável com duração DESCONHECIDA?",
+    "options": [
+      "Cardioversão imediata sem anticoagulação prévia",
+      "Ecotransesofágico para excluir trombo antes da cardioversão",
+      "Iniciar anticoagulação e agendar cardioversão em 48 horas",
+      "Tratamento apenas com controle de frequência sem cardioversão",
+      "Ablação por cateter como primeira linha de tratamento"
+    ],
+    "correctIndex": 1,
+    "explanation": "FA com duração desconhecida ou ≥24h requer ecotransesofágico antes da cardioversão devido ao risco de trombo. Cardioversão imediata sem anticoagulação traz risco embólico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual NÃO é critério do escore CHA₂DS₂-VASc para risco tromboembólico na FA?",
+    "options": [
+      "Idade ≥75 anos (2 pontos)",
+      "Diabetes mellitus (1 ponto)",
+      "Sexo feminino (1 ponto)",
+      "Tabagismo atual (1 ponto)",
+      "Acidente vascular cerebral prévio (2 pontos)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tabagismo não é critério no CHA₂DS₂-VASc. Os critérios são: IC, HAS, Idade≥75, DM, AVC/TIA/TEV, Doença vascular, Idade 65-74, Sexo feminino.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 68 anos, hipertensa, diabética, em FA há 3 dias, estável. Qual abordagem mais adequada?",
+    "options": [
+      "Cardioversão elétrica imediata com 200 Joules sincronizada",
+      "Ecotransesofágico e cardioversão se sem trombo no apêndice atrial",
+      "Alta hospitalar com AAS 100mg/dia para antiagregação",
+      "Manobras vagais para reverter a arritmia atrial",
+      "Ablação por cateter de urgência no laboratório de eletrofisiologia"
+    ],
+    "correctIndex": 1,
+    "explanation": "FA >24h em paciente estável: ecotransesofágico antes da cardioversão. Cardioversão imediata tem risco embólico, AAS não é suficiente, manobras vagais não revertem FA, ablação não é de urgência.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual característica eletrocardiográfica é típica do flutter atrial?",
+    "options": [
+      "Ondas P ausentes e ritmo irregularmente irregular",
+      "Complexos QRS alargados (>0,12s) com frequência >150 bpm",
+      "Padrão de 'dentes de serra' com ondas F em base contínua",
+      "Intervalos PR progressivamente mais longos até dropped beat",
+      "Onda T invertida simetricamente em derivações precordiais"
+    ],
+    "correctIndex": 2,
+    "explanation": "Flutter apresenta padrão serrilhado/dentes de serra por ondas F. FA tem ritmo irregular sem ondas P, QRS largo é ventricular, intervalo PR progressivo é Wenckebach.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No flutter atrial típico, a frequência atrial é geralmente em torno de:",
+    "options": [
+      "150 batimentos por minuto",
+      "200 batimentos por minuto",
+      "250 batimentos por minuto",
+      "300 batimentos por minuto",
+      "350 batimentos por minuto"
+    ],
+    "correctIndex": 3,
+    "explanation": "No flutter típico, a frequência atrial é ~300 bpm (250-350 bpm). A frequência ventricular depende do grau de bloqueio AV (ex: 2:1 = 150 bpm, 3:1 = 100 bpm).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a característica do complexo QRS na taquicardia ventricular?",
+    "options": [
+      "Estreito (<0,08s) e regular",
+      "Largo (≥0,12s) e regular",
+      "Estreito e irregular",
+      "Largo e irregular apenas na Torsades de Pointes",
+      "Morfologia variável entre as derivações eletrocardiográficas"
+    ],
+    "correctIndex": 1,
+    "explanation": "TV geralmente apresenta QRS largo (≥0,12s) e regular. QRS estreito é supraventricular, irregularidade é característica de algumas formas específicas como Torsades.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a conduta para taquicardia ventricular sustentada em paciente INSTÁVEL?",
+    "options": [
+      "Amiodarona 150mg IV em 10 minutos",
+      "Cardiversão elétrica sincronizada com 100 Joules",
+      "Manobras vagais e reposição volêmica",
+      "Adenosina 6mg em bolus rápido IV",
+      "Beta-bloqueador oral para controle da frequência"
+    ],
+    "correctIndex": 1,
+    "explanation": "TV instável: cardioversão sincronizada imediata. Amiodarona é para estáveis, manobras vagais não funcionam em TV, adenosina não é indicada, beta-bloqueador oral não é para emergência.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com ECG mostrando QRS largo (0,16s), regular, FC 180 bpm, consciente, PA 110/70 mmHg. Qual conduta?",
+    "options": [
+      "Cardiversão elétrica imediata com 200 Joules",
+      "Amiodarona 150mg em 10 minutos e observar resposta",
+      "Adenosina 6mg em bolus rápido IV",
+      "Massagem carotídea por 15 segundos",
+      "Iniciar infusão de noradrenalina para suporte pressórico"
+    ],
+    "correctIndex": 1,
+    "explanation": "TV estável: tratamento com antiarrítmico (amiodarona). Cardioversão é para instáveis, adenosina não age em TV, manobras vagais são ineficazes, vasopressores não são primeira linha.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dessas taquiarritmias ventriculares apresenta morfologia de QRS polimórfica com torção de eixo?",
+    "options": [
+      "Taquicardia ventricular monomórfica sustentada",
+      "Fibrilação ventricular",
+      "Torsades de Pointes",
+      "Taquicardia juncional",
+      "Flutter ventricular"
+    ],
+    "correctIndex": 2,
+    "explanation": "Torsades de Pointes é TV polimórfica com amplitude variável ('torção das pontas'). TV monomórfica tem forma constante, FV é caótica, taquicardia juncional é supraventricular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a diferença fundamental entre cardioversão e desfibrilação?",
+    "options": [
+      "Cardioversão usa menor energia que desfibrilação",
+      "Desfibrilação é sincronizada com o complexo QRS",
+      "Cardioversão é sincronizada e desfibrilação não é sincronizada",
+      "Apenas a cardioversão requer sedação prévia",
+      "Desfibrilação é apenas para ritmos com pulso presente"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cardioversão é choque sincronizado (evita onda T), desfibrilação é não-sincronizada. Ambas podem usar energias variáveis, sedação depende do contexto, desfibrilação é para ritmos sem pulso.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Dos ritmos de parada cardíaca abaixo, qual é considerado NÃO chocável?",
+    "options": [
+      "Fibrilação ventricular",
+      "Taquicardia ventricular sem pulso",
+      "Atividade elétrica sem pulso (AESP)",
+      "Flutter ventricular",
+      "Taquicardia supraventricular sem pulso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ritmos não chocáveis: assistolia e atividade elétrica sem pulso. FV e TV sem pulso são chocáveis. Flutter ventricular não é terminologia padrão, TSV raramente evolui para parada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente em pós-operatório desenvolve taquicardia com QRS estreito, irregular, FC 130 bpm, estável. Qual a provável arritmia e abordagem?",
+    "options": [
+      "Fibrilação atrial - controle de frequência e avaliar anticoagulação conforme escore de risco",
+      "Flutter atrial - cardioversão elétrica imediata sincronizada",
+      "Taquicardia ventricular - amiodarona IV em bolus",
+      "Taquicardia sinusal - observação e hidratação venosa",
+      "Taquicardia juncional - adenosina IV em bolus rápido"
+    ],
+    "correctIndex": 0,
+    "explanation": "QRS estreito + irregular = provável FA. Abordagem em estável: controle de frequência e avaliar anticoagulação. Flutter é regular, TV tem QRS largo, TS é regular, TJ é regular.",
+    "type": "raciocínio"
+  }
+]

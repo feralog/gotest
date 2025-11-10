@@ -1,0 +1,522 @@
+[
+  {
+    "question": "Qual é a estimativa anual de novas infecções sexualmente transmissíveis (ISTs) em nível mundial?",
+    "options": [
+      "250 milhões de infecções por ano, transmitidas exclusivamente por contato sexual desprotegido entre parceiros sintomáticos",
+      "300 milhões de infecções por ano, transmitidas somente através de fluidos genitais durante relações sexuais",
+      "150 milhões de infecções por ano, transmitidas apenas por relações sexuais vaginais sem preservativo",
+      "397 milhões de infecções por ano, transmitidas por sangue, sêmen, fluidos vaginais ou outros líquidos corporais durante relações sexuais",
+      "500 milhões de infecções por ano, transmitidas principalmente por transfusões sanguíneas e procedimentos médicos invasivos"
+    ],
+    "correctIndex": 3,
+    "explanation": "A estimativa mundial é de aproximadamente 397 milhões de novas infecções sexualmente transmissíveis por ano, conforme dados epidemiológicos. A transmissão ocorre através de sangue, sêmen, fluidos vaginais ou outros líquidos corporais durante sexo oral, anal ou genital com parceiro infectado, além da transmissão vertical (gestação, parto ou aleitamento).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais ISTs possuem notificação compulsória segundo as diretrizes brasileiras?",
+    "options": [
+      "Infecções fúngicas genitais, parasitoses intestinais, escabiose e pediculose púbica",
+      "Herpes genital, HPV, tricomoníase e candidíase vulvovaginal recorrente",
+      "Molusco contagioso, donovanose, linfogranuloma venéreo e cancro mole",
+      "Vaginose bacteriana, uretrite não gonocócica, balanopostite e cervicite",
+      "AIDS, hepatites virais, sífilis e síndrome do corrimento uretral (gonorreia e clamídia)"
+    ],
+    "correctIndex": 4,
+    "explanation": "As ISTs de notificação compulsória incluem AIDS, hepatites virais, sífilis e síndrome do corrimento uretral (que engloba gonorreia e infecção por clamídia). Esta medida visa o controle epidemiológico e implementação de estratégias de prevenção e tratamento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o risco estimado de aquisição de gonorreia em uma única exposição sexual?",
+    "options": [
+      "5% para homens e 5% para mulheres, quintuplicando na exposição contínua",
+      "50% para homens e 50% para mulheres, mantendo-se igual na exposição contínua",
+      "80% para homens e 20% para mulheres, invertendo-se na exposição contínua",
+      "20% para homens e 80% para mulheres, aumentando para 80% e 90% respectivamente na exposição contínua",
+      "10% para homens e 10% para mulheres, dobrando na exposição contínua"
+    ],
+    "correctIndex": 3,
+    "explanation": "O risco de aquisição da gonorreia em uma única exposição é estimado em cerca de 20% para homens e 80% para mulheres, refletindo diferenças anatômicas. Na exposição contínua, esses percentuais aumentam para 80% e 90% respectivamente, demonstrando a alta infectividade do Neisseria gonorrhoeae.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a abordagem de prevenção primária mais eficaz para ISTs em população sexualmente ativa?",
+    "options": [
+      "Utilização exclusiva de métodos hormonais contraceptivos",
+      "Lavagem genital pós-coito com soluções antissépticas",
+      "Realização de exames trimestrais sem utilização de métodos de barreira",
+      "Uso esporádico de preservativo apenas com parceiros não habituais",
+      "Uso consistente de preservativo masculino ou feminino em todas as relações sexuais"
+    ],
+    "correctIndex": 4,
+    "explanation": "O uso consistente de preservativo masculino ou feminino em todas as relações sexuais constitui a principal medida de prevenção primária para ISTs. Esta abordagem barreira impede o contato com fluidos potencialmente infectantes, reduzindo significativamente a transmissão de agentes bacterianos, virais e protozoários.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as características da infecção por Neisseria gonorrhoeae em mulheres?",
+    "options": [
+      "Sintomática apenas durante a gestação, com corrimento mucoide discreto",
+      "Assintomática em 60-80% dos casos, facilitando aquisição do HIV e complicações como DIPA",
+      "Assintomática em 95% dos casos, sem risco aumentado para outras infecções",
+      "Sintomática em 90% dos casos, com corrimento purulento abundante e dor intensa",
+      "Sempre sintomática com formação de úlceras genitais dolorosas e adenopatia inguinal"
+    ],
+    "correctIndex": 1,
+    "explanation": "A gonorreia em mulheres é assintomática em 60-80% dos casos, o que contribui para sua disseminação silenciosa. Esta característica aumenta o risco de complicações como doença inflamatória pélvica (DIPA) e facilita a aquisição do HIV devido à inflamação mucosa não reconhecida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento recomendado para infecção gonocócica não complicada atualmente?",
+    "options": [
+      "Azitromicina 2g VO dose única como monoterapia para todas as situações",
+      "Penicilina G benzatina 2,4 milhões UI IM dose única + Doxiciclina 100mg VO 7 dias",
+      "Metronidazol 500mg VO 12/12h por 7 dias + Clindamicina 300mg VO 6/6h por 7 dias",
+      "Ceftriaxona 500mg IM dose única + Azitromicina 1g VO dose única",
+      "Ciprofloxacina 500mg VO dose única sem associação com outros antimicrobianos"
+    ],
+    "correctIndex": 3,
+    "explanation": "O tratamento atual para infecção gonocócica não complicada consiste em Ceftriaxona 500mg IM dose única associada à Azitromicina 1g VO dose única. Esta associação visa cobrir possíveis coinfecções por clamídia (presente em 40-60% dos casos) e prevenir o desenvolvimento de resistências bacterianas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com diagnóstico de gonorreia deve receber qual orientação sobre manejo de parceiros?",
+    "options": [
+      "Encaminhar parceiros para avaliação apenas se houver recidiva dos sintomas e abstinência sexual até conclusão do tratamento",
+      "Orientar uso de preservativo sem necessidade de tratamento dos parceiros e abstinência sexual até conclusão do tratamento",
+      "Tratamento simultâneo do(s) parceiro(s) sexual(is) e abstinência sexual até conclusão do tratamento",
+      "Aguardar surgimento de sintomas nos parceiros antes de iniciar tratamento e abstinência sexual até conclusão do tratamento",
+      "Tratamento apenas se os parceiros apresentarem exames laboratoriais positivos e abstinência sexual até conclusão do tratamento"
+    ],
+    "correctIndex": 2,
+    "explanation": "É fundamental tratar simultaneamente todos os parceiros sexuais dos últimos 60 dias (ou o último parceiro se não for possível identificar todos) e orientar abstinência sexual até a conclusão do tratamento e desaparecimento dos sintomas. Esta medida previne a reinfecção e interrompe a cadeia de transmissão.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal complicação da gonorreia não tratada adequadamente em mulheres?",
+    "options": [
+      "Nefrite intersticial aguda com insuficiência renal rapidamente progressiva e gravidez ectópica",
+      "Hepatite fulminante por disseminação hematogênica do gonococo",
+      "Endocardite infecciosa com formação de vegetações valvares destrutivas",
+      "Doença inflamatória pélvica com risco de infertilidade tubária e gravidez ectópica",
+      "Meningite bacteriana por contiguidade com o sistema nervoso central"
+    ],
+    "correctIndex": 3,
+    "explanation": "A principal complicação da gonorreia não tratada em mulheres é a doença inflamatória pélvica (DIPA), que ocorre por ascensão da infecção do trato genital inferior para órgãos pélvicos. Esta condição pode levar a sequelas como infertilidade tubária, dor pélvica crônica e aumento do risco de gravidez ectópica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características epidemiológicas da infecção por Chlamydia trachomatis?",
+    "options": [
+      "10 vezes menos frequente que gonorreia, prevalente em idosos acima de 65 anos",
+      "Igualmente frequente que gonorreia, prevalente em adultos acima de 40 anos",
+      "2-3 vezes mais frequente que gonorreia, prevalente em jovens abaixo de 24 anos",
+      "Metade da frequência da gonorreia, prevalente em crianças pré-púberes",
+      "Frequência variável conforme região, sem predileção por faixa etária específica"
+    ],
+    "correctIndex": 2,
+    "explanation": "A infecção por Chlamydia trachomatis é 2-3 vezes mais frequente que a gonorreia e apresenta maior prevalência em jovens sexualmente ativos abaixo de 24 anos. Por esta razão, o CDC recomenda rastreio anual para clamídia em mulheres sexualmente ativas com menos de 25 anos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual síndrome está associada à infecção por Chlamydia trachomatis em aproximadamente 50% dos casos?",
+    "options": [
+      "Síndrome de Kawasaki com febre prolongada e alterações mucocutâneas",
+      "Síndrome de Reiter caracterizada por uretrite, conjuntivite e artrite",
+      "Síndrome de Stevens-Johnson com necrólise epidérmica extensa",
+      "Síndrome de Guillain-Barré com paralisia ascendente progressiva",
+      "Síndrome nefrótica com proteinúria maciça e edema generalizado"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Chlamydia trachomatis está associada à Síndrome de Reiter (artrite reativa) em aproximadamente 50% dos casos. Esta condição caracteriza-se pela tríade de uretrite, conjuntivite e artrite, representando uma complicação imunomediada da infecção genital.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento de primeira linha para infecção genital por Chlamydia trachomatis?",
+    "options": [
+      "Azitromicina 1g VO dose única ou Doxiciclina 100mg VO 12/12h por 7 dias",
+      "Metronidazol 2g VO dose única ou Tinidazol 2g VO dose única",
+      "Aciclovir 200mg 5x/dia por 7 dias ou Valaciclovir 1g VO 12/12h por 7 dias",
+      "Ceftriaxona 500mg IM dose única ou Ciprofloxacina 500mg VO dose única",
+      "Penicilina G benzatina 2,4 milhões UI IM ou Amoxicilina 500mg VO 8/8h 7 dias"
+    ],
+    "correctIndex": 0,
+    "explanation": "O tratamento de primeira linha para infecção genital por Chlamydia trachomatis consiste em Azitromicina 1g VO em dose única ou Doxiciclina 100mg VO 12/12h por 7 dias. Ambas as opções apresentam eficácia superior a 95% quando utilizadas adequadamente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 19 anos, sexualmente ativa, assintomática, proveniente de região com alta prevalência de ISTs. Qual conduta de rastreio é recomendada?",
+    "options": [
+      "Rastreio anual para clamídia com tratamento presuntivo se biologia molecular não disponível",
+      "Aguardar surgimento de sintomas antes de iniciar investigação para ISTs",
+      "Encaminhar para consulta com infectologista (Papanicolaou) para avaliação especializada",
+      "Rastreio apenas para HIV e sífilis, sem investigação para infecções bacterianas",
+      "Solicitar apenas exame citopatológico de colo uterino (Papanicolaou) de rotina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para mulheres sexualmente ativas com menos de 25 anos ou de qualquer idade com fatores de risco para ISTs, o CDC recomenda rastreio anual para clamídia. Em situações onde a biologia molecular não está disponível, considera-se o tratamento presuntivo devido à alta prevalência e potencial para complicações.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as características do cancro duro da sífilis primária?",
+    "options": [
+      "Massa ulcerada com múltiplos orifícios de fistulização (bico de regador)",
+      "Pápula eritematosa que evolui para vesículas agrupadas e depois úlceras rasas",
+      "Úlcera única, indolor, endurecida, com bordas bem delimitadas e fundo limpo e brilhante",
+      "Lesão vegetante, extensa, indolor, com base granulosa vermelho-vivo e sangrante",
+      "Úlcera múltipla, dolorosa, com base amolecida e exsudato necrótico fétido"
+    ],
+    "correctIndex": 2,
+    "explanation": "O cancro duro da sífilis primária caracteriza-se por úlcera geralmente única, indolor, endurecida à palpação, com bordas bem delimitadas e elevadas, fundo limpo, liso e brilhante, com secreção serosa escassa. Surge no local de inoculação após período de incubação de 10-90 dias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a sequência temporal correta das fases da sífilis não tratada?",
+    "options": [
+      "Primária (cancro) → Secundária (roséolas/sifílides) → Latente → Terciária",
+      "Secundária (roséolas) → Primária (cancro) → Terciária (gomas) → Latente",
+      "Terciária (gomas) → Secundária (roséolas) → Primária (cancro) → Latente",
+      "Latente → Primária (cancro) → Secundária (sifílides) → Terciária (gomas)",
+      "Primária → Secundária → Terciária → Quaternária → Morte"
+    ],
+    "correctIndex": 0,
+    "explanation": "A sequência temporal correta das fases da sífilis não tratada é: Primária (cancro duro com 3 semanas em média) → Secundária (roséolas sifilíticas e sifílides com 10 semanas) → Latente (assintomática) → Terciária (gomas, alterações cardiovasculares e neurológicas após 3-20 anos).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento recomendado para sífilis recente (primária, secundária e latente recente)?",
+    "options": [
+      "Penicilina G benzatina 2,4 milhões UI IM dose única (1,2 milhões em cada glúteo)",
+      "Azitromicina 2g VO dose única ou Eritromicina 500mg VO 6/6h por 15 dias",
+      "Penicilina G cristalina 3-4 milhões UI IV 4/4h por 10-14 dias",
+      "Penicilina G benzatina 2,4 milhões UI IM semanal por 3 semanas (total 7,2 milhões UI)",
+      "Doxiciclina 100mg VO 12/12h por 30 dias ou Ceftriaxona 1g IM por 8-10 dias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para sífilis recente (primária, secundária e latente recente com menos de 1 ano de evolução), o tratamento de escolha é Penicilina G benzatina 2,4 milhões UI IM em dose única (1,2 milhões aplicados em cada glúteo). A penicilina permanece como único antibiótico com comprovada eficacia em todas as fases da sífilis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta para seguimento de pacientes com sífilis primária ou secundária tratada adequadamente?",
+    "options": [
+      "Controle clínico sem necessidade de sorologias de seguimento pós-tratamento",
+      "FTA-Abs trimestral por 2 anos independente da titulação do VDRL",
+      "VDRL qualitativo mensal por 6 meses seguido de exames anuais por 5 anos",
+      "RPR semestral por 3 anos com repetição de teste treponêmico anual",
+      "VDRL quantitativo a cada 3 meses no primeiro ano e a cada 6 meses no segundo ano"
+    ],
+    "correctIndex": 4,
+    "explanation": "O seguimento de pacientes com sífilis primária ou secundária tratada adequadamente inclui VDRL quantitativo a cada 3 meses no primeiro ano e a cada 6 meses no segundo ano. Espera-se diminuição de duas diluições (quatro vezes) no título em 6 meses e de quatro diluições em 12-24 meses. Aumento de duas diluições indica possível reinfecção ou falha terapêutica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente do sexo masculino, 28 anos, apresenta úlcera genital única, indolor, com bordas endurecidas e fundo limpo. VDRL reagente 1:32 e FTA-Abs positivo. Qual diagnóstico e conduta?",
+    "options": [
+      "Donovanose; Doxiciclina 100mg VO 12/12h por pelo menos 21 dias",
+      "Herpes genital primário; Aciclovir 200mg 5x/dia ou 400mg 3x/dia por 7-10 dias",
+      "Sífilis primária; Penicilina G benzatina 2,4 milhões UI IM dose única",
+      "Linfogranuloma venéreo; Doxiciclina 100mg VO 12/12h por 21 dias",
+      "Cancro mole; Azitromicina 1g VO dose única ou Ceftriaxona 500mg IM dose única"
+    ],
+    "correctIndex": 2,
+    "explanation": "O quadro de úlcera genital única, indolor, com bordas endurecidas (cancro duro) associada a VDRL reagente e FTA-Abs positivo configura diagnóstico de sífilis primária. O tratamento indicado é Penicilina G benzatina 2,4 milhões UI IM dose única, com seguimento sorológico para confirmação de cura.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com história de sífilis tratada há 5 anos retorna com VDRL 1:8 e FTA-Abs positivo. Qual a interpretação mais adequada?",
+    "options": [
+      "Cicatriz sorológica sem evidência de atividade doença, não necessitando retratamento",
+      "Sífilis latente tardia necessitando Penicilina G benzatina 2,4 milhões UI IM 3 doses",
+      "Falha terapêutica prévia necessitando Penicilina G cristalina IV por 10-14 dias",
+      "Reinfecção recente necessitando Penicilina G benzatina 2,4 milhões UI IM dose única",
+      "Sífilis terciária incipiente necessitando investigação complementar neurológica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Títulos baixos e estáveis de VDRL (1:8) com FTA-Abs positivo em paciente previamente tratado representam cicatriz sorológica, sem evidência de atividade da doença. Não há indicação de retratamento na ausência de sinais clínicos, história de reinfecção ou aumento de duas diluições no título do VDRL.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as características da primoinfecção pelo herpes genital quando sintomática?",
+    "options": [
+      "Lesão vegetante indolor com base granulosa vermelho-vivo e sangramento fácil",
+      "Úlcera única indolor com bordas endurecidas e fundo limpo sem formação de vesículas",
+      "Pápulas eritematosas dolorosas que evoluem para vesículas, úlceras rasas e crostas",
+      "Pápulas umbilicadas indolores que liberam material esbranquiçado à expressão",
+      "Múltiplas úlceras dolorosas com base amolecida e exsudato necrótico fétido"
+    ],
+    "correctIndex": 2,
+    "explanation": "A primoinfecção sintomática pelo herpes genital inicia-se com pápulas eritematosas dolorosas que evoluem para vesículas agrupadas (cheias de vírus), coalescem, rompem-se formando úlceras rasas (<1mm de profundidade) com bordas lisas que não sangram à manipulação, evoluindo para crostas e cicatrização sem sequelas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais fatores estão associados à reativação do herpes genital?",
+    "options": [
+      "Atividade sexual frequente, uso de roupas íntimas sintéticas, banhos de mar",
+      "Consumo moderado de álcool, alterações climáticas sazonais, viagens aéreas",
+      "Ingestão de alimentos ácidos, exposição ao frio intenso, exercícios aeróbicos intensos",
+      "Uso de anticoncepcionais orais, suplementação vitamínica, vacinação rotineira",
+      "Febre, exposição à radiação UV, trauma local, estresse físico/emocional e menstruação"
+    ],
+    "correctIndex": 4,
+    "explanation": "A reativação do herpes genital está associada a fatores que causam imunodepressão transitória ou trauma local: febre, exposição à radiação ultravioleta (especialmente para herpes labial), trauma local, estresse físico e/ou emocional, menstruação (devido à leve queda imunológica) e antibioticoterapia prolongada (que altera a flora microbiana).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento para supressão de herpes genital em pacientes com seis ou mais episódios por ano?",
+    "options": [
+      "Aciclovir 5-10mg/kg EV 8/8h por 5-7 dias durante as recidivas sintomáticas",
+      "Famciclovir 125mg VO 2x/dia por 5 dias para cada episódio de recidiva",
+      "Aciclovir 200mg 1 comprimido VO 5x/dia por 7 dias a cada episódio sintomático",
+      "Aciclovir 200mg 2 comprimidos VO 2x/dia por até 6 meses, podendo prolongar até 2 anos",
+      "Valaciclovir 500mg VO 2x/dia por 3 dias iniciado no período prodrômico"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para pacientes com seis ou mais episódios de herpes genital por ano, está indicado tratamento supressivo com Aciclovir 200mg 2 comprimidos VO 2x/dia por até 6 meses, podendo ser prolongado por até 2 anos conforme avaliação periódica. Esta abordagem reduz a frequência das recidivas em 70-80% dos casos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta para herpes genital durante a gestação?",
+    "options": [
+      "Indicar aciclovir tópico em todos os trimestres e parto vaginal independente de lesões",
+      "Tratar qualquer episódio como primoinfecção com Aciclovir por 7 dias e cesariana se lesão ativa no parto",
+      "Tratar qualquer episódio como primoinfecção apenas no terceiro trimestre com doses reduzidas de Aciclovir por 5 dias",
+      "Internar para administração de aciclovir EV apenas no trabalho de parto estabelecido",
+      "Tratar qualquer episódio como primoinfecção durante a gestação devido a riscos teratogênicos dos antivirais"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na gestação, trata-se qualquer episódio de herpes genital como primoinfecção com Aciclovir por 7 dias. A presença de lesão herpética ativa no momento do parto contraindica o parto vaginal devido ao risco de herpes neonatal, indicando cesariana para prevenir a transmissão vertical.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 32 anos, imunocompetente, relata sexto episódio de herpes genital no ano, atualmente no período prodrômico. Qual conduta?",
+    "options": [
+      "Iniciar Aciclovir 400mg VO 3x/dia por 5 dias e considerar tratamento supressivo futuro",
+      "Encaminhar para internação para administração de Aciclovir EV por 5-7 dias",
+      "Prescrever Aciclovir tópico 5x/dia até resolução completa das lesões",
+      "Aguardar formação de lesões para confirmar diagnóstico antes de iniciar tratamento",
+      "Orientar apenas medidas de suporte sem terapia antiviral específica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para paciente no período prodrômico do sexto episódio no ano, está indicado Aciclovir 400mg VO 3x/dia por 5 dias (equivalente a 200mg 2 comprimidos 3x/dia). Considerando a frequência elevada (≥6 episódios/ano), deve-se avaliar instituição de tratamento supressivo após resolução deste episódio.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as características do cancro mole (cancróide)?",
+    "options": [
+      "Lesão vegetante indolor com base granulosa vermelho-vivo e sangramento fácil",
+      "Úlcera dolorosa com base amolecida, bordos irregulares e exsudato necrótico fétido",
+      "Úlcera indolor com bordas endurecidas, fundo limpo e secreção serosa escassa",
+      "Pápulas umbilicadas indolores que liberam material caseoso à expressão",
+      "Vesículas agrupadas que rompem formando úlceras rasas com bordas lisas"
+    ],
+    "correctIndex": 1,
+    "explanation": "O cancro mole caracteriza-se por úlcera genital dolorosa com base amolecida, bordos irregulares, contorno eritematoso e fundo irregular coberto por exsudato necrótico amarelado com odor fétido. Quando removido o exsudato, revela tecido de granulação friável. A adenopatia inguinal (bubão) é unilateral em 2/3 dos casos, dolorosa e pode fistulizar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento de primeira linha para o cancro mole?",
+    "options": [
+      "Doxiciclina 100mg VO 12/12h por 21 dias ou Eritromicina 500mg VO 6/6h por 21 dias",
+      "Penicilina G benzatina 2,4 milhões UI IM dose única ou Amoxicilina 500mg VO 8/8h 7 dias",
+      "Aciclovir 200mg VO 5x/dia por 7 dias ou Valaciclovir 1g VO 2x/dia por 7 dias",
+      "Azitromicina 1g VO dose única ou Ceftriaxona 500mg IM dose única",
+      "Metronidazol 2g VO dose única ou Tinidazol 2g VO dose única"
+    ],
+    "correctIndex": 3,
+    "explanation": "O tratamento de primeira linha para cancro mole consiste em Azitromicina 1g VO dose única ou Ceftriaxona 500mg IM dose única. No SUS, como a formulação de azitromicina é de 500mg, prescrevem-se 2 comprimidos para atingir a dose de 1g. É fundamental tratar simultaneamente o(s) parceiro(s) sexual(is).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente do sexo masculino, 35 anos, apresenta úlcera genital única, dolorosa, com base amolecida e exsudato purulento fétido, associada a adenopatia inguinal unilateral dolorosa e flutuante. Qual o diagnóstico mais provável?",
+    "options": [
+      "Cancro mole com bubão supurativo característico da infecção por Haemophilus ducreyi",
+      "Donovanose com pseudobubão unilateral indolor e úlcera vegetante sangrante",
+      "Linfogranuloma venéreo com linfonodopatia inguinal fistulizada em bico de regador",
+      "Sífilis primária com cancro duro e linfadenopatia regional não supurativa",
+      "Herpes genital primário com adenopatia inguinal bilateral dolorosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "O quadro de úlcera genital dolorosa com base amolecida e exsudato fétido associada a adenopatia inguinal unilateral dolorosa e flutuante (bubão) é altamente sugestivo de cancro mole. A combinação de úlcera dolorosa com adenopatia inguinal dolorosa é sugestiva, e quando acompanhada de supuração é considerada patognomônica para esta infecção por Haemophilus ducreyi.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as características da síndrome do corrimento uretral gonocócica?",
+    "options": [
+      "Início súbito com incubação de 1-2 dias, corrimento sanguinolento e dor intensa",
+      "Início gradual com incubação de 7-10 dias, corrimento espumoso amarelado e prurido",
+      "Início abrupto com incubação de 2-5 dias, corrimento mucóide/purulento e evolução rápida",
+      "Início variável com incubação de 30-60 dias, corrimento caseoso e disúria leve",
+      "Início insidioso com incubação de 14-21 dias, corrimento mucoide escasso e evolução lenta"
+    ],
+    "correctIndex": 2,
+    "explanation": "A síndrome do corrimento uretral gonocócica caracteriza-se por início abrupto após período de incubação de 2-5 dias, corrimento mucóide e purulento (presente em 70% dos casos), evolução rápida e quadro mais agressivo. A blenorragia é um termo histórico para descrever este corrimento uretral abundante típico da gonorreia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento recomendado para síndrome do corrimento uretral quando não é possível diferenciar entre etiologia gonocócica e não-gonocócica?",
+    "options": [
+      "Metronidazol 2g VO dose única + Secnidazol 2g VO dose única",
+      "Ceftriaxona 500mg IM dose única + Azitromicina 1g VO dose única",
+      "Ciprofloxacina 500mg VO dose única + Ofloxacina 400mg VO dose única",
+      "Penicilina G benzatina 2,4 milhões UI IM dose única + Doxiciclina 100mg VO 7 dias",
+      "Azitromicina 1g VO dose única ou Doxiciclina 100mg VO 12/12h por 7 dias"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quando não é possível diferenciar entre etiologia gonocócica e não-gonocócica (principalmente por clamídia, presente em 40-60% das coinfecções), o tratamento empírico recomendado é Ceftriaxona 500mg IM dose única + Azitromicina 1g VO dose única. Esta abordagem cobre ambos os patógenos mais frequentes e segue as diretrizes nacionais e internacionais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com corrimento uretral e bacterioscopia mostrando diplococos Gram-negativos intracelulares. Qual conduta terapêutica?",
+    "options": [
+      "Tratar apenas gonorreia com Ceftriaxona 500mg IM como monoterapia",
+      "Iniciar Penicilina G benzatina 2,4 milhões UI IM para sífilis presumida",
+      "Tratar gonorreia e clamídia com Ceftriaxona 500mg IM + Azitromicina 1g VO",
+      "Tratar apenas clamídia com Azitromicina 1g VO como monoterapia",
+      "Aguardar cultura e antibiograma antes de iniciar qualquer tratamento"
+    ],
+    "correctIndex": 2,
+    "explanation": "A presença de diplococos Gram-negativos intracelulares na bacterioscopia do corrimento uretral é altamente sugestiva de infecção por Neisseria gonorrhoeae. Considerando a alta frequência de coinfecção com Chlamydia trachomatis (40-60%), o tratamento deve incluir Ceftriaxona 500mg IM + Azitromicina 1g VO para cobrir ambos os patógenos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os critérios diagnósticos para Doença Inflamatória Pélvica Aguda (DIPA)?",
+    "options": [
+      "3 critérios maiores + 1 critério menor OU 1 critério elaborado",
+      "4 critérios maiores isolados sem necessidade de critérios menores",
+      "2 critérios maiores + 2 critérios menores OU 2 critérios elaborados",
+      "1 critério maior + 3 critérios menores OU 3 critérios elaborados",
+      "5 critérios menores associados sem critérios maiores obrigatórios"
+    ],
+    "correctIndex": 0,
+    "explanation": "O diagnóstico de DIPA baseia-se na presença de 3 critérios maiores (dor abdominal inferior, dor à mobilização do colo uterino, dor à palpação anexial) + 1 critério menor (temperatura ≥37,8°C, secreção vaginal/cervical anormal, massa pélvica, hemograma infeccioso, PCR/VHS aumentados, comprovação laboratorial de IST, >5 leucócitos/campo na endocérvice) OU 1 critério elaborado (evidência de imagem de abscesso, laparoscopia ou histopatologia de endometrite).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais agentes etiológicos da DIPA?",
+    "options": [
+      "Staphylococcus aureus e Streptococcus pyogenes como bactérias piogênicas por estarem sempre presentes na flora vaginal",
+      "Chlamydia trachomatis e Neisseria gonorrhoeae como principais, além de flora polimicrobiana",
+      "Mycoplasma hominis e Neisseria gonorrhoeae como únicos agentes responsáveis",
+      "Candida albicans e Chlamydia trachomatis como patógenos fúngico e protozoário",
+      "Chlamydia trachomatis e HPV como agentes virais predominantes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os principais agentes etiológicos da DIPA são Chlamydia trachomatis e Neisseria gonorrhoeae, que iniciam o processo infeccioso ascendente. Posteriormente, há envolvimento de flora polimicrobiana anaeróbia e facultativa, incluindo Gardnerella vaginalis, Mycoplasma hominis, Bacteroides spp, Escherichia coli e outros componentes da microbiota genital.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a classificação de Monif para DIPA no estágio 3?",
+    "options": [
+      "Cervicite isolada sem acometimento de órgãos pélvicos superiores",
+      "Salpingite aguda com oclusão tubária ou comprometimento tubo-ovariano (abscesso)",
+      "Endometrite e salpingite aguda sem peritonite (infecção limitada ao útero e trompas)",
+      "Abscesso roto com secreção purulenta na cavidade ou abscesso >10cm",
+      "Salpingite aguda com peritonite (extensão para cavidade peritoneal)"
+    ],
+    "correctIndex": 1,
+    "explanation": "O estágio 3 da classificação de Monif para DIPA corresponde à salpingite aguda com oclusão tubária ou comprometimento tubo-ovariano (formação de abscesso). Este estágio requer tratamento hospitalar devido à maior gravidade e potencial para complicações como infertilidade e dor pélvica crônica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento ambulatorial de primeira linha para DIPA estágio 1?",
+    "options": [
+      "Penicilina G benzatina 2,4 milhões UI IM + Doxiciclina 100mg VO 12/12h 14 dias + Metronidazol 500mg VO 12/12h 7 dias",
+      "Amoxicilina-clavulanato 875+125mg VO 12/12h 14 dias + Azitromicina 1g VO dose única",
+      "Clindamicina 300mg VO 6/6h 14 dias + Gentamicina 80mg IM 12/12h 14 dias",
+      "Ceftriaxona 500mg IM dose única + Doxiciclina 100mg VO 12/12h 14 dias + Metronidazol 250mg VO 12/12h 14 dias",
+      "Ciprofloxacina 500mg VO dose única + Azitromicina 1g VO dose única + Secnidazol 2g VO dose única"
+    ],
+    "correctIndex": 3,
+    "explanation": "O tratamento ambulatorial de primeira linha para DIPA estágio 1 (Monif) consiste em Ceftriaxona 500mg IM dose única + Doxiciclina 100mg VO 12/12h por 14 dias + Metronidazol 250mg VO 12/12h por 14 dias. Este esquema cobre os principais patógenos (gonococo, clamídia) e a flora anaeróbia associada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as indicações de internação para tratamento de DIPA?",
+    "options": [
+      "História prévia de infertilidade, múltiplos parceiros sexuais ou uso de dispositivo intrauterino",
+      "Idade acima de 40 anos, obesidade mórbida, diabetes mellitus descompensada ou hipertensão arterial",
+      "Dor pélvica leve, corrimento vaginal moderado, febrícula ou leucócitos discretos no hemograma",
+      "Gestação, abscesso tubo-ovariano, falha terapêutica ambulatorial, vômitos ou estágios 2-4 de Monif",
+      "Sinais vitais estáveis, boa adesão ao tratamento oral e suporte familiar adequado"
+    ],
+    "correctIndex": 3,
+    "explanation": "As indicações de internação para tratamento de DIPA incluem: gestação, presença de abscesso tubo-ovariano, falha do tratamento ambulatorial (sem melhora em 48-72h), vômitos que impedem terapia oral, ou DIPA nos estágios 2-4 de Monif (salpingite com peritonite, abscesso ou rotura). Estas situações requerem antibioticoterapia parenteral e monitorização mais rigorosa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 25 anos, sexualmente ativa, apresenta dor pélvica há 4 dias, corrimento vaginal amarelado, febre 38,2°C. Ao exame: dor intensa à mobilização do colo e palpação anexial bilateral. Hemograma: leucócitos 16.000 com desvio, PCR 45mg/L. Qual conduta inicial?",
+    "options": [
+      "Diagnosticar cervicite simples e tratar apenas com azitromicina 1g VO dose única",
+      "Diagnosticar vulvovaginite candidiásica e tratar com fluconazol 150mg VO dose única",
+      "Diagnosticar endometriose e tratar com anti-inflamatórios não hormonais e analgesia",
+      "Diagnosticar cistite aguda e tratar com ciprofloxacina 500mg VO 12/12h por 3 dias",
+      "Diagnosticar DIPA e iniciar tratamento ambulatorial com ceftriaxona IM + doxiciclina + metronidazol"
+    ],
+    "correctIndex": 4,
+    "explanation": "O quadro preenche critérios diagnósticos para DIPA: 3 critérios maiores (dor pélvica, dor à mobilização do colo, dor à palpação anexial) + critérios menores (febre >37,8°C, secreção vaginal anormal, hemograma infeccioso, PCR elevada). Sem sinais de complicações, inicia-se tratamento ambulatorial com ceftriaxona IM + doxiciclina + metronidazol por 14 dias.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com DIPA em tratamento ambulatorial retorna após 72 horas sem melhora da dor e persistência febril. Qual conduta?",
+    "options": [
+      "Manter mesmo esquema ambulatorial por mais 7 dias antes de reavaliar",
+      "Internar para tratamento hospitalar com antibioticoterapia parenteral",
+      "Suspender todos os antibióticos e aguardar nova avaliação em uma semana",
+      "Substituir doxiciclina por azitromicina mantendo os outros antibióticos",
+      "Encaminhar diretamente para intervenção cirúrgica exploradora"
+    ],
+    "correctIndex": 1,
+    "explanation": "A ausência de melhora clínica após 72 horas de tratamento ambulatorial adequado para DIPA constitui indicação formal de internação para antibioticoterapia parenteral. Esta situação sugere possível abscesso não diagnosticado, patógeno resistente ou necessidade de abordagem mais agressiva para prevenir complicações como infertilidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O que caracteriza a Síndrome de Fitz-Hugh-Curtis?",
+    "options": [
+      "Poliartrite migratória assimétrica envolvendo grandes articulações",
+      "Endocardite direita por disseminação hematogênica de patógenos genitais",
+      "Perihepatite associada à DIPA com aderências em corda de violino entre fígado e diafragma",
+      "Glomerulonefrite por complexos imunes depositados no glomérulo renal",
+      "Meningite asséptica por resposta imunológica à infecção genital ascendente"
+    ],
+    "explanation": "A Síndrome de Fitz-Hugh-Curtis é uma perihepatite (inflamação da cápsula hepática) associada à DIPA, principalmente por Chlamydia trachomatis (mais comum) ou Neisseria gonorrhoeae. Caracteriza-se pela formação de aderências 'em corda de violino' entre a cápsula de Glisson e o peritônio parietal do diafragma, sem acometimento do parênquima hepático.",
+    "correctIndex": 2,
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a abordagem terapêutica para a Síndrome de Fitz-Hugh-Curtis?",
+    "options": [
+      "Tratamento sintomático apenas com analgésicos e observação clínica expectante",
+      "Mesma abordagem da DIPA de base, pois representa complicação da infecção genital ascendente",
+      "Corticosteroides em altas doses para controle do processo inflamatório peritoneal descendente",
+      "Tratamento cirúrgico imediato para liberação das aderências hepáticas",
+      "Antibioticoterapia dirigida exclusivamente para patógenos hepáticos específicos"
+    ],
+    "explanation": "A Síndrome de Fitz-Hugh-Curtis é tratada com a mesma abordagem da DIPA de base, pois representa uma complicação extrapélvica da infecção genital ascendente. O esquema antibiótico deve cobrir Chlamydia trachomatis e Neisseria gonorrhoeae, com duração de 14 dias. A resolução das aderências pode ocorrer espontaneamente após tratamento adequado.",
+    "correctIndex": 1,
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características clínicas da bartolinite?",
+    "options": [
+      "Prurido vulvar intenso, corrimento vaginal esbranquiçado, eritema e edema discretos",
+      "Lesão vegetante indolor com base granulosa vermelho-vivo e sangramento fácil",
+      "Múltiplas vesículas agrupadas dolorosas que evoluem para úlceras rasas e crostas",
+      "Úlcera genital única indolor, endurecida, com fundo limpo e secreção serosa escassa",
+      "Dor intensa, formação de cisto inflamatório, sinais flogísticos locais e possível secreção purulenta"
+    ],
+    "explanation": "A bartolinite aguda caracteriza-se por dor intensa na região do terço posterior dos lábios vulvares, formação de cisto inflamatório (inicialmente interno, depois visível sem afastamento dos pequenos lábios), sinais flogísticos locais (rubor, calor, edema) e possível drenagem espontânea de secreção purulenta. Constitui uma urgência ginecológica que requer drenagem e antibioticoterapia.",
+    "correctIndex": 4,
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento adequado para bartolinite aguda?",
+    "options": [
+      "Drenagem do abscesso + antibioticoterapia",
+      "Aplicação de compressas quentes sem antibioticoterapia sistêmica ou drenagem",
+      "Cirurgia de ressecção da glândula de Bartholin mesmo na fase aguda inflamatória",
+      "Administração de antifúngicos orais e tópicos por 14 dias para infecção fúngica",
+      "Observação clínica com analgesia simples até resolução espontânea em 2-3 semanas"
+    ],
+    "explanation": "O tratamento da bartolinite aguda requer drenagem do abscesso (marsupialização ou incisão e drenagem) associada à antibioticoterapia por 7 dias. Opções incluem sulfametoxazol-trimetoprima (800+160mg) VO 12/12h, amoxicilina-clavulanato (875+125mg) VO 12/12h ou clindamicina 300mg VO 6/6h. A abordagem combinada trata a infecção e previne recidivas.",
+    "correctIndex": 0,
+    "type": "conteudista"
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "question": "Segundo o GINA 2024, qual critério espirométrico confirma asma em adultos?",
+    "options": [
+      "VEF1/CVF <0,70 e aumento do VEF1 ≥12 % e ≥200 mL após salbutamol",
+      "VEF1/CVF <0,80 e aumento do VEF1 ≥20 % e ≥400 mL após salbutamol",
+      "VEF1/CVF >0,70 e aumento do VEF1 ≥12 % e ≥200 mL após salbutamol",
+      "VEF1/CVF <0,70 e aumento do VEF1 ≥8 % e ≥100 mL após salbutamol",
+      "VEF1/CVF <0,75 e aumento do VEF1 ≥10 % e ≥150 mL após salbutamol"
+    ],
+    "correctIndex": 0,
+    "explanation": "A relação VEF1/CVF <0,70 indica distúrbio ventilatório obstrutivo, e a reversibilidade de ≥12 % e ≥200 mL no VEF1 após broncodilatador é o padrão-ouro para confirmar asma.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual combinação laboratorial caracteriza asma eosinofílica alérgica?",
+    "options": [
+      "Neutrofilia periférica, FeNO elevado e IgE baixo",
+      "Eosinofilia periférica, FeNO baixo e IgE normal",
+      "Eosinofilia leve, FeNO normal e IgE baixo",
+      "Neutrofilia no escarro, FeNO baixo e IgE normal",
+      "Eosinofilia periférica, FeNO elevado e IgE sérico alto"
+    ],
+    "correctIndex": 4,
+    "explanation": "O fenótipo Th2-alto apresenta eosinofilia, FeNO elevado e IgE alto, indicando inflamação alérgica responsiva a corticoide.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Que achado define asma neutrofílica refratária a corticoide?",
+    "options": [
+      "Hemograma com eosinofilia e FeNO elevado",
+      "Escarro com predomínio de neutrófilos e baixa resposta a CSI",
+      "Escarro paucicelular e FeNO normal",
+      "Neutrofilia periférica e IgE alto",
+      "Escarro com predomínio de eosinófilos e boa resposta a CSI"
+    ],
+    "correctIndex": 1,
+    "explanation": "A presença de neutrófilos ≥60 % no escarro e resposta insatisfatória a corticoides caracteriza asma neutrofílica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual esquema de broncodilatadores é recomendado para crise moderada de asma em adultos?",
+    "options": [
+      "Terbutalina 0,25 mg SC em dose única",
+      "Salbutamol spray 1 jato + ipratrópio spray 2 jatos a cada 8 h",
+      "Fenoterol 15 gotas + ipratrópio 20 gotas nebulizados a cada 6 h",
+      "Salbutamol 10–20 gotas + ipratrópio 40 gotas nebulizados a cada 20 min (3 doses)",
+      "Salbutamol 5–10 gotas isolado a cada 4 h"
+    ],
+    "correctIndex": 3,
+    "explanation": "A combinação SABA + anticolinérgico em três nebulizações seriadas reduz hiperinsuflação e melhora o pico de fluxo na crise moderada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais parâmetros clínico-gasométricos indicam crise de asma potencialmente fatal?",
+    "options": [
+      "SatO₂ ≤90 %, PaCO₂ ≥45 mmHg e ausculta com silêncio pulmonar",
+      "SatO₂ 93 %, PaCO₂ 40 mmHg e fala em frases longas",
+      "SatO₂ 92 %, PaCO₂ normal e sibilância difusa",
+      "SatO₂ ≥95 %, PaCO₂ normal e tosse seca",
+      "SatO₂ 94 %, PaCO₂ <35 mmHg e taquipneia leve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hipoxemia grave, retenção de CO₂ e ausência de murmúrio vesicular indicam falência ventilatória iminente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual tríade define a Doença Respiratória Exacerbada por AAS (AERD)?",
+    "options": [
+      "Asma, dermatite atópica e reação anafilática a penicilina",
+      "EPOC, polipose nasal e intolerância a betabloqueadores",
+      "Asma, rinite crônica e polipose nasal desencadeadas por AAS/AINEs",
+      "Asma, sinusite bacteriana e otite média recorrente",
+      "Bronquite crônica, rinite alérgica e urticária induzida por AAS"
+    ],
+    "correctIndex": 2,
+    "explanation": "A AERD envolve hipersensibilidade a inibidores de COX-1, cursando com broncoespasmo, rinossinusite crônica e pólipos nasais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para profilaxia de broncoespasmo induzido por exercício, qual opção é mais recomendada?",
+    "options": [
+      "Montelucaste tomado a cada 48 h",
+      "Salbutamol inalatória 15 min antes da atividade",
+      "Formoterol isolado 30 min antes da atividade",
+      "Terbutalina 0,25 mg SC pós-exercício",
+      "Fluticasona dose dobrada imediatamente antes do exercício"
+    ],
+    "correctIndex": 1,
+    "explanation": "O uso de SABA pré-exercício previne queda súbita do VEF1 durante o esforço.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual mecanismo fisiopatológico central da asma alérgica (Th2-alta)?",
+    "options": [
+      "Resposta Th2 com liberação de IL-4, IL-5 e IL-13 levando à produção de IgE",
+      "Aumento de prostaglandina E₂ pela via COX-2",
+      "Bloqueio dos receptores β₂-adrenérgicos na musculatura lisa brônquica",
+      "Ativação predominantemente Th1 com liberação de IFN-γ",
+      "Infiltração neutrofílica mediada por IL-8 e TNF-α"
+    ],
+    "correctIndex": 0,
+    "explanation": "O eixo Th2 produz citocinas que estimulam IgE e recrutam eosinófilos, gerando broncoconstrição e inflamação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual alteração estrutural caracteriza o remodelamento brônquico crônico?",
+    "options": [
+      "Destruição de membranas basais alveolares",
+      "Enfisema centroacinar dos lobos superiores",
+      "Atrofia da musculatura lisa brônquica",
+      "Espessamento pleural difuso",
+      "Fibrose subepitelial com depósito de colágeno tipo III"
+    ],
+    "correctIndex": 4,
+    "explanation": "A fibrose subepitelial torna a obstrução menos reversível e contribui para limitação fixa do fluxo aéreo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em adultos, a asma persistente moderada é definida por qual faixa de VEF1 pré-broncodilatador?",
+    "options": [
+      "60 % a 80 % do previsto",
+      "<40 % do previsto",
+      "≥80 % do previsto",
+      "≥90 % do previsto",
+      "40 % a 60 % do previsto"
+    ],
+    "correctIndex": 0,
+    "explanation": "A classificação GINA usa VEF1 60–80 % para persistente moderada, correlacionando com sintomas diários.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual valor de FeNO em adultos sugere inflamação eosinofílica ativa?",
+    "options": [
+      "10–15 ppb",
+      "5 ppb",
+      "<20 ppb",
+      "25–35 ppb",
+      ">50 ppb"
+    ],
+    "correctIndex": 4,
+    "explanation": "FeNO >50 ppb indica alta atividade Th2 e boa resposta a corticoide inalatório.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes medicamentos NÃO deve ser usado isoladamente no tratamento crônico da asma?",
+    "options": [
+      "Teofilina de liberação prolongada",
+      "Montelucaste via oral",
+      "Budesonida inalatório em baixa dose",
+      "Tiotrópio inalatório diário",
+      "Formoterol inalatório de longa duração"
+    ],
+    "correctIndex": 4,
+    "explanation": "LABA isolado aumenta risco de mortalidade; deve sempre ser associado a corticoide inalatório.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Montelucaste é mais indicado em qual cenário clínico?",
+    "options": [
+      "Controle de asma neutrofílica refratária",
+      "Crise aguda grave com silêncio pulmonar",
+      "Monoterapia em asma persistente grave",
+      "Asma induzida por exercício ou AERD",
+      "Substituição de LABA em terapia combinada"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bloqueador de leucotrienos reduz broncoconstrição induzida por exercício e sintomas em AERD.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual combinação permite estratégia MART (manutenção e alívio) recomendada pelo GINA 2024?",
+    "options": [
+      "Fluticasona + salmeterol diária e terbutalina SOS",
+      "Beclometasona isolada diária e salbutamol SOS",
+      "Mometasona isolada diária e ipratrópio SOS",
+      "Budesonida + formoterol em dose fixa para controle e SOS",
+      "Montelucaste diário e salbutamol SOS"
+    ],
+    "correctIndex": 3,
+    "explanation": "A associação CSI-formoterol (LABA de ação rápida) permite uso flexível como controlador e resgate.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual imunobiológico atua ligando-se à IgE livre, indicado na asma alérgica grave?",
+    "options": [
+      "Dupilumabe",
+      "Tezepelumabe",
+      "Benralizumabe",
+      "Omalizumabe",
+      "Mepolizumabe"
+    ],
+    "correctIndex": 3,
+    "explanation": "Omalizumabe bloqueia IgE, reduzindo degranulação mastocitária e exacerbações alérgicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Anti-IL-5 utilizados na asma eosinofílica incluem:",
+    "options": [
+      "Mepolizumabe, Benralizumabe e Reslizumabe",
+      "Salmeterol, Formoterol e Indacaterol",
+      "Budesonida, Fluticasona e Beclometasona",
+      "Omalizumabe, Dupilumabe e Tezepelumabe",
+      "Montelucaste, Zafirlucaste e Pranlukaste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Esses agentes reduzem contagem de eosinófilos ao inibir IL-5 ou seu receptor.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dose IV de sulfato de magnésio é recomendada em crise grave sem resposta inicial?",
+    "options": [
+      "3 g diluídos em 250 mL de RL em 60 min",
+      "0,5 g diluídos em 10 mL de SG 5 % em bolus",
+      "5 g diluídos em 500 mL de SF 0,45 % em 2 h",
+      "250 mg diluídos em 20 mL de SF 0,9 % em 5 min",
+      "1–2 g diluídos em 50–100 mL de SF 0,9 % em 20 min"
+    ],
+    "correctIndex": 4,
+    "explanation": "A dose de 1–2 g exerce broncodilatação via bloqueio do influxo de cálcio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na ventilação mecânica invasiva do asmático grave, qual objetivo de auto-PEEP deve ser mantido?",
+    "options": [
+      "<15 cmH₂O",
+      "<5 cmH₂O",
+      "≥18 cmH₂O",
+      "<2 cmH₂O",
+      "20–25 cmH₂O"
+    ],
+    "correctIndex": 0,
+    "explanation": "Limitar auto-PEEP evita hiperinsuflação dinâmica e barotrauma.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para controle ambiental em pacientes sensibilizados a ácaros, recomenda-se:",
+    "options": [
+      "Manter janelas abertas em épocas de pólen alto",
+      "Utilizar carpete de lã e aspirar mensalmente",
+      "Pulverizar perfume de ambiente diariamente",
+      "Colocar cortinas de veludo para bloquear luz",
+      "Lavar roupas de cama semanalmente em água ≥60 °C e usar capas antiácaro"
+    ],
+    "correctIndex": 4,
+    "explanation": "Temperatura alta e barreira física reduzem a carga de Dermatophagoides no colchão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em adultos com asma e obesidade, qual intervenção não farmacológica tem maior impacto no controle da doença?",
+    "options": [
+      "Suplementação diária de vitamina D",
+      "Perda ponderal sustentada por dieta e exercício",
+      "Restrição total de lactose",
+      "Inalação de vapor antes de dormir",
+      "Jejum intermitente de 24 h semanal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reduz IL-6 sistêmica, melhora função diafragmática e aumenta sensibilidade ao corticoide.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em asma grave com limitação fixa do fluxo aéreo, o parâmetro espirométrico esperado é:",
+    "options": [
+      "VEF1/CVF normal e VEF1 >80 % pós-broncodilatador",
+      "VEF1/CVF persistente <0,70 mesmo após broncodilatador",
+      "CVF aumentada e CPT reduzida",
+      "Reversibilidade completa do VEF1 ≥20 %",
+      "VEF1/CVF >0,90 e redução da CPT"
+    ],
+    "correctIndex": 1,
+    "explanation": "Remodelamento irreversível mantém obstrução mesmo após tratamento máximo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No passo 3 do tratamento GINA 2024 para adultos, a terapia preferencial é:",
+    "options": [
+      "CSI em baixa dose + LABA em dose fixa",
+      "Dupla broncodilatadora LABA + LAMA",
+      "Montelucaste em monoterapia",
+      "Corticoide sistêmico diário em baixa dose",
+      "SABA isolado conforme necessidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "A combinação aumenta broncodilatação sustentada mantendo controle da inflamação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Dupilumabe exerce seu efeito terapêutico ao bloquear:",
+    "options": [
+      "TNF-α",
+      "IL-5",
+      "TSLP",
+      "IgE livre",
+      "IL-4 e IL-13"
+    ],
+    "correctIndex": 4,
+    "explanation": "Dupilumabe reduz sinalização Th2 via inibição dos receptores de IL-4/IL-13.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Tezepelumabe é indicado em asma grave por inibir:",
+    "options": [
+      "IgE de alta afinidade",
+      "Receptor β₂-adrenérgico",
+      "Citocina IL-17A",
+      "Receptor de IL-5α",
+      "TSLP (linfopoietina estromal tímica)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Agindo a montante da cascata inflamatória, reduz exacerbações independentemente do fenótipo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal benefício do exercício físico regular no paciente asmático bem controlado?",
+    "options": [
+      "Reduz concentração de corticoide necessário em 24 h",
+      "Diminui capacidade funcional do diafragma",
+      "Aumenta IL-10 e melhora qualidade de vida",
+      "Induz broncoconstrição persistente pós-exercício",
+      "Eleva IL-4 e piora hiper-responsividade"
+    ],
+    "correctIndex": 2,
+    "explanation": "Exercício modera citocinas pró-inflamatórias e melhora parâmetros clínicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma criança de 7 anos apresenta sintomas diurnos <2 vezes/semana, despertares noturnos 3 vezes/mês e PFE ≥80 %. Qual classificação de gravidade crônica melhor se aplica?",
+    "options": [
+      "Asma controlada sem necessidade de terapia",
+      "Asma intermitente",
+      "Asma persistente grave",
+      "Asma persistente moderada",
+      "Asma persistente leve"
+    ],
+    "correctIndex": 4,
+    "explanation": "Sintomas semanais e despertares >2/mês situam-se no patamar de persistente leve segundo GINA.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente adulto usa budesonida/formoterol 2 j/dia e relata uso extra 5 vezes/semana para alívio. Qual ajuste terapêutico é mais apropriado?",
+    "options": [
+      "Suspender LABA e manter apenas budesonida baixa",
+      "Adicionar teofilina e manter dose atual",
+      "Substituir por SABA isolado e manter mesma dose",
+      "Iniciar corticoide sistêmico contínuo em baixa dose",
+      "Aumentar a dose de budesonida/formoterol para médio e manter MART"
+    ],
+    "correctIndex": 4,
+    "explanation": "Uso de resgate >2 vezes/semana indica descontrole; escalonar dose do CSI/LABA é a conduta.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um asmático chega à emergência com SatO₂ 88 %, fala em monossílabos e tem silêncio pulmonar bilateral. Qual conduta inicial prioritária?",
+    "options": [
+      "Oxigenioterapia para manter SatO₂ ≥92 % e nebulização SABA + ipratrópio seriada",
+      "Administrar montelucaste oral",
+      "Solicitar radiografia e aguardar resultado",
+      "Realizar espirometria antes de qualquer tratamento",
+      "Iniciar antibiótico de amplo espectro IV"
+    ],
+    "correctIndex": 0,
+    "explanation": "Crise grave exige correção da hipoxemia e broncodilatação rápida; espirometria é inviável.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 45 anos, asma difícil controle, FeNO 58 ppb, IgE 1200 UI/mL, eosinófilos 650/µL. Qual fenótipo e terapia avançada são mais indicados?",
+    "options": [
+      "Asma eosinofílica alérgica – Omalizumabe",
+      "Asma não alérgica Th2-baixa – Teofilina",
+      "Asma com obesidade – Perda ponderal exclusivamente",
+      "Asma neutrofílica – Azitromicina",
+      "Asma induzida por AAS – Dessensibilização com AAS"
+    ],
+    "correctIndex": 0,
+    "explanation": "Marcadores Th2 altos indicam uso de anti-IgE para reduzir exacerbações.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Atleta com chiado 5 min após início do treino e queda de 15 % no PFE. Qual abordagem profilática imediata é adequada?",
+    "options": [
+      "Usar montelucaste apenas pós-treino",
+      "Aumentar corticoide inalatório minutos antes",
+      "Inalar salbutamol 15 min antes do exercício",
+      "Utilizar salmeterol isolado diariamente",
+      "Evitar completamente atividade física"
+    ],
+    "correctIndex": 2,
+    "explanation": "SABA pré-exercício é a estratégia de primeira linha para broncoespasmo induzido por esforço.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com exacerbação leve apresenta rinorreia clara, sem febre e Rx de tórax normal. Antibioticoterapia está indicada?",
+    "options": [
+      "Sim, iniciar azitromicina dose única",
+      "Sim, iniciar ceftriaxona IV na emergência",
+      "Sim, iniciar amoxicilina/clavulanato por 10 dias",
+      "Não, pois não há sinais de infecção bacteriana",
+      "Sim, iniciar levofloxacino por 5 dias"
+    ],
+    "correctIndex": 3,
+    "explanation": "GINA contraindica antibiótico na crise sem evidência de pneumonia.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem obeso, IMC 38 kg/m², com asma controlada apresenta dispneia de esforço progressiva. Qual orientação inicial mais efetiva?",
+    "options": [
+      "Utilizar SABA antes de qualquer atividade física",
+      "Suspender ICS por risco de efeitos sistêmicos",
+      "Implementar programa estruturado de perda de peso",
+      "Escalonar dose de LABA sem mudanças no estilo de vida",
+      "Adicionar anti-IL-5 imediatamente"
+    ],
+    "correctIndex": 2,
+    "explanation": "Perda de peso melhora mecânica ventilatória e inflamação sistêmica, reduzindo sintomas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual biomarcador é mais útil para prever resposta a corticoide inalatório?",
+    "options": [
+      "LDH sérico",
+      "Pro-BNP",
+      "Uréia plasmática",
+      "Proteína C-reativa",
+      "FeNO"
+    ],
+    "correctIndex": 4,
+    "explanation": "FeNO elevado reflete inflamação Th2 sensível a corticoide.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com asma e pólipos nasais relata broncoespasmo severo após ibuprofeno. Qual medida de longo prazo é apropriada?",
+    "options": [
+      "Suspender montelucaste e manter SABA isolado",
+      "Aumentar apenas a dose do corticoide inalatório",
+      "Prescrever beta-bloqueador para profilaxia",
+      "Iniciar dessensibilização com AAS sob supervisão",
+      "Indicar cirurgia bariátrica de urgência"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dessensibilização permite uso de AAS em pacientes com AERD quando necessária.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Adulto em tratamento máximo mantém VEF1 45 %, múltiplas exacerbações/ano. Qual critério recomenda encaminhamento para terapia biológica?",
+    "options": [
+      "Asma grave não controlada apesar de CSI + LABA em alta dose",
+      "VEF1 normal fora de crise",
+      "Crise única há 3 anos",
+      "Ausência de eosinofilia periférica",
+      "Uso de SABA <2 vezes/semana"
+    ],
+    "correctIndex": 0,
+    "explanation": "Falha terapêutica no escalonamento máximo cumpre critérios de biológicos segundo diretrizes.",
+    "type": "raciocínio"
+  }
+]

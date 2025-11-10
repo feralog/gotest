@@ -1,0 +1,1003 @@
+[
+  {
+    "question": "Qual é o esquema vacinal contra HPV recomendado pelo Programa Nacional de Imunizações (PNI) para adolescentes de 9 a 14 anos?",
+    "options": [
+      "1 dose única da vacina quadrivalente (HPV 6, 11, 16, 18)",
+      "1 dose anual por 3 anos consecutivos para máxima proteção",
+      "2 doses com intervalo de 6 meses entre elas (0 e 6 meses)",
+      "2 doses com intervalo de 12 meses entre elas (0 e 12 meses)",
+      "3 doses completas (0, 1-2 e 6 meses) para todos os casos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O PNI recomenda esquema de 1 dose única para adolescentes de 9 a 14 anos com a vacina quadrivalente (proteção contra HPV 6, 11, 16, 18). Esta recomendação baseia-se em estudos que demonstram eficácia similar do esquema de dose única nesta faixa etária, facilitando a adesão e cobertura vacinal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os exames obrigatórios para doadoras de leite humano em bancos de leite no Brasil?",
+    "options": [
+      "Sorologia para HIV, VDRL para sífilis, hepatite C (Anti-HCV) e parasitológico de fezes",
+      "Sorologia para HIV, hepatite B (HBsAg), VDRL para sífilis e urina tipo I",
+      "Hemograma completo, sorologia para HIV, hepatite B (HBsAg) e glicemia de jejum",
+      "Hemograma completo, sorologia para HIV, hepatites B e C (HBsAg e Anti-HCV), VDRL para sífilis",
+      "Hemograma completo, sorologia para HIV, hepatite A (Anti-HAV), toxoplasmose (IgG e IgM)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os exames obrigatórios para doadoras de leite humano incluem: hemograma completo, sorologia para HIV, hepatite B (HBsAg), hepatite C (Anti-HCV) e VDRL para sífilis. Estes exames visam garantir a segurança do leite doado, prevenindo a transmissão de doenças infecciosas para os recém-nascidos receptores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento padrão recomendado para gonorreia não complicada em adultos segundo as diretrizes atuais?",
+    "options": [
+      "Azitromicina 2g VO dose única isolada para todos os casos",
+      "Ciprofloxacina 500mg VO dose única + Metronidazol 500mg VO 12/12h por 5 dias",
+      "Ceftriaxona 250mg IM dose única + Doxiciclina 100mg VO 12/12h por 14 dias",
+      "Ceftriaxona 500mg IM dose única + Azitromicina 1g VO dose única",
+      "Penicilina G Benzatina 2,4 milhões UI IM dose única + Doxiciclina 100mg VO 12/12h por 7 dias"
+    ],
+    "correctIndex": 3,
+    "explanation": "O tratamento padrão para gonorreia não complicada é Ceftriaxona 500mg IM dose única + Azitromicina 1g VO dose única. A associação é recomendada devido à crescente resistência da Neisseria gonorrhoeae e para cobrir possíveis coinfecções por Chlamydia trachomatis. A dose de Ceftriaxona foi aumentada de 250mg para 500mg devido a relatos de resistência.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os critérios diagnósticos mínimos para Doença Inflamatória Pélvica Aguda (DIPA) segundo o CDC?",
+    "options": [
+      "Dor abdominal inferior + febre >38,5°C + leucocitose >12.000/mm³",
+      "Dor pélvica + história de DIPA prévia + culturas positivas para gonorreia",
+      "Dor à palpação abdominal inferior + dor à mobilização do colo uterino + dor anexial bilateral",
+      "Secreção vaginal purulenta + dor abdominal + proteína C reativa positiva",
+      "Dor anexial unilateral + massa anexial à ultrassom + VHS elevado"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os critérios mínimos do CDC para DIPA incluem: dor à palpação abdominal inferior, dor à mobilização do colo uterino e dor anexial bilateral. A presença destes três critérios em mulheres sexualmente ativas com dor pélvica justifica o tratamento empírico para DIPA, mesmo sem confirmação laboratorial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a população-alvo e periodicidade do rastreamento do câncer de colo uterino segundo as diretrizes brasileiras atuais?",
+    "options": [
+      "Mulheres de 18 a 70 anos, com exame bienal a partir do início da atividade sexual",
+      "Mulheres de 20 a 65 anos, com exame anual durante toda a vida",
+      "Mulheres de 25 a 64 anos, com exame anual até 2 normais consecutivos, depois a cada 3 anos",
+      "Mulheres de 21 a 65 anos, com exame a cada 3 anos independente de resultados prévios",
+      "Mulheres de 30 a 60 anos, com teste de HPV a cada 5 anos como único método"
+    ],
+    "correctIndex": 2,
+    "explanation": "As diretrizes brasileiras recomendam rastreamento para mulheres de 25 a 64 anos com exame citopatológico (Papanicolaou). A periodicidade é anual até dois exames normais consecutivos, passando então para a cada 3 anos. Mulheres HIV+ ou imunossuprimidas mantêm rastreio anual.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação para início do rastreamento mamográfico em mulheres com risco habitual de câncer de mama?",
+    "options": [
+      "A partir dos 35 anos para todas as mulheres, com exames semestrais",
+      "Apenas quando detectado nódulo palpável, independente da idade",
+      "A partir dos 30 anos em população geral, com mamografia anual obrigatória",
+      "A partir dos 40-50 anos, com periodicidade anual ou bienal conforme a diretriz seguida",
+      "A partir dos 55 anos, com mamografia a cada 5 anos até os 75 anos"
+    ],
+    "correctIndex": 3,
+    "explanation": "O rastreamento mamográfico em mulheres com risco habitual inicia-se entre 40-50 anos, com periodicidade anual ou bienal conforme a diretriz adotada. O INCA recomenda iniciar aos 50 anos com mamografia bienal, enquanto outras sociedades sugerem início aos 40 anos com anualidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características clínicas distintivas do cancro duro (sífilis primária) em comparação com outras úlceras genitais?",
+    "options": [
+      "Úlcera única, indolor, com base endurecida, bordas infiltradas e fundo limpo",
+      "Pápulas pruriginosas que evoluem para úlceras com linfadenopatia supurativa",
+      "Úlceras múltiplas, dolorosas, com base amolecida e fundo purulento",
+      "Lesão vegetante, vermelho-viva, indolor com pseudobubão inguinal",
+      "Vesículas agrupadas que rompem formando úlceras rasas e dolorosas"
+    ],
+    "correctIndex": 0,
+    "explanation": "O cancro duro da sífilis primária caracteriza-se por úlcera única, indolor, com base endurecida (endurecimento característico), bordas bem delimitadas e infiltradas, fundo limpo e secreção serosa. A adenopatia inguinal é indolor, móvel e não supurativa (bubão sifilítico).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o significado da sigla obstétrica G3P1A1C1 em uma paciente?",
+    "options": [
+      "3 gestações, 1 parto vaginal, 1 aborto espontâneo, 1 criança viva",
+      "3 gestações, 1 parto prematuro, 1 aborto, 1 cesárea",
+      "3 gestações, 1 parto vaginal, 1 aborto, 1 cesárea",
+      "3 gestações, 1 parto múltiplo, 1 aborto, 1 curetagem",
+      "3 gestações, 1 parto vaginal, 1 aborto, 1 complicação"
+    ],
+    "correctIndex": 2,
+    "explanation": "G3P1A1C1 significa: G (gestações) = 3 gestações (incluindo a atual); P (partos) = 1 parto vaginal a termo; A (abortos) = 1 aborto (espontâneo ou provocado); C (cesáreas) = 1 parto por cesariana. Esta paciente teve 3 gestações no total, com desfechos diferentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tempo máximo de armazenamento do leite humano cru na geladeira e no freezer doméstico?",
+    "options": [
+      "48 horas na geladeira (4°C) e 30 dias no freezer (-18°C)",
+      "12 horas na geladeira (4°C) e 15 dias no freezer (-18°C)",
+      "6 horas na geladeira (4°C) e 7 dias no freezer (-18°C)",
+      "24 horas na geladeira (4°C) e 21 dias no freezer (-18°C)",
+      "72 horas na geladeira (4°C) e 60 dias no freezer (-18°C)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O leite humano cru pode ser armazenado por até 24 horas em geladeira (temperatura de 4°C) e por 21 dias em freezer doméstico (temperatura de -18°C). Após pasteurização, o prazo de validade é de 6 meses quando congelado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais tipos de HPV são responsáveis por aproximadamente 70% dos casos de câncer cervical invasor?",
+    "options": [
+      "HPV 45 e 52 (tipos emergentes de alto risco)",
+      "HPV 16 e 18 (tipos de alto risco oncogênico)",
+      "HPV 6 e 11 (tipos de baixo risco associados a condilomas)",
+      "HPV 56 e 58 (tipos menos frequentes em câncer)",
+      "HPV 31 e 33 (tipos de risco intermediário)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os tipos HPV 16 e 18 são responsáveis por aproximadamente 70% dos casos de câncer cervical invasor em todo o mundo. Estes são considerados tipos de alto risco oncogênico e estão incluídos na maioria das vacinas disponíveis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento ambulatorial recomendado para Doença Inflamatória Pélvica Aguda não complicada?",
+    "options": [
+      "Ceftriaxona 500mg IM dose única + Doxiciclina 100mg VO 12/12h por 14 dias + Metronidazol 500mg VO 8/8h por 14 dias",
+      "Ciprofloxacina 500mg VO 12/12h por 7 dias + Clindamicina 300mg VO 8/8h por 7 dias",
+      "Penicilina G Procaína 4,8 milhões UI IM + Probenecida 1g VO em dose única",
+      "Azitromicina 1g VO dose única + Metronidazol 2g VO dose única em esquema único",
+      "Amoxicilina 500mg VO 8/8h por 10 dias + Ácido Clavulânico 125mg VO 8/8h por 10 dias"
+    ],
+    "correctIndex": 0,
+    "explanation": "O tratamento ambulatorial para DIPA inclui: Ceftriaxona 500mg IM dose única (cobre gonorreia) + Doxiciclina 100mg VO 12/12h por 14 dias (cobre clamídia) + Metronidazol 500mg VO 8/8h por 14 dias (cobre anaeróbios). Esta associação proporciona cobertura adequada para os principais patógenos envolvidos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição de início do trabalho de parto ativo em obstetrícia?",
+    "options": [
+      "Dilatação cervical ≥3-4cm associada a contrações uterinas regulares e efetivas",
+      "Perda do tampão mucoso com dilatação cervical de 1-2cm isolada",
+      "Dilatação cervical completa (10cm) com período expulsivo iniciado",
+      "Primeira contração uterina perceptível pela gestante a qualquer dilatação",
+      "Rotura das membranas amnióticas independente da dinâmica uterina"
+    ],
+    "correctIndex": 0,
+    "explanation": "O trabalho de parto ativo inicia com dilatação cervical ≥3-4cm associada a contrações uterinas regulares (2-3 contrações em 10 minutos), ritmicas e efetivas (duração de 40-60 segundos). Antes disso considera-se fase latente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as contraindicações absolutas para doação de leite humano em bancos de leite?",
+    "options": [
+      "Sorologia positiva para hepatite B (HBsAg positivo) em qualquer situação",
+      "História de cirurgia mamária redutora ou aumento mamário prévio",
+      "Sorologia positiva para HIV e HTLV I/II (retrovírus com transmissão lactogênica)",
+      "Uso de medicamentos contínuos para hipertensão arterial sistêmica",
+      "Diagnóstico de diabetes mellitus gestacional na gestação atual"
+    ],
+    "correctIndex": 2,
+    "explanation": "As contraindicações absolutas para doação são: sorologia positiva para HIV e HTLV I/II, devido ao risco de transmissão vertical através do leite materno. Hepatite B é contraindicação relativa - o leite pode ser utilizado após pasteurização.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema vacinal contra HPV recomendado para mulheres de 20 a 45 anos imunossuprimidas?",
+    "options": [
+      "2 doses (0 e 6 meses) para todos os casos de imunossupressão",
+      "3 doses (esquema 0, 2 e 6 meses) com vacina quadrivalente ou nonavalente",
+      "1 dose única independente do estado imunológico pela praticidade",
+      "Não é recomendada vacinação após os 20 anos em imunossuprimidas",
+      "Esquema de 4 doses (0, 1, 2 e 12 meses) para resposta máxima"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para mulheres de 20 a 45 anos imunossuprimidas (HIV+, transplantadas, em quimioterapia), recomenda-se esquema de 3 doses (0, 2 e 6 meses) para garantir adequada resposta imune. A vacina pode ser quadrivalente (SUS) ou nonavalente (rede privada).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais agentes etiológicos da Doença Inflamatória Pélvica Aguda?",
+    "options": [
+      "Trichomonas vaginalis, Mobiluncus spp. e Prevotella spp.",
+      "Escherichia coli, Streptococcus agalactiae e Candida albicans",
+      "Chlamydia trachomatis, Neisseria gonorrhoeae e bactérias anaeróbias",
+      "Treponema pallidum, Haemophilus ducreyi e Herpes simplex",
+      "Mycoplasma hominis, Ureaplasma urealyticum e Gardnerella vaginalis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os principais agentes etiológicos da DIPA são: Chlamydia trachomatis (40-50% dos casos), Neisseria gonorrhoeae (10-20%) e bactérias anaeróbias da flora endógena (Prevotella, Bacteroides, Peptostreptococcus). Frequentemente há infecção polimicrobiana.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta recomendada para rastreamento de câncer de mama em mulher de 35 anos com mãe que teve câncer de mama aos 42 anos?",
+    "options": [
+      "Aguardar até os 40 anos para início do rastreamento como população geral",
+      "Realizar apenas ultrassom mamária anual até os 50 anos por maior densidade",
+      "Realizar mamografia bienal a partir dos 35 anos sem necessidade de antecipação",
+      "Iniciar mamografia anual 10 anos antes da idade do caso índice (aos 32 anos) ou aos 40 anos (o que vier primeiro)",
+      "Iniciar ressonância magnética mamária anual imediatamente aos 35 anos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em casos de história familiar de câncer de mama em parente de primeiro grau antes dos 50 anos, recomenda-se iniciar rastreamento 10 anos antes da idade do caso índice (42-10=32 anos) ou aos 40 anos (o que ocorrer primeiro). Neste caso, como a paciente já tem 35 anos, deve iniciar mamografia anual imediatamente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características do cancro mole (cancroide) que o diferenciam do cancro duro sifilítico?",
+    "options": [
+      "Pápulas eritematosas que evoluem para úlceras profundas com gangrena",
+      "Úlceras múltiplas, dolorosas, com base amolecida, bordas irregulares e fundo purulento",
+      "Úlcera única, indolor, com base endurecida, bordas infiltradas e fundo limpo",
+      "Lesão vegetante indolor com pseudobubão inguinal unilateral ou bilateral",
+      "Vesículas agrupadas precedendo úlceras rasas com linfadenopatia dolorosa"
+    ],
+    "correctIndex": 1,
+    "explanation": "O cancro mole caracteriza-se por úlceras múltiplas, dolorosas, com base amolecida (não endurecida), bordas irregulares e escavadas, fundo purulento e adenopatia inguinal unilateral dolorosa (bubão cancroide) que pode supurar. Estas características contrastam com o cancro duro sifilítico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a interpretação correta da sigla obstétrica G2P1A0C1 em uma gestante?",
+    "options": [
+      "Segunda gestação, 1 parto vaginal, nenhum aborto, 1 curetagem",
+      "Segunda gestação, 1 parto vaginal, nenhum aborto, 1 cesárea",
+      "Segunda gestação, 1 parto múltiplo, nenhum aborto, 1 cesárea",
+      "Segunda gestação, 1 parto vaginal, nenhum aborto, 1 complicação",
+      "Segunda gestação, 1 parto prematuro, nenhum aborto, 1 criança viva"
+    ],
+    "correctIndex": 1,
+    "explanation": "G2P1A0C1 significa: G (gestações) = 2 gestações (incluindo a atual); P (partos) = 1 parto vaginal a termo; A (abortos) = 0 abortos; C (cesáreas) = 1 parto por cesariana. Esta paciente teve um parto vaginal e um por cesariana em gestações anteriores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais exames são considerados adequados para diagnóstico de infecção por Neisseria gonorrhoeae?",
+    "options": [
+      "Cultura em meio seletivo (Thayer-Martin) e testes de amplificação de ácidos nucleicos (NAATs)",
+      "Sorologia específica para detecção de anticorpos contra gonococo",
+      "Teste rápido de farmácia para detecção de antígenos na urina",
+      "Ultrassom pélvico para identificar abscessos tubo-ovarianos",
+      "Apenas exame direto com coloração de Gram do corrimento uretral ou cervical"
+    ],
+    "correctIndex": 0,
+    "explanation": "O diagnóstico de gonorreia é realizado preferencialmente por cultura em meio seletivo (Thayer-Martin) ou testes de amplificação de ácidos nucleicos (NAATs). A cultura permite teste de sensibilidade aos antibióticos, enquanto os NAATs têm maior sensibilidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta recomendada para mulher de 28 anos com resultado de Papanicolaou mostrando ASC-US e teste de HPV positivo?",
+    "options": [
+      "Realizar histerectomia profilática devido ao risco aumentado de câncer",
+      "Considerar como resultado normal e retornar ao rastreamento de rotina em 3 anos",
+      "Repetir o Papanicolaou em 6 meses para confirmar persistência da alteração",
+      "Iniciar tratamento com creme de imiquimode sem necessidade de confirmação diagnóstica",
+      "Encaminhar para colposcopia e biópsia dirigida devido à coinfecção por HPV de alto risco"
+    ],
+    "correctIndex": 4,
+    "explanation": "Na presença de ASC-US com HPV positivo, recomenda-se encaminhamento para colposcopia devido ao risco aumentado de lesão intraepitelial de alto grau. O HPV positivo indica infecção por tipo oncogênico, justificando investigação mais aprofundada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 22 anos, sexualmente ativa, procura PS por febre (38,2°C), dor abdominal inferior há 3 dias e corrimento vaginal amarelado. Ao exame: dor à palpação de hipogástrio, dor anexial bilateral e dor à mobilização do colo uterino. Qual a conduta inicial mais adequada?",
+    "options": [
+      "Solicitar apenas ultrassom pélvico e aguardar resultado para definir tratamento",
+      "Prescrever fluconazol 150mg VO para candidíase e orientar retorno se persistirem sintomas",
+      "Prescrever analgésicos e anti-inflamatórios e agendar retorno em 7 dias",
+      "Encaminhar para laparoscopia diagnóstica imediata sem investigação prévia",
+      "Solicitar hemograma, beta-hCG, iniciar antibioticoterapia para DIPA e considerar internação"
+    ],
+    "correctIndex": 4,
+    "explanation": "O quadro sugere DIPA (preenche critérios mínimos: dor abdominal inferior, dor anexial bilateral e dor à mobilização cervical). A conduta inclui: excluir gravidez (beta-hCG), iniciar antibioticoterapia empírica para DIPA e considerar internação (devido à febre e dor intensa). O tratamento precoce previne complicações como infertilidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 19 anos, nuligesta, relata úlcera genital única há 7 dias. Ao exame: lesão única no pequeno lábio esquerdo, indolor, com bordas endurecidas e fundo limpo. Linfonodo inguinal ipsilateral palpável, indolor e móvel. Qual a conduta diagnóstica e terapêutica inicial?",
+    "options": [
+      "Solicitar cultura para H. ducreyi e iniciar Azitromicina 1g VO para cancro mole",
+      "Solicitar sorologia para HIV e aguardar resultados para definir tratamento",
+      "Solicitar PCR para HSV e iniciar Aciclovir 400mg VO 8/8h por 7-10 dias",
+      "Solicitar VDRL e iniciar Penicilina Benzatina 2,4 milhões UI IM para sífilis primária",
+      "Solicizar biópsia da lesão e iniciar Doxiciclina 100mg VO 12/12h por 21 dias"
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro é clássico de cancro duro (sífilis primária): úlcera única, indolor, com bordas endurecidas e adenopatia indolor. A conduta inclui solicitar VDRL (ou testes treponêmicos) e iniciar Penicilina Benzatina 2,4 milhões UI IM. O tratamento não deve aguardar confirmação laboratorial devido às consequências da sífilis não tratada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 35 anos, G3P2A0C0, com 39 semanas, chega ao PS referindo contrações a cada 5 minutos há 2 horas. Ao toque vaginal: colo com 2cm de dilatação, 50% de apagamento, apresentação cefálica, plano -2. Qual a conduta mais adequada?",
+    "options": [
+      "Indicar cesárea eletiva devido à falta de progressão adequada do trabalho de parto",
+      "Realizar amniotomia artificial para acelerar progressão da dilatação cervical",
+      "Administrar analgesia epidural e manter em observação por 12 horas",
+      "Aconselhar retorno domiciliar e orientar retornar quando contrações estiverem mais frequentes ou rotura das membranas",
+      "Internar imediatamente e iniciar ocitocina para aceleração do trabalho de parto"
+    ],
+    "correctIndex": 3,
+    "explanation": "A paciente está em fase latente do trabalho de parto (dilatação <3-4cm). A conduta adequada é orientar retorno domiciliar com instruções para retornar quando: contrações estiverem a cada 3-4 minutos, rotura de membranas ou sangramento vaginal. A fase latente pode durar até 8-12 horas em multíparas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 42 anos realiza mamografia de rastreamento que mostra nódulo irregular de 1,5cm na mama direita, com microcalcificações agrupadas. A paciente relata que sua mãe teve câncer de mama aos 58 anos. Qual a conduta mais adequada?",
+    "options": [
+      "Encaminhar para avaliação especializada e biópsia core needle guiada por ultrassom",
+      "Repetir a mamografia em 6 meses para avaliar progressão do achado",
+      "Orientar autoexame mensal e retornar para mamografia anual de rotina",
+      "Prescrever tamoxifeno profilático e repetir mamografia em 1 ano",
+      "Realizar apenas ultrassom mamário complementar para caracterização"
+    ],
+    "correctIndex": 0,
+    "explanation": "O achado mamográfico (nódulo irregular com microcalcificações) é altamente suspeito para malignidade (categoria BI-RADS 4 ou 5). A conduta adequada é encaminhamento para investigação com biópsia, independente da história familiar. A biópsia core needle é o padrão-ouro para diagnóstico histológico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Adolescente de 15 anos, sexualmente ativa, comparece à UBS para vacinação. Qual o esquema vacinal contra HPV indicado para esta paciente?",
+    "options": [
+      "2 doses (0 e 6 meses) por ser sexualmente ativa independente da idade",
+      "3 doses (0, 2 e 6 meses) por estar fora da faixa etária do esquema de dose única",
+      "Não vacinar por já ter iniciado atividade sexual antes da vacinação",
+      "1 dose única como recomendado para adolescentes até 14 anos",
+      "Apenas 1 dose com reforço após 10 anos para manutenção da imunidade"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para adolescentes de 15 anos ou mais, o PNI recomenda esquema de 3 doses (0, 2 e 6 meses) com vacina quadrivalente. O esquema de dose única é reservado para adolescentes de 9 a 14 anos. A vacinação é recomendada mesmo para sexualmente ativas, pois pode proteger contra tipos de HPV não adquiridos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 25 dias, amamentando exclusivamente, deseja doar leite ao banco de leite. Refere ter feito apenas pré-natal básico. Quais exames são necessários para que ela possa ser aceita como doadora?",
+    "options": [
+      "Nenhum exame é necessário para doação ocasional de pequenas quantidades",
+      "Todos os exames do pré-natal são válidos, não sendo necessários novos exames",
+      "Hemograma completo, sorologia para HIV, HBsAg, Anti-HCV e VDRL realizados após o parto",
+      "Apenas sorologia para HIV e hepatite B por serem as mais importantes",
+      "Exame físico das mamas e teste do pezinho no recém-nascido são suficientes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para doação em banco de leite, são necessários exames recentes (realizados após o parto): hemograma completo, sorologia para HIV, hepatite B (HBsAg), hepatite C (Anti-HCV) e sífilis (VDRL). Os exames do pré-natal não são válidos por poderem não refletir infecções adquiridas durante a gestação ou parto.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 26 anos chega ao PS com queixa de corrimento vaginal amarelo-esverdeado abundante e disúria há 4 dias. Nega febre ou dor abdominal. Ao exame: secreção purulenta endocervical, colo friável e doloroso à manipulação. Qual a conduta mais adequada?",
+    "options": [
+      "Prescrever apenas Azitromicina 1g VO para cobertura de clamídia",
+      "Prescrever Metronidazol 500mg VO 8/8h por 7 dias para vaginose",
+      "Orientar higiene local e aguardar resolução espontânea em 7-10 dias",
+      "Solicitar apenas ultrassom pélvico e tratar conforme resultado",
+      "Coletar cultura endocervical e iniciar Ceftriaxona 500mg IM + Azitromicina 1g VO"
+    ],
+    "correctIndex": 4,
+    "explanation": "O quadro sugere cervicite mucopurulenta, provavelmente por gonorreia e/ou clamídia. A conduta adequada é coleta de material para cultura/NAATs e início de tratamento empírico com Ceftriaxona 500mg IM (gonorreia) + Azitromicina 1g VO (clamídia). O tratamento dos parceiros é essencial.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 32 anos, G2P1A0C1, com 36 semanas de gestação, refere contrações regulares a cada 10 minutos. Ao toque vaginal: colo com 1cm de dilatação, 30% de apagamento, apresentação pélvica. BCF 140bpm. Qual a conduta mais adequada?",
+    "options": [
+      "Administrar tocolíticos e corticoide para maturação pulmonar fetal",
+      "Indicar indução do trabalho de parto com ocitocina para resolução rápida",
+      "Orientar retorno domiciliar e aguardar trabalho de parto espontâneo",
+      "Realizar versão cefálica externa imediata no PS",
+      "Internar para avaliação obstétrica e preparo para cesárea eletiva devido à apresentação pélvica"
+    ],
+    "correctIndex": 4,
+    "explanation": "Em gestação com apresentação pélvica e trabalho de parto pré-termo, a conduta é internação para avaliação e preparo para cesárea eletiva (após 39 semanas) ou emergencial (se trabalho de parto estabelecido). Parto vaginal em apresentação pélvica requer condições específicas e é contraindicado em muitas situações.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 58 anos, assintomática, procura UBS para orientação sobre rastreamento de câncer de colo uterino. Teve seu último Papanicolaou há 4 anos, que foi normal. Sua última relação sexual foi há 10 anos. Qual a conduta mais adequada?",
+    "options": [
+      "Realizar apenas teste de HPV e suspender rastreamento se negativo",
+      "Encaminhar para histeroscopia diagnóstica por ser assintomática",
+      "Realizar Papanicolaou e manter rastreamento até 64 anos conforme diretrizes",
+      "Suspender rastreamento por ter tido exame normal há 4 anos",
+      "Suspender rastreamento por não ser mais sexualmente ativa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Segundo as diretrizes brasileiras, o rastreamento deve ser mantido até 64 anos para mulheres que nunca tiveram alterações citopatológicas. A inatividade sexual não justifica suspensão precoce, pois o HPV pode permanecer latente por anos. Deve-se realizar Papanicolaou e manter periodicidade regular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 24 anos com diagnóstico de DIPA em tratamento ambulatorial há 48 horas retorna ao PS referindo piora da dor abdominal e febre (38,8°C). Qual a conduta mais adequada?",
+    "options": [
+      "Suspender antibióticos e iniciar antifúngicos por suspeita de candidíase",
+      "Manter conduta atual e reavaliar em 48 horas para definir internação",
+      "Manter tratamento oral e acrescentar analgésicos mais potentes",
+      "Internar para antibioticoterapia intravenosa e reavaliação diagnóstica",
+      "Encaminhar para laparoscopia exploradora imediata sem nova avaliação"
+    ],
+    "correctIndex": 3,
+    "explanation": "Paciente com DIPA em tratamento ambulatorial que apresenta piora clínica (febre, dor intensa) deve ser internada para antibioticoterapia IV. A piora sugere falha terapêutica, abscesso tubo-ovariano ou diagnóstico alternativo (apendicite, gravidez ectópica).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 29 anos, G1P0A0C0, com 41 semanas de gestação, inicia trabalho de parto espontâneo. Após 6 horas na fase ativa, apresenta 7cm de dilatação. Duas horas depois, mantém 7cm de dilatação. BCF 130-140bpm, dinâmica uterina adequada. Qual a conduta?",
+    "options": [
+      "Administrar ocitocina para aumentar frequência e intensidade das contrações",
+      "Diagnosticar distócia cervical e indicar cesárea por falta de progressão",
+      "Indicar fórceps alto para resolução imediata do trabalho de parto",
+      "Realizar amniotomia se bolsa íntegra e reavaliar em 2 horas",
+      "Aguardar mais 2 horas para confirmar parada real de progressão"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na fase ativa do trabalho de parto, espera-se progressão de pelo menos 1cm/hora em primíparas. Ausência de progressão após 2 horas com dinâmica uterina adequada caracteriza distócia cervical, indicando cesárea. Em primíparas, não se deve aguardar mais que 2-3 horas sem progressão.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 38 anos realiza mamografia de rastreamento que mostra mamas extremamente densas (BI-RADS 0). Qual a conduta complementar mais adequada?",
+    "options": [
+      "Repetir mamografia em 6 meses com técnica diferente para melhor visualização",
+      "Realizar ultrassom mamário bilateral para melhor caracterização do parênquima",
+      "Solicitar apenas mamografia com magnificação para avaliação específica",
+      "Considerar exame normal e retornar ao rastreamento de rotina em 1 ano",
+      "Encaminhar diretamente para ressonância magnética das mamas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Em mamas extremamente densas (BI-RADS 0 - estudo incompleto), a conduta é realizar ultrassom mamário bilateral como método complementar. A densidade mamária reduz a sensibilidade da mamografia, e o ultrassom pode identificar lesões não visualizadas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 45 anos, saudável, pergunta sobre quando deve iniciar o rastreamento mamográfico. Sua mãe teve câncer de mama aos 68 anos. Qual a orientação correta?",
+    "options": [
+      "Iniciar mamografia anual imediatamente devido à história familiar",
+      "Iniciar mamografia anual a partir dos 40 anos como população de risco habitual",
+      "Iniciar ressonância magnética anual a partir dos 35 anos por alto risco",
+      "Realizar apenas ultrassom mamário anual até os 50 anos",
+      "Aguardar até os 50 anos para início do rastreamento mamográfico"
+    ],
+    "correctIndex": 1,
+    "explanation": "História familiar de câncer de mama em parente de primeiro grau após 50 anos não configura alto risco. A paciente é considerada risco habitual e deve seguir rastreamento padrão: mamografia anual a partir dos 40-50 anos, conforme preferência da paciente e orientação médica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Adolescente de 16 anos, sexualmente ativa, comparece à UBS para consulta de rotina. Nunca foi vacinada contra HPV. Qual o esquema vacinal indicado?",
+    "options": [
+      "1 dose única por ter menos de 18 anos completos",
+      "Apenas 1 dose com teste sorológico para verificar necessidade de reforço",
+      "Não vacinar por já ter iniciado atividade sexual antes da vacinação",
+      "2 doses (0 e 6 meses) por ser adolescente sexualmente ativa",
+      "3 doses (0, 2 e 6 meses) com vacina quadrivalente disponível no SUS"
+    ],
+    "correctIndex": 4,
+    "explanation": "Para adolescentes de 15 anos ou mais, o PNI recomenda esquema de 3 doses (0, 2 e 6 meses) com vacina quadrivalente. A vacinação é recomendada mesmo para sexualmente ativas, pois pode proteger contra tipos de HPV não adquiridos. O SUS disponibiliza a vacina para mulheres até 45 anos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 15 dias, amamentando, deseja doar leite. Refere ter feito todos os exames no pré-natal, todos normais. Qual a conduta quanto aos exames para doação?",
+    "options": [
+      "Encaminhar para consulta médica para liberação baseada apenas no exame físico",
+      "Solicitar nova bateria de exames (hemograma, HIV, hepatites, sífilis) pós-parto",
+      "Aceitar a doação sem exames por ser puérpera recente e assintomática",
+      "Aceitar os exames do pré-natal desde que realizados no terceiro trimestre",
+      "Solicitar apenas sorologia para HIV e hepatite B por serem as mais importantes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para doação em banco de leite, são necessários exames realizados após o parto, pois infecções podem ser adquiridas durante o parto ou no pós-parto imediato. Os exames do pré-natal não são suficientes para garantir a segurança do leite doado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 34 anos chega ao PS com queixa de dor abdominal inferior há 5 dias, febre (38,5°C) e corrimento vaginal. Ao exame: dor hipogástrica, dor anexial bilateral, dor à mobilização cervical. Beta-hCG negativo. Qual o diagnóstico mais provável e conduta?",
+    "options": [
+      "Apendicite aguda, encaminhar para avaliação cirúrgica emergencial",
+      "Doença Inflamatória Pélvica Aguda, internar para antibioticoterapia intravenosa",
+      "Cistite aguda não complicada, prescrever antibioticoterapia oral e analgesia",
+      "Endometriose profunda, prescrever anticoncepcional e analgesia",
+      "Gravidez ectópica rota, encaminhar para laparotomia exploradora urgente"
+    ],
+    "correctIndex": 1,
+    "explanation": "O quadro preenche critérios para DIPA: dor abdominal inferior, dor anexial bilateral, dor à mobilização cervical + febre. Com beta-hCG negativo, exclui-se gravidez ectópica. A presença de febre e dor intensa indica necessidade de internação para antibioticoterapia IV.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 27 anos, G3P2A0C1, com 38 semanas, em trabalho de parto ativo. Após 4 horas, dilatação progride de 4 para 8cm. Agora com 9cm há 1 hora, contrações a cada 2-3 minutos. Qual a conduta?",
+    "options": [
+      "Preparar para parto instrumental com 9cm de dilatação por estagnação",
+      "Realizar amniotomia se bolsa íntegra para acelerar fase final de dilatação",
+      "Administrar ocitocina para aumentar intensidade das contrações",
+      "Aguardar mais 1 hora para completa dilatação antes de qualquer intervenção",
+      "Diagnosticar distócia e indicar cesárea imediata por parada de progressão"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na transição (9-10cm), é comum haver desaceleração da progressão. Deve-se aguardar até 2 horas para completa dilatação, desde que o bem-estar fetal esteja adequado. A paciente é multípara e teve boa progressão inicial, sugerindo que completa dilatação ocorrerá em breve.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 65 anos, assintomática, histerectomizada total por miomatose há 10 anos. Procura orientação sobre rastreamento de câncer ginecológico. Qual a conduta?",
+    "options": [
+      "Realizar colposcopia anual para detecção de lesões residuais no fundo vaginal",
+      "Encaminhar para histeroscopia diagnóstica para avaliação da cúpula vaginal",
+      "Manher Papanicolaou vaginal anual por possibilidade de câncer de cúpula vaginal",
+      "Suspender rastreamento de colo uterino se histerectomia foi total por doença benigna",
+      "Manter rastreamento com Papanicolaou a cada 3 anos até os 70 anos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Após histerectomia total por doença benigna (sem história de lesão cervical prévia), o rastreamento de câncer de colo uterino pode ser suspenso. Não há indicação de rastreamento de cúpula vaginal em assintomáticas sem história de lesão cervical pré-maligna ou maligna.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 31 anos com diagnóstico de DIPA há 3 dias em tratamento ambulatorial retorna para reavaliação. Refere melhora parcial da dor e ausência de febre. Persiste corrimento vaginal. Qual a conduta?",
+    "options": [
+      "Trocar esquema antibiótico por suspeita de resistência bacteriana",
+      "Encaminhar para laparoscopia para avaliação de abscessos residuais",
+      "Suspender antibióticos por resposta inadequada e encaminhar para internação",
+      "Manter antibioticoterapia por 14 dias completos e reavaliar após término",
+      "Associar antifúngico por suspeita de candidíase secundária ao tratamento"
+    ],
+    "correctIndex": 3,
+    "explanation": "A melhora clínica parcial com desaparecimento da febre sugere resposta ao tratamento. Deve-se completar os 14 dias de antibioticoterapia e reavaliar após término. A persistência de algum corrimento é comum nas primeiras semanas pós-tratamento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 29 anos, G2P1A0C0, com 40 semanas, refere contrações a cada 7-8 minutos há 6 horas. Ao toque vaginal: colo com 3cm, 70% de apagamento, apresentação cefálica, plano -1. Qual a conduta?",
+    "options": [
+      "Realizar amniotomia para estabelecimento do trabalho de parto ativo",
+      "Administrar analgesia e manter em observação por mais 6 horas",
+      "Internar e iniciar ocitocina para aceleração do trabalho de parto",
+      "Orientar deambulação e aguardar evolução para trabalho de parto ativo",
+      "Indicar cesárea por trabalho de parto prolongado na fase latente"
+    ],
+    "correctIndex": 3,
+    "explanation": "A paciente está em fase latente prolongada (dilatação <4cm por mais de 6 horas). Em multípara, a conduta é deambulação, hidratação e observação. A fase latente pode durar até 8-12 horas. Não há indicação de intervenção ativa neste momento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 47 anos realiza mamografia de rastreamento que mostra assimetria focal na mama esquerda. Qual a conduta mais adequada?",
+    "options": [
+      "Solicitar ressonância magnética mamária como próximo passo diagnóstico",
+      "Repetir mamografia em 6 meses para avaliar progressão do achado",
+      "Considerar variação normal do parênquima mamário e liberar para rotina",
+      "Encaminhar imediatamente para biópsia core needle do achado",
+      "Realizar mamografia complementar com magnificação e/ou ultrassom para caracterização"
+    ],
+    "correctIndex": 4,
+    "explanation": "Assimetria focal na mamografia (BI-RADS 0) requer avaliação complementar com mamografia com magnificação e/ou ultrassom para melhor caracterização. Conforme o resultado dos exames complementares, define-se a necessidade de biópsia ou retorno ao rastreamento de rotina.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 21 anos, sexualmente ativa, chega ao PS com úlcera genital única há 4 dias. Ao exame: lesão única no grande lábio direito, dolorosa, com base amolecida, bordas irregulares e fundo purulento. Linfonodo inguinal doloroso. Qual o diagnóstico e tratamento?",
+    "options": [
+      "Donovanose, tratar com Doxiciclina 100mg VO 12/12h por 21 dias",
+      "Sífilis primária, tratar com Penicilina Benzatina 2,4 milhões UI IM",
+      "Herpes genital, tratar com Aciclovir 400mg VO 8/8h por 7-10 dias",
+      "Cancro mole, tratar com Azitromicina 1g VO dose única ou Ceftriaxona 500mg IM",
+      "Linfogranuloma venéreo, tratar com Doxiciclina 100mg VO 12/12h por 21 dias"
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro é sugestivo de cancro mole: úlcera única/múltipla, dolorosa, com base amolecida (não endurecida), bordas irregulares, fundo purulento e adenopatia dolorosa. O tratamento é Azitromicina 1g VO dose única ou Ceftriaxona 500mg IM.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 36 anos, G4P3A0C1, com 37 semanas, em trabalho de parto ativo. Após 3 horas, dilatação progride de 4 para 9cm. Agora há 1 hora mantém 9cm. Contrações a cada 2 minutos. BCF 130-140bpm. Qual a conduta?",
+    "options": [
+      "Preparar para parto instrumental com 9cm por estagnação prolongada",
+      "Realizar amniotomia para acelerar última fase da dilatação cervical",
+      "Administrar ocitocina para aumentar intensidade das contrações",
+      "Aguardar completa dilatação por mais 1 hora, multípara tem evolução mais rápida",
+      "Indicar cesárea imediata por parada de progressão na fase ativa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em multípara com boa progressão inicial e estacionamento em 9cm há 1 hora, deve-se aguardar mais 1 hora para completa dilatação. Multíparas frequentemente têm fase de desaceleração antes da dilatação completa. O bem-estar fetal está adequado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 33 anos, HIV+, assintomática, procura UBS para orientação sobre rastreamento de câncer de colo uterino. Qual a recomendação adequada?",
+    "options": [
+      "Rastreamento anual com Papanicolaou independente da idade ou resultados prévios",
+      "Iniciar rastreamento apenas se apresentar sintomas sugestivos",
+      "Rastreamento semestral nos primeiros 2 anos após diagnóstico de HIV",
+      "Rastreamento a cada 3 anos como população geral após dois exames normais",
+      "Encaminhar para colposcopia anual independente de resultados citológicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mulheres HIV+ têm risco aumentado de infecção persistente por HPV e progressão para neoplasia cervical. Recomenda-se rastreamento anual com Papanicolaou, independente da idade ou resultados prévios. Algumas diretrizes sugerem rastreamento a cada 6 meses no primeiro ano após diagnóstico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 20 dias, amamentando, deseja doar leite. Refere ter tido contato com pessoa com hepatite A há 2 semanas. Qual a conduta?",
+    "options": [
+      "Solicitar sorologia para hepatite A e decidir conforme resultado",
+      "Afastar permanentemente da doação por risco de transmissão",
+      "Aceitar doação apenas após pasteurização especial do leite",
+      "Afastar temporariamente da doação por 4 semanas e reavaliar",
+      "Aceitar doação normalmente, hepatite A não contraindicada"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hepatite A tem transmissão fecal-oral e período de incubação de 2-6 semanas. Deve-se afastar temporariamente por 4 semanas (período máximo de incubação) e reavaliar. Se permanecer assintomática, pode retornar à doação. Hepatite A não tem transmissão lactogênica comprovada, mas o afastamento é por precaução.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 28 anos chega ao PS com febre (38,8°C), calafrios e dor abdominal inferior há 2 dias. Ao exame: abdome doloroso em hipogástrio, sinais de irritação peritoneal. Beta-hCG negativo. Ultrassom mostra massa anexial complexa de 6cm. Qual a conduta?",
+    "options": [
+      "Suspender antibioticoterapia e aguardar cultura para definição do tratamento",
+      "Prescrever apenas analgesia e anti-inflamatórios para controle sintomático",
+      "Prescrever antibioticoterapia oral para DIPA e reavaliar em 48 horas",
+      "Encaminhar para laparotomia exploradora imediata sem antibioticoterapia prévia",
+      "Internar para antibioticoterapia IV e considerar drenagem de abscesso tubo-ovariano"
+    ],
+    "correctIndex": 4,
+    "explanation": "O quadro sugere DIPA complicada com abscesso tubo-ovariano (febre alta, massa anexial ao US). A conduta é internação para antibioticoterapia IV de amplo espectro e avaliação para drenagem (percutânea ou cirúrgica) se não houver resposta em 48-72 horas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 31 anos, G1P0A0C0, com 39 semanas, em trabalho de parto ativo. Após 5 horas, dilatação progride de 4 para 6cm. Duas horas depois, mantém 6cm. Contrações a cada 3-4 minutos. Qual a conduta?",
+    "options": [
+      "Aguardar mais 2 horas para confirmar parada real de progressão",
+      "Indicar cesárea imediata por falta de progressão adequada",
+      "Diagnosticar distócia e considerar amniotomia ou ocitocina conforme situação",
+      "Realizar versão cefálica externa por suspeita de má-posição fetal",
+      "Administrar analgesia e reavaliar em 4 horas para definir conduta"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em primípara, espera-se progressão de pelo menos 1cm/hora na fase ativa. Ausência de progressão após 2 horas caracteriza distócia. Deve-se considerar amniotomia (se bolsa íntegra) ou ocitocina (se dinâmica uterina inadequada). Se persistir sem progressão após 2 horas, indica cesárea.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 55 anos, assintomática, histerectomizada há 5 anos por miomatose uterina. Procura orientação sobre rastreamento de câncer ginecológico. Qual a conduta?",
+    "options": [
+      "Realizar colposcopia anual para detecção de lesões no fundo vaginal",
+      "Encaminhar para histeroscopia diagnóstica para avaliação da cúpula vaginal",
+      "Suspender rastreamento de colo uterino se histologia cirúrgica confirmou doença benigna",
+      "Manter rastreamento com Papanicolaou a cada 3 anos até os 65 anos",
+      "Manter Papanicolaou vaginal anual por possibilidade de câncer de cúpula vaginal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Após histerectomia total por doença benigna (com confirmação histológica), em mulher assintomática, pode-se suspender o rastreamento de câncer de colo uterino. Não há evidência que sustente rastreamento de cúpula vaginal em pacientes sem história prévia de neoplasia cervical.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 25 anos com DIPA em tratamento há 5 dias retorna assintomática. Refere ter feito antibioticoterapia completa. Qual a conduta?",
+    "options": [
+      "Orientar retorno em 3 meses para teste de cura e rastreamento de reinfecção",
+      "Considerar curada e retornar apenas se surgirem novos sintomas",
+      "Solicitar ultrassom pélvico para confirmar resolução do processo inflamatório",
+      "Encaminhar para laparoscopia para avaliação de sequelas tubárias",
+      "Manter antibioticoterapia por mais 7 dias para consolidação do tratamento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Após tratamento de DIPA, recomenda-se teste de cura (preferencialmente com NAATs) em 3 meses para detectar reinfecção assintomática. Também é importante rastrear parceiros sexuais e orientar sobre uso de preservativos para prevenir reinfecções.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 34 anos, G2P1A0C0, com 41 semanas, inicia trabalho de parto espontâneo. Após 5 horas na fase ativa, apresenta 8cm de dilatação. Duas horas depois, mantém 8cm. BCF 130bpm, dinâmica adequada. Qual a conduta?",
+    "options": [
+      "Aguardar mais 2 horas para confirmar parada real de progressão",
+      "Administrar ocitocina para aumentar frequência das contrações",
+      "Realizar amniotomia se bolsa íntegra e reavaliar em 2 horas",
+      "Diagnosticar distócia cervical e indicar cesárea por falta de progressão",
+      "Indicar fórceps médio para resolução do trabalho de parto"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na fase ativa do trabalho de parto em multípara, espera-se progressão mínima de 1,2-1,5cm/hora. Ausência de progressão após 2 horas com dinâmica uterina adequada caracteriza distócia cervical, indicando cesárea. Em multíparas, o tempo de observação pode ser menor que em primíparas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 44 anos realiza mamografia de rastreamento que mostra nódulo circunscrito de 1,0cm na mama direita. Qual a conduta mais adequada?",
+    "options": [
+      "Repetir mamografia em 6 meses para avaliar crescimento do nódulo",
+      "Realizar ultrassom mamário para caracterização do nódulo e definição de conduta",
+      "Encaminhar imediatamente para biópsia core needle do nódulo",
+      "Considerar variação normal do parênquima mamário e liberar para rotina",
+      "Solicitar ressonância magnética mamária como próximo passo diagnóstico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nódulo circunscrito na mamografia (BI-RADS 3) requer avaliação complementar com ultrassom para melhor caracterização. Conforme as características ao ultrassom, define-se a necessidade de biópsia ou acompanhamento em 6 meses.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 19 anos, sexualmente ativa, chega ao PS com úlceras genitais múltiplas há 3 dias. Ao exame: úlceras dolorosas, com base amolecida, bordas irregulares e fundo purulento. Linfonodos inguinais bilaterais dolorosos. Qual o diagnóstico e tratamento?",
+    "options": [
+      "Sífilis primária, tratar com Penicilina Benzatina 2,4 milhões UI IM",
+      "Linfogranuloma venéreo, tratar com Doxiciclina 100mg VO 12/12h por 21 dias",
+      "Donovanose, tratar com Azitromicina 1g VO semanal por 4 semanas",
+      "Cancro mole, tratar com Azitromicina 1g VO dose única",
+      "Herpes genital, tratar com Aciclovir 400mg VO 8/8h por 7-10 dias"
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro é característico de cancro mole: úlceras múltiplas, dolorosas, com base amolecida (não endurecida), bordas irregulares, fundo purulento e adenopatia dolorosa. O tratamento de escolha é Azitromicina 1g VO dose única.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 37 anos, G3P2A0C1, com 38 semanas, em trabalho de parto ativo. Após 3 horas, dilatação progride de 4 para 7cm. Agora com 8cm há 1 hora, contrações a cada 2-3 minutos. BCF 135bpm. Qual a conduta?",
+    "options": [
+      "Administrar ocitocina para aumentar intensidade das contrações",
+      "Aguardar completa dilatação por mais 1-2 horas, multípara tem evolução rápida",
+      "Indicar cesárea imediata por parada de progressão na fase ativa",
+      "Realizar amniotomia para acelerar última fase da dilatação cervical",
+      "Preparar para parto instrumental com 8cm por estagnação prolongada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Em multípara com boa progressão inicial e estacionamento em 8cm há 1 hora, deve-se aguardar mais 1-2 horas para completa dilatação. Multíparas frequentemente têm fase de desaceleração antes da dilatação completa. O bem-estar fetal está adequado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 29 anos, HIV+, em uso regular de TARV, procura UBS para orientação sobre rastreamento de câncer de colo uterino. Qual a recomendação adequada?",
+    "options": [
+      "Encaminhar para colposcopia anual independente de resultados citológicos",
+      "Rastreamento a cada 3 anos como população geral após dois exames normais",
+      "Rastreamento semestral apenas se CD4 <200 células/mm³",
+      "Iniciar rastreamento apenas se apresentar sintomas sugestivos",
+      "Rastreamento anual com Papanicolaou independente de resultados prévios"
+    ],
+    "correctIndex": 4,
+    "explanation": "Mulheres HIV+, mesmo em TARV e com imunossupressão controlada, mantêm risco aumentado para infecção persistente por HPV e neoplasia cervical. Recomenda-se rastreamento anual com Papanicolaou, independente de resultados prévios ou status imunológico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 25 dias, amamentando, deseja doar leite. Refere ter tomado dose única de Azitromicina 1g há 3 dias por contato com pessoa com gonorreia. Qual a conduta?",
+    "options": [
+      "Afastar permanentemente por risco de transmissão de gonorreia",
+      "Solicitar cultura de secreção vaginal e decidir conforme resultado",
+      "Afastar temporariamente por 7 dias e reavaliar situação clínica",
+      "Aceitar doação normalmente, Azitromicina não contraindica doação",
+      "Aceitar doação apenas após pasteurização especial do leite"
+    ],
+    "correctIndex": 3,
+    "explanation": "Azitromicina não contraindica doação de leite materno. É antibioticoterapia segura durante amamentação. O tratamento profilático por contato com gonorreia não implica risco de transmissão através do leite materno. Pode aceitar doação normalmente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 30 anos chega ao PS com febre (39,0°C), dor abdominal inferior há 3 dias e corrimento vaginal purulento. Ao exame: abdome doloroso em hipogástrio com defesa. Beta-hCG negativo. Ultrassom mostra espessamento tubário bilateral. Qual a conduta?",
+    "options": [
+      "Encaminhar para laparoscopia diagnóstica imediata sem antibioticoterapia",
+      "Prescrever antibioticoterapia oral para DIPA e reavaliar em 48 horas",
+      "Prescrever apenas analgesia e anti-inflamatórios para controle sintomático",
+      "Suspender antibioticoterapia e aguardar cultura para definição do tratamento",
+      "Internar para antibioticoterapia IV e monitorização rigorosa"
+    ],
+    "correctIndex": 4,
+    "explanation": "O quadro sugere DIPA grave (febre alta, dor intensa com defesa abdominal). A conduta é internação para antibioticoterapia IV de amplo espectro e monitorização rigorosa. Pacientes com DIPA grave podem evoluir com sepse e necessitam de suporte hospitalar.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 26 anos, G1P0A0C0, com 40 semanas, em trabalho de parto ativo. Após 6 horas, dilatação progride de 3 para 5cm. Duas horas depois, mantém 5cm. Contrações a cada 4-5 minutos. Qual a conduta?",
+    "options": [
+      "Diagnosticar distócia e considerar amniotomia ou ocitocina conforme situação",
+      "Realizar versão cefálica externa por suspeita de má-posição fetal",
+      "Indicar cesárea imediata por falta de progressão adequada",
+      "Administrar analgesia e reavaliar em 4 horas para definir conduta",
+      "Aguardar mais 2 horas para confirmar parada real de progressão"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em primípara, espera-se progressão de pelo menos 1cm/hora na fase ativa. Ausência de progressão após 2 horas caracteriza distócia. Deve-se considerar amniotomia (se bolsa íntegra) ou ocitocina (se dinâmica uterina inadequada). Se persistir sem progressão, indica cesárea.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 60 anos, assintomática, histerectomizada há 15 anos por miomatose uterina. Procura orientação sobre rastreamento de câncer ginecológico. Qual a conduta?",
+    "options": [
+      "Realizar colposcopia anual para detecção de lesões no fundo vaginal",
+      "Manter rastreamento com Papanicolaou a cada 3 anos até os 70 anos",
+      "Suspender rastreamento se histologia cirúrgica confirmou doença benigna",
+      "Encaminhar para histeroscopia diagnóstica para avaliação da cúpula vaginal",
+      "Manter Papanicolaou vaginal anual por possibilidade de câncer de cúpula vaginal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Após histerectomia total por doença benigna (com confirmação histológica), em mulher assintomática, pode-se suspender o rastreamento de câncer de colo uterino. Não há evidência que sustente rastreamento de cúpula vaginal em pacientes sem história prévia de neoplasia cervical, especialmente após os 60 anos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 23 anos com DIPA em tratamento há 7 dias retorna referindo melhora completa dos sintomas. Qual a conduta?",
+    "options": [
+      "Orientar retorno em 3 meses para teste de cura e rastreamento de reinfecção",
+      "Encaminhar para laparoscopia para avaliação de sequelas tubárias",
+      "Solicitar ultrassom pélvico para confirmar resolução do processo inflamatório",
+      "Manter antibioticoterapia por mais 7 dias para consolidação do tratamento",
+      "Considerar curada e retornar apenas se surgirem novos sintomas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Após tratamento completo de DIPA com resolução sintomática, recomenda-se teste de cura em 3 meses (preferencialmente com NAATs) para detectar reinfecção assintomática. Também é importante rastrear e tratar parceiros sexuais para prevenir reinfecções.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 33 anos, G2P1A0C1, com 39 semanas, em trabalho de parto ativo. Após 4 horas, dilatação progride de 4 para 9cm. Agora há 1 hora mantém 9cm. Contrações a cada 2 minutos. BCF 125-135bpm. Qual a conduta?",
+    "options": [
+      "Preparar para parto instrumental com 9cm por estagnação prolongada",
+      "Indicar cesárea imediata por parada de progressão na fase ativa",
+      "Realizar amniotomia para acelerar última fase da dilatação cervical",
+      "Aguardar completa dilatação por mais 1 hora, multípara tem evolução rápida",
+      "Administrar ocitocina para aumentar intensidade das contrações"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em multípara com boa progressão inicial e estacionamento em 9cm há 1 hora, deve-se aguardar mais 1 hora para completa dilatação. Multíparas frequentemente têm fase de desaceleração antes da dilatação completa. O bem-estar fetal está adequado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 48 anos realiza mamografia de rastreamento que mostra microcalcificações agrupadas na mama esquerda. Qual a conduta mais adequada?",
+    "options": [
+      "Repetir mamografia em 6 meses para avaliar progressão do achado",
+      "Solicitar ultrassom mamário para avaliação das microcalcificações",
+      "Considerar variação normal do parênquima mamário e liberar para rotina",
+      "Encaminhar imediatamente para biópsia core needle das microcalcificações",
+      "Realizar mamografia complementar com magnificação para melhor caracterização"
+    ],
+    "correctIndex": 4,
+    "explanation": "Microcalcificações agrupadas na mamografia (BI-RADS 0) requerem avaliação complementar com mamografia com magnificação para melhor caracterização da forma, distribuição e densidade. Conforme as características, define-se a necessidade de biópsia ou acompanhamento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 22 anos, sexualmente ativa, chega ao PS com úlcera genital única há 5 dias. Ao exame: lesão única no pequeno lábio direito, indolor, com bordas endurecidas e fundo limpo. Linfonodo inguinal ipsilateral palpável, indolor e móvel. Qual o diagnóstico e tratamento?",
+    "options": [
+      "Herpes genital primário, tratar com Aciclovir 400mg VO 8/8h por 7-10 dias",
+      "Linfogranuloma venéreo, tratar com Doxiciclina 100mg VO 12/12h por 21 dias",
+      "Cancro mole por H. ducreyi, tratar com Azitromicina 1g VO dose única",
+      "Cancro duro por sífilis primária, tratar com Penicilina Benzatina 2,4 milhões UI IM",
+      "Donovanose, tratar com Azitromicina 1g VO semanal por 4 semanas"
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro é característico de cancro duro (sífilis primária): úlcera única, indolor, com bordas endurecidas, fundo limpo e adenopatia indolor e móvel (bubão sifilítico). O tratamento é Penicilina Benzatina 2,4 milhões UI IM dose única.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 35 anos, G4P3A0C1, com 37 semanas, em trabalho de parto ativo. Após 2 horas, dilatação progride de 4 para 8cm. Agora com 9cm há 30 minutos, contrações a cada 2 minutos. BCF 140bpm. Qual a conduta?",
+    "options": [
+      "Aguardar completa dilatação por mais 30-60 minutos, multípara tem evolução rápida",
+      "Administrar ocitocina para aumentar intensidade das contrações",
+      "Indicar cesárea imediata por parada de progressão na fase ativa",
+      "Realizar amniotomia para acelerar última fase da dilatação cervical",
+      "Preparar para parto instrumental com 9cm por estagnação prolongada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em multípara com excelente progressão inicial (4cm em 2 horas) e estacionamento em 9cm há apenas 30 minutos, deve-se aguardar mais 30-60 minutos para completa dilatação. Multíparas frequentemente completam dilatação rapidamente após esta fase.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 27 anos, HIV+, carga viral indetectável, CD4 650 células/mm³, procura UBS para orientação sobre rastreamento de câncer de colo uterino. Qual a recomendação adequada?",
+    "options": [
+      "Rastreamento anual com Papanicolaou independente de resultados prévios",
+      "Rastreamento a cada 3 anos como população geral por estar com imunidade preservada",
+      "Rastreamento semestral apenas se CD4 <500 células/mm³",
+      "Iniciar rastreamento apenas se apresentar sintomas sugestivos",
+      "Encaminhar para colposcopia anual independente de resultados citológicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mulheres HIV+, mesmo com carga viral indetectável e imunidade preservada, mantêm risco aumentado para infecção persistente por HPV e neoplasia cervical. Recomenda-se rastreamento anual com Papanicolaou, independente de resultados prévios ou status imunológico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 30 dias, amamentando, deseja doar leite. Refere ter usado dose única de Metronidazol 2g há 2 dias por vaginose bacteriana. Qual a conduta?",
+    "options": [
+      "Solicitar cultura de secreção vaginal e decidir conforme resultado",
+      "Aceitar doação normalmente, Metronidazol em dose única não contraindica doação",
+      "Afastar permanentemente por risco de transmissão de vaginose",
+      "Aceitar doação apenas após pasteurização especial do leite",
+      "Afastar temporariamente por 48 horas e reavaliar situação clínica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metronidazol em dose única não contraindica doação de leite materno. A vaginose bacteriana não é transmitida através do leite materno. Pode aceitar doação normalmente. Em esquemas prolongados, recomenda-se aguardar 12-24 horas após a dose.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 32 anos chega ao PS com febre (38,5°C), dor abdominal inferior há 4 dias e corrimento vaginal. Ao exame: dor hipogástrica, dor anexial bilateral, dor à mobilização cervical. Beta-hCG negativo. Leucograma: 14.000 leucócitos. Qual a conduta?",
+    "options": [
+      "Prescrever antibioticoterapia oral para DIPA e reavaliar em 48 horas",
+      "Suspender antibioticoterapia e aguardar cultura para definição do tratamento",
+      "Encaminhar para laparoscopia diagnóstica imediata sem antibioticoterapia",
+      "Internar para antibioticoterapia IV por preencher critérios de DIPA grave",
+      "Prescrever apenas analgesia e anti-inflamatórios para controle sintomático"
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro preenche critérios para DIPA (dor abdominal inferior, dor anexial bilateral, dor à mobilização cervical) + febre e leucocitose, caracterizando DIPA grave. A conduta é internação para antibioticoterapia IV de amplo espectro.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 28 anos, G1P0A0C0, com 41 semanas, em trabalho de parto ativo. Após 7 horas, dilatação progride de 3 para 6cm. Duas horas depois, mantém 6cm. Contrações a cada 3-4 minutos. Qual a conduta?",
+    "options": [
+      "Diagnosticar distócia e considerar amniotomia ou ocitocina conforme situação",
+      "Realizar versão cefálica externa por suspeita de má-posição fetal",
+      "Aguardar mais 2 horas para confirmar parada real de progressão",
+      "Administrar analgesia e reavaliar em 4 horas para definir conduta",
+      "Indicar cesárea imediata por falta de progressão adequada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em primípara, espera-se progressão de pelo menos 1cm/hora na fase ativa. Ausência de progressão após 2 horas caracteriza distócia. Deve-se considerar amniotomia (se bolsa íntegra) ou ocitocina (se dinâmica uterina inadequada). Se persistir sem progressão, indica cesárea.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 70 anos, assintomática, histerectomizada há 20 anos por miomatose uterina. Procura orientação sobre rastreamento de câncer ginecológico. Qual a conduta?",
+    "options": [
+      "Suspender rastreamento se histologia cirúrgica confirmou doença benigna",
+      "Encaminhar para histeroscopia diagnóstica para avaliação da cúpula vaginal",
+      "Manter rastreamento com Papanicolaou a cada 3 anos até os 75 anos",
+      "Manter Papanicolaou vaginal anual por possibilidade de câncer de cúpula vaginal",
+      "Realizar colposcopia anual para detecção de lesões no fundo vaginal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Após histerectomia total por doença benigna (com confirmação histológica), em mulher assintomática, pode-se suspender o rastreamento de câncer de colo uterino. Não há evidência que sustente rastreamento de cúpula vaginal em pacientes sem história prévia de neoplasia cervical, especialmente após os 65 anos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 24 anos com DIPA em tratamento há 10 dias retorna referindo persistência de corrimento vaginal leve. Assintomática otherwise. Qual a conduta?",
+    "options": [
+      "Encaminhar para laparoscopia para avaliação de sequelas tubárias",
+      "Orientar retorno em 3 meses para teste de cura, corrimento residual é comum",
+      "Manter antibioticoterapia por mais 7 dias por resposta inadequada",
+      "Considerar curada e retornar apenas se surgirem novos sintomas",
+      "Solicitar ultrassom pélvico para avaliar persistência de processo inflamatório"
+    ],
+    "correctIndex": 1,
+    "explanation": "Após tratamento de DIPA, é comum persistir algum corrimento vaginal por algumas semanas. Desde que a paciente esteja assintomática (sem dor, febre), recomenda-se aguardar teste de cura em 3 meses. Corrimento residual pode representar alteração da flora vaginal pós-antibiótico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 30 anos, G3P2A0C1, com 38 semanas, em trabalho de parto ativo. Após 3 horas, dilatação progride de 4 para 8cm. Agora com 9cm há 45 minutos, contrações a cada 2 minutos. BCF 130bpm. Qual a conduta?",
+    "options": [
+      "Preparar para parto instrumental com 9cm por estagnação prolongada",
+      "Administrar ocitocina para aumentar intensidade das contrações",
+      "Indicar cesárea imediata por parada de progressão na fase ativa",
+      "Aguardar completa dilatação por mais 45-60 minutos, multípara tem evolução rápida",
+      "Realizar amniotomia para acelerar última fase da dilatação cervical"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em multípara com boa progressão inicial e estacionamento em 9cm há 45 minutos, deve-se aguardar mais 45-60 minutos para completa dilatação. Multíparas frequentemente completam dilatação rapidamente após esta fase. O bem-estar fetal está adequado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 52 anos realiza mamografia de rastreamento que mostra assimetria focal na mama direita. Qual a conduta mais adequada?",
+    "options": [
+      "Realizar mamografia complementar com magnificação e/ou ultrassom para caracterização",
+      "Repetir mamografia em 6 meses para avaliar progressão do achado",
+      "Considerar variação normal do parênquima mamário e liberar para rotina",
+      "Solicitar ressonância magnética mamária como próximo passo diagnóstico",
+      "Encaminhar imediatamente para biópsia core needle da assimetria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Assimetria focal na mamografia (BI-RADS 0) requer avaliação complementar com mamografia com magnificação e/ou ultrassom para melhor caracterização. Conforme o resultado dos exames complementares, define-se a necessidade de biópsia ou retorno ao rastreamento de rotina.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 20 anos, sexualmente ativa, chega ao PS com úlceras genitais múltiplas há 4 dias. Ao exame: úlceras dolorosas, com base amolecida, bordas irregulares e fundo purulento. Linfonodos inguinais bilaterais dolorosos. Qual o diagnóstico e tratamento?",
+    "options": [
+      "Cancro mole, tratar com Azitromicina 1g VO dose única",
+      "Linfogranuloma venéreo, tratar com Doxiciclina 100mg VO 12/12h por 21 dias",
+      "Sífilis primária, tratar com Penicilina Benzatina 2,4 milhões UI IM",
+      "Donovanose, tratar com Doxiciclina 100mg VO 12/12h por 21 dias",
+      "Herpes genital, tratar com Aciclovir 400mg VO 8/8h por 7-10 dias"
+    ],
+    "correctIndex": 0,
+    "explanation": "O quadro é característico de cancro mole: úlceras múltiplas, dolorosas, com base amolecida (não endurecida), bordas irregulares, fundo purulento e adenopatia dolorosa. O tratamento de escolha é Azitromicina 1g VO dose única.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 36 anos, G5P4A0C1, com 37 semanas, em trabalho de parto ativo. Após 2 horas, dilatação progride de 4 para 9cm. Agora há 30 minutos mantém 9cm. Contrações a cada 2 minutos. BCF 140bpm. Qual a conduta?",
+    "options": [
+      "Aguardar completa dilatação por mais 30 minutos, multípara tem evolução muito rápida",
+      "Administrar ocitocina para aumentar intensidade das contrações",
+      "Indicar cesárea imediata por parada de progressão na fase ativa",
+      "Preparar para parto instrumental com 9cm por estagnação prolongada",
+      "Realizar amniotomia para acelerar última fase da dilatação cervical"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em multípara com excelente progressão inicial (5cm em 2 horas) e estacionamento em 9cm há apenas 30 minutos, deve-se aguardar mais 30 minutos para completa dilatação. Grandes multíparas (G5) frequentemente completam dilatação muito rapidamente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 31 anos, HIV+, em TARV há 3 anos, carga viral indetectável, CD4 580 células/mm³, procura UBS para orientação sobre rastreamento de câncer de colo uterino. Qual a recomendação adequada?",
+    "options": [
+      "Iniciar rastreamento apenas se apresentar sintomas sugestivos",
+      "Rastreamento semestral apenas se CD4 <350 células/mm³",
+      "Rastreamento a cada 3 anos como população geral por estar com imunidade preservada",
+      "Encaminhar para colposcopia anual independente de resultados citológicos",
+      "Rastreamento anual com Papanicolaou independente de resultados prévios"
+    ],
+    "correctIndex": 4,
+    "explanation": "Mulheres HIV+, mesmo com carga viral indetectável e imunidade preservada, mantêm risco aumentado para infecção persistente por HPV e neoplasia cervical. Recomenda-se rastreamento anual com Papanicolaou, independente de resultados prévios ou status imunológico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Puérpera de 28 dias, amamentando, deseja doar leite. Refere ter usado Ibuprofeno 400mg há 6 horas por cefaleia. Qual a conduta?",
+    "options": [
+      "Solicitar avaliação médica para liberação do uso do medicamento",
+      "Afastar permanentemente por risco de transmissão de medicamento",
+      "Aceitar doação apenas após pasteurização especial do leite",
+      "Afastar temporariamente por 24 horas e reavaliar situação clínica",
+      "Aceitar doação normalmente, Ibuprofeno é compatível com amamentação e doação"
+    ],
+    "correctIndex": 4,
+    "explanation": "Ibuprofeno é considerado compatível com amamentação e não contraindica doação de leite materno. É um AINE frequentemente utilizado no pós-parto. Pode aceitar doação normalmente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 29 anos chega ao PS com febre (38,2°C), dor abdominal inferior há 5 dias e corrimento vaginal. Ao exame: dor hipogástrica, dor anexial bilateral, dor à mobilização cervical. Beta-hCG negativo. Qual a conduta?",
+    "options": [
+      "Prescrever antibioticoterapia oral para DIPA e reavaliar em 48 horas",
+      "Suspender antibioticoterapia e aguardar cultura para definição do tratamento",
+      "Internar para antibioticoterapia IV por preencher critérios de DIPA com febre",
+      "Prescrever apenas analgesia e anti-inflamatórios para controle sintomático",
+      "Encaminhar para laparoscopia diagnóstica imediata sem antibioticoterapia"
+    ],
+    "correctIndex": 2,
+    "explanation": "O quadro preenche critérios para DIPA (dor abdominal inferior, dor anexial bilateral, dor à mobilização cervical) + febre, indicando gravidade moderada. A conduta é internação para antibioticoterapia IV, especialmente na presença de febre.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 27 anos, G1P0A0C0, com 40 semanas, em trabalho de parto ativo. Após 8 horas, dilatação progride de 3 para 7cm. Duas horas depois, mantém 7cm. Contrações a cada 3-4 minutos. Qual a conduta?",
+    "options": [
+      "Indicar cesárea imediata por falta de progressão adequada",
+      "Realizar versão cefálica externa por suspeita de má-posição fetal",
+      "Diagnosticar distócia e considerar amniotomia ou ocitocina conforme situação",
+      "Administrar analgesia e reavaliar em 4 horas para definir conduta",
+      "Aguardar mais 2 horas para confirmar parada real de progressão"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em primípara, espera-se progressão de pelo menos 1cm/hora na fase ativa. Ausência de progressão após 2 horas caracteriza distócia. Deve-se considerar amniotomia (se bolsa íntegra) ou ocitocina (se dinâmica uterina inadequada). Se persistir sem progressão, indica cesárea.",
+    "type": "raciocínio"
+  }
+]

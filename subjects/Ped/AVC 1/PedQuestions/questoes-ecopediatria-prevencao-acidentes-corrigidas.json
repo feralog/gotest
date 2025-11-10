@@ -1,0 +1,562 @@
+[
+  {
+    "question": "Qual é o foco principal da ecopediatria?",
+    "options": [
+      "Focar em aspectos nutricionais infantis e suplementação vitamínica.",
+      "Promover exclusivamente vacinação e imunização em áreas urbanas densas.",
+      "Limitar-se à prevenção de acidentes domésticos e trauma pediátrico.",
+      "Tratar apenas doenças infecciosas em ambientes rurais e periurbanos.",
+      "Estudar o impacto do ambiente na saúde física, mental e emocional das crianças."
+    ],
+    "correctIndex": 4,
+    "explanation": "A ecopediatria é uma área da medicina que visa entender como o meio ambiente afeta a saúde integral das crianças, incluindo aspectos físicos, mentais e emocionais. As outras alternativas são restritivas e não capturam a abrangência da ecopediatria.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Por que as crianças são mais vulneráveis a agentes ambientais em comparação com adultos?",
+    "options": [
+      "Absorção similar/peso corporal, taxa respiratória equivalente, sistemas renais imaturos, barreira hematoencefálica completa, comportamentos sedentários e tempo de exposição igual ao adulto.",
+      "Maior estatura corporal, menor superfície/peso, sistemas gastrointestinais imaturos, barreira hematoencefálica permeável, comportamentos supervisionados e menor tempo acumulado de exposição.",
+      "Menor absorção/peso corporal, taxa respiratória reduzida, sistemas enzimáticos maduros, barreira hematoencefálica intacta, comportamentos cautelosos e menor tempo de exposição cumulativa.",
+      "Maior absorção/peso corporal, maior taxa respiratória/peso, sistemas hepáticos imaturos, barreira hematoencefálica em desenvolvimento, comportamentos exploratórios e maior tempo de exposição futura.",
+      "Taxa metabólica reduzida, capacidade de detoxificação aumentada, barreira hematoencefálica madura, tempo de exposição limitado e comportamentos constantemente supervisionados pelo adulto."
+    ],
+    "correctIndex": 3,
+    "explanation": "As crianças são mais vulneráveis devido a fatores como maior absorção por peso corporal, maior taxa respiratória por peso, imaturidade dos sistemas enzimáticos hepáticos, barreira hematoencefálica em desenvolvimento, maior tempo de exposição futura para efeitos cumulativos e comportamentos exploratórios como levar objetos à boca. As outras alternativas apresentam características incorretas ou opostas.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Qual dos seguintes comportamentos infantis aumenta o risco de exposição a agentes ambientais?",
+    "options": [
+      "Levar objetos à boca e brincar próximo ao chão.",
+      "Manter-se distante de poeira e superfícies contaminadas.",
+      "Evitar contato com superfícies e preferir ambientes elevados.",
+      "Permanecer parado em berços ou cercadinhos durante todo o dia.",
+      "Não explorar oralmente objetos novos encontrados no ambiente."
+    ],
+    "correctIndex": 0,
+    "explanation": "Comportamentos exploratórios como levar objetos à boca e brincar próximo ao chão aumentam a exposição a agentes ambientais, pois as crianças entram em contato direto com poeira, solo e superfícies contaminadas. As outras alternativas descrevem comportamentos que reduziriam a exposição, mas não são típicos de crianças.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Um lactente de 8 meses apresenta atraso no desenvolvimento neuropsicomotor e anemia. A família mora em uma casa antiga com tintas descascando. Qual é a hipótese diagnóstica mais provável relacionada à exposição ambiental?",
+    "options": [
+      "Intoxicação por mercúrio de peixes grandes causando neurotoxicidade progressiva e déficits cognitivos graves.",
+      "Exposição a compostos orgânicos voláteis de tintas frescas causando irritação respiratória e déficit de atenção.",
+      "Intoxicação por chumbo de tintas antigas causando atraso neuropsicomotor e anemia por déficit de síntese de hemoglobina.",
+      "Exposição a radônio em espaços mal ventilados causando lesões pulmonares e risco aumentado de neoplasia.",
+      "Exposição a pesticidas organofosforados em área rural causando neurotoxicidade e distúrbios do espectro autista."
+    ],
+    "correctIndex": 2,
+    "explanation": "O quadro de atraso do desenvolvimento neuropsicomotor e anemia em lactente morando em casa antiga com tintas descascando sugere intoxicação por chumbo, pois o chumbo de tintas antigas é absorvido e causa neurotoxicidade e anemia por inibição da síntese de heme. Mercúrio está associado a peixes, pesticidas a áreas rurais, VOCs a tintas recentes, e radônio a câncer de pulmão, não anemia ou atraso development.",
+    "type": "raciocínio",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Quais são os principais efeitos da poluição do ar em crianças?",
+    "options": [
+      "Asma, bronquite, infecções respiratórias recorrentes e impacto no desenvolvimento pulmonar a longo prazo.",
+      "Dermatite atópica, urticária crônica e outras alergias cutâneas sem envolvimento respiratório significativo.",
+      "Alterações endócrinas hormonais e puberdade precoce por exposição a disruptores ambientais.",
+      "Distúrbios gastrointestinais como diarreia crônica e vômitos por ingestão de partículas contaminadas.",
+      "Problemas auditivos bilaterais e distúrbios graves do sono devido ao ruído urbano associado."
+    ],
+    "correctIndex": 0,
+    "explanation": "A poluição do ar, com partículas finas MP2.5 e gases como ozônio e dióxido de nitrogênio, causa principalmente efeitos respiratórios em crianças, incluindo asma, bronquite, infecções recorrentes e prejuízo do desenvolvimento pulmonar. Dermatite não é diretamente relacionada, distúrbios gastrointestinais são mais por ingestão, problemas auditivos por ruído, e alterações hormonais por disruptores endócrinos.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Qual é a principal consequência da poluição sonora urbana no desenvolvimento infantil?",
+    "options": [
+      "Asma brônquica crônica e bronquite recorrente por irritação das vias aéreas superiores.",
+      "Problemas auditivos, distúrbios do sono, dificuldades de concentração e aprendizado.",
+      "Queimaduras cutâneas de primeiro grau e risco aumentado de câncer por radiação ultravioleta.",
+      "Intoxicações neurológicas e alterações comportamentais por exposição a metais pesados ambientais.",
+      "Disfunção tireoidiana primária e alterações no padrão de crescimento por disruptores endócrinos."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ruídos excessivos, comuns em áreas urbanas e industriais, causam problemas auditivos, distúrbios do sono, e dificuldades de concentração e aprendizado em crianças. Asma está relacionada a poluição do ar, intoxicações a químicos, queimaduras a radiação UV, e disfunção tireoidiana a disruptores endócrinos.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Qual é o principal risco a longo prazo da exposição solar excessiva na infância?",
+    "options": [
+      "Câncer de pele e queimaduras solares, com efeitos cumulativos ao longo da vida.",
+      "Alterações cognitivas progressivas e déficits de atenção por neurotoxicidade cerebral acumulada.",
+      "Problemas auditivos neurossensoriais e vertigem posicional por danos ao ouvido interno.",
+      "Câncer de pulmão e doenças respiratórias crônicas por inalação de partículas radioativas.",
+      "Distúrbios graves do sono e irritabilidade comportamental por alteração do ritmo circadiano."
+    ],
+    "correctIndex": 0,
+    "explanation": "A exposição a radiações ultravioleta UVA e UVB aumenta o risco de câncer de pele e queimaduras solares em crianças, com efeitos cumulativos. Câncer de pulmão está mais associado a radônio ou poluição do ar, problemas auditivos a ruídos, distúrbios do sono a diversos fatores, e alterações cognitivas a químicos como chumbo.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Criança de 5 anos, residente em área urbana com tráfego intenso, apresenta tosse crônica, sibilos e histórico de pneumonia recorrente. Qual fator ambiental físico é mais provável de estar contribuindo para o quadro?",
+    "options": [
+      "Radiações ultravioleta intensas do sol em região tropical causando lesões e danos cutâneos progressivos.",
+      "Umidade elevada em ambientes internos mal ventilados promovendo crescimento de fungos e ácaros.",
+      "Poluição do ar por partículas finas MP2.5 e dióxido de nitrogênio de veículos automotores.",
+      "Exposição prolongada a ruídos excessivos de tráfego causando estresse crônico e distúrbios do sono.",
+      "Mudanças climáticas com ondas de calor frequentes causando desidratação crônica e estresse térmico."
+    ],
+    "correctIndex": 2,
+    "explanation": "O quadro respiratório de tosse crônica, sibilos e pneumonia recorrente em área urbana com tráfego intenso sugere exposição a poluição do ar, particularmente partículas MP2.5 e dióxido de nitrogênio, que irritam as vias aéreas e predispõem a infecções. Ruídos não causam sintomas respiratórios, radiações UV afetam pele, mudanças climáticas podem agravar indiretamente, e umidade pode promover mofo, mas poluição do ar é mais direta.",
+    "type": "raciocínio",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Quais são as fontes e efeitos da exposição ao chumbo (Pb) em crianças?",
+    "options": [
+      "Fontes: alimentos não orgânicos, exposição rural a plantações. Efeitos: disfunção endócrina, neurotoxicidade.",
+      "Fontes: peixes grandes de água profunda, termômetros antigos. Efeitos: neurotoxicidade progressiva, distúrbios cognitivos.",
+      "Fontes: tintas antigas, encanamentos, solos contaminados. Efeitos: atraso development neuropsicomotor, TDAH, anemia.",
+      "Fontes: solventes industriais, tintas frescas, materiais de construção. Efeitos: irritação ocular/respiratória, leucemia.",
+      "Fontes: água contaminada industrial, fumaça de cigarro. Efeitos: nefrotoxicidade crônica, alterações respiratórias."
+    ],
+    "correctIndex": 2,
+    "explanation": "O chumbo (Pb) é encontrado em tintas antigas, encanamentos e solos contaminados, e causa atraso do desenvolvimento neuropsicomotor, TDAH e anemia por interferência na síntese de hemoglobina. Mercúrio está em peixes, cádmio e arsênio em água e fumaça, pesticidas em alimentos, e VOCs em solventes e tintas.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "O mercúrio (Hg) é um metal pesado que pode causar neurotoxicidade em crianças. Quais são suas principais fontes?",
+    "options": [
+      "Peixes grandes como atum e tubarão, e termômetros antigos de mercúrio.",
+      "Produtos de limpeza domésticos e desinfetantes de uso hospitalar frequente.",
+      "Embalagens plásticas de alimentos e brinquedos contendo bisfenol A (BPA).",
+      "Água contaminada por resíduos de mineração e atividades industriais próximas.",
+      "Tintas antigas descascadas e encanamentos de água de residências velhas."
+    ],
+    "correctIndex": 0,
+    "explanation": "O mercúrio (Hg) bioacumula em peixes grandes como atum e tubarão, e era usado em termômetros antigos, leading to neurotoxicidade e distúrbios cognitivos quando ingerido. Chumbo está em tintas, cádmio em água, produtos de limpeza podem ter outros químicos, e BPA em plásticos.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Pesticidas e agrotóxicos podem causar quais efeitos em crianças?",
+    "options": [
+      "Disfunção endócrina, neurotoxicidade e aumento de distúrbios do espectro autista.",
+      "Atraso do desenvolvimento neuropsicomotor grave e anemia por deficiência de ferro.",
+      "Doenças respiratórias crônicas como asma persistente e bronquite recorrente por irritação.",
+      "Problemas auditivos neurossensoriais bilaterais e distúrbios graves do sono por alteração neurológica.",
+      "Câncer de pele tipo melanoma e câncer de pulmão por exposição cumulativa."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pesticidas e agrotóxicos, comuns em áreas rurais e em alimentos não orgânicos, podem causar disfunção endócrina, neurotoxicidade e estão associados a aumento de distúrbios do espectro autista. Atraso development e anemia são mais por chumbo, câncer por radiações ou outros químicos, problemas auditivos por ruídos, e doenças respiratórias por poluição do ar.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Compostos orgânicos voláteis (VOCs) como benzeno, tolueno e formaldeído são encontrados em que fontes e causam quais efeitos?",
+    "options": [
+      "Fontes: mamadeiras plásticas, brinquedos infantis. Efeitos: puberdade precoce, obesidade infantil progressiva.",
+      "Fontes: solventes, tintas, materiais de construção. Efeitos: irritação ocular/respiratória, leucemia (benzeno).",
+      "Fontes: peixes contaminados, água poluída. Efeitos: neurotoxicidade progressiva, distúrbios cognitivos graves.",
+      "Fontes: tintas antigas descascadas, encanamentos. Efeitos: atraso development neuropsicomotor, anemia ferropriva.",
+      "Fontes: alimentos não orgânicos, agrotóxicos. Efeitos: disfunção endócrina hormonal, distúrbios do espectro autista."
+    ],
+    "correctIndex": 1,
+    "explanation": "VOCs como benzeno, tolueno e formaldeído são emitidos por solventes, tintas e materiais de construção, causando irritação ocular e respiratória, e o benzeno é carcinogênico, podendo causar leucemia. Peixes estão associados a mercúrio, tintas antigas a chumbo, alimentos a pesticidas, e plásticos a BPA.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Criança de 7 anos, moradora de zona rural com plantações de soja, apresenta há 1 ano dificuldade de aprendizado, hiperatividade e irritabilidade. Exames mostram níveis elevados de organofosforados na urina. Qual é o diagnóstico mais provável?",
+    "options": [
+      "Exposição a BPA de embalagens plásticas causando distúrbios hormonais e alterações comportamentais.",
+      "Intoxicação por pesticidas organofosforados causando neurotoxicidade e sintomas similares a TDAH.",
+      "Intoxicação por chumbo de tintas antigas causando atraso development neuropsicomotor e anemia ferropriva.",
+      "Intoxicação por mercúrio por consumo de peixes contaminados causando déficits cognitivos progressivos.",
+      "Exposição a VOCs de produtos de limpeza domésticos causando irritação respiratória e déficit de atenção."
+    ],
+    "correctIndex": 1,
+    "explanation": "O quadro de dificuldade de aprendizado, hiperatividade e irritabilidade em criança de zona rural com níveis elevados de organofosforados na urina indica intoxicação por pesticidas, que são neurotóxicos e podem mimificar ou agravar TDAH. Chumbo teria outras fontes, mercúrio de peixes, VOCs de ambientes internos, e BPA efeitos hormonais.",
+    "type": "raciocínio",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Quais doenças podem ser transmitidas por água contaminada?",
+    "options": [
+      "Leptospirose pela urina de roedores, salmonelose e hantavirose por contato com excretas.",
+      "Asma persistente, bronquite crônica e infecções respiratórias recorrentes de vias aéreas.",
+      "Dengue, zika vírus, chikungunya e febre amarela urbana transmitidas pelo Aedes aegypti.",
+      "Diarreia infecciosa (E. coli, Shigella, Salmonella), hepatite A e E, giardíase, amebíase, esquistossomose.",
+      "Febre maculosa por carrapatos, doença de Lyme em áreas silvestres e malária pelo Anopheles."
+    ],
+    "correctIndex": 3,
+    "explanation": "Água contaminada pode transmitir doenças diarreicas como por E. coli, Shigella, Salmonella, hepatite A e E, parasitoses como giardíase e amebíase, e esquistossomose em áreas endêmicas. Dengue é por mosquito, leptospirose por urina de roedores, febre maculosa por carrapatos, e asma por poluição do ar.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "O Aedes aegypti é um vetor importante para quais doenças?",
+    "options": [
+      "Dengue, zika vírus, chikungunya e febre amarela urbana.",
+      "Leptospirose por urina de roedores, salmonelose e hantavirose por excretas.",
+      "Febre maculosa brasileira, doença de Lyme em áreas silvestres e erliquiose.",
+      "Malária em áreas endêmicas, febre amarela silvestre e leishmaniose tegumentar.",
+      "Hepatite A por via fecal-oral, giardíase e amebíase intestinal."
+    ],
+    "correctIndex": 0,
+    "explanation": "O mosquito Aedes aegypti transmite dengue, zika, chikungunya e febre amarela urbana em áreas urbanas. Malária é por Anopheles, leptospirose por roedores, febre maculosa por carrapatos, e hepatite A por água contaminada.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Quais são os vetores e doenças associados a baratas e ratos?",
+    "options": [
+      "Carrapatos transmitem febre maculosa brasileira e doença de Lyme.",
+      "Pulgas de roedores transmitem peste bubônica e tifo murino.",
+      "Baratas e ratos transmitem leptospirose, salmonelose e hantavirose.",
+      "Mosquitos Aedes transmitem dengue, zika vírus e chikungunya.",
+      "Moscas domésticas transmitem infecções entéricas e doenças de pele."
+    ],
+    "correctIndex": 2,
+    "explanation": "Baratas e ratos são vetores de leptospirose (urina de ratos), salmonelose (contaminação de alimentos), e hantavirose (inalação de poeira com excretas). Aedes transmite arboviroses, carrapatos doenças específicas, moscas e pulgas outras doenças.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Durante a consulta pediátrica de rotina, a mãe de uma criança de 4 anos relata que a família usa água de poço sem tratamento e mora próximo a uma área alagadiça. Qual história ambiental é prioritária para investigar?",
+    "options": [
+      "Risco de doenças transmitidas por água contaminada como diarreia infecciosa e esquistossomose.",
+      "Risco de intoxicação por pesticidas e agrotóxicos em plantações agrícolas vizinhas.",
+      "Risco de queimaduras por radiações ultravioleta UVA/UVB por falta de áreas sombreadas.",
+      "Risco de exposição a metais pesados ambientais como chumbo e mercúrio em solo.",
+      "Risco de poluição do ar por material particulado de indústrias próximas à residência."
+    ],
+    "correctIndex": 0,
+    "explanation": "O uso de água de poço sem tratamento e proximidade a área alagadiça aumenta o risco de doenças transmitidas por água contaminada, como diarreia infecciosa por bactérias e parasitas, e esquistossomose em áreas endêmicas. Metais pesados, pesticidas, poluição do ar e radiações são menos diretamente relacionados a essas fontes.",
+    "type": "raciocínio",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "O que inclui o conceito de 'ambiente saudável' para crianças?",
+    "options": [
+      "Presença de shopping centers comerciais e áreas de entretenimento pago próximas à residência.",
+      "Alimentação exclusivamente orgânica certificada e produtos naturais sem conservantes ou aditivos.",
+      "Ar limpo, água potável, saneamento básico, moradia digna, segurança e espaços verdes.",
+      "Acesso prioritário a tecnologia digital, internet de alta velocidade e dispositivos eletrônicos modernos.",
+      "Isolamento completo em áreas rurais afastadas sem contato com urbanização e industrialização."
+    ],
+    "correctIndex": 2,
+    "explanation": "Um ambiente saudável para crianças inclui ar limpo, água potável, saneamento básico, moradia digna, segurança e espaços verdes para brincar e desenvolver. Tecnologia e entretenimento não são essenciais, isolamento pode limitar oportunidades, e alimentação orgânica é parte mas não o todo.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Como a desigualdade social impacta a exposição ambiental de crianças?",
+    "options": [
+      "Crianças de áreas rurais têm menor exposição a vectores de doenças devido ao isolamento geográfico.",
+      "Desigualdade social não afeta significativamente a exposição pois políticas públicas uniformizam completamente o acesso.",
+      "Crianças urbanas são menos expostas a ruídos e tráfego por melhor infraestrutura viária e transporte.",
+      "Crianças de alta renda são mais expostas a poluentes indoor por uso excessivo de produtos de limpeza.",
+      "Crianças de baixa renda têm maior exposição a lixo acumulado, esgoto a céu aberto, poluição do ar e agrotóxicos."
+    ],
+    "correctIndex": 4,
+    "explanation": "A desigualdade social leva a que crianças de baixa renda vivam em áreas com pior saneamento, mais poluição, proximidade com lixões e indústrias, aumentando a exposição a riscos ambientais. Crianças de alta renda podem ter outros riscos, mas menos graves. Políticas públicas não uniformizam completamente, e crianças rurais podem ter exposição a vectores.",
+    "type": "conteudista",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Caso clínico: Menino de 6 anos com asma frequente, mora em barraco próximo a lixão, não frequenta escola, água de poço. Quais ações médicas são prioritárias além da prescrição medicamentosa?",
+    "options": [
+      "Orientar sobre saneamento básico, eliminação de criadouros de mosquitos e encaminhar para programas sociais como PSF.",
+      "Sugerir uso contínuo de purificadores de ar indoor e umidificadores ambientais em todos os cômodos.",
+      "Prescrever antibióticos profiláticos de amplo espectro para prevenção de infecções respiratórias recorrentes.",
+      "Indicar suplementação vitamínica e mineral de alta dose para reforço do sistema imunológico infantil.",
+      "Recomendar mudança imediata para área rural isolada sem industrialização ou proximidade com áreas urbanas."
+    ],
+    "correctIndex": 0,
+    "explanation": "Além do tratamento medicamentoso, é crucial abordar os determinantes sociais: orientar sobre saneamento, eliminar criadouros de Aedes, e encaminhar para programas como PSF para melhorar condições de vida. Antibióticos profiláticos não são indicados, mudança radical não é prática, purificadores podem ajudar mas não resolvem causas ambientais, e suplementos não address riscos ambientais.",
+    "type": "raciocínio",
+    "module": "ecopediatria"
+  },
+  {
+    "question": "Segundo dados epidemiológicos brasileiros, qual é a principal causa de morte em crianças de 1 a 14 anos?",
+    "options": [
+      "Doenças congênitas e malformações genéticas diagnosticadas ao nascimento ou período neonatal.",
+      "Doenças crônicas não transmissíveis, principalmente neoplasias malignas e cardiopatias congênitas.",
+      "Desnutrição energético-proteica e deficiências nutricionais específicas em áreas de vulnerabilidade social.",
+      "Acidentes (causas externas não intencionais), principalmente atropelamentos e afogamentos.",
+      "Doenças infecciosas e parasitárias, principalmente diarreia aguda e pneumonia comunitária."
+    ],
+    "correctIndex": 3,
+    "explanation": "Acidentes são a principal causa de morte em crianças de 1 a 14 anos no Brasil, com cerca de 3.600 mortes/ano, sendo atropelamentos e afogamentos as maiores causas. Doenças infecciosas foram reduzidas, crônicas são menos comuns, congênitas e desnutrição têm menor mortalidade.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Quantas hospitalizações por acidentes ocorrem aproximadamente por ano em crianças e adolescentes no Brasil?",
+    "options": [
+      "Cerca de 75.000 hospitalizações/ano, por afogamentos em piscinas e queimaduras térmicas.",
+      "Cerca de 30.000 hospitalizações/ano, por quedas de altura e trauma cranioencefálico.",
+      "Cerca de 200.000 hospitalizações/ano, majoritariamente por acidentes de trânsito urbano e rural.",
+      "Cerca de 111.000 hospitalizações/ano, com mais da metade por quedas e queimaduras.",
+      "Cerca de 50.000 hospitalizações/ano, principalmente por intoxicações medicamentosas e domésticas."
+    ],
+    "correctIndex": 3,
+    "explanation": "Estima-se que 111.000 crianças e adolescentes são hospitalizados anualmente por acidentes no Brasil, com mais de 50% devido a quedas e queimaduras. Os outros números não correspondem aos dados epidemiológicos.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Em uma comunidade com alto índice de acidentes infantis, qual fator ambiental é mais likely to be associado a riscos no domicílio e entorno?",
+    "options": [
+      "Acesso limitado a vias públicas de tráfego intenso e rodovias movimentadas próximas às residências.",
+      "Falta de supervisão adulta adequada e ausência de medidas de segurança passiva como portões e telas.",
+      "Uso generalizado de cadeirinhas veiculares adequadas e cintos de segurança em todos os veículos.",
+      "Existência consolidada de programas comunitários de educação preventiva e vigilância de saúde ativa.",
+      "Presença abundante de áreas verdes públicas e parques infantis comunitários bem mantidos e supervisionados."
+    ],
+    "correctIndex": 1,
+    "explanation": "A falta de supervisão adulta e a ausência de medidas de segurança passiva, como portões em escadas e telas em janelas, são fatores key para acidentes domésticos. Áreas verdes e parques podem reduzir riscos se seguros, uso de cadeirinhas é positivo, acesso limitado a vias pode reduzir atropelamentos, e programas educativos ajudam, mas a falta de supervisão e proteção é crucial.",
+    "type": "raciocínio",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Qual é a temperatura recomendada para a água do banho em lactentes?",
+    "options": [
+      "40°C, testada com termômetro digital colocado diretamente na água.",
+      "38°C, testada no dorso da mão do adulto antes de colocar o bebê.",
+      "32°C, considerando a maior sensibilidade cutânea do recém-nascido e lactente.",
+      "30°C, temperatura ambiente para evitar qualquer risco de queimadura.",
+      "36°C, testada no antebraço do adulto antes do banho do bebê."
+    ],
+    "correctIndex": 4,
+    "explanation": "A temperatura da água do banho deve ser de 36°C, aproximadamente a temperatura corporal, e deve ser testada no antebraço do adulto, que tem pele sensível similar à do bebê. Temperaturas mais altas risk queimaduras, mais baixas podem causar hipotermia.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Por que não se deve cozinhar com o bebê no colo?",
+    "options": [
+      "Risco de o bebê interferir fisicamente no tempo de cocção e temperatura dos alimentos preparados.",
+      "Risco de o bebê aspirar fumaça de alimentos queimados ou vapores tóxicos durante a cocção.",
+      "Risco de contaminação microbiana cruzada dos alimentos preparados por contato com o bebê.",
+      "Risco de o bebê desenvolver aversão alimentar por associação negativa com o preparo de refeições.",
+      "Risco de queimaduras graves por líquidos quentes, óleo quente ou fogo e queda de panelas."
+    ],
+    "correctIndex": 4,
+    "explanation": "Cozinhar com bebê no colo expõe a risco imediato de queimaduras por respingos de líquidos quentes, óleo ou fogo, e queda de panelas, podendo causar lesões graves. Aspiração de fumaça é possível, mas menos comum, e outros riscos são secundários.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Mãe de lactente de 3 meses relata que às vezes deixa o bebê sozinho na banheira por alguns segundos para pegar toalhas. Qual orientação é mais urgente?",
+    "options": [
+      "Usar sempre termômetro digital para medir com precisão a temperatura da água em 36°C antes do banho.",
+      "Nunca deixar o bebê sozinho na banheira, mesmo por segundos, devido a risco de afogamento rápido em pouca água.",
+      "Manter o bebê constantemente aquecido com cobertores ou mantas térmicas imediatamente após o banho completo.",
+      "Usar exclusivamente produtos de higiene infantis hipoalergênicos certificados para evitar dermatite atópica e alergias.",
+      "Secar o bebê rapidamente após o banho para evitar hipotermia e perda excessiva de calor corporal."
+    ],
+    "correctIndex": 1,
+    "explanation": "O afogamento pode ocorrer rapidamente em poucos centímetros de água, então nunca deixar o bebê sozinho na banheira é crucial. Temperatura da água é importante, mas menos urgente que afogamento. Secar e aquecer são cuidados gerais, mas não address o risco imediato.",
+    "type": "raciocínio",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Por que o uso de andadores não é recomendado em lactentes?",
+    "options": [
+      "Aumenta significativamente o risco de queimaduras por acesso facilitado a fogão e líquidos quentes.",
+      "Facilita diretamente o afogamento em piscinas rasas e pequenas coleções de água domésticas.",
+      "Predispõe a intoxicações graves por alcance facilitado de produtos de limpeza e medicamentos.",
+      "Prejudica o desenvolvimento motor natural e causa graves acidentes com traumatismos cranianos por quedas.",
+      "Causa dependência emocional crônica do dispositivo e atraso cognitivo no desenvolvimento psicomotor."
+    ],
+    "correctIndex": 3,
+    "explanation": "Andadores prejudicam o desenvolvimento normal da marcha e estão associados a quedas em escadas e traumatismos cranianos graves. Outros riscos como queimaduras, afogamentos e intoxicações podem ocorrer, mas o principal é o trauma por queda.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Quais medidas previnem quedas em lactentes que começam a engatinhar?",
+    "options": [
+      "Usar andadores infantis apropriados para limitar o acesso do bebê a áreas perigosas da residência.",
+      "Manter o bebê confinado em berços ou cercadinhos a maior parte do tempo durante o dia.",
+      "Instalar portões de segurança no topo e base de escadas e nunca deixar sozinho em locais altos.",
+      "Ensinar o bebê a descer escadas de costas sob supervisão direta e constante de um adulto.",
+      "Colocar tapetes antiderrapantes de alta aderência em todos os cômodos e superfícies da casa."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para lactentes engatinhando, portões em escadas previnem quedas, e nunca deixar sozinho em locais altos como trocadores ou camas. Andadores são perigosos, confinamento limita desenvolvimento, ensinar a descer é prematuro, e tapetes ajudam mas não previnem quedas de altura.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Lactente de 10 meses começou a engatinhar e levantar-se. Os pais querem adaptar a casa. Qual medida é mais imediata para prevenir acidentes?",
+    "options": [
+      "Ensinar o bebê através de reforço positivo a não colocar objetos estranhos na boca durante exploração.",
+      "Proteger tomadas elétricas, instalar portões em escadas e remover objetos pequenos do chão acessível.",
+      "Reduzir a temperatura máxima do aquecedor central de água para evitar queimaduras acidentais no banho.",
+      "Comprar brinquedos educativos certificados e seguros para estimular o desenvolvimento cognitivo e motor.",
+      "Iniciar aulas de natação adaptada para lactentes para prevenção futura de afogamentos em piscinas."
+    ],
+    "correctIndex": 1,
+    "explanation": "Com a increased mobilidade, medidas de segurança passiva como proteger tomadas, instalar portões e remover objetos pequenos previnem choques, quedas e aspiração. Brinquedos educativos são bons, mas não previnem acidentes diretamente. Natação não é para lactentes, ensinar é difícil, e temperatura do aquecedor é menos crítico.",
+    "type": "raciocínio",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Para crianças de 1-4 anos, qual medida previne quedas de janelas?",
+    "options": [
+      "Manter a criança sempre sob supervisão visual direta de um adulto em todos os momentos.",
+      "Colocar grades de proteção apenas em janelas localizadas acima do primeiro andar.",
+      "Ensinar a criança repetidamente a não se aproximar de janelas abertas sem supervisão.",
+      "Instalar telas resistentes ou grades de segurança em todas as janelas e sacadas.",
+      "Usar cortinas pesadas blackout para bloquear visualmente o acesso às janelas abertas."
+    ],
+    "correctIndex": 3,
+    "explanation": "Telas ou grades de segurança em janelas e sacadas previnem quedas em crianças pequenas, que podem escalar. Ensinar é importante, mas não confiável devido à impulsividade. Cortinas não são seguras, supervisão é key mas não sempre possível, e grades devem estar em todas as janelas, não apenas altas.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Por que crianças menores de 12 anos não devem andar desacompanhadas na via pública?",
+    "options": [
+      "Não têm discernimento completo de perigo e senso adequado de distância para veículos em movimento.",
+      "Têm capacidade física limitada para caminhar longas distâncias sem fadiga excessiva e desidratação.",
+      "Não conhecem adequadamente as regras de trânsito básicas e significado dos sinais luminosos.",
+      "São significativamente mais vulneráveis a sequestros, assaltos e outros crimes violentos urbanos.",
+      "Podem facilmente se distrair com brinquedos portáteis e eletrônicos durante o deslocamento na rua."
+    ],
+    "correctIndex": 0,
+    "explanation": "Crianças <12 anos não desenvolvem fully o discernimento de perigo e a percepção de distância e velocidade de veículos, increasing risco de atropelamentos. Outros fatores como vulnerabilidade a crimes, capacidade física, distração e conhecimento de trânsito são relevantes, mas o desenvolvimento cognitivo é o principal.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Qual é a medida mais eficaz para prevenir afogamentos em crianças durante atividades aquáticas?",
+    "options": [
+      "Supervisão atenta e constante de um adulto cuidador responsável e uso de colete salva-vidas apropriado.",
+      "Restrição rigorosa de atividades aquáticas apenas a piscinas tratadas com cloro e cobertas.",
+      "Ensino formal de natação desde os 6 meses de idade em piscina aquecida e adaptada.",
+      "Uso exclusivo de boias infláveis de segurança e brinquedos aquáticos flutuantes certificados.",
+      "Participação obrigatória em cursos de salvamento aquático e primeiros socorros para todos os pais."
+    ],
+    "correctIndex": 0,
+    "explanation": "A supervisão adulta atenta e o colete salva-vidas são as medidas mais eficazes para prevenir afogamentos, pois crianças podem se afogar rapidamente e silenciosamente. Natação ajuda, mas não substitui supervisão, boias podem falhar, restrição a piscinas não elimina riscos, e cursos são complementares.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Qual o tempo máximo recomendado de uso de telas por dia para crianças de 5-11 anos?",
+    "options": [
+      "Uso liberado apenas em fins de semana e feriados por até 4 horas contínuas.",
+      "Até 3 horas por dia, com intervalos regulares a cada 30 minutos para descanso visual.",
+      "Não deve exceder 1 hora por dia, com supervisão parental e conteúdo educativo apropriado.",
+      "Até 2 horas por dia, desde que incluindo atividades escolares online e educacionais.",
+      "Não há restrição específica, desde que não interfira significativamente no sono e alimentação."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Sociedade Brasileira de Pediatria recomenda que o uso de telas não exceda 1 hora/dia para crianças de 5-11 anos, com supervisão e conteúdo apropriado. Tempos maiores estão associados a prejuízos no desenvolvimento, sono e atividade física.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Pais de uma criança de 3 anos querem prevenir acidentes. Qual orientação é mais adequada para a idade?",
+    "options": [
+      "Limitar rigorosamente o uso de telas eletrônicas a 30 minutos por dia com conteúdo educativo.",
+      "Instalar grades em escadas e janelas, manter produtos tóxicos trancados e supervisão constante adequada.",
+      "Ensinar detalhadamente regras de trânsito urbano e uso correto de cinto de segurança em veículos.",
+      "Promover natação infantil e atividades aquáticas recreativas com colete salva-vidas de segurança.",
+      "Fornecer brinquedos de montagem complexos e quebra-cabeças avançados para desenvolvimento cognitivo."
+    ],
+    "correctIndex": 1,
+    "explanation": "Para uma criança de 3 anos, medidas de segurança passiva como grades em escadas/janelas, trancar produtos tóxicos, e supervisão constante previnem quedas, intoxicações e outros acidentes. Ensinar trânsito é prematuro, natação não é prioridade, telas devem ser limitadas, e brinquedos são para desenvolvimento, mas não previnem acidentes diretamente.",
+    "type": "raciocínio",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Quais fatores aumentam o risco de acidentes em adolescentes?",
+    "options": [
+      "Alimentação balanceada inadequada e prática irregular de esportes organizados competitivos.",
+      "Maior tempo de sono noturno inadequado e redução progressiva da atividade física regular.",
+      "Uso de álcool e drogas recreativas, comportamentos de risco impulsivos e desafios perigosos da internet.",
+      "Uso consistente de equipamentos de segurança certificados em todas as atividades físicas e esportivas.",
+      "Supervisão parental constante excessiva e restrição rigorosa de liberdade e autonomia social."
+    ],
+    "correctIndex": 2,
+    "explanation": "Adolescentes têm maior risco de acidentes devido a uso de álcool/drogas, comportamentos de risco para impressionar pares, e participação em desafios perigosos da internet. Sono e alimentação adequados reduzem riscos, supervisão ajuda, e equipamentos de segurança são importantes, mas os fatores de risco são key.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Como prevenir acidentes com esportes radicais em adolescentes?",
+    "options": [
+      "Usar equipamentos de segurança testados e certificados e praticar em locais adequados com supervisão.",
+      "Participar apenas de esportes individuais não competitivos sem envolvimento de outros atletas.",
+      "Evitar completamente qualquer esporte radical ou de contato até atingir a maioridade legal.",
+      "Reduzir significativamente a intensidade dos exercícios físicos para minimizar todos os riscos.",
+      "Confiar exclusivamente na experiência de amigos mais velhos e influenciadores para orientação técnica."
+    ],
+    "correctIndex": 0,
+    "explanation": "Para esportes radicais, o uso de equipamentos de segurança testados (como capacetes, proteções) e prática em locais apropriados com supervisão profissional reduz acidentes. Evitar completamente não é necessário, esportes individuais podem ter riscos, reduzir intensidade não elimina perigos, e confiar em amigos não é seguro.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Adolescente de 15 anos quer começar a usar skate. Qual orientação preventiva é mais efetiva?",
+    "options": [
+      "Evitar completamente manobras radicais e limitar-se exclusivamente a deslocamento simples em terreno plano.",
+      "Aprender manobras básicas exclusivamente com tutoriais de videos online antes de praticar fisicamente.",
+      "Skate apenas sob supervisão parental direta e constante em todos os momentos da prática.",
+      "Praticar apenas em ruas residenciais com pouco tráfego de veículos e durante o período diurno.",
+      "Usar sempre capacete, cotoveleiras, joelheiras e tornozeleiras e skate apenas em locais seguros apropriados."
+    ],
+    "correctIndex": 4,
+    "explanation": "O uso de equipamentos de segurança completos (capacete, proteções) e prática em locais seguros como parques ou pistas é a medida mais efetiva para prevenir traumatismos. Praticar em ruas é perigoso, aprender online não substitui instrução, supervisão constante é difícil, e evitar manobras reduz riscos mas não elimina a necessidade de equipamentos.",
+    "type": "raciocínio",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Qual é a posição correta da cadeirinha veicular para lactentes?",
+    "options": [
+      "No banco traseiro, voltada para frente do veículo, a partir de 6 meses de idade cronológica.",
+      "No banco dianteiro, voltada para frente do veículo, com airbag frontal desativado permanentemente.",
+      "No banco traseiro, voltada para a traseira do veículo, até pelo menos 2 anos ou conforme peso/altura.",
+      "No colo de um adulto no banco traseiro, com cinto de segurança de três pontos abdominal.",
+      "No banco traseiro, voltada para trás apenas para bebês prematuros ou de muito baixo peso."
+    ],
+    "correctIndex": 2,
+    "explanation": "Lactentes devem estar em cadeirinha no banco traseiro, voltada para trás, pois essa posição protege melhor pescoço e coluna em colisões. Voltar para frente antes de 2 anos é perigoso, banco dianteiro é arriscado mesmo com airbag desativado, colo não é seguro, e a recomendação é para todos, não apenas prematuros.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "O que é prevenção passiva na primeira infância?",
+    "options": [
+      "Supervisão visual constante por um adulto responsável em todos os momentos do dia e noite.",
+      "Restrição rigorosa de atividades exploratórias a ambientes controlados como cercadinhos e playgrounds fechados.",
+      "Uso de dispositivos eletrônicos de monitoramento como câmeras de segurança e alarmes sonoros.",
+      "Ensinar a criança a evitar perigos através de orientações verbais repetidas e reforço positivo comportamental.",
+      "Adaptar o ambiente para que seja seguro independentemente da supervisão, como portões e telas de proteção."
+    ],
+    "correctIndex": 4,
+    "explanation": "Prevenção passiva envolve modificar o ambiente para reduzir riscos sem depender da ação da criança ou supervisão, e.g., instalar portões, telas, travas. Orientações e supervisão são prevenção ativa, dispositivos ajudam, mas a passiva é mais eficaz para crianças pequenas.",
+    "type": "conteudista",
+    "module": "prevencao_acidentes"
+  },
+  {
+    "question": "Em uma visita domiciliar, você observa: escadas sem portão, tomadas desprotegidas, produtos de limpeza under pia acessível. Qual intervenção é mais prioritária?",
+    "options": [
+      "Recomendar supervisão visual constante da criança por dois adultos simultaneamente em todos os momentos.",
+      "Sugerir a compra imediata de brinquedos educativos certificados para distrair e ocupar a criança.",
+      "Encaminhar urgentemente a família para um programa comunitário de educação parental e orientação familiar.",
+      "Orientar detalhadamente sobre os perigos específicos de cada item através de conversa educativa com os pais.",
+      "Instalar portão na escada e proteção em tomadas e mover produtos de limpeza para local alto e trancado."
+    ],
+    "correctIndex": 4,
+    "explanation": "Intervenções de segurança passiva como instalar portão, proteger tomadas e remover produtos tóxicos do alcance são prioritárias porque previnem acidentes independentemente de supervisão. Supervisão é importante, mas pode falhar, brinquedos não previnem acidentes, orientação é necessária mas não imediata, e programas educativos são complementares.",
+    "type": "raciocínio",
+    "module": "prevencao_acidentes"
+  }
+]

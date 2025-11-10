@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Anatomicamente, a mama é uma estrutura glandular complexa localizada na parede torácica. Em qual espaço intercostal a mama está tipicamente localizada e quais são as suas principais estruturas de sustentação e produção?",
+    "options": [
+      "Localiza-se predominantemente entre o segundo e terceiro espaços intercostais, sendo suportada principalmente pelos ligamentos de Cooper e pelo tecido fibroglandular.",
+      "Localiza-se entre o quinto e o sexto espaços intercostais, sendo composta por unidades ducto-lobulares e glândulas sebáceas modificadas.",
+      "Localiza-se predominantemente abaixo do músculo peitoral menor, sendo composta por 20 a 30 lóbulos e veias que drenam diretamente para a veia cava superior.",
+      "Localiza-se no terceiro espaço intercostal, sendo sustentada por uma cápsula fibrosa densa e irrigada exclusivamente pela artéria torácica lateral.",
+      "Localiza-se primariamente no quarto espaço intercostal, sendo estruturada por lobos (produtores de leite), ductos e o estroma (tecido adiposo de sustentação)."
+    ],
+    "correctIndex": 4,
+    "explanation": "A mama está localizada no quarto espaço intercostal [1]. É composta por lobos (produtores de leite), ductos e o estroma, que é o tecido adiposo que sustenta a mama [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação à irrigação arterial da mama, quais são as duas artérias principais (ramos) que se originam da artéria subclávia e que são responsáveis pela maior parte do suprimento sanguíneo do tecido mamário?",
+    "options": [
+      "A artéria torácica superior e a artéria toracoacromial, ramos diretos da aorta descendente.",
+      "A artéria intercostal posterior e a artéria mamária medial, que suprem primariamente os músculos peitorais adjacentes.",
+      "A artéria torácica interna e a artéria torácica lateral, sendo que a lateral é um ramo direto da artéria axilar.",
+      "A artéria subescapular e a artéria circunflexa, que são ramos da artéria braquial no ápice da axila.",
+      "A artéria epigástrica superior e a artéria escapular dorsal, ramos colaterais que garantem a drenagem venosa superficial e profunda da mama."
+    ],
+    "correctIndex": 2,
+    "explanation": "A artéria subclávia dá origem à artéria axilar. As artérias principais que irrigam a mama são a torácica interna e a torácica lateral [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "No estadiamento de doenças mamárias, o conhecimento da drenagem linfática é crucial. O que o Nível II da cadeia ganglionar axilar inclui especificamente, segundo a classificação anatômica?",
+    "options": [
+      "Inclui os linfonodos supraclaviculares e infraclaviculares, que são considerados a drenagem mais distal e complexa da mama.",
+      "Inclui os linfonodos axilares laterais, posteriores (subescapulares) e axilares anteriores (peitorais), que são os mais próximos do braço.",
+      "Inclui os linfonodos apicais axilares, que representam a drenagem mais superior da axila e são o marco do estadiamento mais avançado.",
+      "Inclui os linfonodos centrais e os interpeitorais, também conhecidos como linfonodos de Rotter, que se localizam entre os músculos peitorais.",
+      "Inclui apenas os linfonodos torácicos internos e a cadeia paraesternal, que drenam diretamente para o ducto torácico principal."
+    ],
+    "correctIndex": 3,
+    "explanation": "O Nível II de linfonodos axilares inclui os centrais e os interpeitorais (linfonodos de Rotter) [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A mama é sustentada e delimitada por estruturas musculares adjacentes. Quais músculos da parede torácica são citados como estruturas de proximidade e suporte topográfico da glândula mamária?",
+    "options": [
+      "Músculo peitoral maior, músculo peitoral menor e os músculos intercostais, que formam a base posterior onde a mama se apoia.",
+      "Músculos esternocleidomastoideo e escalenos, que auxiliam na sustentação da clavícula e da porção superior da mama.",
+      "Músculos oblíquos internos e transversos do abdômen, que se estendem até a borda inferior da mama, conferindo a sua forma de cone.",
+      "Músculo serrátil anterior e grande dorsal, que são superficiais e recobrem o estroma adiposo da região lateral da mama.",
+      "Músculos infra-hioideos e supra-hioideos, que controlam a movimentação da região cervical e são inervados por C1-C4."
+    ],
+    "correctIndex": 0,
+    "explanation": "A cadeia ganglionar fica na mama, e de lado é possível ver a musculatura: músculo peitoral maior, peitoral menor e os intercostais [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A inervação da mama é complexa e deriva do plexo braquial e de nervos torácicos. Quais são os segmentos nervosos principais responsáveis pela inervação (sensitiva e autonômica) da glândula mamária?",
+    "options": [
+      "Segmentos nervosos torácicos T4, T5 e T6, que são os únicos responsáveis pela sensibilidade cutânea e glandular da mama.",
+      "Nervo toracodorsal e nervo longo do tórax, que inervam exclusivamente o tecido glandular e são cruciais para o reflexo de ejeção do leite.",
+      "Segmentos nervosos cervicais C1 a C4 e os nervos intercostais T2 e T3, que controlam a musculatura lisa da aréola.",
+      "Segmentos nervosos C5, C6, C7, C8 e T1, que fornecem a inervação principal para toda a região mamária e axilar adjacente.",
+      "Os ramos mediais e laterais dos nervos intercostais T7 a T10, responsáveis pela sensibilidade profunda do estroma mamário."
+    ],
+    "correctIndex": 0,
+    "explanation": "A inervação da mama é dada pelos segmentos nervosos que vêm de torácicas [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição correta do Nível I no estadiamento dos linfonodos axilares, que representa a primeira linha de defesa contra a disseminação de células mamárias malignas?",
+    "options": [
+      "Linfonodos localizados no ápice da axila, acima da borda superior do músculo peitoral menor, próximos à veia subclávia.",
+      "Linfonodos da cadeia torácica interna, que drenam diretamente para a região paraesternal e não são rotineiramente abordados cirurgicamente.",
+      "Linfonodos laterais, posteriores (subescapulares) e axilares anteriores (peitorais), localizados lateralmente à borda do peitoral menor.",
+      "Linfonodos supraclaviculares e mediastinais, que são considerados metástases à distância no estadiamento TNM.",
+      "Linfonodos interpeitorais (de Rotter), localizados entre os músculos peitorais maior e menor, representando a drenagem central."
+    ],
+    "correctIndex": 2,
+    "explanation": "O Nível I inclui os linfonodos axilares laterais, posteriores (subescapulares) e o axilar anterior (peitoral), que é o que 'vem do braço e pega essa primeira área' [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a descrição anatômica do Nível III dos linfonodos axilares, que se localiza no ponto mais alto e profundo da axila?",
+    "options": [
+      "Linfonodos axilares apicais, localizados medialmente à borda do músculo peitoral menor, representando o ponto mais alto da cadeia axilar.",
+      "Linfonodos da cadeia torácica interna, que correm ao longo dos vasos torácicos internos e drenam para o mediastino.",
+      "Linfonodos interpeitorais (de Rotter), situados entre os músculos peitorais maior e menor, sendo um ponto de estadiamento cirúrgico intermediário.",
+      "Linfonodos parasternais e supraclaviculares, que são a primeira via de drenagem da mama e o foco do tratamento de câncer em estágio inicial.",
+      "Linfonodos centrais e subescapulares, que são facilmente palpáveis no exame físico de rotina."
+    ],
+    "correctIndex": 0,
+    "explanation": "O Nível III inclui os linfonodos axilares apicais, que estão localizados 'aqui em cima' [1], representando a porção mais superior da drenagem axilar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Anatomicamente, o mamilo é a porção central da mama onde se abrem os ductos galactóforos. Qual é o termo anatômico sinônimo de 'mamilo' citado no material?",
+    "options": [
+      "Papila, que é o termo técnico para o mamilo, sendo coberto pela aréola e contendo as aberturas ductais.",
+      "Tubérculo de Montgomery, que são as glândulas sebáceas modificadas localizadas na aréola.",
+      "Lóbulos, que são as unidades glandulares produtoras de leite dentro do parênquima mamário.",
+      "Seio Lactífero, que é a dilatação dos ductos principais logo abaixo da aréola, armazenando leite.",
+      "Aréola Secundária, que é a área pigmentada ao redor do mamilo durante a gestação."
+    ],
+    "correctIndex": 0,
+    "explanation": "O mamilo é a estrutura central, que também é chamada de papila [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Durante a gestação, a mama sofre adaptações fisiológicas. Qual é a alteração de pigmentação que pode ser observada na aréola, classificada como um 'sinal de presunção' de gravidez?",
+    "options": [
+      "O aparecimento do Sinal de Hegar, que é o escurecimento da aréola com endurecimento do tecido fibroglandular.",
+      "A diminuição da vascularização, fazendo com que as veias superficiais se tornem menos visíveis, o que é um sinal de certeza.",
+      "A aréola fica mais pigmentada devido ao aumento dos tubérculos, preparando a mama para a amamentação.",
+      "A ocorrência do Sinal de Piskacek, que é o aumento da vascularização e a atrofia dos tubérculos de Montgomery.",
+      "O aparecimento da aréola secundária, que é uma mancha branca de hipopigmentação ao redor da aréola principal."
+    ],
+    "correctIndex": 2,
+    "explanation": "Durante a gestação, a mama sofre mudanças para a amamentação, incluindo a pigmentação da aréola, com 'tubérculos que deixa a aréola mais pigmentada' [2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Além do tecido glandular (lobos e ductos), qual é o principal componente estrutural do estroma mamário responsável por sustentar a mama, sendo o principal responsável pelo volume mamário em mulheres não lactantes?",
+    "options": [
+      "O tecido conjuntivo denso e fibroso, que forma o septo interlobular e é o maior responsável pela consistência dura da mama.",
+      "O plexo venoso de Haller, uma rede vascular extensa que nutre a pele da aréola e protege contra a isquemia local.",
+      "O tecido muscular liso, que circunda os ductos galactóforos, permitindo a ejeção de leite durante a amamentação.",
+      "O tecido adiposo (gordura), que é o componente majoritário do estroma e confere a forma e a sustentação do órgão.",
+      "Os ligamentos suspensórios de Cooper, que são as estruturas elásticas responsáveis por permitir a movimentação mamária na lactação."
+    ],
+    "correctIndex": 3,
+    "explanation": "A mama é composta por lobos, ductos e o estroma, que seria a 'gordura ali que sustenta a mama' [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação às mudanças anatômicas observadas na mama durante a gestação, qual é a alteração vascular que o material descreve como um sinal de presunção por volta da 16ª semana de gestação?",
+    "options": [
+      "A atrofia do tecido glandular, que leva à diminuição da sensibilidade local e à redução do fluxo sanguíneo arterial.",
+      "O aumento da densidade glandular, o que reduz o risco de nódulos palpáveis e a vascularização venosa superficial.",
+      "A redução do volume da aréola (Aréola de Puzos), devido à compressão exercida pelo tecido adiposo em expansão.",
+      "A mama começa a ter mais vascularização, tornando as veias mais visíveis, devido ao aumento do fluxo e do crescimento mamário.",
+      "A involução completa dos ductos galactóforos, que se fecham temporariamente para prevenir a saída precoce de colostro."
+    ],
+    "correctIndex": 3,
+    "explanation": "Com 16 semanas, a mama começa a ter mais vascularização, permitindo que 'você consegue ver mais veia, porque é uma mama que tá começando a crescer mais' [2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a estrutura responsável pela produção de leite na glândula mamária e qual o seu papel na organização do parênquima mamário?",
+    "options": [
+      "O tecido adiposo estromal, que é o componente majoritário da mama e secreta prolactina para iniciar a lactogênese.",
+      "O complexo aréolo-papilar, que, por sua alta inervação sensitiva (T1), estimula a produção endógena de FSH/LH para a lactação.",
+      "Os ductos galactóforos principais, que atuam como reservatórios de gordura (estroma) e são o sítio inicial de metástase.",
+      "Os lobos, que são as estruturas rasgando produtoras de leite, conectadas aos ductos que o transportam para a papila.",
+      "Os seios lactíferos, que são as dilatações finais dos ductos, responsáveis pela ejeção de leite sob o comando da ocitocina."
+    ],
+    "correctIndex": 3,
+    "explanation": "A mama é composta por lobos que são as 'produtoras de leite' [1], e os ductos o transportam.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação à inervação, qual dos seguintes nervos é mais relevante para o controle da mama e de suas funções sensoriais e autonômicas?",
+    "options": [
+      "Nervos intercostais laterais e anteriores, cujos ramos cutâneos fornecem a principal sensibilidade da pele da mama.",
+      "Nervo frênico, crucial para a movimentação do diafragma e o controle da dor mamária profunda.",
+      "Nervo fibular comum, responsável pela inervação autônoma do mamilo e pela secreção de colostro durante a puberdade.",
+      "Nervo ciático, que garante a inervação somática do tecido glandular e dos vasos sanguíneos periféricos.",
+      "Nervo vago (X par craniano), que fornece fibras parassimpáticas para a inervação glandular e ductal da mama."
+    ],
+    "correctIndex": 0,
+    "explanation": "A inervação da mama é fornecida pelos nervos intercostais, derivados dos segmentos torácicos [1], sendo os ramos laterais e anteriores dos intercostais cruciais para a sensibilidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em pacientes gestantes, qual alteração anatômica do complexo aréolo-papilar é observada por volta de 20 semanas e é frequentemente descrita como 'aréola secundária'?",
+    "options": [
+      "A aréola aumenta de diâmetro, ficando muito maior do que o estado pré-gestacional, o que se chama sinal de Herber.",
+      "O tecido glandular se torna fibrocístico e doloroso, o que é um sinal de mastalgia cíclica e não está relacionado à gestação.",
+      "Os ductos galactóforos se atrofiam, e a mama assume a forma de um 'coração', o que é um sinal de certeza.",
+      "A papila inverte completamente e torna-se um sinal de presunção de distúrbio da lactação iminente.",
+      "A aréola diminui de diâmetro e se torna menos pigmentada, devido à redução do fluxo sanguíneo periférico."
+    ],
+    "correctIndex": 0,
+    "explanation": "Por 20 semanas, a aréola se torna muito maior, o que se chama de 'aréola secundária' e é o sinal de Herber [2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A drenagem linfática da mama é organizada em três níveis (I, II, III). Qual é o conceito central que justifica a importância da remoção e análise desses linfonodos na abordagem cirúrgica do câncer de mama?",
+    "options": [
+      "Os linfonodos têm a função exclusiva de drenar o excesso de líquido intersticial e sua remoção melhora o prognóstico ao reduzir o edema local.",
+      "O comprometimento desses linfonodos indica a extensão da disseminação da doença (metástase) e é um fator crucial no estadiamento e prognóstico (mortalidade).",
+      "A remoção dos linfonodos é necessária para impedir a transmissão da inervação para as células tumorais, inibindo o crescimento tumoral.",
+      "Os linfonodos axilares agem como o local de produção primária do estrogênio, e sua remoção é essencial para a inibição hormonal do tumor.",
+      "A cadeia linfática axilar é o único local de produção de hemoglobina, e sua remoção é um método de tratamento da anemia induzida pela doença."
+    ],
+    "correctIndex": 1,
+    "explanation": "O estadiamento dos linfonodos axilares (Níveis I, II, III) é 'bem importante' e 'cai em prova' [1]. A remoção (esvaziamento axilar) é fundamental porque o acometimento linfonodal indica a disseminação e é um marcador prognóstico primário do câncer de mama.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Durante a mastectomia e o esvaziamento axilar, há um alto risco de lesão dos feixes neurovasculares. Considerando o Nível III de linfonodos (apicais), qual estrutura vital de inervação está mais vulnerável à lesão nessa área?",
+    "options": [
+      "O nervo frênico, que está localizado na região cervical, mas cuja lesão pode causar paralisia do diafragma por sua origem em C3-C5.",
+      "O plexo braquial, localizado próximo aos linfonodos apicais, cuja lesão pode causar parestesia ou paresia significativa do membro superior.",
+      "Nervo toracodorsal, que inerva o músculo grande dorsal, sendo sua lesão associada à fraqueza na abdução do braço.",
+      "Os ramos mediais da artéria torácica interna, o que leva à necrose do tecido glandular e à necessidade de reconstrução imediata.",
+      "Nervos intercostais T4-T5, que inervam a pele da mama, resultando apenas em perda de sensibilidade superficial (hipoestesia)."
+    ],
+    "correctIndex": 1,
+    "explanation": "O plexo braquial fornece a inervação principal para a mama e o braço adjacente [1]. Os linfonodos apicais (Nível III) estão próximos a essa região, tornando-a vulnerável à lesão nervosa, resultando em sintomas no membro superior.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente nulípara (que nunca engravidou) de 30 anos apresenta alta densidade mamária na mamografia de rastreio. Qual componente anatômico é o principal responsável por essa alta densidade radiológica e como ele se relaciona com o estroma mamário?",
+    "options": [
+      "A musculatura peitoral (maior e menor) que se hipertrofia e simula a densidade glandular, sendo um achado normal em mulheres jovens.",
+      "O parênquima glandular em involução, que se torna mais radiolúcido com a idade, simulando uma alta densidade em jovens.",
+      "O estroma fibroso e o tecido glandular, que são menos permeáveis aos raios-X do que o tecido adiposo, resultando em uma imagem densa e difícil de avaliar.",
+      "Os ductos galactóforos dilatados (seios lactíferos), que contêm alta concentração de cálcio, elevando a opacidade radiológica da mama.",
+      "O tecido adiposo (gordura), que, por sua natureza lipídica, absorve mais raios-X, gerando uma imagem radiopaca (densa) na mamografia."
+    ],
+    "correctIndex": 2,
+    "explanation": "A densidade mamária na mamografia é determinada pela proporção de tecido glandular/fibroso (denso, branco) em relação ao tecido adiposo (stroma, escuro) [1]. A alta densidade em nulíparas é causada pela predominância do tecido glandular e estroma fibroso, que bloqueia a passagem dos raios-X.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante o exame físico, um médico palpa uma massa mamária que se move facilmente sobre os planos profundos. Qual é o plano anatômico que o médico está palpando, e por que a mobilidade da massa é um achado importante?",
+    "options": [
+      "O plano do músculo peitoral menor, onde a fixação da massa indica uma lesão benigna confinada ao tecido adiposo estromal.",
+      "O plano pré-peitoral e o tecido glandular; a mobilidade sugere que a massa não está aderida ao músculo peitoral maior ou à fáscia torácica, indicando menor invasão profunda.",
+      "O plano intercostal, onde a fixação da massa é um achado normal em mamas fibrocísticas, devido à hipertrofia ductal.",
+      "O plano subglandular, que é a camada de gordura superficial, sendo a mobilidade um sinal de malignidade avançada e fixação tecidual.",
+      "O plano da veia axilar, onde a ausência de mobilidade indica que a massa está confinada ao estroma superficial, sem atingir a fáscia profunda."
+    ],
+    "correctIndex": 1,
+    "explanation": "A mama se apoia sobre o músculo peitoral maior e menor [1]. A palpação avalia a fixação da massa em relação a esses planos profundos (músculo e fáscia torácica). A mobilidade indica que a lesão está restrita ao tecido glandular/adiposo, sem invasão das estruturas musculares profundas, o que é um achado favorável.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente de 7 semanas de gestação relata que suas mamas estão mais inchadas, doloridas (congestão mamária) e que as veias superficiais estão mais evidentes. Qual é a principal justificativa hormonal e anatômica para esses sinais clínicos de presunção?",
+    "options": [
+      "O aumento do FSH e LH no primeiro trimestre, que estimula a atrofia do estroma e o aumento da densidade dos ligamentos de Cooper.",
+      "A congestão é um sinal exclusivo de hiperprolactinemia e não está associada à gestação, exigindo investigação imediata de tumor hipofisário.",
+      "O aumento da produção hormonal (progesterona/estrogênio), que estimula o desenvolvimento glandular e o aumento da vascularização (veias mais visíveis), além da congestão tecidual.",
+      "A queda súbita nos níveis de progesterona placentária, que leva à diminuição da vascularização e congestão dos ductos galactóforos.",
+      "A diminuição da prolactina e o aumento do hCG, que levam à retração da aréola e ao acúmulo de tecido adiposo no mamilo."
+    ],
+    "correctIndex": 2,
+    "explanation": "A congestão mamária, dor (congestão mamária) [2] e o aumento da vascularização (veias mais visíveis) [2] são sinais de presunção de gravidez. Esses sinais são causados pela estimulação hormonal intensa (estrogênio e progesterona) para preparar a mama, resultando em crescimento e aumento do fluxo sanguíneo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um cirurgião oncológico está planejando uma dissecção axilar para o tratamento de câncer de mama. Qual Nível de linfonodos axilares (I, II, ou III) a ser abordado indica a maior extensão de invasão tumoral, impactando diretamente o prognóstico e o plano de radioterapia adjuvante?",
+    "options": [
+      "O Nível II, que inclui os linfonodos centrais e interpeitorais (Rotter's), indicando disseminação intermediária e exigindo terapia sistêmica.",
+      "A cadeia da artéria torácica interna, que é o último sítio de drenagem linfática antes da circulação sistêmica e só é abordado em casos de câncer triplo-negativo.",
+      "O Nível I e II devem ser tratados de forma idêntica; o prognóstico só piora quando há metástase óssea (Nível IV), não linfonodal.",
+      "O Nível I, que compreende os linfonodos peitorais e subescapulares, sendo um indicador de metástase local e invasão inicial.",
+      "O Nível III, que engloba os linfonodos apicais, cuja invasão representa a maior extensão de disseminação locorregional e pior prognóstico, exigindo o tratamento mais agressivo."
+    ],
+    "correctIndex": 4,
+    "explanation": "A progressão da disseminação linfática é dos Níveis I para III [1]. O Nível III (apical) representa a maior extensão de doença regional. A indicação de esvaziamento axilar (retirada dos gânglios) e a complexidade do tratamento aumentam progressivamente com o comprometimento do Nível I ao III [1].",
+    "type": "raciocínio"
+  }
+]

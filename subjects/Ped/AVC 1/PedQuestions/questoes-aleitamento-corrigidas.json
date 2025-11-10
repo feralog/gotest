@@ -1,0 +1,509 @@
+[
+  {
+    "question": "Qual componente do leite materno é descrito como tendo propriedades bacteriostáticas, bactericidas, antiinflamatórias e modula a ação de citoquinas?",
+    "options": [
+      "Lactoferrina com ação bacteriostática, bactericida, antiinflamatória e modulação de citoquinas",
+      "Fator bifidus com promoção de flora benéfica e inibição de enteropatógenos intestinais",
+      "Oligossacarídeos com bloqueio de adesão bacteriana e propriedades prebióticas intestinais",
+      "IgA secretória com proteção específica contra antígenos ambientais e bloqueio de patógenos",
+      "Lisozima com atividade bactericida através de lise de parede celular bacteriana"
+    ],
+    "correctIndex": 0,
+    "explanation": "A lactoferrina é um componente imunoprotetor do leite materno com propriedades bacteriostáticas (impede crescimento bacteriano), bactericida (mata bactérias), antiinflamatória e modula a ação de citoquinas, conforme descrito na tabela de componentes imunoprotetores do material.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o risco relativo de mortes por diarreia grave em crianças alimentadas com fórmulas infantis conforme estudo de Victora et al. (1987)?",
+    "options": [
+      "10 vezes mais bactérias patogênicas na garganta segundo Hokama et al. (1996)",
+      "14 vezes mais mortes por diarreia grave segundo Victora et al. (Lancet 1987)",
+      "5 vezes mais risco de xeroftalmia aos 2 anos segundo Khatry et al. (1995)",
+      "3,6 vezes mais mortes por infecção respiratória segundo Victora et al. (Lancet 1987)",
+      "3 vezes maior risco de pneumonia segundo Victora et al. (Pediatrics 1994)"
+    ],
+    "correctIndex": 1,
+    "explanation": "O estudo de Victora et al. publicado no Lancet em 1987 demonstrou que crianças alimentadas com fórmulas infantis têm 14 vezes mais mortes por diarreia grave quando comparadas às amamentadas com leite materno.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual benefício materno está associado ao gasto calórico extra proporcionado pela amamentação?",
+    "options": [
+      "Maior espaçamento entre partos através do método LAM com amenorreia lactacional eficaz",
+      "Redução do risco de câncer de mama em pré-menopausa (Newcomb et al. 1994)",
+      "Gasto extra de 500 calorias diárias favorecendo retorno ao peso pré-gestacional (Dewey et al. 1993)",
+      "Involução uterina mais rápida através da ação da oxitocina com prevenção de hemorragia",
+      "Redução significativa na dose diária de insulina em mães diabéticas (Davies et al. 1989)"
+    ],
+    "correctIndex": 2,
+    "explanation": "A amamentação proporciona um gasto extra de aproximadamente 500 calorias por dia (Dewey et al. Am J Clin Nutr. 1993), o que ajuda a mãe a voltar ao seu peso anterior ao nascimento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual componente do leite materno promove o crescimento de L. bifidus e inibe o crescimento de Shigella, Salmonela e E. coli?",
+    "options": [
+      "Lactoferrina com ação bacteriostática através de sequestro de ferro livre contra patógenos gram-negativos",
+      "Oligossacarídeos bloqueando adesão de patógenos entéricos aos receptores da mucosa intestinal",
+      "Ácido siálico inibindo toxinas bacterianas e promovendo crescimento de bifidobactérias benéficas",
+      "Fator bifidus promovendo L. bifidus e baixando pH para inibir Shigella, Salmonela e E. coli",
+      "Lisozima causando lise de parede celular de bactérias Gram-positivas e algumas Gram-negativas"
+    ],
+    "correctIndex": 3,
+    "explanation": "O fator bifidus do leite materno promove o crescimento de L. bifidus e baixa o pH das fezes, inibindo o crescimento de Shigella, Salmonela e algumas cepas de E. coli, conforme descrito na tabela de componentes imunoprotetores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o aumento estimado no QI associado à amamentação conforme meta-análise publicada na The Lancet?",
+    "options": [
+      "Aumento de até 3 pontos no QI conforme meta-análise da The Lancet",
+      "Aumento de até 10 pontos no QI baseado em estudos longitudinais prospectivos",
+      "Aumento de até 5 pontos no QI segundo estudos do British Medical Journal",
+      "Aumento de até 12 pontos no QI conforme análise de desenvolvimento cognitivo infantil",
+      "Aumento de até 7 pontos no QI de acordo com pesquisas do World Bank"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma meta-análise publicada na The Lancet indica que a amamentação está associada a um aumento de até 3 pontos no QI, com impacto positivo no desenvolvimento cognitivo e renda futura.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o impacto ambiental da produção de 1 kg de fórmula infantil em termos de emissões de CO₂?",
+    "options": [
+      "Contribui com 20 kg de CO₂ por kg quando considerados embalagem e resíduos",
+      "Emite aproximadamente 8 kg de CO₂ por kg incluindo processamento industrial",
+      "Gera aproximadamente 11 kg de emissões de CO₂ por kg de fórmula produzida",
+      "Produz cerca de 5 kg de emissões de CO₂ por kg considerando apenas fabricação",
+      "Responsável por 15 kg de emissões de CO₂ por kg incluindo transporte e distribuição"
+    ],
+    "correctIndex": 2,
+    "explanation": "A produção de 1 kg de fórmula infantil gera aproximadamente 11 kg de emissões de CO₂, representando significativo impacto ambiental quando comparado ao aleitamento materno que não gera emissões diretas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Que método anticoncepcional natural é eficaz durante a amamentação exclusiva?",
+    "options": [
+      "Método do muco cervical com observação das mudanças de consistência no ciclo",
+      "Método da temperatura basal com monitoramento diário rigoroso e registro gráfico",
+      "Método do calendário com cálculo matemático dos períodos férteis do ciclo",
+      "Método sintotérmico combinando múltiplos indicadores de fertilidade e ovulação",
+      "Método LAM com amamentação exclusiva dia e noite sem água ou chá"
+    ],
+    "correctIndex": 4,
+    "explanation": "O Método da Amenorreia Lactacional (LAM) é eficaz como anticoncepcional natural quando a mãe amamenta exclusivamente dia e noite, sem uso de chá ou água, durante os primeiros meses, proporcionando maior espaçamento entre os partos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual componente do leite materno contém células vivas com capacidade de destruir ativamente bactérias, vírus e fungos?",
+    "options": [
+      "IgA secretória protegendo através de neutralização específica de antígenos ambientais",
+      "Oligossacarídeos bloqueando adesão de vírus e bactérias aos receptores intestinais",
+      "Leucócitos realizando fagocitose de patógenos e secreção de substâncias bioativas",
+      "Lisozima promovendo lise enzimática de parede celular de bactérias Gram-positivas",
+      "Lactoferrina com ação bacteriostática através de ligação de ferro livre bacteriano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os leucócitos presentes no leite materno são células vivas capazes de realizar fagocitose de bactérias, vírus e fungos, além de secretar substâncias bioativas que fortalecem o sistema imunológico do bebê.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o risco relativo de pneumonia em crianças alimentadas com fórmulas infantis?",
+    "options": [
+      "14 vezes mais mortes por diarreia grave segundo Victora et al. (Lancet 1987)",
+      "3 vezes maior risco de pneumonia segundo Victora et al. (Pediatrics 1994)",
+      "5 vezes mais risco de xeroftalmia aos 2 anos segundo Khatry et al. (1995)",
+      "3 a 4 vezes mais risco de otites segundo Aniansson (Pediatr Infect Dis 1994)",
+      "3,6 vezes mais mortes por infecção respiratória segundo Victora et al. (Lancet 1987)"
+    ],
+    "correctIndex": 1,
+    "explanation": "O estudo de Victora et al. publicado no Pediatrics em 1994 demonstrou que crianças alimentadas com fórmulas infantis têm 3 vezes maior risco de pneumonia quando comparadas às amamentadas com leite materno.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual benefício odontológico está associado à amamentação?",
+    "options": [
+      "Melhor oclusão dentária com ação de ortodontia preventiva reduzindo má formação",
+      "Fortalecimento do esmalte dental por mineralização através de cálcio e fósforo",
+      "Prevenção completa de má oclusão através do desenvolvimento muscular facial",
+      "Redução de 50% na incidência de cáries dentárias por pH salivar elevado",
+      "Eliminação total da necessidade de tratamentos ortodônticos corretivos na infância"
+    ],
+    "correctIndex": 0,
+    "explanation": "A amamentação promove melhor oclusão dentária com ação de ortodontia preventiva, resultando em menos gastos com ortodontia corretiva para as famílias, conforme descrito nos benefícios para a família.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual componente do leite materno possui atividade bactericida contra bactérias Gram-positivas e algumas Gram-negativas através de degradação enzimática da parede celular?",
+    "options": [
+      "Enzima com atividade muramidase degradando peptidoglicanos da parede bacteriana",
+      "Lactoferrina com ação bacteriostática através de sequestro de ferro e modulação imune",
+      "Fator bifidus promovendo flora intestinal benéfica e acidificação do pH intestinal",
+      "Oligossacarídeos bloqueando sítios de adesão bacteriana nos receptores da mucosa intestinal",
+      "IgA secretória protegendo através de neutralização específica de antígenos patogênicos ambientais"
+    ],
+    "correctIndex": 0,
+    "explanation": "A lisozima é um componente imunoprotetor do leite materno com atividade bactericida e antiinflamatória, agindo na lise de bactérias Gram-positivas e algumas Gram-negativas, conforme descrito na tabela de componentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o risco relativo de otites em crianças alimentadas com fórmulas infantis?",
+    "options": [
+      "5 vezes mais risco de xeroftalmia aos 2 anos segundo Khatry et al. (1995)",
+      "14 vezes mais mortes por diarreia grave segundo Victora et al. (Lancet 1987)",
+      "3,6 vezes mais mortes por infecção respiratória segundo Victora et al. (Lancet 1987)",
+      "3 vezes maior risco de pneumonia segundo Victora et al. (Pediatrics 1994)",
+      "3 a 4 vezes mais risco de otites segundo Aniansson (Pediatr Infect Dis 1994)"
+    ],
+    "correctIndex": 4,
+    "explanation": "O estudo de Aniansson publicado no Pediatric Infectious Diseases Journal em 1994 demonstrou que crianças alimentadas com fórmulas infantis têm 3 a 4 vezes mais risco de otites quando comparadas às amamentadas com leite materno.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual benefício emocional para a criança está associado à amamentação?",
+    "options": [
+      "Maior estabilidade emocional e melhor vínculo nos relacionamentos com menos violência",
+      "Melhor adaptação à alimentação complementar após os 6 meses com paladar desenvolvido",
+      "Redução do risco de obesidade e doenças crônicas metabólicas na vida adulta",
+      "Desenvolvimento intelectual acelerado e QI mais elevado com maior escolaridade futura",
+      "Proteção imunológica contra doenças alérgicas e autoimunes com menor morbidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "A criança amamentada tem maior estabilidade emocional e estabelece melhor vínculo nos relacionamentos, sendo mais calma, feliz e menos violenta, conforme descrito nos benefícios emocionais para a criança.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual componente do leite materno atua como agente imunomodulador através de citoquinas?",
+    "options": [
+      "Leucócitos realizando fagocitose de microorganismos invasores e secretando fatores de crescimento tecidual",
+      "Citoquinas modulando função e maturação do sistema imune com regulação de resposta inflamatória",
+      "Oligossacarídeos bloqueando adesão de patógenos intestinais e estimulando crescimento de flora benéfica",
+      "Lisozima promovendo lise bacteriana e redução de inflamação através de degradação peptidoglicanos",
+      "Lactoferrina com propriedades bacteriostáticas, antiinflamatórias e modulação de resposta imune adaptativa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os agentes imunomoduladores do leite materno, como as citoquinas, modulam a função e maturação do sistema imune, contribuindo para o desenvolvimento adequado das defesas do bebê.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o risco de xeroftalmia em crianças alimentadas com fórmulas infantis?",
+    "options": [
+      "3 vezes maior risco de pneumonia segundo Victora et al. (Pediatrics 1994)",
+      "3,6 vezes mais mortes por infecção respiratória segundo Victora et al. (Lancet 1987)",
+      "14 vezes mais mortes por diarreia grave segundo Victora et al. (Lancet 1987)",
+      "5 vezes mais risco de xeroftalmia aos 2 anos segundo Khatry et al. (Arch Ophthalmol 1995)",
+      "3 a 4 vezes mais risco de otites segundo Aniansson (Pediatr Infect Dis 1994)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O estudo de Khatry et al. publicado no Archives of Ophthalmology em 1995 demonstrou que crianças alimentadas com fórmulas infantis têm 5 vezes mais risco de xeroftalmia aos 2 anos quando comparadas às amamentadas com leite materno.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual benefício para a mãe está associado à redução do risco de câncer?",
+    "options": [
+      "Redução do risco de câncer de ovário e mama em pré-menopausa (Rosenblatt 1993, Newcomb 1994)",
+      "Redução da dose diária de insulina em mães diabéticas através de sensibilização insulínica",
+      "Maior espaçamento entre partos através do método LAM com amenorreia lactacional eficaz",
+      "Involução uterina mais rápida e retorno ao peso pré-gestacional com gasto de 500 cal/dia",
+      "Prevenção de hemorragia pós-parto e anemia materna através de ação da oxitocina uterina"
+    ],
+    "correctIndex": 0,
+    "explanation": "A lactação reduz o risco de câncer de mama em pré-menopausa (Newcomb et al., N. Engl J Med. 1994) e menor incidência de câncer ginecológico como câncer de ovário (Rosenblatt & Thomas, Int J Epidemiol. 1993).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual componente do leite materno impede que patógenos se fixem aos receptores da mucosa intestinal?",
+    "options": [
+      "Lactoferrina com ação bacteriostática através de sequestro de ferro e modulação imunológica",
+      "IgA secretória protegendo através de neutralização específica de antígenos ambientais patogênicos",
+      "Fator bifidus promovendo crescimento de lactobacillus bifidum e acidificação do pH intestinal",
+      "Oligossacarídeos bloqueando sítios de ligação de antígenos aos receptores da mucosa intestinal",
+      "Lisozima causando lise enzimática de parede celular de bactérias Gram-positivas e Gram-negativas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os oligossacarídeos do leite materno bloqueiam o ataque de antígenos aos receptores da mucosa intestinal, impedindo a adesão de patógenos e toxinas, conforme descrito na tabela de componentes imunoprotetores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o benefício da amamentação para o desenvolvimento da fala?",
+    "options": [
+      "Melhor desenvolvimento da fala devido à melhor oclusão dentária e movimentação orofacial",
+      "Promoção de vínculo emocional que facilita comunicação gestual e verbal entre mãe-bebê",
+      "Desenvolvimento cognitivo acelerado favorecendo aquisição de linguagem verbal precoce",
+      "Estímulo precoce das cordas vocais durante a sucção com fortalecimento laríngeo",
+      "Fortalecimento de músculos faciais envolvidos na articulação através de sucção vigorosa"
+    ],
+    "correctIndex": 0,
+    "explanation": "A amamentação promove melhor desenvolvimento da fala como parte dos benefícios para a família, associado à melhor oclusão dentária e desenvolvimento psicomotor orofacial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual componente do leite materno oferece proteção de amplo espectro contra vírus, bactérias, protozoários e processos inflamatórios?",
+    "options": [
+      "Lisozima com atividade bactericida contra bactérias Gram-positivas através de lise enzimática",
+      "Lipídeos com múltiplas ações antimicrobianas e moduladoras da resposta imune",
+      "Oligossacarídeos bloqueando adesão de vírus e bactérias aos receptores da mucosa intestinal",
+      "Leucócitos fagocitando microorganismos invasores e secretando substâncias bioativas antimicrobianas",
+      "Lactoferrina com ação bacteriostática através de sequestro férrico e modulação de citoquinas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os lipídeos do leite materno possuem propriedades antiviral, antibacteriana, antiprotozoário e antiinflamatória, contribuindo para a proteção imunológica do bebê, conforme descrito na tabela de componentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o benefício econômico para a família associado à amamentação?",
+    "options": [
+      "Redução exclusiva de custos com ortodontia corretiva e tratamentos dentários preventivos",
+      "Economia limitada a utensílios de higienização e preparo de mamadeiras plásticas",
+      "Economia com internações, medicamentos, fórmulas, ortodontia e faltas ao trabalho",
+      "Menor frequência apenas de faltas ao trabalho por doença aguda da criança",
+      "Benefício econômico restrito a gastos com fórmulas infantis e leite em pó"
+    ],
+    "correctIndex": 2,
+    "explanation": "A amamentação proporciona múltiplos benefícios econômicos para a família: menos gastos com internações e medicamentos, menor frequência de faltas ao trabalho, economia com fórmulas e utensílios, e redução de custos com ortodontia, conforme descrito nos benefícios para a família.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a meta da OMS para aleitamento materno exclusivo até 2025?",
+    "options": [
+      "Alcançar taxa de 50% de aleitamento materno exclusivo até 2025",
+      "Alcançar taxa de 70% de aleitamento materno exclusivo até 2025",
+      "Alcançar taxa de 80% de aleitamento materno exclusivo até 2025",
+      "Alcançar taxa de 100% de aleitamento materno exclusivo até 2025",
+      "Alcançar taxa de 90% de aleitamento materno exclusivo até 2025"
+    ],
+    "correctIndex": 0,
+    "explanation": "As metas globais de Nutrição da OMS incluem alcançar uma taxa de aleitamento materno exclusivo de 50% até 2025 e 70% até 2030, conforme mencionado no material.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual lei brasileira regulamenta a comercialização de alimentos para lactentes?",
+    "options": [
+      "Lei 9.263/1996 sobre planejamento familiar e apoio institucional à amamentação exclusiva",
+      "Lei 11.265/2006 (NBCAL) regulamentada pela Anvisa e Decreto presidencial 9.579/2018",
+      "Lei 13.257/2016 do Marco Legal da Primeira Infância sobre amamentação e cuidados",
+      "Lei 12.845/2013 sobre violência obstétrica e proteção aos direitos da lactante",
+      "Lei 8.080/1990 do SUS estabelecendo normas para promoção do aleitamento materno"
+    ],
+    "correctIndex": 1,
+    "explanation": "A NBCAL (Norma Brasileira de Comercialização de Alimentos para Lactentes e Crianças de Primeira Infância, Bicos, Chupetas e Mamadeiras) é estabelecida pela Lei 11.265/2006, regulamentada por resoluções da Anvisa e Decreto presidencial de 2018 (n. 9.579).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual componente do leite materno possui capacidade de diferenciação em múltiplas linhagens celulares e pode integrar-se a tecidos fetais?",
+    "options": [
+      "Leucócitos realizando fagocitose de bactérias e vírus com secreção de substâncias bioativas",
+      "IgA secretória fornecendo imunidade humoral específica e proteção contra antígenos ambientais",
+      "Oligossacarídeos promovendo bloqueio de adesão de patógenos e estimulando crescimento celular intestinal",
+      "Células com potencial de diferenciação integrando-se a tecidos como cérebro, fígado e pâncreas",
+      "Lactoferrina com propriedades imunomoduladoras, antibacterianas e promotoras de diferenciação celular"
+    ],
+    "correctIndex": 3,
+    "explanation": "A presença de células-tronco no leite materno é um fato estabelecido, sendo multipotentes ou pluripotentes, podendo ser transferidas da mãe para o lactente, sobreviver à digestão e integrar-se a tecidos como cérebro, fígado e pâncreas, conforme estudos citados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo estudo de Victora et al. publicado no Lancet em 1987, qual o risco aumentado de mortalidade em lactentes não amamentados?",
+    "options": [
+      "3,6 vezes mais mortes por infecções do trato respiratório inferior",
+      "14 vezes mais mortes por doenças diarreicas agudas graves",
+      "3 a 4 vezes mais internações por otite média aguda recorrente",
+      "3 vezes maior risco de hospitalização por pneumonia comunitária",
+      "10 vezes mais colonização por bactérias patogênicas de orofaringe"
+    ],
+    "correctIndex": 0,
+    "explanation": "O estudo de Victora et al. publicado no Lancet em 1987 demonstrou que crianças alimentadas com fórmulas infantis têm 3,6 vezes mais mortes por infecção respiratória quando comparadas às amamentadas com leite materno.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual hormônio liberado durante a amamentação é responsável pela contração uterina, ejeção do leite e desenvolvimento do vínculo materno?",
+    "options": [
+      "Progesterona, mantendo produção láctea e sensibilidade mamária no puerpério",
+      "Oxitocina, estimulando musculatura uterina e células mioepiteliais mamárias (Uvnas-Moberg 1996)",
+      "Prolactina, promovendo síntese e secreção de leite pelas células alveolares mamárias",
+      "Estrogênio, facilitando recuperação endometrial e modulação do ciclo menstrual",
+      "Hormônio lactogênico placentário, preparando glândula mamária para lactação"
+    ],
+    "correctIndex": 1,
+    "explanation": "A oxitocina, liberada durante a amamentação, estimula a contração uterina e ejeção do leite, além de promover o desenvolvimento de um comportamento materno e da vinculação mãe-filho (Uvnas-Moberg, Acta Paediatrica 1996).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual grupo de compostos no leite materno neutraliza radicais livres e previne danos oxidativos celulares?",
+    "options": [
+      "Lisozima reduzindo inflamação através da lise bacteriana e degradação de peptidoglicanos",
+      "Lipídeos com ação antiviral, antibacteriana e protetora através de ácidos graxos essenciais",
+      "Complexo anti-inflamatório incluindo vitaminas lipossolúveis, hidrossolúveis e enzimas específicas",
+      "Lactoferrina com propriedades antiinflamatórias, bacteriostáticas e neutralização de radicais livres",
+      "Oligossacarídeos prevenindo estresse oxidativo intestinal e promovendo integridade da mucosa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os compostos anti-inflamatórios do leite materno incluem antioxidantes como vitaminas A, C, E, enzima catalase e glutationperoxidase, que previnem danos oxidativos e inflamação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual componente do leite materno promove síntese de DNA e RNA, facilitando regeneração tecidual pós-infecção gastrointestinal?",
+    "options": [
+      "Leucócitos promovendo cicatrização através de fatores de crescimento e substâncias bioativas",
+      "Oligossacarídeos protegendo a mucosa intestinal de danos e bloqueando adesão de patógenos",
+      "Compostos nitrogenados essenciais para proliferação celular e crescimento de flora benéfica",
+      "Lactoferrina com ação antiinflamatória e reparadora tecidual através de modulação imune",
+      "Fator bifidus restabelecendo flora intestinal benéfica e acidificando pH do cólon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os nucleotídeos do leite materno aceleram a recuperação intestinal após agravos, promovem o crescimento de lactobacillus bifidum e inibem o crescimento de enteropatógenos no intestino do recém-nascido.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o impacto da amamentação na microbiota intestinal do bebê?",
+    "options": [
+      "Altera completamente a microbiota em 48 horas após início da amamentação exclusiva",
+      "Substitui a microbiota inicial pela microbiota específica da alimentação láctea artificial",
+      "Modula a microbiota intestinal e se sobrepõe ao tipo de parto em importância",
+      "Só afeta a microbiota se a amamentação for exclusiva por 12 meses completos",
+      "Não influencia significativamente a microbiota se o parto for cesariano eletivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "A amamentação modula a microbiota intestinal do bebê e se sobrepõe ao tipo de parto em importância, conforme destacado nos benefícios imunológicos do material.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o benefício da amamentação para o desenvolvimento intelectual?",
+    "options": [
+      "Impacto mínimo comparado a fatores genéticos familiares e ambientais socioeconômicos",
+      "Aceleração exclusiva do desenvolvimento motor grosso e fino sem impacto cognitivo",
+      "Benefício exclusivo para crianças prematuras ou de baixo peso ao nascimento",
+      "Melhor desenvolvimento intelectual e do aprendizado com aumento de até 3 pontos no QI",
+      "Melhora apenas nas habilidades linguísticas e de comunicação verbal e gestual"
+    ],
+    "correctIndex": 3,
+    "explanation": "A amamentação está associada a melhor desenvolvimento intelectual e do aprendizado, com aumento de até 3 pontos no QI conforme meta-análise da The Lancet, devido à composição única do leite materno que favorece o desenvolvimento cerebral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Lactente de 3 meses em aleitamento materno exclusivo apresenta febre e irritabilidade. A mãe questiona se deve suspender a amamentação. Com base nos componentes imunoprotetores, qual a orientação correta?",
+    "options": [
+      "Manter amamentação, pois leucócitos, IgA secretória e lactoferrina fornecem proteção ativa contra patógenos",
+      "Suspender amamentação temporariamente por 24-48h para evitar sobrecarga metabólica e imunológica",
+      "Introduzir fórmula infantil enriquecida com probióticos e prebióticos para apoio imunológico",
+      "Oferecer apenas água filtrada e soro caseiro até resolução completa do quadro febril",
+      "Reduzir frequência das mamadas para 4-6 vezes/dia para permitir repouso do sistema digestivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "O leite materno contém leucócitos (fagocitose), IgA secretória (anticorpos específicos), lactoferrina (bactericida) e outros componentes que fornecem proteção imunológica ativa durante infecções. Manter a amamentação é crucial, pois adapta-se às necessidades do bebê, inclusive aumentando componentes defensivos durante doenças.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mãe de lactente de 2 meses relata produção excessiva de leite e ingurgitamento mamário. Ela pergunta se deve extrair e armazenar leite para uso futuro. Considerando as propriedades do leite materno, qual a melhor orientação?",
+    "options": [
+      "Suspender amamentação direta por 24-48 horas para regular produção através de autorregulação hormonal",
+      "Oferecer mamadeira com fórmula infantil enriquecida para reduzir demanda de sucção nas mamas",
+      "Evitar qualquer extração para não estimular ainda mais a produção através do reflexo de sucção",
+      "Extrair leite para alívio do ingurgitamento e armazenar, mantendo propriedades imunológicas como células vivas",
+      "Descartar o leite excedente por possuir composição nutricional alterada e menor valor imunológico"
+    ],
+    "correctIndex": 3,
+    "explanation": "O leite materno mantém suas propriedades imunológicas mesmo quando extraído e armazenado adequadamente, incluindo células vivas como leucócitos e células-tronco. A extração para alívio do ingurgitamento é recomendada, e o leite pode ser armazenado para uso futuro, preservando benefícios.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 5 meses com histórico familiar de alergia alimentar inicia alimentação complementar. A mãe pergunta sobre estratégias para reduzir risco de alergias. Baseado nos benefícios do leite materno, qual a abordagem ideal?",
+    "options": [
+      "Manter amamentação durante introdução alimentar, pois oligossacarídeos e IgA secretória modulam resposta alérgica",
+      "Suspender amamentação durante introdução de novos alimentos para facilitar identificação de alergênicos específicos",
+      "Substituir leite materno por fórmula hidrolisada hipoalergênica antes de introduzir alimentos sólidos",
+      "Introduzir apenas um alimento novo por semana sem amamentação paralela para isolamento de reações",
+      "Evitar todos os alimentos potencialmente alergênicos até completar 12 meses de idade cronológica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Manter a amamentação durante a introdução alimentar é crucial, pois os oligossacarídeos do leite materno bloqueiam adesão de antígenos, a IgA secretória fornece imunidade específica e outros componentes modulam a resposta imune, reduzindo risco de alergias. A amamentação também melhora aceitação de novos alimentos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mãe com diabetes mellitus relata dificuldades no controle glicêmico durante amamentação. Qual benefício específico ela pode esperar da amamentação baseado em evidências?",
+    "options": [
+      "Estabilidade glicêmica apenas se amamentação for complementada com fórmula infantil hipoalergênica",
+      "Nenhum impacto no controle glicêmico, requerendo ajuste frequente de medicação e monitoramento rigoroso",
+      "Redução significativa na dose diária de insulina durante período de amamentação (Davies BMJ 1989)",
+      "Piora do controle glicêmico pela liberação de hormônios contra-regulatórios como cortisol e prolactina",
+      "Aumento da necessidade de insulina devido ao gasto calórico elevado de 500 calorias/dia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mães que amamentam têm diminuição significativa na dose diária de insulina quando comparadas às que alimentam com fórmulas (Davies, British Medical Journal 1989), devido à melhora na sensibilidade insulínica e gasto calórico adicional.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 4 meses em aleitamento exclusivo apresenta regurgitações frequentes. A mãe considera introduzir fórmula antirrefluxo. Qual a melhor conduta baseada na composição do leite materno?",
+    "options": [
+      "Introduzir fórmula antirrefluxo espessada para reduzir regurgitação através de maior viscosidade gástrica",
+      "Oferecer chá de funcho ou camomila entre mamadas para alívio de desconforto abdominal",
+      "Manter amamentação, pois proteínas do leite humano protegem mucosa e regurgitações são fisiológicas",
+      "Reduzir tempo de mamada para 10 minutos por mama para diminuir volume ingerido",
+      "Suspender amamentação por 48-72 horas para avaliar melhora dos sintomas gastroesofágicos"
+    ],
+    "correctIndex": 2,
+    "explanation": "As proteínas do leite humano protegem a mucosa gastrointestinal, e regurgitações são comuns e benignas em lactentes amamentados devido à imaturidade do esfíncter esofágico inferior. A introdução de fórmula aumenta riscos de alergias e infecções, sem benefício comprovado para regurgitações fisiológicas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mãe que amamenta exclusivamente deseja retornar ao trabalho aos 4 meses pós-parto e pergunta sobre opções. Considerando benefícios emocionais e práticos, qual orientação prioriza a manutenção da amamentação?",
+    "options": [
+      "Oferecer leite de vaca integral pasteurizado como alternativa mais econômica para família",
+      "Extrair e armazenar leite materno para oferecer durante ausência, mantendo vínculo, imunidade e benefícios",
+      "Reduzir gradualmente amamentação nas 2 semanas anteriores para evitar estresse de adaptação abrupta",
+      "Introduzir fórmula infantil durante horário de trabalho e amamentar apenas à noite e finais de semana",
+      "Suspender amamentação e migrar completamente para fórmula infantil por maior praticidade logística"
+    ],
+    "correctIndex": 1,
+    "explanation": "Extrair e armazenar leite materno permite manter os benefícios imunológicos, nutricionais e emocionais da amamentação, incluindo vínculo afetivo e proteção contra doenças. O leite materno armazenado conserva propriedades vivas e adaptáveis, sendo superior a quaisquer substitutos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 6 meses inicia alimentação complementar com recusa a sólidos. A mãe questiona se deve insistir ou oferecer mais leite materno. Baseado na dinâmica do leite humano, qual abordagem é mais adequada?",
+    "options": [
+      "Suspender amamentação temporariamente por 24-48 horas para aumentar apetite por alimentos sólidos",
+      "Substituir leite materno por fórmula infantil enriquecida com ferro para complementar dieta sólida",
+      "Introduzir apenas líquidos como sucos naturais e sopas ralas para facilitar transição gradual",
+      "Forçar ingestão de sólidos retirando leite materno das refeições para criar fome e aceitar novos alimentos",
+      "Oferecer leite materno antes de sólidos para garantir nutrição e estimular aceitação progressiva sem pressão"
+    ],
+    "correctIndex": 4,
+    "explanation": "O leite materno adapta-se às necessidades do bebê, com sabores variados que desenvolvem o paladar e facilitam aceitação de alimentos complementares. Oferecer leite materno antes de sólidos garante nutrição adequada enquanto a criança se adapta progressivamente, sem riscos de desnutrição.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mãe com infecção respiratória aguda pergunta se deve suspender amamentação. Com base em evidências sobre composição do leite durante infecções, qual a orientação?",
+    "options": [
+      "Oferecer apenas leite artificial até melhora clínica completa da mãe e negativação de exames",
+      "Suspender amamentação até resolução completa do quadro infeccioso para evitar transmissão de patógenos",
+      "Complementar com fórmula infantil durante período de doença materna para garantir nutrição adequada",
+      "Extrair e ferver leite antes de oferecer para eliminar vírus e bactérias presentes no leite materno",
+      "Manter amamentação, pois volume e composição imunológica mantêm-se e mãe transmite anticorpos específicos (Zavaleta 1995)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Estudos como Zavaleta et al. (Am J Clin Nutr, 1995) mostram que infecção aguda materna não altera quantidade e composição do leite, mantendo níveis de lactoferrina, ferro, zinco e cobre. A amamentação transmite anticorpos específicos contra a infecção, protegendo o bebê.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Casal adotivo de recém-nascido pergunta sobre possibilidade de amamentação. Considerando a presença de células-tronco no leite materno, qual informação é correta?",
+    "options": [
+      "Indução de lactação é possível e leite produzido contém células-tronco multipotentes com benefícios imunológicos",
+      "Leite artificial fortificado com prebióticos e probióticos equivale funcionalmente a leite materno em imunidade",
+      "Amamentação por mãe adotiva não oferece benefícios imunológicos significativos comparado a fórmula",
+      "Apenas leite de mãe biológica contém células-tronco e componentes imunológicos protetores específicos",
+      "Células-tronco só são transferidas se amamentação for iniciada nas primeiras 24 horas pós-parto"
+    ],
+    "correctIndex": 0,
+    "explanation": "A indução de lactação é possível em mães adotivas, e o leite produzido contém células-tronco multipotentes/pluripotentes e componentes imunoprotetores, embora em perfis variáveis. Essas células podem integrar-se a tecidos do bebê e fornecer proteção, conforme estudos sobre células-tronco no leite materno.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 1 mês com icterícia prolongada é amamentado exclusivamente. Médico sugere complementação com água ou fórmula. Baseado na fisiologia do leite materno, qual a conduta mais adequada?",
+    "options": [
+      "Oferecer glicose oral 5% entre mamadas para aumentar conjugação e excreção hepática de bilirrubina",
+      "Manter amamentação exclusiva em livre demanda, pois evacelações frequentes facilitam excreção de bilirrubina",
+      "Suspender amamentação completamente e usar fototerapia intensiva sem oferta oral por 24 horas",
+      "Introduzir água filtrada entre mamadas para hidratação e diluição de bilirrubina sérica",
+      "Substituir amamentação por fórmula infantil por 48-72 horas para avaliação diagnóstica diferencial"
+    ],
+    "correctIndex": 1,
+    "explanation": "O leite materno contém componentes que auxiliam no metabolismo hepático e intestinal da bilirrubina. A amamentação exclusiva em livre demanda promove evacuações frequentes, facilitando excreção de bilirrubina. Introdução de água ou fórmula quebra o aleitamento exclusivo e pode piorar icterícia por reduzir ingestão de leite e seus benefícios.",
+    "type": "raciocínio"
+  }
+]

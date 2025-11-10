@@ -1,0 +1,262 @@
+[
+  {
+    "question": "No desenvolvimento inicial da primeira semana, qual estágio é caracterizado por uma bola compacta de 16 a 32 células, sem cavidade interna, e qual o potencial das células nesta fase embrionária?",
+    "options": [
+      "Gástrula, caracterizado pelo disco embrionário trilaminar, momento em que as células-tronco pluripotentes começam a se diferenciar.",
+      "Mórula, com 16 a 32 células, sendo as células totipotentes, o que significa que cada uma ainda pode originar um organismo completo.",
+      "Zigoto, sendo a primeira célula formada pela união de gametas, com 46 cromossomos, e ainda não totipotente.",
+      "Blastocisto, possuindo células pluripotentes que podem formar todos os tecidos do corpo, incluindo a placenta e o trofoblasto.",
+      "Blastocisto expandido, caracterizado por ter massa celular interna e trofoblasto bem definidos, mas com células já pluripotentes."
+    ],
+    "correctIndex": 1,
+    "explanation": "A Mórula é atingida no Dia 3-4 e é uma bola compacta com 16 a 32 células, sem cavidade interna [1, 2]. As células neste estágio são totipotentes, capazes de formar um organismo completo [2, 3].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A nidação, processo de implantação do embrião no endométrio, é um marco da primeira semana. Em qual estágio de desenvolvimento e em qual período, a partir da fecundação, esse evento crucial se estabelece?",
+    "options": [
+      "No estágio de Blastocisto, que tipicamente ocorre entre o 6º e 7º dia após a fecundação, fixando-se no epitélio endometrial.",
+      "No estágio de Mórula, entre o 3º e 4º dia após a concepção, quando o embrião ainda está se dividindo intensamente sem cavidade interna.",
+      "No estágio de Zigoto, imediatamente após a união do óvulo com o espermatozoide, ocorrendo tipicamente no 1º ou 2º dia da gestação.",
+      "No estágio de 8 células, que acontece no 3º dia, sendo este o momento mais comum para o início da fixação embrionária e placentação.",
+      "No estágio de Gástrula, durante a 3ª semana de desenvolvimento, quando se completa a formação do disco embrionário trilaminar."
+    ],
+    "correctIndex": 0,
+    "explanation": "A nidação é a implantação do embrião no epitélio endometrial [3]. Ocorre na fase de blastocisto, geralmente entre o 6º e 7º dia, podendo se estender até o 8º dia [3-5].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A segunda semana de desenvolvimento embrionário é conhecida como a 'semana dos dois'. Quais são os dois pares de estruturas que se formam nesta fase em relação ao disco embrionário e ao trofoblasto, respectivamente?",
+    "options": [
+      "Duas gônadas (ovário e testículo) e dois ductos (mesonéfrico e paramesonéfrico), essenciais para a diferenciação gonadal inicial.",
+      "Dois tubos neurais (anterior e posterior) e duas camadas de mesoderma (paraxial e lateral) para a formação da coluna vertebral.",
+      "Duas camadas no disco (epiblasto e hipoblasto) e duas camadas no trofoblasto (sincicio e citotrofoblasto) [5, 6].",
+      "Três folhetos germinativos (ectoderma, endoderma e mesoderma) e duas cavidades (pericárdica e pleural), marcando a gastrulação.",
+      "Duas artérias e uma veia no cordão umbilical, e duas placentas separadas (monocoriônica e dicoriônica) em gestações gemelares."
+    ],
+    "correctIndex": 2,
+    "explanation": "A segunda semana é a 'semana dos dois'. O disco embrionário forma duas camadas (epiblasto e hipoblasto) e o trofoblasto forma duas camadas (sincicio e citotrofoblasto) [5, 6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A placenta é um órgão endócrino vital na gestação, responsável pela nutrição fetal. Qual dos seguintes hormônios é produzido primariamente pela placenta para manter a gestação saudável, além de ter funções metabólicas específicas?",
+    "options": [
+      "Hormônio Anti-Mülleriano (AMH), que regula a invasão placentária no miométrio durante a segunda onda de proliferação.",
+      "Insulina, responsável pela regulação da glicemia fetal, sendo que ela não consegue ultrapassar a barreira placentária materna.",
+      "Gonadotropina Coriônica Humana (hCG) e Lactogênio Placentário Humano (hPL), que atuam na sustentação hormonal e metabolismo, respectivamente.",
+      "Ocitocina, que é produzida em alta quantidade desde o primeiro trimestre para estimular a contração uterina e preparar para o parto.",
+      "Hormônio Folículo-Estimulante (FSH), que regula o desenvolvimento das vilosidades coriônicas primárias e secundárias."
+    ],
+    "correctIndex": 2,
+    "explanation": "A placenta é um órgão endócrino [7, 8] que produz hCG, somatomamotropina (hPL ou lactogênio placentário), progesterona, e estrogênio [7, 8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O desenvolvimento do sistema urogenital feminino tem origem a partir de uma estrutura embrionária comum. Qual é essa estrutura e de qual folheto germinativo ela se deriva?",
+    "options": [
+      "Os somitos, derivados do mesoderma paraxial, que se diferenciam em vértebras e costelas, e secundariamente formam a crista urogenital.",
+      "O saco vitelínico, que nutre o embrião e dá origem às células germinativas primordiais que migram para a crista genital indiferenciada.",
+      "O mesoderma intermediário, que se dobra para formar a crista urogenital, a qual se divide nas cristas nefrogênicas e cristas genitais.",
+      "A notocorda, derivada do endoderma, que atua como organizador primário e indutor do tubo neural para a formação dos rins.",
+      "O ectoderma, que forma as células germinativas primordiais e a epiderme, sendo responsável pela formação da genitália externa feminina."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sistemas urinário e genital se desenvolvem a partir do mesoderma intermediário que se estende ao longo do embrião e forma a crista urogenital [9].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em indivíduos do sexo feminino, a ausência do Hormônio Anti-Mülleriano (AMH) é fundamental. Qual é o destino dos ductos müllerianos (paramesonéfricos) nessa ausência e quais estruturas reprodutivas são formadas?",
+    "options": [
+      "Eles se transformam nos cordões testiculares, que darão origem aos túbulos seminíferos, devido à falta de inibição pelo SRY ausente.",
+      "Eles dão origem ao ducto de Gartner, que é um remanescente do ducto mesonéfrico (de Wolff) que persiste em 50% das mulheres adultas.",
+      "Eles regridem completamente, e seus remanescentes formam o epovário e o parovário, devido à ação residual da di-hidrotestosterona.",
+      "Eles são incorporados à bexiga urinária e formam o trígono vesical e a uretra definitiva, através da indução do botão uretérico.",
+      "Eles persistem e se fundem, formando as tubas uterinas (porções cranianas), o útero e o terço superior da vagina, sob estímulo estrogênico."
+    ],
+    "correctIndex": 4,
+    "explanation": "No feto feminino, a falta de AMH permite a persistência dos ductos müllerianos, que se fundem caudalmente para formar as tubas uterinas (não fundidas), útero e vagina superior [10-12].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A formação dos genitais externos femininos ocorre na ausência de DHT. Qual é o homólogo adulto do Tubérculo Genital, das Pregas Uretrais e das Pregas Labioescrotais, respectivamente, após a 12ª semana?",
+    "options": [
+      "O tubérculo se torna a raiz do clitóris, as pregas uretrais viram o hímen e as pregas labioescrotais formam o períneo feminino.",
+      "Os ovários, o epoóforo e o paroóforo, estruturas que são remanescentes do sistema mesonéfrico, mas se desenvolvem externamente.",
+      "A glande peniana, o soalho da uretra peniana e o saco escrotal, pois a diferenciação ocorre sempre sob o mesmo padrão indiferenciado.",
+      "O clitóris, os lábios menores e os grandes lábios, que se desenvolvem na ausência da virilização induzida pela di-hidrotestosterona (DHT).",
+      "O monte púbis, o vestíbulo vaginal e a uretra, sendo essas estruturas formadas unicamente a partir da evaginação do seio urogenital."
+    ],
+    "correctIndex": 3,
+    "explanation": "No feto feminino (ausência de DHT), o tubérculo genital forma o clitóris, as pregas uretrais formam os lábios menores, e as pregas labioescrotais formam os lábios maiores [12, 13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A veia umbilical fetal tem uma função diferenciada na circulação fetal. Qual é a composição vascular normal do cordão umbilical e qual a função da veia fetal?",
+    "options": [
+      "Duas artérias e uma veia; a veia fetal carrega o oxigênio (O2) para o feto, e as artérias trazem o gás carbônico (CO2) para a placenta.",
+      "Três veias, protegidas pela geleia de Wharton, sendo que duas carregam sangue oxigenado e uma carrega o gás carbônico fetal.",
+      "Uma artéria e uma veia; a veia fetal transporta sangue desoxigenado (CO2) para a placenta, e a artéria leva oxigênio para o feto.",
+      "Duas veias e uma artéria; as veias trazem CO2 e a artéria leva O2 para o feto, seguindo o padrão da circulação sistêmica adulta.",
+      "Três artérias e uma veia, responsáveis por garantir que o sangue materno se misture ao sangue fetal para trocas gasosas eficientes."
+    ],
+    "correctIndex": 0,
+    "explanation": "O cordão umbilical é composto por duas artérias e uma veia [14, 15]. A veia fetal carrega o O2 (sangue oxigenado) para o feto, e as artérias trazem o CO2 (sangue desoxigenado) para a placenta [16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "No feto feminino, as células germinativas sofrem mitose intensa para estabelecer a reserva ovariana. Qual é o pico máximo atingido de oócitos e em qual período gestacional isso ocorre, antes do início da atresia?",
+    "options": [
+      "10 a 12 milhões de oócitos, atingidos no terceiro trimestre, sendo que a meiose I só se completa após a puberdade.",
+      "2 a 3 milhões de oócitos, atingidos na 12ª semana, coincidindo com a formação da genitália fetal primitiva.",
+      "6 a 7 milhões de oócitos, atingidos por volta da 20ª semana de gestação, momento em que a atresia oocitária se inicia.",
+      "1 a 2 milhões de oócitos, que é o número presente ao nascimento, indicando a interrupção da meiose II nesta fase.",
+      "5 milhões de oócitos, que é o número presente na puberdade, após a atresia massiva que ocorre durante a infância e adolescência."
+    ],
+    "correctIndex": 2,
+    "explanation": "As células germinativas no ovário fetal atingem o número máximo de 6 a 7 milhões por volta da 20ª semana de gestação, e a atresia se inicia ainda no útero, reduzindo o número ao nascimento [17].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal função do líquido amniótico que está diretamente relacionada ao desenvolvimento e à maturação pulmonar fetal, conforme o ciclo de produção e deglutição?",
+    "options": [
+      "Impedir a mistura sanguínea entre mãe e feto, através de uma barreira imunológica que neutraliza os anticorpos IgG maternos.",
+      "Servir como um filtro mecânico do plasma materno, cuja composição nutricional induz a maturação das vias aéreas superiores e esôfago.",
+      "Promover a vasodilatação da membrana placentária, facilitando as trocas gasosas através do cordão umbilical e eliminando a necessidade de deglutição.",
+      "O líquido (primariamente urina fetal) é engolido pelo bebê, sendo esse mecanismo essencial para o desenvolvimento e maturação pulmonar.",
+      "Atuar como reservatório primário de glicose e aminoácidos para o feto, prevenindo a hipoglicemia e estimulando o crescimento pulmonar via somatotropina."
+    ],
+    "correctIndex": 3,
+    "explanation": "O líquido amniótico é primariamente urina fetal, e o bebê o engole. Essa deglutição é fundamental para o desenvolvimento e maturação pulmonar [18-20].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A barreira fetoplacentária é crucial para a proteção fetal. Qual das seguintes substâncias hormonais, essencial para a regulação materna, é notoriamente incapaz de atravessar a membrana placentária?",
+    "options": [
+      "Gonadotropina Coriônica Humana (hCG), cujos altos níveis são transportados ativamente para regular o desenvolvimento gonadal fetal.",
+      "Progesterona, que é produzida em alta quantidade pela placenta e cruza a barreira por difusão facilitada ou ativa.",
+      "Estrogênio, que ultrapassa facilmente e é essencial para o desenvolvimento dos caracteres sexuais secundários fetais e maturação óssea.",
+      "Somatomamotropina coriônica humana (hPL), que cruza em alta concentração para promover a adaptação materna ao metabolismo da gestação.",
+      "Insulina, um hormônio proteico, que não consegue atravessar a membrana placentária, exigindo que o feto produza a sua própria regulação."
+    ],
+    "correctIndex": 4,
+    "explanation": "Entre as substâncias que não atravessam a membrana placentária, estão todos os hormônios proteicos, incluindo a insulina [21].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição correta do estágio de Blastocisto e o que a diferencia do estágio de Mórula em termos de estrutura celular e cavidade interna?",
+    "options": [
+      "É uma esfera com cavidade interna (blastocele), diferenciação de trofoblasto (placenta) e massa celular interna (embrião), atingida no Dia 5-6.",
+      "É uma bola compacta de 16-32 células (totipotentes), atingida no Dia 3, sem diferenciação celular interna ou externa.",
+      "É a união do óvulo e espermatozoide, formando uma célula com 46 cromossomos, que já pode se implantar no endométrio.",
+      "É a formação dos anexos fetais, caracterizada pela presença de duas veias e uma artéria no cordão umbilical e pelos septos deciduais da placenta.",
+      "É o embrião na 3ª semana (trilaminar), com início da gastrulação e a formação da notocorda e do tubo neural."
+    ],
+    "correctIndex": 0,
+    "explanation": "O Blastocisto é atingido no Dia 5-6, possui uma cavidade interna (blastocele) e diferenciação celular em massa celular interna (embrião) e trofoblasto (placenta) [1, 2, 22].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A formação do útero envolve a fusão dos ductos müllerianos. Qual é a principal consequência embriológica de uma falha completa ou incompleta na fusão lateral dos dois ductos müllerianos?",
+    "options": [
+      "Pseudo-hermafroditismo feminino (46,XX), resultante da virilização da genitália externa pela exposição excessiva a androgênios adrenais.",
+      "Septo vaginal transverso ou hímen imperfurado, que são causados por falhas na canalização do seio urogenital e lâmina vaginal.",
+      "Agenesia mülleriana (Síndrome de Mayer-Rokitansky-Kuster-Hauser), resultando na ausência congênita de útero e vagina superior.",
+      "Desenvolvimento de tumores ovarianos virilizantes na infância, devido à persistência de células de Leydig no córtex gonadal.",
+      "Anomalias uterinas congênitas como útero didelfo, útero bicorno ou útero septado, dependendo do grau de fusão incompleta."
+    ],
+    "correctIndex": 4,
+    "explanation": "Qualquer falha na fusão lateral dos dois ductos müllerianos ou na reabsorção do septo entre eles resulta em cornos uterinos separados (útero didelfo/bicorno) ou em algum grau de septo uterino persistente [11, 23].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o marco temporal (idade gestacional) que marca o início do período fetal, caracterizado pelo crescimento e desenvolvimento dos órgãos, e qual a primeira estrutura anatômica a ser visualizada neste novo período?",
+    "options": [
+      "A 9ª semana, quando a organogênese se completa, e o primeiro sinal é o aumento da vesícula vitelínica secundária.",
+      "A 8ª semana, quando termina o período embrionário, e o embrião atinge 8 gramas, mas a genitália ainda não está diferenciada.",
+      "A 16ª semana, momento em que se inicia a ossificação fetal, sendo o primeiro marco visível a lanugem e os cabelos finos.",
+      "A 12ª semana, iniciando o período fetal, quando se observa a formação da genitália fetal inicial, mas o sexo ainda não é definitivo.",
+      "A 20ª semana, quando o pulmão começa a se formar e a principal característica é o aumento da espessura do endométrio basal."
+    ],
+    "correctIndex": 3,
+    "explanation": "O período fetal se inicia a partir da 9ª semana até o nascimento [24]. Com 12 semanas, já se observa a genitália fetal inicial, embora a definição do sexo seja mais clara apenas com 16 semanas [14, 24].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A barreira placentária impede a passagem de muitas bactérias e hormônios proteicos. Qual é a principal via de infecção fetal de doenças como sífilis e toxoplasmose, e o que isso implica sobre a proteção placentária?",
+    "options": [
+      "A passagem via cordão umbilical, pois a geleia de Wharton é permeável a todas as bactérias e protozoários, exigindo que o feto desenvolva imunidade inata.",
+      "A infecção fetal é sempre secundária à ingestão materna de alimentos contaminados, e a placenta atua apenas como um filtro mecânico, não biológico.",
+      "A transmissão via veias uterinas maternas, pois o sangue materno se mistura completamente com o sangue fetal nas vilosidades coriônicas, exceto em RH negativo.",
+      "A transmissão ocorre apenas durante o parto (via canal vaginal), pois a barreira placentária é 100% eficaz durante toda a gestação, impedindo a passagem de patógenos.",
+      "Esses microrganismos (como *Treponema pallidum* e *Toxoplasma gondii*) conseguem atravessar a membrana placentária, apesar da barreira, necessitando de rastreamento e tratamento precoce."
+    ],
+    "correctIndex": 4,
+    "explanation": "A placenta, embora protetora, é atravessada por microrganismos como *Treponema pallidum* (sífilis) e *Toxoplasma gondii* [21], além de vários vírus [25]. Por isso, o rastreamento dessas infecções é crucial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma paciente é diagnosticada com uma anomalia mülleriana (como útero bicorno). Qual é a complicação sistêmica mais frequentemente relatada nessa paciente e qual é a origem embriológica que justifica essa associação clínica?",
+    "options": [
+      "Malformações cardíacas e circulatórias, pois os sistemas mülleriano e cardiovascular derivam do celoma intraembrionário e do mesoderma lateral.",
+      "Anomalias do trato urinário (como rim único ou ureter ectópico), pois o trato reprodutivo e o urinário se desenvolvem concomitantemente a partir do mesoderma intermediário (crista urogenital).",
+      "Perda auditiva congênita, pois o desenvolvimento do sistema mülleriano está ligado à diferenciação do tubo neural, que também forma o ouvido interno.",
+      "Distúrbios metabólicos, como diabetes, devido à falha na produção de insulina pelo pâncreas, que se desenvolve a partir do endoderma embrionário.",
+      "Anomalias esqueléticas, como defeitos vertebrais ou costais, pois todos os tecidos musculoesqueléticos derivam do mesoderma paraxial e intermediário."
+    ],
+    "correctIndex": 1,
+    "explanation": "Malformações do trato reprodutivo frequentemente estão associadas a anomalias do trato urinário (até 50% dos casos) [23, 26]. Isso ocorre porque os sistemas genital e urinário se desenvolvem a partir da mesma origem embrionária, a crista urogenital (mesoderma intermediário) [9, 27].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um obstetra identifica, na ultrassonografia de terceiro trimestre, a ausência de líquido amniótico (anidrâmnio) em um feto com vias de deglutição normais. Qual é a correlação clínica mais provável para esse achado e qual é o impacto no desenvolvimento fetal?",
+    "options": [
+      "Diabetes gestacional, que provoca um aumento na reabsorção de líquido pelo feto, levando à desidratação e falha pulmonar.",
+      "Ruptura prematura da bolsa amniótica, sendo essa a causa mais comum de anidrâmnio, mas não tendo relação direta com a maturação de órgãos internos.",
+      "Problemas digestivos ou obstrução esofágica, impedindo que o feto engula o líquido, o que leva a uma produção excessiva (polidrâmnio) e não anidrâmnio.",
+      "Agenesia renal (ausência de rim), pois o líquido amniótico é principalmente urina fetal, e sua ausência impede o desenvolvimento e a maturação pulmonar.",
+      "Prolapso de cordão, que causa hipóxia e sofrimento fetal, levando à redução temporária na produção de líquido por parte das membranas."
+    ],
+    "correctIndex": 3,
+    "explanation": "O líquido amniótico é principalmente urina fetal [18]. A ausência de líquido (anidrâmnio) pode ser um sinal de agenesia renal (ausência de rim) [28]. Sem líquido, o feto não pode deglutir, o que é fundamental para a maturação pulmonar [28].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um feto geneticamente 46,XX (sexo gonadal feminino) é exposto a altos níveis de androgênio (ex: hiperplasia adrenal congênita) durante o período crítico. Qual é o quadro de Distúrbio do Desenvolvimento Sexual (DDS) esperado e o que se deve observar nas estruturas internas (müllerianas)?",
+    "options": [
+      "Síndrome de Insensibilidade a Androgênios (SIA), com cariótipo 46,XY, mas genitália externa feminina devido à falha do receptor de testosterona.",
+      "Hermafroditismo verdadeiro, apresentando ovoteste e ductos de Wolff e Müller coexistentes, devido à mistura de fatores de determinação gonadal.",
+      "Pseudo-hermafroditismo feminino (Categoria I), com ovários e útero/vagina superior presentes, mas genitália externa masculinizada (virilizada).",
+      "Disgenesia gonadal pura, resultando na regressão dos ductos müllerianos e de Wolff, levando à ausência de estruturas reprodutivas internas e externas.",
+      "Síndrome de Turner (45,X0), resultando em agenesia mülleriana e ovários em estrias, devido à alteração no número de cromossomos sexuais."
+    ],
+    "correctIndex": 2,
+    "explanation": "O Pseudo-hermafroditismo feminino (Categoria I) ocorre em indivíduos 46,XX (sexo gonadal feminino) que foram expostos a androgênio em excesso [29]. Consequentemente, as estruturas internas müllerianas (ovários, útero, vagina superior) estão presentes, mas a genitália externa é masculinizada [29].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A talidomida é um exemplo clássico de teratógeno. Qual é o mecanismo de ação geral desses agentes e o período de maior risco para o desenvolvimento de malformações graves como a embriopatia por talidomida?",
+    "options": [
+      "Atravessam a barreira placentária no período da organogênese (4ª a 8ª semana), causando efeitos tóxicos e irreversíveis que resultam em malformações dos membros e órgãos.",
+      "Bloqueiam a produção de hPL pela placenta durante o segundo trimestre, impedindo o transporte de glicose e nutrientes para o feto, o que causa restrição de crescimento.",
+      "Atravessam a barreira placentária no período fetal (após 9ª semana), resultando em síndrome de abstinência e problemas de metabolismo, sem causar defeitos estruturais primários.",
+      "Ação durante a gastrulação (3ª semana), impedindo a formação do disco embrionário trilaminar, levando à morte embrionária precoce (aborto).",
+      "Alteram a pulsatilidade do GnRH e a produção de hCG na primeira semana, resultando em deficiência de progesterona e falha de implantação embrionária."
+    ],
+    "correctIndex": 0,
+    "explanation": "O período de maior risco para malformações estruturais é durante a organogênese (4ª a 8ª semana) [24, 30]. Teratógenos como a talidomida ultrapassam a barreira e causam efeitos tóxicos e irreversíveis, resultando em malformações de membros e outros órgãos [30, 31].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma gravidez gemelar é classificada como monozigótica monocoriônica monoamniótica (mono-mono). Qual é o principal risco obstétrico associado a essa condição, justificado pela embriologia dos anexos fetais, e qual a conduta para preveni-lo?",
+    "options": [
+      "Risco de pré-eclâmpsia materna, devido à falha da segunda onda de invasão placentária na unidade monocoriônica, exigindo rastreamento com doppler de artérias uterinas.",
+      "Risco de incompatibilidade Rh, pois compartilham a mesma placenta, exigindo medicação anti-D (RhoGAM) na mãe para neutralizar o sangue positivo.",
+      "Risco de anemia e polidrâmnio, pois o óvulo liberou dois espermatozoides diferentes, resultando em placentas separadas e desequilíbrio na troca de nutrientes.",
+      "Risco de aborto por cariótipo alterado, pois a divisão tardia do zigoto resulta em embriões aneuploides, exigindo biópsia do trofoblasto para triagem.",
+      "Risco de emaranhamento dos cordões umbilicais (nós verdadeiros), pois compartilham a mesma bolsa amniótica, o que justifica a interrupção prematura (cerca de 34 semanas)."
+    ],
+    "correctIndex": 4,
+    "explanation": "Em gestações monozigóticas monocoriônicas monoamnióticas ('mono mono'), os fetos compartilham uma única bolsa amniótica, aumentando o risco de emaranhamento dos cordões (nó verdadeiro de cordão) [16, 32]. Isso justifica a interrupção prematura, tipicamente por volta de 34 semanas, para prevenir sofrimento fetal ou morte [16].",
+    "type": "raciocínio"
+  }
+]

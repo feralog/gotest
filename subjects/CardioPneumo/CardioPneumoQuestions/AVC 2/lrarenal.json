@@ -1,0 +1,509 @@
+[
+  {
+    "question": "Segundo o KDIGO, qual critério isolado já define lesão renal aguda intrínseca?",
+    "options": [
+      "Osmolaridade urinária >600 mOsm/L",
+      "Débito urinário ≥1 mL/kg/h por 24 h",
+      "Fração de excreção de sódio <0,5 %",
+      "Elevação da creatinina sérica ≥0,3 mg/dL em 48 h",
+      "Filtração glomerular estimada ≥120 mL/min/1,73 m²"
+    ],
+    "correctIndex": 3,
+    "explanation": "O KDIGO considera LRA quando a creatinina sobe ≥0,3 mg/dL em 48 h, mesmo sem outras alterações :contentReference[oaicite:0]{index=0}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em que faixa a creatinina deve aumentar para classificar LRA em estágio 3 pelo KDIGO?",
+    "options": [
+      "Aumento absoluto de 0,2 mg/dL",
+      "2,0–2,9 vezes o basal",
+      "Elevação <1,5 vez o basal",
+      "1,5–1,9 vez o basal",
+      "≥3 vezes o valor basal ou ≥4 mg/dL"
+    ],
+    "correctIndex": 4,
+    "explanation": "Estágio 3 exige elevação ≥3 × ou valor absoluto ≥4 mg/dL, podendo haver necessidade de diálise :contentReference[oaicite:1]{index=1}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual proporção aproximada das LRA hospitalares corresponde ao tipo renal intrínseco?",
+    "options": [
+      "1–10 %",
+      "50–60 %",
+      "70–80 %",
+      "90–95 %",
+      "20–40 %"
+    ],
+    "correctIndex": 4,
+    "explanation": "A apostila destaca que as causas renais representam 20–40 % das LRA :contentReference[oaicite:2]{index=2}",
+    "type": "conteudista"
+  },
+  {
+    "question": "A principal forma de LRA renal é a necrose tubular aguda, respondendo por cerca de:",
+    "options": [
+      "100 % dos casos",
+      "5 % dos casos",
+      "62 % dos casos",
+      "15 % dos casos",
+      "80 % dos casos"
+    ],
+    "correctIndex": 2,
+    "explanation": "O material indica NTA como a forma mais frequente, com 62 % de incidência :contentReference[oaicite:3]{index=3}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na NTA isquêmica, qual alteração laboratorial costuma aparecer?",
+    "options": [
+      "Hiponatremia sérica grave (<120 mEq/L)",
+      "FENa <1 % com osmolaridade urinária >500 mOsm/L",
+      "Relação ureia/creatinina >100",
+      "FENa >3 % com relação ureia/creatinina <40",
+      "Densidade urinária >1,020 com cilindros hialinos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Função tubular perdida gera FENa >3 % e U/Cr <40 :contentReference[oaicite:4]{index=4}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a sequência clínica típica da NTA?",
+    "options": [
+      "Fase inicial → oligúrica → poliúrica → recuperação funcional",
+      "Inicial → recuperação → oligúrica → poliúrica",
+      "Recuperação → poliúrica → inicial → oligúrica",
+      "Oligúrica → inicial → recuperação → poliúrica",
+      "Poliúrica → oligúrica → recuperação → inicial"
+    ],
+    "correctIndex": 0,
+    "explanation": "A apostila descreve claramente essas quatro fases em ordem :contentReference[oaicite:5]{index=5}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na NTA não-oligúrica, o volume urinário diário tende a ser:",
+    "options": [
+      "Indeterminado pela fisiopatologia",
+      "Constante em 250 mL/dia",
+      "Extremamente baixo (<100 mL/dia)",
+      "Normal ou aumentado (>500 mL/dia)",
+      "Praticamente inexistente (anúria)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O texto afirma que a NTA pode cursar sem oligúria, mantendo volume habitual :contentReference[oaicite:6]{index=6}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Histologicamente, a NTA cursa com:",
+    "options": [
+      "Glomerulosclerose nodular difusa",
+      "Túbulos dilatados com núcleos hipercromáticos",
+      "Membrana basal espessada e imune complexos",
+      "Depósito de cristais de oxalato intraluminais",
+      "Granulomas epitelioides intersticiais"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dilatação tubular e núcleos escuros são achados descritos para NTA :contentReference[oaicite:7]{index=7}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual mecanismo hemodinâmico contribui para a queda da TFG na NTA?",
+    "options": [
+      "Aumento da pressão oncótica plasmática",
+      "Bloqueio do eixo renina-angiotensina",
+      "Hipertensão intraglomerular persistente",
+      "Vasodilatação mesangial sustentada",
+      "Vasoconstrição da arteríola aferente"
+    ],
+    "correctIndex": 4,
+    "explanation": "Desequilíbrio vasodilatador/vasoconstritor leva à contração aferente :contentReference[oaicite:8]{index=8}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Aminoglicosídeos causam LRA renal típica por:",
+    "options": [
+      "Obstrução bilateral do trato urinário distal",
+      "Deposição imunocomplexa na membrana basal glomerular",
+      "Necrose/apoptose do túbulo contornado proximal, cursando com perda de K⁺/Mg²⁺",
+      "Vasoconstrição intraglomerular sem lesão tubular",
+      "Formação de cristais intratubulares insolúveis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mecanismo proximal e distúrbios iônicos estão bem documentados :contentReference[oaicite:9]{index=9}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Entre os fatores de risco para nefrotoxicidade da vancomicina destaca-se:",
+    "options": [
+      "Hipernatremia isolada",
+      "Uso exclusivo de via intramuscular",
+      "TFG >120 mL/min/1,73 m²",
+      "Obesidade associada a duração prolongada do tratamento",
+      "Albumina sérica elevada"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dose alta, tempo longo e obesidade aumentam o risco :contentReference[oaicite:10]{index=10}",
+    "type": "conteudista"
+  },
+  {
+    "question": "A anfotericina B provoca qual alteração eletrolítica clássica?",
+    "options": [
+      "Hipocalemia e hipomagnesemia",
+      "Hipocalcemia e hipofosfatemia",
+      "Hipernatremia com alcalose",
+      "Hipercalemia e hipernatremia",
+      "Hipermagnesemia isolada"
+    ],
+    "correctIndex": 0,
+    "explanation": "A perda tubular de K⁺ e Mg²⁺ é ressaltada no material :contentReference[oaicite:11]{index=11}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na nefropatia por contraste iodado, a creatinina costuma piorar em:",
+    "options": [
+      "24–48 horas após o exame",
+      "15 minutos após o exame",
+      "2–4 horas após o exame",
+      "Somente depois de 14 dias",
+      "5–7 dias após o exame"
+    ],
+    "correctIndex": 0,
+    "explanation": "O pico ocorre tipicamente até 48 h :contentReference[oaicite:12]{index=12}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Medida preventiva essencial para minimizar LRA por contraste é:",
+    "options": [
+      "Administração de aminofilina IV",
+      "Aplicação tópica de bicarbonato",
+      "Uso de diurético de alça de rotina",
+      "Restrição hídrica pré procedimento",
+      "Expansão com SF 0,9 % antes e após o exame"
+    ],
+    "correctIndex": 4,
+    "explanation": "Hidratação isotônica é a principal estratégia :contentReference[oaicite:13]{index=13}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os AINEs levam a LRA intrínseca principalmente por:",
+    "options": [
+      "Obstrução ureteral bilateral",
+      "Hemólise intravascular maciça",
+      "Vasoconstrição secundária à inibição de prostaglandinas",
+      "Deposição cristalina intratubular",
+      "Formação de crescents glomerulares"
+    ],
+    "correctIndex": 2,
+    "explanation": "A apostila descreve vasoconstrição hemodinâmica como mecanismo central :contentReference[oaicite:14]{index=14}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Tenofovir induz disfunção renal por lesão predominante em:",
+    "options": [
+      "Artéria renal principal",
+      "Túbulo distal inicial",
+      "Interstício cortical exclusivamente",
+      "Glomérulo subepitelial",
+      "Túbulo contornado proximal"
+    ],
+    "correctIndex": 4,
+    "explanation": "Tenofovir compromete o TCP, conforme o slide de antivirais :contentReference[oaicite:15]{index=15}",
+    "type": "conteudista"
+  },
+  {
+    "question": "O conjunto febre + rash cutâneo + eosinofilia sugere LRA por:",
+    "options": [
+      "Rabdomiólise traumática",
+      "Glomerulite pós-estreptocócica",
+      "Necrose cortical bilateral",
+      "Nefrite intersticial aguda medicamentosa",
+      "NTA isquêmica pura"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trata-se da tríade de hipersensibilidade típica da NIA :contentReference[oaicite:16]{index=16}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na NIA, a proteinúria costuma:",
+    "options": [
+      "Superar 10 g/24 h",
+      "Apresentar selectividade alta para albumina",
+      "Ser menor que 2 g/24 h",
+      "Estar ausente em 100 % dos casos",
+      "Caracterizar síndrome nefrótica plena"
+    ],
+    "correctIndex": 2,
+    "explanation": "Proteinúria é geralmente subnefrótica (<2 g/d) na NIA :contentReference[oaicite:17]{index=17}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Tratamento inicial indispensável na NIA induzida por fármacos é:",
+    "options": [
+      "Suspender imediatamente a droga suspeita",
+      "Iniciar antibiótico de amplo espectro",
+      "Administrar contraste iso-osmolar",
+      "Realizar plasmaférese de urgência",
+      "Prescrever diurético tiazídico"
+    ],
+    "correctIndex": 0,
+    "explanation": "A medida mais importante é retirar o agente desencadeante :contentReference[oaicite:18]{index=18}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para suspeitar de rabdomiólise com risco de LRA, o valor de CK deve ser pelo menos:",
+    "options": [
+      "Sempre >20.000 U/L",
+      "Meia vez o limite normal",
+      "Menor que 200 U/L",
+      "Igual ao limite normal",
+      "Cinco vezes o limite superior normal (≈ ≥1.000 U/L)"
+    ],
+    "correctIndex": 4,
+    "explanation": "CK ≥5 × o normal é referência diagnóstica :contentReference[oaicite:19]{index=19}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Entre os mecanismos de LRA na rabdomiólise NÃO se inclui:",
+    "options": [
+      "Acúmulo de mioglobina intratubular",
+      "Isquemia tubular direta",
+      "Depleção volêmica significativa",
+      "Hipertensão intraglomerular sustentada",
+      "Vasoconstrição renal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hipertensão glomerular não faz parte da fisiopatologia descrita :contentReference[oaicite:20]{index=20}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Hipercalemia na rabdomiólise decorre principalmente de:",
+    "options": [
+      "Hiperaldosteronismo secundário",
+      "Perda renal excessiva de potássio",
+      "Reabsorção intestinal aumentada",
+      "Alcalose metabólica prolongada",
+      "Liberação de potássio das fibras musculares necrosadas"
+    ],
+    "correctIndex": 4,
+    "explanation": "Morte celular muscular libera K+, gerando hipercalemia perigosa :contentReference[oaicite:21]{index=21}",
+    "type": "conteudista"
+  },
+  {
+    "question": "A urina escura (‘colúria’) típica da rabdomiólise é causada por:",
+    "options": [
+      "Hemossiderina urinária",
+      "Cristais de oxalato de cálcio",
+      "Excreção de mioglobina oxidada",
+      "Pigmento melanúrico",
+      "Bilirrubina conjugada elevada"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mioglobina livre confere cor castanho-escura à urina :contentReference[oaicite:22]{index=22}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Nos pacientes sépticos, a presença de LRA aumenta a mortalidade em cerca de:",
+    "options": [
+      "Uma vez (sem impacto)",
+      "Quinze vezes",
+      "Seis a sete vezes",
+      "Cem vezes",
+      "Duas vezes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Material cita risco de mortalidade 6–7 × maior :contentReference[oaicite:23]{index=23}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Entre os mecanismos de LRA na sepse destaca-se:",
+    "options": [
+      "Microtrombos e perda de perfusão capilar",
+      "Hiperfiltração glomerular persistente",
+      "Deposição de cristais de colesterol",
+      "Produção excessiva de prostaciclina",
+      "Expansão do volume plasmático efetivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Formação de microtrombos capilares reduz oxigenação :contentReference[oaicite:24]{index=24}",
+    "type": "conteudista"
+  },
+  {
+    "question": "FENa acima de qual valor sugere LRA renal intrínseca?",
+    "options": [
+      ">3 %",
+      "Entre 1–2 %",
+      "≈0,5 %",
+      "=0 %",
+      "<1 %"
+    ],
+    "correctIndex": 0,
+    "explanation": "FENa >3 % é típica de NTA e outras LRA renais :contentReference[oaicite:25]{index=25}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Entre os biomarcadores precoces de lesão tubular está o:",
+    "options": [
+      "Bilirrubina total",
+      "Ácido úrico sérico",
+      "Ureia plasmática",
+      "NGAL (neutrophil gelatinase-associated lipocalin)",
+      "Glicose urinária"
+    ],
+    "correctIndex": 3,
+    "explanation": "NGAL é citado como biomarcador de IRA cirúrgica :contentReference[oaicite:26]{index=26}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Indica-se biópsia renal na LRA intrínseca quando:",
+    "options": [
+      "Creatinina sobe 0,2 mg/dL em 24 h",
+      "Oligúria persiste >4 semanas sem causa definida",
+      "Volume urinário ultrapassa 4 L/dia",
+      "Paciente apresenta hipertensão estável",
+      "Proteinúria <0,1 g/dia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quadro prolongado sem recuperação é critério de biópsia :contentReference[oaicite:27]{index=27}",
+    "type": "conteudista"
+  },
+  {
+    "question": "A dosagem de cistatina C é MENOS influenciada por:",
+    "options": [
+      "Massa muscular",
+      "Tabagismo crônico",
+      "Inflamação sistêmica",
+      "Hipertireoidismo",
+      "Uso de corticoide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cistatina C independe da massa muscular, mas é afetada por outras condições :contentReference[oaicite:28]{index=28}",
+    "type": "conteudista"
+  },
+  {
+    "question": "A hipercalemia com alteração no ECG constitui:",
+    "options": [
+      "Motivo para aumentar ingestão de potássio",
+      "Critério exclusivo para biópsia",
+      "Contraindicação à hemodiálise",
+      "Indicação absoluta de diálise",
+      "Situação de observação clínica apenas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hipercalemia com repercussão é critério dialítico :contentReference[oaicite:29]{index=29}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em pacientes hemodinamicamente instáveis, a modalidade dialítica preferida é:",
+    "options": [
+      "Diálise peritoneal automatizada domiciliar",
+      "Hemodiálise intermitente convencional",
+      "Sangria venosa terapêutica",
+      "Hemodiálise contínua (CVVHD)",
+      "Ultrafiltração simples em 30 min"
+    ],
+    "correctIndex": 3,
+    "explanation": "Terapias contínuas mantêm estabilidade pressórica :contentReference[oaicite:30]{index=30}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para acesso dialítico de curta duração utiliza-se preferencialmente:",
+    "options": [
+      "Fístula arteriovenosa madura",
+      "Port-a-cath subcutâneo",
+      "Cateter venoso tunelizado",
+      "Prótese de PTFE permanente",
+      "Cateter venoso não tunelizado"
+    ],
+    "correctIndex": 4,
+    "explanation": "O material distingue cateteres de curta permanência (não tunelizados) :contentReference[oaicite:31]{index=31}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quando a função renal retorna exatamente ao valor pré-insulto, denomina-se recuperação:",
+    "options": [
+      "Completa",
+      "Relativa",
+      "Acentuada",
+      "Nula",
+      "Incompleta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Recuperação total da TFG é classificada como completa :contentReference[oaicite:32]{index=32}",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com FENa 0,4 %, densidade urinária 1,025 e osmolaridade 650 mOsm/L apresenta quadro mais compatível com:",
+    "options": [
+      "NTA isquêmica estabelecida",
+      "Obstrução pós-renal bilateral",
+      "LRA pré-renal responsiva à hidratação",
+      "Rabdomiólise incipiente",
+      "Nefrite intersticial aguda medicamentosa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Valores sugerem função tubular preservada típica de pré-renal; FENa <1 % :contentReference[oaicite:33]{index=33}",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Após 5 dias de aminoglicosídeo, paciente mantém débito urinário normal porém creatinina sobe progressivamente. Qual a causa provável de LRA?",
+    "options": [
+      "Obstrução pós-renal por cálculo bilateral",
+      "Nefrotoxicidade tubular proximal pelo antibiótico",
+      "Rabdomiólise medicamentosa",
+      "Hipovolemia pré-renal simples",
+      "Sepse com lesão hemodinâmica renal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aminoglicosídeos geram IRA não-oligúrica por dano proximais :contentReference[oaicite:34]{index=34}",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Doente séptico apresenta Cr 2,8 → 3,0 mg/dL em 24 h, débito <0,3 mL/kg/h por 8 h, FENa 4 %. Classificação e provável mecanismo:",
+    "options": [
+      "LRA pré-renal estágio 1 por hipovolemia simples",
+      "LRA renal estágio 1 por acúmulo de cristais",
+      "LRA pós-renal estágio 3 por hidronefrose",
+      "Não se enquadra nos critérios KDIGO",
+      "LRA renal estágio 2 por microtrombos e inflamação capilar"
+    ],
+    "correctIndex": 4,
+    "explanation": "FENa alta + sepse apontam LRA intrínseca; queda da diurese coloca em estágio 2 :contentReference[oaicite:35]{index=35}",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Atleta chega com colúria, CK 12.000 U/L, K⁺ 6,3 mEq/L e creatinina 2,1 mg/dL. Conduta inicial:",
+    "options": [
+      "Uso de AINE para dor muscular",
+      "Antibiótico empírico para sepse",
+      "Biópsia renal de urgência",
+      "Hidratação vigorosa com SF mais bicarbonato",
+      "Restrição hídrica para evitar hiponatremia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rabdomiólise requer expansão volêmica e alcalinização precoce :contentReference[oaicite:36]{index=36}",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente diabético usa metformina; faz tomografia contrastada sem hidratação prévia e 36 h depois creatinina sobe de 1,1 → 2,0 mg/dL. Qual medida imediata?",
+    "options": [
+      "Suporte volumétrico e suspensão de nefrotoxinas, monitorando função renal",
+      "Administrar dose extra de contraste hiposmolar",
+      "Iniciar aminoglicosídeo profilático",
+      "Manter metformina e observar por 7 dias",
+      "Indicar diálise urgente antes de nova creatinina"
+    ],
+    "correctIndex": 0,
+    "explanation": "Suspender agentes potencialmente tóxicos e hidratar é a primeira medida :contentReference[oaicite:37]{index=37}",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Idoso com LRA intrínseca, K⁺ 6,8 mEq/L, alterações no ECG e instabilidade hemodinâmica. Diálise intermitente é inviável. Melhor opção:",
+    "options": [
+      "Administrar apenas resina trocadora de K⁺",
+      "Realizar ultrafiltração lenta isolada",
+      "Aguardar melhora clínica espontânea",
+      "Iniciar terapia contínua tipo CVVHD",
+      "Optar por diálise peritoneal domiciliar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Modalidades contínuas são preferidas em instabilidade grave :contentReference[oaicite:38]{index=38}",
+    "type": "raciocínio"
+  }
+]

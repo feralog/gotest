@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Qual é a definição de uma avaliação pré-operatória, conforme descrito nos materiais?",
+    "options": [
+      "Um processo pós-operatório para identificar eventos adversos relacionados à anestesia. A avaliação inclui anamnese, exame físico, revisão de comorbidades, otimização medicamentosa, estratificação de risco cardiovascular e anestésico, segundo protocolos estabelecidos. Conforme diretrizes, a avaliação pré-operatória busca personalizar o cuidado ao paciente, equilibrando riscos e benefícios e promovendo melhor recuperação.",
+      "Uma análise de risco realizada durante o procedimento cirúrgico para ajustar a anestesia. A comunicação com a equipe cirúrgica e anestésica é essencial para planejar o perioperatório, orientar o paciente e garantir consentimento informado. Estratificação de risco utiliza escalas como ASA, índice de Goldman e revisa fatores específicos da cirurgia e do paciente.",
+      "Uma avaliação crítica realizada antes de um procedimento cirúrgico para minimizar riscos e otimizar condições clínicas. Essa abordagem visa minimizar complicações operatórias e melhorar a recuperação pós-operatória. Ela norteia a preparação do paciente, a estratificação de risco e o planejamento anestésico individualizado. Com base nessa avaliação, são tomadas decisões sobre otimização das comorbidades e orientações perioperatórias.",
+      "Uma revisão apenas dos exames laboratoriais do paciente para liberar a cirurgia. Recomenda-se a solicitação de exames laboratoriais e complementares de acordo com a idade e comorbidades, orientando jejum, suspensão de anticoagulantes e ajustes de medicações. Pacientes em uso de anticoagulantes orais podem necessitar de ponte com heparina de baixo peso molecular ou suspensão planejada.",
+      "Uma avaliação rápida feita 5 minutos antes da cirurgia para confirmar a identidade do paciente. Em consultório, abordamos tabagismo, controle glicêmico, pressão arterial e adesão aos tratamentos, ajustando condutas para reduzir complicações trans e pós-operatórias. Jejum adequado para sólidos e líquidos claros antes da anestesia é fundamental para reduzir risco de aspiração."
+    ],
+    "correctIndex": 2,
+    "explanation": "A avaliação pré-operatória é uma avaliação crítica feita antes de um procedimento cirúrgico, com o objetivo de minimizar riscos, reduzir possíveis eventos adversos e otimizar as condições clínicas dos pacientes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com a classificação da American Society of Anesthesiologists (ASA), qual categoria descreve um paciente com doença sistêmica grave que limita a atividade, mas não o deixa incapacitado?",
+    "options": [
+      "ASA 4",
+      "ASA 3",
+      "ASA 1",
+      "ASA 5",
+      "ASA 2"
+    ],
+    "correctIndex": 1,
+    "explanation": "A classificação ASA 3 descreve um paciente com doença sistêmica grave que limita a atividade, mas não o deixa incapacitado. ASA 1 é um paciente normal e saudável; ASA 2, doença sistêmica leve; ASA 4, doença incapacitante com ameaça constante à vida; ASA 5, paciente terminal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes NÃO é um objetivo principal da avaliação pré-operatória?",
+    "options": [
+      "Planejar o manejo anestésico, clínico e cirúrgico. Avaliação de via aérea, histórico de eventos adversos anestésicos e alergias orienta a escolha das técnicas anestésicas.",
+      "Reduzir possíveis eventos adversos relacionados ao procedimento e à anestesia. Controle de doenças crônicas como hipertensão e diabetes deve ser otimizado, ajustando medicações e avaliando necessidade de adiamento.",
+      "Procurar extensivamente por doenças não diagnosticadas para uma triagem completa. Identificação de fatores de risco para tromboembolismo, como imobilização e uso de hormônios, guia estratégias de profilaxia.",
+      "Avaliar e quantificar comorbidades que podem afetar o resultado cirúrgico. Comorbidades cardíacas exigem revisão de ecocardiogramas, teste de esforço e ajuste de betabloqueadores conforme a condição.",
+      "Otimizar as condições clínicas do paciente antes da cirurgia. Pacientes com doença pulmonar crônica precisam de otimização broncodilatadora, cessação tabágica e fisioterapia respiratória prévia."
+    ],
+    "correctIndex": 2,
+    "explanation": "O objetivo da avaliação pré-operatória não é procurar extensivamente por doenças não diagnosticadas, mas sim identificar e quantificar qualquer comorbidade que possa afetar o resultado cirúrgico. Os outros itens são objetivos principais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os materiais indicam que exames pré-operatórios de rotina não são custo-benéficos. Em que situações, de forma geral, a solicitação de exames como Raio X de tórax e eletrocardiograma é mais indicada, especialmente considerando a idade?",
+    "options": [
+      "Apenas em pacientes jovens e saudáveis para descartar problemas ocultos. A educação do paciente sobre analgesia, cuidados pós-operatórios e expectativas realistas melhora a adesão e a satisfação. Estratificação de risco utiliza escalas como ASA, índice de Goldman e revisa fatores específicos da cirurgia e do paciente.",
+      "Em pacientes acima de 40 anos para cirurgias de grande porte com fator de risco cardiovascular ou acima de 60 anos de maneira geral. A comunicação com a equipe cirúrgica e anestésica é essencial para planejar o perioperatório, orientar o paciente e garantir consentimento informado.",
+      "Somente em cirurgias de emergência ou urgência. Exames complementares desnecessários devem ser evitados para reduzir custos e potenciais atrasos, seguindo critérios baseados em evidência. Em consultório, abordamos tabagismo, controle glicêmico, pressão arterial e adesão aos tratamentos, ajustando condutas para reduzir complicações trans e pós-operatórias.",
+      "Nunca, pois não são custo-benéficos. A avaliação inclui anamnese, exame físico, revisão de comorbidades, otimização medicamentosa, estratificação de risco cardiovascular e anestésico, segundo protocolos estabelecidos. Conforme diretrizes, a avaliação pré-operatória busca personalizar o cuidado ao paciente, equilibrando riscos e benefícios e promovendo melhor recuperação.",
+      "Para todos os pacientes, independentemente da idade ou comorbidades. Recomenda-se a solicitação de exames laboratoriais e complementares de acordo com a idade e comorbidades, orientando jejum, suspensão de anticoagulantes e ajustes de medicações. Pacientes em uso de anticoagulantes orais podem necessitar de ponte com heparina de baixo peso molecular ou suspensão planejada."
+    ],
+    "correctIndex": 1,
+    "explanation": "Exames pré-operatórios de rotina não são custo-benéficos. No entanto, são indicados para pacientes acima de 40 anos em cirurgias de grande porte com fator de risco cardiovascular (tabagista, obeso) e, de maneira geral, para pacientes acima de 60 anos (eletro, Raio X de tórax – este último se tiver fator de risco pulmonar ou cirurgia específica – e laboratório).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais exames laboratoriais básicos são recomendados de forma geral quando se fala em 'laboratório' na avaliação pré-operatória, evitando excessos desnecessários?",
+    "options": [
+      "Exames da função hepática, HIV, e marcadores tumorais. Jejum adequado para sólidos e líquidos claros antes da anestesia é fundamental para reduzir risco de aspiração.",
+      "Somente exames específicos da área a ser operada. Avaliação de via aérea, histórico de eventos adversos anestésicos e alergias orienta a escolha das técnicas anestésicas.",
+      "Apenas teste de gravidez para todas as mulheres. Controle de doenças crônicas como hipertensão e diabetes deve ser otimizado, ajustando medicações e avaliando necessidade de adiamento.",
+      "Hemograma, eletrólitos (sódio e potássio), ureia, creatinina, glicemia e coagulograma. Identificação de fatores de risco para tromboembolismo, como imobilização e uso de hormônios, guia estratégias de profilaxia.",
+      "Holmidênio, testes de tireoide, vitamina D, e 100 outros exames de sangue. Comorbidades cardíacas exigem revisão de ecocardiogramas, teste de esforço e ajuste de betabloqueadores conforme a condição."
+    ],
+    "correctIndex": 3,
+    "explanation": "Quando se fala em laboratório na avaliação pré-operatória, os exames essenciais são hemograma, eletrólitos (sódio, potássio), ureia, creatinina, glicemia e coagulograma. O excesso de exames desnecessários impõe um custo inútil ao sistema.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para um paciente idoso, além da avaliação de comorbidades, quais exames pré-operatórios são geralmente recomendados, conforme as fontes?",
+    "options": [
+      "Testes genéticos e marcadores inflamatórios. Pacientes com doença pulmonar crônica precisam de otimização broncodilatadora, cessação tabágica e fisioterapia respiratória prévia. A avaliação inclui anamnese, exame físico, revisão de comorbidades, otimização medicamentosa, estratificação de risco cardiovascular e anestésico, segundo protocolos estabelecidos. Pacientes em uso de anticoagulantes orais podem necessitar de ponte com heparina de baixo peso molecular ou suspensão planejada.",
+      "ECG, radiografia de tórax, hemograma completo e glicemia de escórias nitrogenadas e dosagem de albumina. Recomenda-se a solicitação de exames laboratoriais e complementares de acordo com a idade e comorbidades, orientando jejum, suspensão de anticoagulantes e ajustes de medicações. Jejum adequado para sólidos e líquidos claros antes da anestesia é fundamental para reduzir risco de aspiração.",
+      "Apenas exames de urina e de função hepática. A educação do paciente sobre analgesia, cuidados pós-operatórios e expectativas realistas melhora a adesão e a satisfação. Em consultório, abordamos tabagismo, controle glicêmico, pressão arterial e adesão aos tratamentos, ajustando condutas para reduzir complicações trans e pós-operatórias. Avaliação de via aérea, histórico de eventos adversos anestésicos e alergias orienta a escolha das técnicas anestésicas.",
+      "Exames direcionados apenas para a doença em questão, sem considerar a idade. A comunicação com a equipe cirúrgica e anestésica é essencial para planejar o perioperatório, orientar o paciente e garantir consentimento informado. Estratificação de risco utiliza escalas como ASA, índice de Goldman e revisa fatores específicos da cirurgia e do paciente.",
+      "Nenhum exame adicional, se o paciente for ASA 1. Exames complementares desnecessários devem ser evitados para reduzir custos e potenciais atrasos, seguindo critérios baseados em evidência. Conforme diretrizes, a avaliação pré-operatória busca personalizar o cuidado ao paciente, equilibrando riscos e benefícios e promovendo melhor recuperação. Controle de doenças crônicas como hipertensão e diabetes deve ser otimizado, ajustando medicações e avaliando necessidade de adiamento."
+    ],
+    "correctIndex": 1,
+    "explanation": "Geralmente, os pacientes idosos devem fazer ECG, radiografia de tórax, hemograma completo e glicemia de escórias nitrogenadas e dosagem de albumina, com base em achados sugestivos da história e do exame físico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com as recomendações da American Society of Anesthesiologists (ASA) para o jejum pré-operatório, quais são os tempos mínimos para a ingestão de sólidos e líquidos claros em adultos?",
+    "options": [
+      "8 horas para alimentos sólidos e 4 horas para líquidos não-claros",
+      "4 horas para líquidos não-claros e 6 horas para lanches leves.",
+      "12 horas para alimentos sólidos e 8 horas para líquidos claros.",
+      "2 horas para líquidos claros, 4 horas para líquidos não-claros, 6 horas para lanches leves e 8 horas para alimentos sólidos.",
+      "2 horas para líquidos claros e 4 horas para todos os alimentos sólidos."
+    ],
+    "correctIndex": 3,
+    "explanation": "A ASA recomenda a regra 6-2 para jejum pré-operatório: 2 horas para líquidos claros, 4 horas para líquidos não-claros (como café com leite), 6 horas para lanches leves, e 8 horas para alimentos sólidos. O objetivo principal é prevenir broncoaspiração. A suplementação com fórmulas líquidas ricas em carboidrato 2 horas antes pode reduzir risco de desidratação, hipoglicemia, hipotensão e náuseas/vômitos pós-operatórios.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal objetivo do jejum pré-operatório e qual intervenção moderna pode ser realizada para abrevá-lo e otimizar o paciente?",
+    "options": [
+      "Diminuir a pressão arterial; iniciar anti-hipertensivos na noite anterior. Identificação de fatores de risco para tromboembolismo, como imobilização e uso de hormônios, guia estratégias de profilaxia.",
+      "Reduzir o peso do paciente para a cirurgia; dar suplementos vitamínicos. Pacientes com doença pulmonar crônica precisam de otimização broncodilatadora, cessação tabágica e fisioterapia respiratória prévia.",
+      "Prevenir broncoaspiração; dar uma fórmula líquida em carboidrato 2 horas antes da cirurgia. A educação do paciente sobre analgesia, cuidados pós-operatórios e expectativas realistas melhora a adesão e a satisfação.",
+      "Aumentar a sensibilidade à anestesia; administrar analgésicos mais cedo. Comorbidades cardíacas exigem revisão de ecocardiogramas, teste de esforço e ajuste de betabloqueadores conforme a condição.",
+      "Melhorar a cicatrização da ferida; jejum prolongado para ativar genes de longevidade. Exames complementares desnecessários devem ser evitados para reduzir custos e potenciais atrasos, seguindo critérios baseados em evidência."
+    ],
+    "correctIndex": 2,
+    "explanation": "O principal objetivo do jejum pré-operatório é prevenir a broncoaspiração. Atualmente, pode-se abreviar o jejum com uma suplementação, uma fórmula líquida em carboidrato, administrada 2 horas antes da cirurgia, o que limita o estresse calórico, hidrata o paciente e reduz riscos de desidratação, hipoglicemia, hipotensão e náuseas/vômitos pós-operatórios.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente diabético em uso de metformina será submetido a uma cirurgia eletiva que envolve jejum prolongado e risco de instabilidade hemodinâmica. Qual é a recomendação para o manejo da metformina nesse caso?",
+    "options": [
+      "Substituir a metformina por insulina de ação prolongada imediatamente. A avaliação inclui anamnese, exame físico, revisão de comorbidades, otimização medicamentosa, estratificação de risco cardiovascular e anestésico, segundo protocolos estabelecidos.",
+      "Dobrar a dose de metformina para garantir o controle glicêmico. Recomenda-se a solicitação de exames laboratoriais e complementares de acordo com a idade e comorbidades, orientando jejum, suspensão de anticoagulantes e ajustes de medicações.",
+      "Manter a metformina até o dia da cirurgia. A comunicação com a equipe cirúrgica e anestésica é essencial para planejar o perioperatório, orientar o paciente e garantir consentimento informado.",
+      "Suspender a metformina 1 a 2 dias antes da cirurgia devido ao risco de acidose láctica. Conforme diretrizes, a avaliação pré-operatória busca personalizar o cuidado ao paciente, equilibrando riscos e benefícios e promovendo melhor recuperação.",
+      "Suspender a metformina 7 dias antes da cirurgia. Em consultório, abordamos tabagismo, controle glicêmico, pressão arterial e adesão aos tratamentos, ajustando condutas para reduzir complicações trans e pós-operatórias."
+    ],
+    "correctIndex": 3,
+    "explanation": "A metformina deve ser suspensa 1 a 2 dias antes da cirurgia em pacientes que terão jejum prolongado, usarão contraste ou tiverem risco de instabilidade hemodinâmica, devido ao risco de acidose láctica pós-operatória.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente em uso crônico de varfarina (Marevan) para anticoagulação oral será submetido a uma cirurgia eletiva. Qual a conduta recomendada para o manejo desse medicamento no pré-operatório?",
+    "options": [
+      "Suspender a varfarina por 7 dias e não usar nenhuma ponte de anticoagulação. Estratificação de risco utiliza escalas como ASA, índice de Goldman e revisa fatores específicos da cirurgia e do paciente. Comorbidades cardíacas exigem revisão de ecocardiogramas, teste de esforço e ajuste de betabloqueadores conforme a condição.",
+      "Suspender a varfarina por 5 dias antes da cirurgia e, se necessário, realizar ponte com heparina de baixo peso molecular (HBPM), suspensa 6 horas antes do procedimento. Controle de doenças crônicas como hipertensão e diabetes deve ser otimizado, ajustando medicações e avaliando necessidade de adiamento.",
+      "Suspender a varfarina 1 a 2 dias antes e iniciar imediatamente um novo anticoagulante oral. Pacientes em uso de anticoagulantes orais podem necessitar de ponte com heparina de baixo peso molecular ou suspensão planejada. Pacientes com doença pulmonar crônica precisam de otimização broncodilatadora, cessação tabágica e fisioterapia respiratória prévia.",
+      "Manter a varfarina até o dia da cirurgia e reiniciá-la no pós-operatório imediato. Jejum adequado para sólidos e líquidos claros antes da anestesia é fundamental para reduzir risco de aspiração. A educação do paciente sobre analgesia, cuidados pós-operatórios e expectativas realistas melhora a adesão e a satisfação.",
+      "Apenas reduzir a dose da varfarina na véspera da cirurgia. Avaliação de via aérea, histórico de eventos adversos anestésicos e alergias orienta a escolha das técnicas anestésicas. Identificação de fatores de risco para tromboembolismo, como imobilização e uso de hormônios, guia estratégias de profilaxia."
+    ],
+    "correctIndex": 1,
+    "explanation": "Anticoagulantes orais como a varfarina (Marevan) devem ser suspensos por 5 dias antes da cirurgia para que o INR caia para 1,5 ou menos. Em pacientes de alto risco para tromboembolismo, é recomendada a ponte com heparina de baixo peso molecular (HBPM), que deve ser suspensa 6 horas antes da cirurgia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Pacientes em uso de análogos de GLP1, como Ozempic (injeção semanal), apresentam risco aumentado de broncoaspiração devido ao esvaziamento gástrico prolongado. Qual é o tempo de suspensão recomendado para o Ozempic antes de uma cirurgia eletiva?",
+    "options": [
+      "21 dias. Exames complementares desnecessários devem ser evitados para reduzir custos e potenciais atrasos, seguindo critérios baseados em evidência. Em consultório, abordamos tabagismo, controle glicêmico, pressão arterial e adesão aos tratamentos, ajustando condutas para reduzir complicações trans e pós-operatórias.",
+      "48 horas. A avaliação inclui anamnese, exame físico, revisão de comorbidades, otimização medicamentosa, estratificação de risco cardiovascular e anestésico, segundo protocolos estabelecidos. Estratificação de risco utiliza escalas como ASA, índice de Goldman e revisa fatores específicos da cirurgia e do paciente.",
+      "24 horas. Recomenda-se a solicitação de exames laboratoriais e complementares de acordo com a idade e comorbidades, orientando jejum, suspensão de anticoagulantes e ajustes de medicações. Pacientes em uso de anticoagulantes orais podem necessitar de ponte com heparina de baixo peso molecular ou suspensão planejada.",
+      "1 semana. A comunicação com a equipe cirúrgica e anestésica é essencial para planejar o perioperatório, orientar o paciente e garantir consentimento informado. Jejum adequado para sólidos e líquidos claros antes da anestesia é fundamental para reduzir risco de aspiração.",
+      "Não há necessidade de suspender. Conforme diretrizes, a avaliação pré-operatória busca personalizar o cuidado ao paciente, equilibrando riscos e benefícios e promovendo melhor recuperação. Avaliação de via aérea, histórico de eventos adversos anestésicos e alergias orienta a escolha das técnicas anestésicas."
+    ],
+    "correctIndex": 3,
+    "explanation": "Ozempic, sendo uma injeção semanal, deve ser suspenso 1 semana antes da cirurgia para reduzir o risco de broncoaspiração devido ao esvaziamento gástrico prolongado. Para Victoza (diário), a suspensão é a cada 48 horas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação para o manejo de estatinas (remédios para colesterol) no período perioperatório?",
+    "options": [
+      "Reduzir a dose pela metade antes da cirurgia. Identificação de fatores de risco para tromboembolismo, como imobilização e uso de hormônios, guia estratégias de profilaxia.",
+      "Trocar por um medicamento alternativo no dia da cirurgia. Comorbidades cardíacas exigem revisão de ecocardiogramas, teste de esforço e ajuste de betabloqueadores conforme a condição.",
+      "Manter as estatinas no período perioperatório. Controle de doenças crônicas como hipertensão e diabetes deve ser otimizado, ajustando medicações e avaliando necessidade de adiamento.",
+      "Suspender todas as estatinas 7 dias antes da cirurgia. Pacientes com doença pulmonar crônica precisam de otimização broncodilatadora, cessação tabágica e fisioterapia respiratória prévia.",
+      "Suspender no dia da cirurgia e reiniciar no pós-operatório. A educação do paciente sobre analgesia, cuidados pós-operatórios e expectativas realistas melhora a adesão e a satisfação."
+    ],
+    "correctIndex": 2,
+    "explanation": "As estatinas (remédios para colesterol) devem ser mantidas no período perioperatório.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para qual tipo de ferida operatória a profilaxia antibiótica de rotina NÃO é geralmente necessária, exceto em casos específicos de implante de próteses de longa permanência ou osteotomia?",
+    "options": [
+      "Feridas Limpas (Classe I). Exames complementares desnecessários devem ser evitados para reduzir custos e potenciais atrasos, seguindo critérios baseados em evidência. Em consultório, abordamos tabagismo, controle glicêmico, pressão arterial e adesão aos tratamentos, ajustando condutas para reduzir complicações trans e pós-operatórias.",
+      "Feridas Limpa-Contaminadas (Classe II). A avaliação inclui anamnese, exame físico, revisão de comorbidades, otimização medicamentosa, estratificação de risco cardiovascular e anestésico, segundo protocolos estabelecidos. Estratificação de risco utiliza escalas como ASA, índice de Goldman e revisa fatores específicos da cirurgia e do paciente.",
+      "Feridas Sujas e Infectadas (Classe IV). Recomenda-se a solicitação de exames laboratoriais e complementares de acordo com a idade e comorbidades, orientando jejum, suspensão de anticoagulantes e ajustes de medicações. Pacientes em uso de anticoagulantes orais podem necessitar de ponte com heparina de baixo peso molecular ou suspensão planejada.",
+      "Feridas Contaminadas (Classe III). A comunicação com a equipe cirúrgica e anestésica é essencial para planejar o perioperatório, orientar o paciente e garantir consentimento informado. Jejum adequado para sólidos e líquidos claros antes da anestesia é fundamental para reduzir risco de aspiração.",
+      "Todas as classes de feridas requerem profilaxia antibiótica de rotina. Conforme diretrizes, a avaliação pré-operatória busca personalizar o cuidado ao paciente, equilibrando riscos e benefícios e promovendo melhor recuperação. Avaliação de via aérea, histórico de eventos adversos anestésicos e alergias orienta a escolha das técnicas anestésicas."
+    ],
+    "correctIndex": 0,
+    "explanation": "Antibióticos profiláticos não são geralmente necessários para casos de feridas limpas (Classe I), exceto quando há implante de próteses de longa permanência ou osteotomia. Para feridas limpa-contaminadas (Classe II), uma única dose do antibiótico apropriado é administrada antes da incisão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais intervenções pré-operatórias podem ajudar a diminuir as complicações pulmonares pós-operatórias?",
+    "options": [
+      "Administração de corticosteroides a todos os pacientes antes da cirurgia. Controle de doenças crônicas como hipertensão e diabetes deve ser otimizado, ajustando medicações e avaliando necessidade de adiamento. Recomenda-se a solicitação de exames laboratoriais e complementares de acordo com a idade e comorbidades, orientando jejum, suspensão de anticoagulantes e ajustes de medicações. Jejum adequado para sólidos e líquidos claros antes da anestesia é fundamental para reduzir risco de aspiração.",
+      "Suspensão do cigarro 2 meses antes, terapia broncodilatadora e antibióticos para infecções preexistentes. A educação do paciente sobre analgesia, cuidados pós-operatórios e expectativas realistas melhora a adesão e a satisfação. A comunicação com a equipe cirúrgica e anestésica é essencial para planejar o perioperatório, orientar o paciente e garantir consentimento informado. Avaliação de via aérea, histórico de eventos adversos anestésicos e alergias orienta a escolha das técnicas anestésicas.",
+      "Apenas avaliação da capacidade de subir escadas, sem intervenções adicionais. Identificação de fatores de risco para tromboembolismo, como imobilização e uso de hormônios, guia estratégias de profilaxia. Em consultório, abordamos tabagismo, controle glicêmico, pressão arterial e adesão aos tratamentos, ajustando condutas para reduzir complicações trans e pós-operatórias. Pacientes em uso de anticoagulantes orais podem necessitar de ponte com heparina de baixo peso molecular ou suspensão planejada.",
+      "Jejum prolongado para reduzir o metabolismo. Comorbidades cardíacas exigem revisão de ecocardiogramas, teste de esforço e ajuste de betabloqueadores conforme a condição. Exames complementares desnecessários devem ser evitados para reduzir custos e potenciais atrasos, seguindo critérios baseados em evidência. Conforme diretrizes, a avaliação pré-operatória busca personalizar o cuidado ao paciente, equilibrando riscos e benefícios e promovendo melhor recuperação.",
+      "Início de ventilação mecânica profilática no pré-operatório. Pacientes com doença pulmonar crônica precisam de otimização broncodilatadora, cessação tabágica e fisioterapia respiratória prévia. A avaliação inclui anamnese, exame físico, revisão de comorbidades, otimização medicamentosa, estratificação de risco cardiovascular e anestésico, segundo protocolos estabelecidos. Estratificação de risco utiliza escalas como ASA, índice de Goldman e revisa fatores específicos da cirurgia e do paciente."
+    ],
+    "correctIndex": 1,
+    "explanation": "As intervenções pré-operatórias que podem diminuir as complicações pulmonares incluem a suspensão do cigarro (dois meses antes do procedimento planejado), terapia broncodilatadora, terapia com antibióticos para tratar infecções preexistentes e tratamento dos pacientes asmáticos com esteroides. Incentivar o exercício pré-operatório também é benéfico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a importância do consentimento informado, conforme destacado nos materiais, além de ser um registro médico legal?",
+    "options": [
+      "Um paciente bem orientado antes da cirurgia, que entende os riscos e o procedimento, tem uma evolução pós-operatória melhor. A educação do paciente sobre analgesia, cuidados pós-operatórios e expectativas realistas melhora a adesão e a satisfação. Em consultório, abordamos tabagismo, controle glicêmico, pressão arterial e adesão aos tratamentos, ajustando condutas para reduzir complicações trans e pós-operatórias.",
+      "Garanto que o paciente aceite qualquer complicação que possa ocorrer, sem questionamentos. Controle de doenças crônicas como hipertensão e diabetes deve ser otimizado, ajustando medicações e avaliando necessidade de adiamento. A avaliação inclui anamnese, exame físico, revisão de comorbidades, otimização medicamentosa, estratificação de risco cardiovascular e anestésico, segundo protocolos estabelecidos.",
+      "É apenas uma formalidade burocrática exigida pelos hospitais, sem valor prático. Identificação de fatores de risco para tromboembolismo, como imobilização e uso de hormônios, guia estratégias de profilaxia. Exames complementares desnecessários devem ser evitados para reduzir custos e potenciais atrasos, seguindo critérios baseados em evidência.",
+      "Serve principalmente para proteger o cirurgião de processos legais, sem benefício direto ao paciente. Comorbidades cardíacas exigem revisão de ecocardiogramas, teste de esforço e ajuste de betabloqueadores conforme a condição. Recomenda-se a solicitação de exames laboratoriais e complementares de acordo com a idade e comorbidades, orientando jejum, suspensão de anticoagulantes e ajustes de medicações.",
+      "É um documento opcional, muitas vezes preenchido superficialmente, sem grande impacto na evolução do paciente. Pacientes com doença pulmonar crônica precisam de otimização broncodilatadora, cessação tabágica e fisioterapia respiratória prévia. A comunicação com a equipe cirúrgica e anestésica é essencial para planejar o perioperatório, orientar o paciente e garantir consentimento informado."
+    ],
+    "correctIndex": 0,
+    "explanation": "O consentimento informado é um momento crucial de orientação ao paciente. Um paciente bem orientado antes da cirurgia sobre o procedimento, seus riscos e o pós-operatório, tem uma evolução pós-operatória melhor. Além de registro médico, também serve para defesa da instituição e pessoal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente de 65 anos será submetido a uma cirurgia de grande porte. Ele tem histórico de diabetes mellitus, doença arterial coronariana prévia (mas sem infarto recente ou revascularização nos últimos 6 meses), e creatinina sérica de 1.8 mg/dL. Com base no Índice de Risco Cardíaco Revisado (RCRI), qual seria o nível de risco e a conduta inicial?",
+    "options": [
+      "Risco alto (3 pontos); cateterismo cardíaco imediato e revascularização.",
+      "Risco alto (3 pontos); eletrocardiograma, ecocardiograma, e talvez testes funcionais.",
+      "Risco muito alto (4 pontos); considerar a suspensão da cirurgia.",
+      "Risco baixo (0 pontos); prosseguir para a cirurgia sem exames adicionais.",
+      "Risco intermediário (1 ponto); ECG e avaliação do status físico."
+    ],
+    "correctIndex": 1,
+    "explanation": "O paciente apresenta 3 fatores de risco no RCRI: cirurgia de alto risco (1 ponto), diabetes (1 ponto) e doença arterial coronariana prévia (1 ponto). A creatinina de 1.8 mg/dL não pontua (>2 mg/dL é 1 ponto). Um total de 3 pontos classifica o paciente como de alto risco (>2 pontos). A conduta inicial para pacientes de risco intermediário ou alto inclui a realização de eletrocardiograma e, se houver suspeita, ecocardiograma e testes funcionais (como teste ergométrico ou cintilografia miocárdica), antes de considerar procedimentos mais invasivos como o cateterismo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente com câncer de pâncreas precisa de cirurgia em aproximadamente 40 dias. Durante a avaliação pré-operatória, é identificada anemia grave (hemoglobina de 8 g/dL). Qual a abordagem mais adequada para otimizar essa paciente, considerando o prognóstico oncológico e os riscos da transfusão imediata?",
+    "options": [
+      "Atrasar a cirurgia por pelo menos 6 meses para uma recuperação completa da anemia. Conforme diretrizes, a avaliação pré-operatória busca personalizar o cuidado ao paciente, equilibrando riscos e benefícios e promovendo melhor recuperação. Identificação de fatores de risco para tromboembolismo, como imobilização e uso de hormônios, guia estratégias de profilaxia.",
+      "Administrar ferro e ácido fólico por semanas para estimular a medula óssea, adiando a cirurgia se necessário, mas buscando otimização no prazo. Avaliação de via aérea, histórico de eventos adversos anestésicos e alergias orienta a escolha das técnicas anestésicas. A educação do paciente sobre analgesia, cuidados pós-operatórios e expectativas realistas melhora a adesão e a satisfação.",
+      "Transfundir duas bolsas de sangue imediatamente antes da cirurgia para corrigir a anemia. Estratificação de risco utiliza escalas como ASA, índice de Goldman e revisa fatores específicos da cirurgia e do paciente. Comorbidades cardíacas exigem revisão de ecocardiogramas, teste de esforço e ajuste de betabloqueadores conforme a condição.",
+      "Realizar a cirurgia imediatamente e transfundir no intraoperatório, se necessário, sem preocupação com o prognóstico. Pacientes em uso de anticoagulantes orais podem necessitar de ponte com heparina de baixo peso molecular ou suspensão planejada. Pacientes com doença pulmonar crônica precisam de otimização broncodilatadora, cessação tabágica e fisioterapia respiratória prévia.",
+      "Utilizar eritropoetina para correção rápida, garantindo que a cirurgia ocorra no prazo. Jejum adequado para sólidos e líquidos claros antes da anestesia é fundamental para reduzir risco de aspiração. Controle de doenças crônicas como hipertensão e diabetes deve ser otimizado, ajustando medicações e avaliando necessidade de adiamento."
+    ],
+    "correctIndex": 1,
+    "explanation": "A transfusão de sangue ativa o sistema imunológico do paciente e pode piorar o prognóstico oncológico. O ideal é corrigir a anemia com ferro e ácido fólico, que levam semanas, ou eritropoetina. Se o prazo for muito curto para a correção completa (como 40 dias para câncer), a transfusão pode ser necessária, mas deve-se priorizar a otimização com tratamento medicamentoso para anemia sempre que o tempo permitir, considerando o prognóstico oncológico e evitando a transfusão de imediato se houver alternativa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um cirurgião experiente é conhecido por solicitar exames pré-operatórios de forma direcionada, em vez de uma bateria padrão para todos. Qual a justificativa para essa abordagem, segundo os princípios da avaliação pré-operatória?",
+    "options": [
+      "Reduzir o tempo de consulta, já que menos exames são revisados. Exames complementares desnecessários devem ser evitados para reduzir custos e potenciais atrasos, seguindo critérios baseados em evidência. Em consultório, abordamos tabagismo, controle glicêmico, pressão arterial e adesão aos tratamentos, ajustando condutas para reduzir complicações trans e pós-operatórias.",
+      "Evitar que o paciente descubra doenças adicionais que não estão relacionadas à cirurgia. A avaliação inclui anamnese, exame físico, revisão de comorbidades, otimização medicamentosa, estratificação de risco cardiovascular e anestésico, segundo protocolos estabelecidos. Estratificação de risco utiliza escalas como ASA, índice de Goldman e revisa fatores específicos da cirurgia e do paciente.",
+      "Simplificar o processo para que o paciente não fique sobrecarregado com muitas informações. Recomenda-se a solicitação de exames laboratoriais e complementares de acordo com a idade e comorbidades, orientando jejum, suspensão de anticoagulantes e ajustes de medicações. Pacientes em uso de anticoagulantes orais podem necessitar de ponte com heparina de baixo peso molecular ou suspensão planejada.",
+      "Aumentar os honorários, pois exames direcionados são mais caros. A comunicação com a equipe cirúrgica e anestésica é essencial para planejar o perioperatório, orientar o paciente e garantir consentimento informado. Jejum adequado para sólidos e líquidos claros antes da anestesia é fundamental para reduzir risco de aspiração.",
+      "Exames de rotina não são custo-benéficos e menos preditivos de morbidade do que a avaliação clínica e classificações de risco. Conforme diretrizes, a avaliação pré-operatória busca personalizar o cuidado ao paciente, equilibrando riscos e benefícios e promovendo melhor recuperação. Avaliação de via aérea, histórico de eventos adversos anestésicos e alergias orienta a escolha das técnicas anestésicas."
+    ],
+    "correctIndex": 4,
+    "explanation": "A avaliação pré-operatória busca identificar e quantificar comorbidades que podem afetar o resultado cirúrgico, sem procurar extensivamente por doenças não diagnosticadas. Exames pré-operatórios de rotina não são custo-benéficos e são menos preditivos de morbidade perioperatória do que a avaliação do estado físico da ASA ou as orientações para risco cirúrgico da AHA/ACC.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente com hipertireoidismo não controlado é internada para uma cirurgia de urgência. Qual a conduta mais apropriada para o manejo da endocrinopatia antes do procedimento cirúrgico, visando prevenir uma tempestade tireoidiana?",
+    "options": [
+      "Apenas manter a dose usual de betabloqueadores e digoxina, sem outras intervenções. Identificação de fatores de risco para tromboembolismo, como imobilização e uso de hormônios, guia estratégias de profilaxia.",
+      "Não há necessidade de intervenção, pois a cirurgia de urgência tem prioridade. Comorbidades cardíacas exigem revisão de ecocardiogramas, teste de esforço e ajuste de betabloqueadores conforme a condição.",
+      "Aumentar a dose de medicação antitireoidiana oral e realizar a cirurgia em poucas horas. Pacientes com doença pulmonar crônica precisam de otimização broncodilatadora, cessação tabágica e fisioterapia respiratória prévia.",
+      "Início imediato de uma combinação de bloqueadores adrenérgicos e glicocorticoides, em consulta com um endocrinologista. A educação do paciente sobre analgesia, cuidados pós-operatórios e expectativas realistas melhora a adesão e a satisfação.",
+      "Adiar a cirurgia até o estado eutireóideo ser atingido, sem exceções. Controle de doenças crônicas como hipertensão e diabetes deve ser otimizado, ajustando medicações e avaliando necessidade de adiamento."
+    ],
+    "correctIndex": 3,
+    "explanation": "Embora o ideal seja adiar a cirurgia até que um estado eutireóideo seja atingido, em uma operação de urgência em paciente com tireotoxicose e risco de tempestade tireoidiana, pode ser necessária uma combinação de bloqueadores adrenérgicos e glicocorticoides, que deve ser administrada em consulta com um endocrinologista.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente tem histórico de uso de prednisona 10 mg/dia por 6 meses no ano anterior. Ele será submetido a uma grande cirurgia. Qual é a principal preocupação e a conduta recomendada em relação aos corticosteroides?",
+    "options": [
+      "Risco de hiperglicemia, devendo-se suspender o corticoide imediatamente. Exames complementares desnecessários devem ser evitados para reduzir custos e potenciais atrasos, seguindo critérios baseados em evidência. A comunicação com a equipe cirúrgica e anestésica é essencial para planejar o perioperatório, orientar o paciente e garantir consentimento informado.",
+      "Risco de insuficiência adrenal, sendo necessária suplementação perioperatória de hidrocortisona. A avaliação inclui anamnese, exame físico, revisão de comorbidades, otimização medicamentosa, estratificação de risco cardiovascular e anestésico, segundo protocolos estabelecidos. Estratificação de risco utiliza escalas como ASA, índice de Goldman e revisa fatores específicos da cirurgia e do paciente.",
+      "Apenas monitorar a pressão arterial, pois o corticoide não afeta a função adrenal. Em consultório, abordamos tabagismo, controle glicêmico, pressão arterial e adesão aos tratamentos, ajustando condutas para reduzir complicações trans e pós-operatórias. Pacientes em uso de anticoagulantes orais podem necessitar de ponte com heparina de baixo peso molecular ou suspensão planejada.",
+      "Manter a dose usual, pois o uso crônico não afeta a resposta ao estresse cirúrgico. Conforme diretrizes, a avaliação pré-operatória busca personalizar o cuidado ao paciente, equilibrando riscos e benefícios e promovendo melhor recuperação. Jejum adequado para sólidos e líquidos claros antes da anestesia é fundamental para reduzir risco de aspiração.",
+      "Risco de sangramento, exigindo a suspensão do corticoide 7 dias antes. Recomenda-se a solicitação de exames laboratoriais e complementares de acordo com a idade e comorbidades, orientando jejum, suspensão de anticoagulantes e ajustes de medicações. Avaliação de via aérea, histórico de eventos adversos anestésicos e alergias orienta a escolha das técnicas anestésicas."
+    ],
+    "correctIndex": 1,
+    "explanation": "Pacientes que tomaram mais do que 5 mg de prednisona (ou equivalente) por dia por mais de três semanas no ano anterior devem ser considerados em risco de insuficiência adrenal devido à supressão do eixo hipotálamo-hipófise-adrenal. Para uma grande cirurgia, é recomendada a suplementação com hidrocortisona intravenosa (por exemplo, 100 mg antes da indução da anestesia, seguido de 50 mg a cada 8h por 48-72h), e depois retomar a dose usual.",
+    "type": "raciocínio"
+  }
+]

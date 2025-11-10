@@ -1,0 +1,262 @@
+[
+  {
+    "question": "O início da puberdade feminina é marcado pela reativação do eixo hipotálamo-hipófise-ovariano (HHO). Em qual faixa etária média e com qual variação normal esse processo fisiológico se manifesta?",
+    "options": [
+      "Média de 12 anos, com variação aceitável entre 10 e 14 anos, sendo a menarca o primeiro sinal de reativação do eixo HHO.",
+      "Média de 10 anos, com variação fisiológica entre 8 e 12 anos, momento em que se inicia o desenvolvimento das características sexuais secundárias.",
+      "Média de 9 anos, com variação entre 7 e 10 anos, sendo que qualquer desenvolvimento após os 10 anos é classificado como puberdade tardia.",
+      "Média de 11 anos, com variação entre 9 e 13 anos, sendo que o desenvolvimento de pelos pubianos (pubarca) deve sempre anteceder a telarca.",
+      "Média de 8 anos, com variação aceitável entre 7 e 11 anos para início do desenvolvimento mamário (telarca)."
+    ],
+    "correctIndex": 1,
+    "explanation": "A puberdade normal manifesta-se pela reativação do eixo HHO, ocorrendo em uma média de idade de 10 anos, com variação aceitável entre 8 e 12 anos [1-3].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em 85% dos casos de desenvolvimento puberal feminino, qual é o primeiro sinal clínico que se manifesta, marcando o início da puberdade, e qual o seu mecanismo fisiológico central?",
+    "options": [
+      "O estirão de crescimento (pico de velocidade), que ocorre devido à estrogenização e à sensibilização das epífises ósseas ao GH e IGFs, antecedendo a menarca.",
+      "A adrenarca (pubarca), causada pela produção de androgênios adrenais em resposta à estimulação pelo ACTH, sendo o evento mais comum.",
+      "A pubarca (pelos finos e lisos), que resulta do aumento dos androgênios, sendo este um evento independente da reativação do eixo hipotalâmico-hipofisário (HHO).",
+      "A telarca, que é o desenvolvimento mamário inicial, resultante da reativação do eixo HHO e do aumento da produção de estrogênio (gonadarca).",
+      "A menarca (primeira menstruação), que é o marco da maturação do eixo HHO, ocorrendo em média 2 anos após o início do aumento do SDHEA."
+    ],
+    "correctIndex": 3,
+    "explanation": "Em 85% dos casos, o primeiro sinal clínico de puberdade é o desenvolvimento das mamas (telarca) [1, 4]. Este é o resultado da Gonadarca, que é o aumento das gonadotrofinas e estrogênio, indicando a reativação do eixo HHO [5].",
+    "type": "conteudista"
+  },
+  {
+    "question": "No estadiamento de Tanner para o desenvolvimento mamário, como é definida a fase M4 (Telarca Avançada) e qual achado a diferencia da fase M3?",
+    "options": [
+      "M4 é o aparecimento do broto mamário inicial, que deve ser palpado para ser confirmado, caracterizando-se por um nódulo palpável.",
+      "M4 é a ausência total de desenvolvimento mamário, sendo o estágio infantil, e é definido pela presença exclusiva de tecido adiposo.",
+      "M4 é caracterizado pela projeção da papila e da aréola acima do contorno da mama, apresentando, portanto, um duplo contorno visível na inspeção clínica.",
+      "M4 é a projeção apenas da papila e o retorno da aréola ao contorno da mama, caracterizando a mama adulta sem duplo contorno.",
+      "M4 é o crescimento da mama e da aréola, que permanecem sem separação de contornos, representando a transição intermediária para a forma adulta."
+    ],
+    "correctIndex": 2,
+    "explanation": "O M4 é a projeção da papila e da aréola acima do contorno da mama (duplo contorno). O M3 é o crescimento da mama e aréola, sem separação dos contornos [2, 6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a descrição clínica correta do Estágio P2 no Estadiamento de Tanner (Pubarca) e qual a sua correlação com a fase de desenvolvimento piloso?",
+    "options": [
+      "P2 corresponde ao aumento na quantidade de pelos, que se tornam mais escuros e crespos, abrangendo os grandes lábios e a sínfise púbica.",
+      "P2 é caracterizado pela presença de pelos finos e lisos que se encontram restritos à borda dos grandes lábios, marcando o início da adrenarca.",
+      "P2 corresponde à ausência total de pelos pubianos na região genital, sendo a característica do estágio infantil.",
+      "P2 é a fase de pelos terminais, que são abundantes, escuros, crespos e grossos, ultrapassando a sínfise púbica e atingindo a raiz das coxas.",
+      "P2 corresponde aos pelos escuros, crespos e grossos, limitados aos grandes lábios, sínfise púbica e região do períneo, mas sem atingir a coxa."
+    ],
+    "correctIndex": 1,
+    "explanation": "O P2 é caracterizado por pelos finos e lisos restritos à borda dos grandes lábios [7, 8]. O P1 é a ausência total [7, 8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O GnRH é o evento central da puberdade. Qual a mudança no padrão de secreção do eixo HHO que sinaliza o início do desenvolvimento puberal na transição da infância para a idade adulta?",
+    "options": [
+      "A secreção constante e não pulsátil do GnRH, que satura a hipófise, levando à dessensibilização dos receptores e ao aumento da produção de andrógenos adrenais.",
+      "A diminuição da pulsatilidade do GnRH, que se torna mais lenta e menos frequente, induzindo a produção isolada de LH em detrimento do FSH.",
+      "O início da pulsatilidade do GnRH, que estava quiescente, resultando na liberação de LH e FSH pela hipófise, estimulando o ovário a produzir estrogênio.",
+      "A liberação de CRH e ACTH, que são os primeiros a serem ativados, estimulando o GnRH indiretamente através da produção periférica de andrógenos.",
+      "A suspensão total da secreção de GnRH, resultando na queda dos níveis de FSH e LH, o que permite o acúmulo de esteroides para a maturação gonadal."
+    ],
+    "correctIndex": 2,
+    "explanation": "O evento central da puberdade é a reativação do eixo HHO, que estava em silêncio (quiescente) a partir dos 2 anos de idade [9]. O eixo se liga em torno dos 8 a 10 anos, quando o GnRH começa a pulsar novamente, liberando FSH e LH e, consequentemente, estrogênio [3, 9, 10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal função do estrogênio produzido pelo ovário em desenvolvimento no que diz respeito ao crescimento e à estatura final da mulher?",
+    "options": [
+      "O estrogênio promove a retenção de sódio e água, resultando no ingurgitamento tecidual que simula o crescimento, mas sem impacto ósseo permanente.",
+      "O estrogênio torna as epífises ósseas mais sensíveis ao GH e IGFs, iniciando o estirão de crescimento, e, posteriormente, fecha as epífises, cessando o crescimento em estatura.",
+      "O estrogênio estimula a produção de leptina e grelina, que são os verdadeiros indutores do estirão, não tendo ação direta nas placas epifisárias de crescimento.",
+      "O estrogênio estimula a tireoide via TRH, aumentando o metabolismo basal e a termogênese, o que indiretamente leva ao aumento da massa muscular e óssea.",
+      "O estrogênio atua inibindo os fatores de crescimento (IGFs), prolongando o período pré-menarca para permitir um estirão de crescimento mais lento e duradouro."
+    ],
+    "correctIndex": 1,
+    "explanation": "O estrogênio (E2) torna as epífises ósseas mais sensíveis ao GH e às IGFs, iniciando o estirão de crescimento [3, 11]. Após a menarca, o estrogênio atinge níveis que fecham as epífises de crescimento ósseo, limitando o crescimento em estatura a cerca de 7 cm em dois anos pós-menarca [12].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que a menarca (primeira menstruação) indica em relação ao amadurecimento do eixo HHO e à funcionalidade ovariana nos primeiros anos pós-menarca?",
+    "options": [
+      "A menarca é um evento da adrenarca, indicando a predominância da produção de androgênios, sendo independente da maturação do eixo hipotálamo-hipófise-ovário.",
+      "A menarca garante que o crescimento ósseo atingiu seu ápice, cessando completamente a proliferação óssea devido ao fechamento imediato das epífises de crescimento pelo estrogênio.",
+      "A menarca indica que o eixo HHO está completamente maduro, com ciclos 100% ovulatórios a partir do primeiro ano pós-menarca, sinalizando a fertilidade máxima.",
+      "A menarca indica que o FSH e o LH estão pulsando de forma lenta e constante, o que garante a regularidade do ciclo menstrual e a previsibilidade da ovulação.",
+      "A menarca indica o início da fase lútea fixa, mas os ciclos são predominantemente anovulatórios nos primeiros dois anos pós-menarca devido à imaturidade do eixo."
+    ],
+    "correctIndex": 4,
+    "explanation": "A menina pode ter ciclos anovulatórios nos primeiros dois anos pós-menarca (55-82% são anovulatórios), devido à imaturidade do eixo [7, 13]. O eixo ainda está aprendendo e menstruações por descamação (sangramento disfuncional) são comuns [14, 15].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Gonadarca e a Adrenarca são dois eventos paralelos, mas com eixos hormonais distintos. Qual a principal distinção fisiológica entre esses dois eventos?",
+    "options": [
+      "Gonadarca é a manifestação da menarca (primeira menstruação), e Adrenarca é o aumento da velocidade de crescimento (estirão) que a precede.",
+      "Gonadarca é a reativação do GnRH pela leptina e grelina, e Adrenarca é a maturação óssea pelo estrogênio, sendo ambos dependentes do ovário.",
+      "Gonadarca é o fechamento das epífises de crescimento, e Adrenarca é a produção de proactina que leva ao desenvolvimento glandular mamário.",
+      "Gonadarca é a produção de hormônios da tireoide (TRH/TSH), e Adrenarca é o crescimento do útero e da vagina sob efeito de LH.",
+      "Gonadarca é o aumento do FSH/LH que estimula o ovário (telarca), e Adrenarca é o aumento de androgênios adrenais (pubarca), estimulada pelo ACTH."
+    ],
+    "correctIndex": 4,
+    "explanation": "A Gonadarca corresponde ao aumento das gonadotrofinas (FSH e LH) e dos níveis de estrogênio, manifestando-se clinicamente com a telarca (mama). A Adrenarca corresponde ao aumento dos androgênios adrenais (SDHEA, principalmente), estimulados pelo ACTH, manifestando-se clinicamente com a pubarca (pelos) [5, 16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes fatores nutricionais/ambientais é conhecido por atuar como estimulador do GnRH, podendo levar ao adiantamento (precoce) da puberdade?",
+    "options": [
+      "A desnutrição crônica e o baixo peso corporal, que inibem a produção de fatores de crescimento (IGF-1) e atrasam o início do desenvolvimento.",
+      "A produção de FSH na infância, que, ao ser constante, mantém o eixo quiescente até a idade fisiológica de maturação ovariana.",
+      "A obesidade ou o excesso de nutrição, que resulta na produção de leptina e grelina, substâncias estimulantes que disparam o eixo GnRH.",
+      "O estresse ambiental crônico (CRH e ACTH) que, ao inibir o eixo HHO, promove a puberdade tardia em populações com acesso limitado à saúde.",
+      "O uso de medicamentos psiquiátricos, como opioides ou GABA, que atuam como inibidores da pulsatilidade hipotalâmica, postergando o eixo."
+    ],
+    "correctIndex": 2,
+    "explanation": "A obesidade é um fator nutricional importante [17]. A obesidade pode ligar o eixo e fazer uma puberdade precoce, pois a obesidade produz leptina e grelina, que são estimulantes do GnRH, disparando o pulso [18].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a descrição correta do Estágio P5 no Estadiamento de Tanner para pelos pubianos (Pubarca) e o que ele representa em relação à extensão da pilificação?",
+    "options": [
+      "P5 representa pelos escuros, crespos e grossos que cobrem os grandes lábios e a sínfise púbica, mas que se restringem à área do períneo e não chegam à coxa.",
+      "P5 corresponde aos pelos terminais abundantes que se estendem pela sínfise púbica, períneo e atingem a raiz das coxas, ultrapassando a área genital.",
+      "P5 é o aumento na quantidade de pelos finos e lisos que se restringem à sínfise púbica, mas sem a característica de pelo terminal (grosso).",
+      "P5 é caracterizado por pelos finos e lisos que cobrem apenas a borda dos grandes lábios, não sendo pelos terminais.",
+      "P5 é a ausência total de pelos (estágio infantil), indicando falta de estimulação androgênica e necessidade de investigação de adrenarca."
+    ],
+    "correctIndex": 1,
+    "explanation": "O P5 é quando os pelos terminais (escuros, crespos, grossos) se tornam abundantes e ultrapassam a sínfise púbica, períneo e atingem a raiz das coxas [7, 8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal mudança observada no útero e na vagina sob o efeito do estrogênio, quando a menina transiciona da infância para a puberdade e idade adulta?",
+    "options": [
+      "O útero e a vagina permanecem com 4 cm na infância, e o aumento para 7,5 cm ocorre após a menopausa, quando o eixo HHO se desliga novamente.",
+      "O útero na infância tem 7,5 cm e a vagina 7,5 cm, e o estrogênio reduz o tamanho uterino e vaginal para 2,5 cm, devido à atrofia.",
+      "O estrogênio promove a inversão da relação corpo-cérvix de >3:1 (infância) para 1:1 (menarca), indicando atrofia cervical e crescimento uterino desproporcional.",
+      "O útero passa de 2,5 cm (infância) para 7,5 cm (idade adulta), e a vagina cresce de 4,5–5 cm para 7–7,5 cm sob o estímulo do estrogênio.",
+      "O útero infantil é de 7,5 cm e o estrogênio promove o aumento do seu volume para 25 cm³ na idade adulta, através do espessamento do endométrio."
+    ],
+    "correctIndex": 3,
+    "explanation": "O útero passa de 2,5 cm na infância para 7,5 cm na idade adulta. A vagina cresce de 4,5 a 5 cm na infância para 7 a 7,5 cm na puberdade e idade adulta, ambos sob o efeito do estrogênio [19-21].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que o estadiamento de Tanner M1 (Telarca) e P1 (Pubarca) representam clinicamente e qual a importância de distingui-los em pacientes pediátricos?",
+    "options": [
+      "M1 e P1 indicam que houve ativação isolada da adrenal (Adrenarca), sem desenvolvimento do eixo HHO, caracterizando uma puberdade incompleta.",
+      "M1 e P1 representam o desenvolvimento máximo e adulto, sendo o M1 a mama totalmente desenvolvida e o P1 os pelos abundantes na coxa.",
+      "M1 e P1 são os estágios imediatamente pós-menarca, indicando que a paciente já completou o estirão de crescimento e o fechamento das epífises.",
+      "M1 e P1 representam a ausência total de desenvolvimento mamário (M1) e de pelos pubianos (P1), sendo o estágio infantil ou pré-puberal.",
+      "M1 e P1 representam a transição entre a infância e a puberdade, indicando que o broto mamário e os pelos finos já podem ser palpados."
+    ],
+    "correctIndex": 3,
+    "explanation": "M1 é a ausência de desenvolvimento mamário (estágio infantil). P1 é a ausência de pelos pubianos (estágio infantil) [2, 7, 8, 22].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagnóstico de Puberdade Precoce Central depende da ativação do eixo HHO. O que é necessário para definir a Puberdade Precoce Central (em oposição à Adrenarca Precoce) em uma menina abaixo da idade limite (8 anos)?",
+    "options": [
+      "O aparecimento exclusivo de pelos pubianos (P2 ou mais) antes dos 6 anos de idade, sem qualquer sinal de desenvolvimento mamário (M1).",
+      "A presença de menarca isolada sem desenvolvimento de telarca, correlacionada a uma estatura final baixa e massa óssea reduzida.",
+      "A ativação do eixo GnRH, que se manifesta pelo desenvolvimento de mama (telarca) antes dos 8 anos, sendo a telarca o critério definidor da puberdade.",
+      "O resultado positivo para o teste de inibição de CRH, indicando que a adrenal está produzindo androgênios de forma independente da hipófise anterior.",
+      "O aumento do volume uterino para acima de 2,5 cm na ultrassonografia, sem qualquer necessidade de avaliar o desenvolvimento dos caracteres sexuais secundários (mama/pelo)."
+    ],
+    "correctIndex": 2,
+    "explanation": "O que define a puberdade (e consequentemente a puberdade precoce) é a ativação do eixo HHO, cujo primeiro sinal é o desenvolvimento da mama (telarca). A telarca antes dos 8 anos é um sinal de puberdade precoce [4, 23, 24]. A adrenarca (pelo) não é o evento central [16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando os fatores de risco citados, qual condição na infância pode, através da inibição do eixo GnRH (por meio de GABA e Opioides), levar a uma Puberdade Tardia ou Retardada?",
+    "options": [
+      "A alta estatura familiar, que prolonga o estirão de crescimento, resultando em um fechamento epifisário mais lento e consequente puberdade tardia.",
+      "A obesidade mórbida, que aumenta a produção de leptina e grelina, disparando a pulsatilidade do GnRH precocemente.",
+      "O desenvolvimento acelerado de pelos pubianos (adrenarca precoce), que consome os precursores androgênicos, impedindo a conversão em estrogênio pela gonadarca.",
+      "O estresse crônico associado à desnutrição severa, que estimula o cortisol, mas não afeta diretamente o tempo de ativação do eixo HHO.",
+      "Doenças crônicas ou uso de medicações psiquiátricas que possuem efeito inibitório sobre o GnRH (como GABA e Opioides), postergando o desenvolvimento."
+    ],
+    "correctIndex": 4,
+    "explanation": "O GnRH possui fatores inibitórios, como GABA e opioides [18, 19]. Pacientes com distúrbios ou que usam medicação psiquiátrica podem ter uma puberdade tardia porque estão inibindo o eixo [18].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para garantir a saúde óssea adequada na mulher ao longo da vida, qual é a importância da puberdade fisiológica e dos fatores não hormonais?",
+    "options": [
+      "A puberdade não tem impacto na densidade óssea, que é definida unicamente após a menopausa e depende da ingestão de vitamina D e cálcio na vida adulta.",
+      "A puberdade fisiológica é crucial para a saúde óssea, mas o osso depende exclusivamente da produção de estrogênio, sendo os fatores como genética e exercício físico irrelevantes.",
+      "A puberdade fisiológica é essencial para a densidade óssea, e a massa óssea depende não só do estrogênio, mas também da genética, nutrição, exercício físico, cálcio e vitamina D adequados.",
+      "A massa óssea só se forma no pico dos 30 anos, sendo que o desenvolvimento ósseo na puberdade é insignificante para a prevenção de osteoporose futura.",
+      "O estirão de crescimento pré-menarca é o único fator de saúde óssea relevante, pois a partir do momento da menarca não há mais adição de massa óssea."
+    ],
+    "correctIndex": 2,
+    "explanation": "A puberdade tem impacto na densidade óssea [12]. A massa óssea é crucialmente determinada na puberdade e depende de fatores hormonais (estrogênio), genéticos, exercícios, nutrição, ingestão adequada de cálcio e vitamina D [25].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma menina de 9 anos de idade chega ao consultório com desenvolvimento mamário inicial (M2), mas sem pelos pubianos (P1). Qual a sequência normal dos eventos puberais que se espera ocorrer a seguir?",
+    "options": [
+      "O estirão de crescimento é o próximo evento esperado, seguido pela menarca e, por último, pela telarca completa (M5) antes do desenvolvimento piloso (pubarca).",
+      "O estirão de crescimento já deve ter ocorrido antes da telarca, indicando que a menarca é o evento final e que o desenvolvimento subsequente será rápido e completo.",
+      "O desenvolvimento de pelos axilares deve preceder o estirão de crescimento, seguido pela menarca, sendo a pubarca o último evento de maturação.",
+      "A menarca é o próximo evento imediato, pois a telarca já iniciou, e a pubarca é um evento tardio que só ocorre após a maturação do eixo HHO.",
+      "O desenvolvimento de pelos pubianos (pubarca/adrenarca) deve ocorrer em seguida, sendo o estirão de crescimento o evento que antecede a menarca em cerca de um ano."
+    ],
+    "correctIndex": 4,
+    "explanation": "A sequência normal esperada é: Telarca (M2) → Pubarca (P2) → Pelos Axilares → Estirão (Pico de Crescimento) → Menarca [3]. A telarca é o primeiro sinal em 85% dos casos, sendo o desenvolvimento de pelos (Pubarca) o próximo a ocorrer [4].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma menina de 7 anos apresenta telarca (M2). A mãe está preocupada com Puberdade Precoce Central. Qual é a medida diagnóstica inicial mais crucial para diferenciar se o desenvolvimento é de fato Puberdade Precoce Central e qual o raciocínio por trás da decisão?",
+    "options": [
+      "Solicitar exames de Androstenediona e SDHEA para confirmar a Adrenarca precoce, pois o desenvolvimento de mama na idade atual é sempre causado por um tumor adrenal.",
+      "Realizar o exame de idade óssea (radiografia de punho e mão) e verificar a velocidade de crescimento (estirão), pois a aceleração do crescimento indica fechamento epifisário iminente.",
+      "Reconhecer que M2 aos 7 anos está dentro do limite inferior de 8 anos e tranquilizar a mãe, agendando acompanhamento a cada 6 meses sem necessidade de exames hormonais.",
+      "Medir o nível sérico de Estrogênio e FSH/LH basal em pulso, pois a Puberdade Precoce Central exige a comprovação da reativação precoce do eixo HHO.",
+      "Realizar um ultrassom abdominal e pélvico para confirmar o aumento do volume ovariano e uterino, pois o aumento de volume uterino é um sinal de Gonadarca ativa."
+    ],
+    "correctIndex": 1,
+    "explanation": "O desenvolvimento de mama (M2) antes dos 8 anos é um sinal que levanta a suspeita de Puberdade Precoce [2]. A aceleração da idade óssea (acima do cronológico) e a presença de estirão (aceleração da velocidade de crescimento) são cruciais para a investigação, pois indicam que o estrogênio está agindo e acelerando o fechamento epifisário, exigindo bloqueio para preservar a estatura final [11, 12].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma adolescente de 12 anos que menstruou precocemente aos 10 anos (idade considerada fisiológica, mas precoce) é levada ao ginecologista devido à baixa estatura final. Qual é o mecanismo fisiológico responsável pela limitação do seu crescimento após a menarca, apesar de ter tido o estirão?",
+    "options": [
+      "O crescimento é limitado porque a produção de ACTH para a Adrenarca (pelos) é reduzida, impedindo a produção de androgênios necessários para o crescimento final.",
+      "A menarca sinaliza que o Estrogênio alcançou níveis suficientes para promover o fechamento (fusão) das epífises ósseas de crescimento, interrompendo o crescimento em estatura.",
+      "A menarca precoce indica um eixo HHO imaturo, resultando em produção insuficiente de GH e IGFs, o que impede a proliferação da cartilagem de crescimento.",
+      "A baixa estatura é um sintoma comum da fase anovulatória pós-menarca, sendo que o crescimento só se reinicia quando os ciclos ovulatórios se tornam regulares (após 3 anos).",
+      "A menarca precoce está associada à deficiência de Cálcio e Vitamina D, o que impede a calcificação óssea adequada, resultando em menor estatura final."
+    ],
+    "correctIndex": 1,
+    "explanation": "O estrogênio fecha as epífises de crescimento ósseo [12]. Se a menarca ocorre, significa que o estrogênio está em níveis altos o suficiente para promover o fechamento epifisário, limitando o crescimento em estatura a poucos centímetros após a menstruação [12, 26].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Ao avaliar uma paciente obesa pré-puberal, o ginecologista classifica o desenvolvimento mamário como M3 pela inspeção visual. Qual é o passo clínico crucial que o ginecologista deve realizar em seguida e por que esse passo é mandatório para evitar erros de estadiamento?",
+    "options": [
+      "Aferir a estatura alvo familiar (pai - 13 + mãe / 2) para determinar se a velocidade de crescimento está compatível com o estadiamento M3.",
+      "Investigar o estadiamento da pubarca (P), pois em pacientes obesas a pubarca sempre precede a telarca devido à produção periférica de androgênios.",
+      "Solicitar imediatamente um ultrassom pélvico para medir o volume uterino, pois a obesidade acelera o crescimento do útero, mas não o crescimento da mama.",
+      "Realizar um teste de supressão com GnRH para verificar se a causa da obesidade está ligada à inibição do eixo, o que indicaria puberdade tardia.",
+      "Realizar a palpação da mama para sentir a presença e a extensão do tecido glandular firme, diferenciando-o do tecido adiposo (gordura), que pode simular M2 ou M3."
+    ],
+    "correctIndex": 4,
+    "explanation": "A obesidade pode simular o desenvolvimento mamário devido ao acúmulo de tecido adiposo [6]. É crucial palpar a mama para sentir o tecido glandular e diferenciá-lo da gordura. A palpação é essencial para confirmar o broto mamário (M2) e o tecido mamário (M3), independentemente do tamanho aparente da mama [6, 22, 27].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma adolescente com 13 anos está um ano após a menarca e apresenta ciclos menstruais infrequentes (oligomenorreia) e sangramentos prolongados. Qual é a principal explicação fisiológica para essa irregularidade do ciclo nesta fase da puberdade?",
+    "options": [
+      "A maturação completa do eixo HHO já ocorreu, e a irregularidade é causada por um desequilíbrio entre leptina e grelina, exigindo tratamento nutricional.",
+      "O estirão de crescimento ainda não terminou, e o consumo de energia para o crescimento impede a ovulação, resultando em Amenorreia Primária transitória.",
+      "O eixo HHO ainda está imaturo, resultando em ciclos predominantemente anovulatórios nos primeiros anos, o que causa sangramento por descamação endometrial e irregularidade na frequência.",
+      "A pubarca está atrasada (P1), indicando que a Adrenarca não ocorreu, levando à insuficiência adrenal e ciclos menstruais irregulares por falta de androgênios.",
+      "O estrogênio ainda está baixo, o que resulta em um endométrio atrófico incapaz de sangrar adequadamente, causando oligomenorreia com fluxo leve."
+    ],
+    "correctIndex": 2,
+    "explanation": "Nos primeiros dois anos após a menarca, a grande maioria dos ciclos é anovulatória (55-82%), o que reflete a imaturidade do eixo HHO [7, 13]. Essa anovulação leva a irregularidades de frequência (oligomenorreia ou polimenorreia) e, quando o endométrio descama, pode ocorrer sangramento disfuncional e intenso [14, 15].",
+    "type": "raciocínio"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "question": "Qual é o volume normal de líquido pleural presente entre a pleura visceral e a pleura parietal em um adulto saudável?",
+    "options": [
+      "25 a 35 mL, responsável pela pressão negativa do espaço pleural",
+      "15 a 25 mL, responsável pela expansão pulmonar durante a inspiração",
+      "2 a 5 mL, responsável pela adesão entre as pleuras durante a ventilação",
+      "35 a 50 mL, responsável pelo deslizamento entre as superfícies pleurais",
+      "5 a 15 mL, responsável pela lubrificação e adesão entre as pleuras"
+    ],
+    "correctIndex": 4,
+    "explanation": "O volume normal de líquido pleural é de 5 a 15 mL em adultos. Esse líquido tem dupla função: lubrificar as superfícies pleurais permitindo deslizamento sem atrito durante os movimentos respiratórios e gerar adesão entre as pleuras, mantendo o pulmão expandido contra a parede torácica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o valor aproximado da pressão intrapleural em repouso e qual sua principal função fisiológica?",
+    "options": [
+      "-4 a -6 mmHg em repouso, mantendo o pulmão expandido contra colapso",
+      "-10 a -12 mmHg em repouso, impedindo retração elástica pulmonar",
+      "0 mmHg em repouso, equilibrando a pressão atmosférica externa",
+      "+6 a +8 mmHg em repouso, facilitando o retorno venoso intratorácico",
+      "+2 a +4 mmHg em repouso, promovendo expansão da parede torácica"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pressão intrapleural é negativa em relação à pressão atmosférica, cerca de -4 a -6 mmHg em repouso. Essa pressão negativa mantém o pulmão expandido, contrariando a tendência natural do pulmão de colapsar e da parede torácica de expandir, sendo fundamental para a mecânica respiratória normal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Sobre a anatomia do espaço pleural, qual é a função específica da pleura visceral?",
+    "options": [
+      "Recobrir diretamente o parênquima pulmonar e sua superfície",
+      "Revestir internamente a parede torácica e o diafragma",
+      "Revestir externamente o pericárdio e grandes vasos torácicos",
+      "Separar os pulmões do mediastino e estruturas centrais",
+      "Produzir o líquido pleural em quantidade constante diária"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pleura visceral é a membrana serosa que recobre diretamente os pulmões, aderindo intimamente ao parênquima pulmonar. A pleura parietal, por sua vez, reveste a parede torácica, o diafragma e o mediastino. Entre ambas está o espaço pleural virtual.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a tendência natural do pulmão e da parede torácica em relação ao espaço pleural?",
+    "options": [
+      "Pulmão permanece estável e parede torácica tende a recolher",
+      "Ambos tendem a expandir na presença de pressão negativa",
+      "Ambos tendem a colapsar na ausência de pressão positiva",
+      "Pulmão tende a expandir e parede torácica tende a recolher",
+      "Pulmão tende a colapsar e parede torácica tende a expandir"
+    ],
+    "correctIndex": 4,
+    "explanation": "O pulmão tem tendência natural de colapsar devido à sua retração elástica, enquanto a parede torácica tende a expandir-se para fora. O equilíbrio entre essas forças opostas é mantido pela pressão negativa do espaço pleural, que mantém o pulmão expandido.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que o espaço pleural é considerado uma cavidade virtual?",
+    "options": [
+      "Porque as pleuras estão separadas apenas por líquido mínimo",
+      "Porque se forma apenas durante movimentos respiratórios profundos",
+      "Porque contém apenas ar em pequena quantidade constante",
+      "Porque sua existência depende de patologias pleurais específicas",
+      "Porque não existe anatomicamente em condições normais de saúde"
+    ],
+    "correctIndex": 0,
+    "explanation": "O espaço pleural é considerado uma cavidade virtual porque as pleuras visceral e parietal estão separadas apenas por uma pequena quantidade de líquido (5-15 mL), mantendo-se praticamente justapostas. Não há espaço real entre elas em condições normais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente sofre ruptura da pleura com entrada de ar no espaço pleural. Qual a sequência fisiopatológica correta até o colapso pulmonar?",
+    "options": [
+      "Perda da pressão negativa → retração elástica pulmonar → redução da expansão → colapso pulmonar proporcional",
+      "Equalização com pressão atmosférica → expansão da parede torácica → tração pleural → colapso pulmonar bilateral",
+      "Perda da pressão negativa → aumento do líquido pleural → compressão extrínseca → colapso pulmonar proporcional",
+      "Entrada de ar → irritação pleural → contração reflexa → espasmo bronquiolar → colapso pulmonar progressivo",
+      "Aumento da pressão positiva → distensão da pleura parietal → compressão mediastinal → colapso pulmonar completo"
+    ],
+    "correctIndex": 0,
+    "explanation": "A entrada de ar no espaço pleural causa perda da pressão negativa necessária para manter o pulmão expandido. Com isso, a retração elástica natural do pulmão prevalece, reduzindo a expansão pulmonar e causando colapso proporcional ao volume de ar acumulado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a definição correta de pneumotórax espontâneo primário?",
+    "options": [
+      "Presença de ar no espaço pleural após trauma torácico fechado sem fratura",
+      "Presença de ar no espaço pleural associada a doença pulmonar prévia conhecida",
+      "Presença de ar no espaço pleural com mecanismo valvular unidirecional estabelecido",
+      "Presença de ar no espaço pleural secundária a procedimento médico invasivo",
+      "Presença de ar no espaço pleural sem trauma ou doença pulmonar aparente"
+    ],
+    "correctIndex": 4,
+    "explanation": "O pneumotórax espontâneo primário (PEP) é definido como a presença de ar no espaço pleural sem causa aparente identificável, ou seja, sem trauma, infecção ou doença pulmonar prévia. Geralmente ocorre pela ruptura espontânea de blebs ou bullae subpleurais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o perfil epidemiológico típico do pneumotórax espontâneo primário?",
+    "options": [
+      "Mulheres idosas acima de 65 anos com história de fibrose pulmonar",
+      "Crianças entre 5-10 anos com história de asma brônquica grave",
+      "Adultos entre 40-55 anos com obesidade e apneia do sono",
+      "Homens jovens entre 15-35 anos com biótipo longilíneo e tabagismo",
+      "Idosos acima de 70 anos com enfisema pulmonar e DPOC"
+    ],
+    "correctIndex": 3,
+    "explanation": "O PEP é mais comum em homens jovens entre 15 e 35 anos, com biótipo longilíneo (altos e magros), tabagismo ativo (mesmo poucos cigarros aumentam o risco em até 20x) e história familiar positiva, indicando predisposição genética.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal mecanismo fisiopatológico do pneumotórax espontâneo primário?",
+    "options": [
+      "Perfuração iatrogênica durante procedimento de toracocentese diagnóstica",
+      "Erosão neoplásica da pleura visceral por tumor primário pulmonar",
+      "Fratura de arcos costais com laceração traumática do tecido pulmonar",
+      "Destruição enfisematosa progressiva do parênquima pulmonar periférico",
+      "Ruptura espontânea de blebs ou bullae subpleurais apicais"
+    ],
+    "correctIndex": 4,
+    "explanation": "O PEP ocorre geralmente pela ruptura espontânea de pequenas bolhas subpleurais (blebs) ou bolhas maiores (bullae), especialmente localizadas nos ápices pulmonares. Essas estruturas podem se romper espontaneamente por aumento súbito da pressão intra-alveolar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais situações podem desencadear a ruptura de blebs apicais no pneumotórax espontâneo primário?",
+    "options": [
+      "Tosse intensa, esforço físico e mudança de altitude",
+      "Repouso prolongado, jejum e desidratação leve",
+      "Vacinação recente, infecções virais e estresse emocional",
+      "Uso de broncodilatadores, corticoides e oxigenoterapia",
+      "Exposição ao frio, umidade e poluentes atmosféricos"
+    ],
+    "correctIndex": 0,
+    "explanation": "As blebs ou bullae podem se romper espontaneamente por aumento súbito da pressão intra-alveolar, que pode ocorrer durante tosse, esforço físico intenso ou mudança abrupta de altitude, situações que aumentam a pressão intratorácica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em quanto o tabagismo aumenta o risco de pneumotórax espontâneo primário?",
+    "options": [
+      "Aumenta o risco em até 5 vezes mesmo com tabagismo leve",
+      "Aumenta o risco em até 10 vezes apenas com tabagismo pesado",
+      "Aumenta o risco em até 20 vezes mesmo com poucos cigarros",
+      "Aumenta o risco em até 50 vezes apenas em tabagistas crônicos",
+      "Aumenta o risco em até 30 vezes apenas após 10 anos de uso"
+    ],
+    "correctIndex": 2,
+    "explanation": "O tabagismo ativo é um importante fator de risco para PEP, aumentando o risco em até 20 vezes mesmo com consumo de poucos cigarros. Esse risco está relacionado às alterações estruturais que o tabaco causa no tecido pulmonar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o papel da história familiar no pneumotórax espontâneo primário?",
+    "options": [
+      "Correlaciona-se apenas com malformações congênitas pulmonares",
+      "Indica apenas fatores ambientais compartilhados entre familiares",
+      "Sugere predisposição genética aumentando risco de ocorrência",
+      "Não tem relevância epidemiológica ou fisiopatológica conhecida",
+      "Está relacionada exclusivamente a hábitos tabágicos familiares"
+    ],
+    "correctIndex": 2,
+    "explanation": "A história familiar positiva para pneumotórax espontâneo primário sugere predisposição genética, sendo um dos fatores de risco reconhecidos para a condição. Isso indica que há componentes hereditários na formação de blebs e bullae.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente masculino, 20 anos, alto e magro, tabagista social, procura emergência após dor torácica súbita durante jogo de basquete. Exame físico: MV abolido em hemitórax direito, hipersonoridade à percussão, PA 125/80 mmHg, FC 92 bpm, SpO2 94%. Qual o diagnóstico mais provável?",
+    "options": [
+      "Pneumotórax espontâneo secundário por enfisema pulmonar subclínico não diagnosticado",
+      "Pneumotórax espontâneo primário por ruptura de blebs apicais durante esforço",
+      "Pneumotórax traumático fechado por contusão torácica durante atividade esportiva",
+      "Pneumotórax hipertensivo com instabilidade hemodinâmica inicial em progressão",
+      "Pneumotórax iatrogênico por punção inadvertida durante procedimento prévio"
+    ],
+    "correctIndex": 1,
+    "explanation": "O quadro é característico de pneumotórax espontâneo primário: paciente jovem (20 anos), biótipo longilíneo, tabagista, início súbito durante esforço físico. A estabilidade hemodinâmica afasta pneumotórax hipertensivo, e a ausência de trauma ou doença pulmonar conhecida exclui as demais opções.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um homem de 25 anos, fumante, 1,85m de altura, 68 kg, apresenta dor torácica súbita e dispneia leve após episódio de tosse intensa. Qual fator de risco está MAIS fortemente associado ao desenvolvimento de pneumotórax espontâneo primário neste caso?",
+    "options": [
+      "Estatura alta de 1,85m indicando biótipo longilíneo característico",
+      "Tabagismo ativo aumentando risco em até 20 vezes",
+      "Tosse intensa como fator desencadeante do aumento pressórico",
+      "Baixo peso de 68 kg sugerindo desnutrição e fragilidade",
+      "Idade jovem de 25 anos associada a atividade física intensa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Embora todos os fatores contribuam, o tabagismo é o fator de risco modificável mais importante, aumentando o risco em até 20 vezes mesmo com consumo leve. O biótipo longilíneo e a idade também são relevantes, mas o tabagismo tem o maior impacto quantificável.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a definição correta de pneumotórax espontâneo secundário?",
+    "options": [
+      "Entrada de ar no espaço pleural sem trauma, associado a doença pulmonar subjacente",
+      "Entrada de ar no espaço pleural em paciente jovem sem doença prévia conhecida",
+      "Entrada de ar no espaço pleural após trauma torácico em paciente pneumopata",
+      "Entrada de ar no espaço pleural durante procedimento invasivo em paciente grave",
+      "Entrada de ar no espaço pleural com mecanismo valvular em paciente idoso"
+    ],
+    "correctIndex": 0,
+    "explanation": "O pneumotórax espontâneo secundário é definido como a entrada de ar no espaço pleural sem trauma, mas associado a uma doença pulmonar subjacente conhecida que enfraquece ou distorce a estrutura do parênquima pulmonar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal causa de pneumotórax espontâneo secundário, representando mais de 60% dos casos?",
+    "options": [
+      "Asma grave com hiperinsuflação crônica e formação de bolhas subpleurais",
+      "DPOC com enfisema pulmonar causando destruição e fragilização alveolar",
+      "Tuberculose pulmonar com necrose caseosa e formação de cavitações apicais",
+      "Fibrose pulmonar idiopática com distorção arquitetural progressiva do parênquima",
+      "Neoplasia pulmonar primária com invasão pleural e ruptura da barreira"
+    ],
+    "correctIndex": 1,
+    "explanation": "A DPOC, especialmente o enfisema pulmonar, é a principal causa de pneumotórax espontâneo secundário, representando mais de 60% dos casos. O enfisema causa destruição da arquitetura alveolar e fragilização do parênquima, facilitando rupturas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são outras doenças pulmonares associadas ao pneumotórax espontâneo secundário além da DPOC?",
+    "options": [
+      "Hipertensão arterial, diabetes mellitus, dislipidemia e síndrome metabólica",
+      "Refluxo gastroesofágico, hérnia hiatal, acalasia e doença diverticular",
+      "Fibrose pulmonar, asma grave, cistos pulmonares e infecções necrosantes",
+      "Bronquite aguda, rinite alérgica, sinusite crônica e faringite recorrente",
+      "Insuficiência cardíaca, derrame pleural, embolia pulmonar e edema pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Além da DPOC, o pneumotórax secundário está associado a: fibrose pulmonar idiopática, asma grave, cistos pulmonares (linfangioleiomiomatose, histiocitose X), infecções (tuberculose, pneumonia necrosante, pneumocistose), neoplasias pulmonares e pneumotórax catamenial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é pneumotórax catamenial e qual sua associação fisiopatológica?",
+    "options": [
+      "Pneumotórax pós-menopausa associado a osteoporose e fraturas costais espontâneas",
+      "Pneumotórax em período menstrual associado a endometriose torácica ou diafragmática",
+      "Pneumotórax durante gestação associado a alterações hormonais e mecânicas",
+      "Pneumotórax em climatério associado a diminuição de estrogênio e fragilidade pleural",
+      "Pneumotórax recorrente em mulheres jovens associado a cistos pulmonares congênitos"
+    ],
+    "correctIndex": 1,
+    "explanation": "O pneumotórax catamenial é uma forma rara de pneumotórax espontâneo secundário que ocorre em mulheres durante o período menstrual, associado à endometriose torácica ou diafragmática. A endometriose pode causar perfurações diafragmáticas ou implantes pleurais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal diferença de idade entre pneumotórax espontâneo primário e secundário?",
+    "options": [
+      "Primário ocorre entre 15-35 anos e secundário acima de 50 anos",
+      "Primário ocorre entre 25-45 anos e secundário acima de 65 anos",
+      "Primário ocorre entre 5-15 anos e secundário entre 15-25 anos",
+      "Primário ocorre entre 35-55 anos e secundário acima de 70 anos",
+      "Primário ocorre acima de 40 anos e secundário em qualquer idade"
+    ],
+    "correctIndex": 0,
+    "explanation": "O pneumotórax espontâneo primário é mais comum em jovens entre 15-35 anos, enquanto o secundário ocorre tipicamente em pacientes acima de 50 anos, que já apresentam doença pulmonar de base estabelecida como DPOC ou fibrose.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 62 anos, tabagista há 40 anos, com DPOC GOLD 3, apresenta dispneia súbita intensa e dor torácica. Ao exame: FR 32 irpm, SpO2 86% em ar ambiente, MV abolido à esquerda. RX mostra pneumotórax de 30%. Qual a melhor conduta imediata?",
+    "options": [
+      "Antibioticoterapia empírica para prevenir infecção e observação por 24 horas",
+      "Toracocentese simples com aspiração e alta hospitalar com seguimento ambulatorial",
+      "Observação clínica com oxigenoterapia suplementar e reavaliação em 6 horas",
+      "Ventilação não invasiva com pressão positiva e reavaliação radiológica seriada",
+      "Drenagem torácica imediata devido a doença pulmonar prévia e hipoxemia"
+    ],
+    "correctIndex": 4,
+    "explanation": "No pneumotórax espontâneo secundário, mesmo pneumotórax pequenos podem causar sintomas graves devido à reserva pulmonar já comprometida. Este paciente apresenta hipoxemia significativa e doença de base grave (DPOC GOLD 3), indicando drenagem torácica imediata.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual característica diferencia MELHOR o pneumotórax espontâneo secundário do primário em termos de tolerância clínica e conduta?",
+    "options": [
+      "Secundário tem baixa tolerância com risco de hipoxemia exigindo intervenção precoce",
+      "Secundário responde melhor a oxigenoterapia simples sem necessidade de drenagem",
+      "Secundário apresenta colapso pulmonar menor facilitando reexpansão espontânea",
+      "Secundário evolui com menor taxa de recorrência não necessitando pleurodese",
+      "Secundário tem boa tolerância clínica permitindo conduta expectante frequente"
+    ],
+    "correctIndex": 0,
+    "explanation": "O pneumotórax secundário ocorre em pacientes com função pulmonar já comprometida, resultando em baixa tolerância clínica. Mesmo pneumotórax pequenos podem causar hipoxemia grave, tornando o tratamento conservador pouco indicado e exigindo intervenção mais precoce.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a definição de pneumotórax traumático fechado?",
+    "options": [
+      "Entrada de ar no espaço pleural durante procedimento médico invasivo iatrogênico",
+      "Entrada de ar no espaço pleural por mecanismo valvular após trauma torácico",
+      "Entrada de ar no espaço pleural por ruptura esofágica traumática com fístula",
+      "Entrada de ar no espaço pleural por ferimento penetrante com comunicação externa",
+      "Entrada de ar no espaço pleural por trauma contuso sem lesão visível da parede"
+    ],
+    "correctIndex": 4,
+    "explanation": "O pneumotórax traumático fechado ocorre quando há entrada de ar no espaço pleural secundária a um trauma torácico contuso, sem solução de continuidade visível da pele. Pode resultar de acidentes, quedas ou fraturas costais com laceração pulmonar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são exemplos de causas de pneumotórax traumático aberto ou penetrante?",
+    "options": [
+      "Punção venosa central, toracocentese diagnóstica e biópsia pulmonar percutânea",
+      "Acidentes automobilísticos, quedas de altura e compressões torácicas por explosões",
+      "Ventilação mecânica invasiva, manobras de ressuscitação e compressões torácicas",
+      "Armas brancas como facadas, projéteis de arma de fogo e empalamentos",
+      "Fraturas de arcos costais, contusões pulmonares e traumatismos torácicos diretos"
+    ],
+    "correctIndex": 3,
+    "explanation": "O pneumotórax traumático aberto ou penetrante ocorre quando há ferimento que perfura a parede torácica, criando comunicação direta com o meio externo. Exemplos incluem: armas brancas (facadas), projéteis de arma de fogo e empalamentos por objetos perfurantes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza o pneumotórax iatrogênico e quais são suas principais causas?",
+    "options": [
+      "Pneumotórax por falha de equipamento causado por ventiladores mecânicos defeituosos",
+      "Pneumotórax por complicação cirúrgica causado por lesão pleural durante toracotomia",
+      "Pneumotórax por infecção hospitalar causado por germes multirresistentes nosocomiais",
+      "Pneumotórax por doença pulmonar causado por medicamentos pneumotóxicos e quimioterápicos",
+      "Pneumotórax causado por procedimentos médicos como punção venosa e biópsia pulmonar"
+    ],
+    "correctIndex": 4,
+    "explanation": "O pneumotórax iatrogênico é uma forma de pneumotórax traumático causado por procedimentos médicos. Principais causas: punção venosa subclávia ou jugular, toracocentese, biópsia pulmonar percutânea e barotrauma por ventilação mecânica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza um pneumotórax aberto com \"ferida aspirante\" da parede torácica?",
+    "options": [
+      "Ferida pequena que permite entrada mas impede saída de ar criando válvula unidirecional",
+      "Ferida cirúrgica pós-operatória com deiscência de sutura e escape aéreo persistente",
+      "Ferida penetrante com comunicação direta entre espaço pleural e meio externo",
+      "Ferida iatrogênica por punção inadvertida durante procedimento de toracocentese",
+      "Ferida contusa sem perfuração cutânea mas com laceração do parênquima pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "A \"ferida aspirante\" do pneumotórax aberto é caracterizada por uma ferida penetrante que cria comunicação direta entre o espaço pleural e o meio externo, permitindo que o ar entre e saia livremente através da parede torácica durante os movimentos respiratórios.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente vítima de acidente automobilístico apresenta trauma torácico com fratura de 5º e 6º arcos costais à direita, dor intensa, dispneia moderada, MV abolido em base direita, hipersonoridade à percussão. RX mostra pneumotórax de 40% e pequeno derrame pleural. Qual o diagnóstico mais completo?",
+    "options": [
+      "Pneumotórax traumático aberto com ferida aspirante por fraturas expostas múltiplas",
+      "Pneumotórax traumático fechado simples por fratura costal com laceração pulmonar",
+      "Hemopneumotórax traumático por fratura costal com lesão vascular e parenquimatosa",
+      "Pneumotórax hipertensivo traumático por mecanismo valvular com instabilidade circulatória",
+      "Pneumotórax iatrogênico por punção inadvertida durante atendimento pré-hospitalar"
+    ],
+    "correctIndex": 2,
+    "explanation": "A presença de pneumotórax associado a derrame pleural (sangue) no contexto de trauma com fraturas costais caracteriza hemopneumotórax traumático. As fraturas costais podem causar tanto laceração pulmonar (pneumotórax) quanto lesão de vasos intercostais ou parênquima (hemotórax).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a fisiopatologia que define o pneumotórax hipertensivo como emergência médica?",
+    "options": [
+      "Entrada progressiva de ar sem possibilidade de saída por mecanismo valvular unidirecional",
+      "Entrada lenta de ar no espaço pleural com reabsorção gradual e colapso progressivo",
+      "Entrada de ar sincronizada com movimentos respiratórios sem acúmulo pressórico significativo",
+      "Entrada e saída livre de ar através de ferida aspirante com equilíbrio pressórico",
+      "Entrada de ar limitada por tampão fibrinoso com estabilização espontânea da lesão"
+    ],
+    "correctIndex": 0,
+    "explanation": "O pneumotórax hipertensivo é caracterizado pela entrada progressiva de ar no espaço pleural sem possibilidade de saída, estabelecendo um mecanismo de válvula unidirecional. O ar entra durante a inspiração mas não consegue sair na expiração, aumentando progressivamente a pressão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a sequência fisiopatológica correta do pneumotórax hipertensivo?",
+    "options": [
+      "Ruptura pulmonar → inflamação pleural → derrame pleural → compressão e atelectasia",
+      "Ruptura pulmonar → entrada de ar → reabsorção lenta → expansão gradual e resolução",
+      "Ruptura pulmonar → colapso bilateral → hipoxemia grave → parada respiratória e óbito",
+      "Ruptura pulmonar → válvula unidirecional → acúmulo de ar → colapso ipsilateral e choque",
+      "Ruptura pulmonar → comunicação brônquica → fístula broncopleural → empiema secundário"
+    ],
+    "correctIndex": 3,
+    "explanation": "A sequência fisiopatológica é: (1) ruptura pulmonar permite entrada de ar, (2) mecanismo valvular unidirecional se estabelece, (3) acúmulo progressivo aumenta pressão intrapleural, (4) ocorre colapso pulmonar ipsilateral, deslocamento mediastinal, compressão de grandes vasos e choque obstrutivo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os sinais clínicos específicos do pneumotórax hipertensivo que o diferenciam de outras formas?",
+    "options": [
+      "Hipertensão arterial, bradicardia sinusal, sudorese fria e palidez cutânea",
+      "Hipotensão arterial, turgência jugular, desvio de traqueia e cianose",
+      "Tosse produtiva, expectoração hemoptoica, sibilos difusos e taquicardia",
+      "Dor pleurítica, dispneia leve, ausculta normal e saturação preservada",
+      "Dor torácica leve, dispneia aos esforços, tosse seca e febre baixa"
+    ],
+    "correctIndex": 1,
+    "explanation": "O pneumotórax hipertensivo apresenta sinais de instabilidade hemodinâmica que o diferenciam: hipotensão arterial (por redução do retorno venoso), turgência jugular (por compressão de veias cavas), desvio de traqueia (por deslocamento mediastinal) e cianose (por hipoxemia grave).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta de urgência imediata no pneumotórax hipertensivo antes da drenagem definitiva?",
+    "options": [
+      "Intubação orotraqueal com ventilação mecânica em pressão positiva",
+      "Punção descompressiva no 2º espaço intercostal linha hemiclavicular",
+      "Toracocentese diagnóstica no 5º espaço intercostal linha axilar posterior",
+      "Reanimação volêmica vigorosa com cristaloides e drogas vasoativas",
+      "Oxigenoterapia de alto fluxo e posicionamento em decúbito lateral"
+    ],
+    "correctIndex": 1,
+    "explanation": "A conduta de urgência no pneumotórax hipertensivo é a punção descompressiva imediata no 2º espaço intercostal, linha hemiclavicular (linha medioclavicular), para alívio rápido da pressão. Após, realiza-se drenagem torácica definitiva com selo d'água.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente vítima de trauma torácico há 20 minutos apresenta dispneia intensa, cianose, PA 70/40 mmHg, FC 140 bpm, turgência jugular bilateral, desvio de traqueia para esquerda, MV abolido à direita. Qual a conduta IMEDIATA prioritária?",
+    "options": [
+      "Realizar ultrassonografia point-of-care para avaliação de deslizamento pleural",
+      "Intubar e ventilar mecanicamente com PEEP para melhorar oxigenação e hemodinâmica",
+      "Realizar punção descompressiva no 2º EIC direito linha hemiclavicular imediatamente",
+      "Solicitar radiografia de tórax em PA e perfil para confirmação diagnóstica precisa",
+      "Iniciar reanimação volêmica agressiva com cristaloides e acesso venoso calibroso"
+    ],
+    "correctIndex": 2,
+    "explanation": "O quadro é diagnóstico de pneumotórax hipertensivo: instabilidade hemodinâmica, turgência jugular, desvio mediastinal. Esta é uma emergência que não pode aguardar exames. A conduta é punção descompressiva IMEDIATA no 2º EIC linha hemiclavicular do lado acometido, antes mesmo da drenagem definitiva.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que o pneumotórax hipertensivo causa hipotensão arterial e choque circulatório?",
+    "options": [
+      "Deslocamento mediastinal comprimindo veias cavas e reduzindo retorno venoso",
+      "Hipoxemia grave causando vasodilatação periférica e perda de tônus vascular",
+      "Liberação de mediadores inflamatórios causando vasoplegia e choque distributivo",
+      "Compressão direta do coração causando tamponamento cardíaco e baixo débito",
+      "Estimulação vagal excessiva causando bradicardia reflexa e hipotensão"
+    ],
+    "correctIndex": 0,
+    "explanation": "O mecanismo do choque no pneumotórax hipertensivo é obstrutivo: o aumento progressivo da pressão intrapleural desloca o mediastino para o lado contralateral, comprimindo as veias cavas (principalmente a veia cava inferior), reduzindo drasticamente o retorno venoso ao coração e causando hipotensão.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os sinais clínicos típicos do pneumotórax ao exame físico?",
+    "options": [
+      "Dor pleurítica, atrito pleural, febre alta, derrame pleural e submacicez",
+      "Dor torácica súbita, dispneia, taquipneia, murmúrio vesicular reduzido e hipersonoridade",
+      "Dispneia crônica, sibilos expiratórios, uso de musculatura acessória e hiperinsuflação",
+      "Tosse seca, dispneia aos esforços, cianose central, estertores finos e timpanismo",
+      "Dor torácica progressiva, tosse produtiva, febre, crepitações difusas e macicez"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os sinais clínicos clássicos do pneumotórax incluem: dor torácica súbita, dispneia de início agudo, taquipneia compensatória, murmúrio vesicular abolido ou reduzido no lado afetado e hipersonoridade à percussão (devido ao ar no espaço pleural).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os achados radiográficos característicos do pneumotórax na radiografia de tórax?",
+    "options": [
+      "Linha pleural visível, pulmão retraído e ausência de marcas vasculares periféricas",
+      "Infiltrado reticulonodular difuso, espessamento de septos e broncogramas aéreos",
+      "Cavitação pulmonar, nível hidroaéreo intralesional e espessamento pleural adjacente",
+      "Derrame pleural volumoso, desvio mediastinal e atelectasia do pulmão contralateral",
+      "Opacidade homogênea, broncograma aéreo e consolidação do parênquima pulmonar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os achados radiográficos típicos do pneumotórax são: linha pleural visível (linha fina branca delineando o pulmão colapsado), pulmão retraído em direção ao hilo e ausência de marcas vasculares na periferia (radiotransparência aumentada no espaço pleural).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os achados ultrassonográficos (POCUS) diagnósticos de pneumotórax?",
+    "options": [
+      "Presença de múltiplas linhas B verticais e deslizamento pleural preservado",
+      "Derrame pleural anecoico com septações e debris flutuantes no espaço pleural",
+      "Consolidação pulmonar com broncograma aéreo dinâmico e artefato em espelho",
+      "Ausência de deslizamento pleural, ausência de linhas B e presença de lung point",
+      "Espessamento pleural irregular com vascularização ao Doppler e nódulos pleurais"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os achados ultrassonográficos diagnósticos de pneumotórax incluem: ausência de deslizamento pleural (lung sliding), ausência de linhas B (artefatos verticais), presença do lung point (ponto onde o pulmão se separa da parede) e sinal da estratosfera no modo M.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a indicação principal da tomografia computadorizada no diagnóstico de pneumotórax?",
+    "options": [
+      "Seguimento ambulatorial após drenagem para confirmar reexpansão pulmonar completa",
+      "Casos duvidosos ao RX, pneumotórax oculto ou avaliação de doença pulmonar de base",
+      "Substituição do RX de tórax por ter menor custo e maior disponibilidade",
+      "Triagem de pneumotórax em pacientes politraumatizados por ser mais rápida",
+      "Diagnóstico inicial de rotina em todos os casos suspeitos de pneumotórax"
+    ],
+    "correctIndex": 1,
+    "explanation": "A TC tem alta sensibilidade mas não é rotineira no diagnóstico de pneumotórax. Suas indicações são: casos duvidosos ao RX (quando o diagnóstico não está claro), pneumotórax oculto (detectado em TC de trauma mas não visível ao RX) e avaliação de doença pulmonar subjacente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 28 anos com dor torácica súbita e dispneia leve. RX de tórax mostra discreta radiotransparência no ápice direito sem linha pleural nítida. Exame físico apresenta MV levemente reduzido em ápice direito. Qual a melhor conduta diagnóstica complementar?",
+    "options": [
+      "Repetir RX de tórax em expiração forçada para melhor visualização do pneumotórax",
+      "Solicitar TC de tórax para avaliação mais sensível e descartar outras patologias",
+      "Realizar ultrassonografia point-of-care para avaliar deslizamento pleural e lung point",
+      "Aguardar evolução clínica e repetir RX em 24 horas para comparação radiológica",
+      "Realizar toracocentese diagnóstica para confirmar presença de ar no espaço pleural"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em casos duvidosos com RX inconclusivo, a ultrassonografia POCUS é excelente ferramenta diagnóstica complementar, sendo mais sensível que o RX para pneumotórax pequenos, não utiliza radiação, pode ser feita à beira do leito e fornece resultado imediato através da avaliação do deslizamento pleural.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a conduta apropriada para pneumotórax pequeno em paciente assintomático?",
+    "options": [
+      "Toracocentese aspirativa única seguida de internação por 48 horas",
+      "Pleurodese química profilática para prevenir recorrência futura",
+      "Drenagem torácica imediata com selo d'água para prevenção de complicações",
+      "Alta hospitalar imediata com orientações e retorno em caso de piora",
+      "Observação clínica, oxigenoterapia suplementar e repetir RX em 6 horas"
+    ],
+    "correctIndex": 4,
+    "explanation": "Pneumotórax pequeno (<2cm ou <20%) em paciente assintomático ou com sintomas leves pode ser manejado conservadoramente com observação clínica, oxigenoterapia suplementar (acelera reabsorção do ar) e RX de controle em 6 horas para verificar se não há progressão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a indicação de drenagem torácica com selo d'água no pneumotórax?",
+    "options": [
+      "Somente pneumotórax recorrente após três episódios prévios documentados",
+      "Pneumotórax pequeno assintomático sem doença pulmonar prévia",
+      "Todos os casos de pneumotórax independente do tamanho ou sintomas",
+      "Pneumotórax grande, sintomático ou em paciente com doença pulmonar de base",
+      "Apenas pneumotórax traumático aberto com ferida aspirante da parede"
+    ],
+    "correctIndex": 3,
+    "explanation": "A drenagem torácica com selo d'água está indicada em: pneumotórax grande (>2cm ou >20%), pneumotórax sintomático com dispneia ou hipoxemia significativa, pneumotórax secundário (mesmo se pequeno, pela baixa reserva pulmonar) e pneumotórax traumático. Requer hospitalização para monitorização.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 32 anos, previamente hígido, apresenta pneumotórax espontâneo primário de 25% com dispneia moderada, FR 24 irpm, SpO2 91% em ar ambiente. Após 8 horas de observação com O2, apresenta piora clínica e novo RX mostra expansão para 35%. Qual a conduta mais adequada?",
+    "options": [
+      "Apenas aumentar fluxo de oxigênio e repetir RX em 6 horas novamente",
+      "Alta hospitalar com orientações pois saturação ainda está aceitável em O2",
+      "Realizar toracocentese simples ambulatorial e liberar para seguimento domiciliar",
+      "Realizar drenagem torácica com selo d'água devido a progressão documentada",
+      "Manter observação por mais 12 horas pois pneumotórax primário tem boa evolução"
+    ],
+    "correctIndex": 3,
+    "explanation": "A progressão do pneumotórax documentada radiologicamente (25% → 35%) associada a piora clínica (dispneia moderada, taquipneia, hipoxemia) indica falha da conduta conservadora e necessidade de drenagem torácica, mesmo sendo pneumotórax primário em paciente jovem.",
+    "type": "raciocínio"
+  }
+]

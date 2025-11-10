@@ -1,0 +1,262 @@
+[
+  {
+    "question": "De acordo com a classificação por Fração de Ejeção do Ventrículo Esquerdo (FEVE), a Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFEr) é o fenótipo primário de falência sistólica. Qual é o critério de corte ecocardiográfico para definir a ICFEr, conforme a literatura médica?",
+    "options": [
+      "FEVE igual ou superior a 50% em pacientes com histórico prévio de infarto agudo do miocárdio (IM).",
+      "FEVE igual ou superior a 40%, mas com pressão capilar pulmonar de oclusão (PCWP) acima de 18 mmHg.",
+      "FEVE entre 41% e 49%, caracterizando a Insuficiência Cardíaca com Fração de Ejeção Intermediária (ICFEi).",
+      "FEVE inferior a 40%, sendo tipicamente associada à redução da contratilidade do miocárdio e dilatação ventricular.",
+      "FEVE superior a 50%, com evidência de disfunção diastólica e hipertrofia ventricular esquerda (HVE)."
+    ],
+    "correctIndex": 3,
+    "explanation": "A Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFEr), também conhecida como falência sistólica, é geralmente definida quando a FEVE é inferior a 40% [1]. Este é o fenótipo associado à redução da contratilidade [2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Insuficiência Cardíaca com Fração de Ejeção Preservada (ICFEp) é frequentemente causada por doenças que aumentam a pós-carga. Qual é a principal etiologia crônica de ICFEp e qual é a consequência morfológica no Ventrículo Esquerdo (VE)?",
+    "options": [
+      "Bloqueio Atrioventricular (AV) de alto grau, levando à bradicardia e subsequente dilatação do átrio direito.",
+      "Hipertensão Crônica e Estenose Aórtica, que causam sobrecarga de pressão, levando à hipertrofia ventricular (LVH) e dificuldade de enchimento ventricular (disfunção diastólica).",
+      "Cardiomiopatia Dilatada (CMD), que causa afinamento da parede ventricular e redução da contratilidade.",
+      "Miocardite e Tiraoxicose, que causam vasodilatação sistêmica maciça e resultam em IC de alto débito.",
+      "Infarto do Miocárdio (IM) prévio, levando à fibrose tecidual e subsequente dilatação ventricular esquerda."
+    ],
+    "correctIndex": 1,
+    "explanation": "A ICFEp, ou falência diastólica, é causada principalmente pela Hipertensão Crônica e Estenose Aórtica, que aumentam a pós-carga. O VE compensa com hipertrofia (LVH), o que reduz o espaço e dificulta o enchimento (problema de *filling*) [3, 4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um dos mecanismos compensatórios cruciais na Insuficiência Cardíaca é a ativação do Sistema Nervoso Simpático (SNS). Qual efeito cardiovascular primário da Norepinefrina e Adrenalina piora a progressão da IC crônica?",
+    "options": [
+      "Aumento da frequência cardíaca (via receptores $\\beta_1$) e vasoconstrição periférica (via receptores $\\alpha_1$), o que aumenta a pós-carga, SVR e estimula a hipertrofia ventricular, piorando a IC.",
+      "Ativação das células justaglomerulares renais, o que leva à liberação de Peptídeos Natriuréticos (BNP/ANP) e vasodilatação.",
+      "Aumento da reabsorção renal de sódio e água, o que diminui a pré-carga e reduz os sintomas de congestão periférica.",
+      "Diminuição da frequência cardíaca e do relaxamento diastólico, o que melhora a perfusão coronária e previne o remodelamento ventricular.",
+      "Redução da contratilidade dos miócitos remanescentes, o que leva à dilatação ventricular e ao subsequente aumento da fração de ejeção."
+    ],
+    "correctIndex": 0,
+    "explanation": "O baixo débito cardíaco ativa o SNS, que libera Norepinefrina e Adrenalina. A ação em receptores $\\beta_1$ no coração aumenta a frequência cardíaca e a contratilidade dos miócitos remanescentes. A ação em $\\alpha_1$ nos vasos aumenta a Resistência Vascular Sistêmica (SVR) e a pós-carga, o que induz hipertrofia e dilatação, piorando a IC [5-7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes sinais e sintomas é tipicamente associado à congestão causada por Insuficiência Cardíaca Direita (IC Direita)?",
+    "options": [
+      "Alteração no nível de consciência e hipotensão persistente, sugerindo choque cardiogênico e malperfusão cerebral.",
+      "Cianose e extremidades frias, refletindo a vasoconstrição periférica compensatória e o baixo débito.",
+      "Fadiga e intolerância ao exercício, devido ao baixo débito cardíaco e hipoperfusão sistêmica.",
+      "Estase jugular, edema periférico, dor em hipocôndrio direito (congestão hepática) e plenitude gástrica, indicando backup de sangue na circulação venosa sistêmica.",
+      "Dispneia paroxística noturna (DPN) e taquipneia, refletindo o acúmulo de fluido na circulação pulmonar."
+    ],
+    "correctIndex": 3,
+    "explanation": "A Insuficiência Cardíaca Direita causa o backup do sangue na circulação venosa sistêmica (veia cava superior e inferior), manifestando-se como estase jugular, edema periférico, dor em hipocôndrio direito (congestão hepática) e plenitude gástrica [8, 9].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagnóstico de Insuficiência Cardíaca envolve exames laboratoriais, sendo o peptídeo natriurético do tipo B (BNP ou NT-proBNP) crucial. O que estimula a liberação desses peptídeos e qual seu papel fisiológico no contexto da IC?",
+    "options": [
+      "Estimulação da angiotensina II e aldosterona, o que leva ao aumento da reabsorção de sódio e água e consequente dilatação ventricular.",
+      "Diminuição da pressão de pulso e queda do débito cardíaco, o que ativa os barorreceptores carotídeos e aórticos.",
+      "Ativação do Sistema Nervoso Simpático e liberação de epinefrina, o que aumenta a frequência cardíaca e o débito cardíaco para melhorar a perfusão renal.",
+      "Aumento do estiramento (stretch) das câmaras cardíacas em resposta ao enchimento e volume, agindo para inibir o Sistema Renina-Angiotensina (SRAA) e promover a natriurese e vasodilatação.",
+      "Presença de anemia severa e deficiência de tiamina (Beribéri), que causam vasodilatação maciça e IC de alto débito."
+    ],
+    "correctIndex": 3,
+    "explanation": "O BNP e o NT-proBNP são liberados pelo coração em resposta ao estiramento (stretch) devido ao excesso de volume/enchimento. O objetivo é inibir o SRAA e promover a natriurese e vasodilatação, atuando como um mecanismo compensatório natural [10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com a Classificação Funcional da New York Heart Association (NYHA), qual descrição melhor define um paciente na Classe Funcional III?",
+    "options": [
+      "Dispneia e sintomas apenas com atividades extenuantes ou exercício vigoroso (Classe I).",
+      "Dispneia e sintomas que surgem durante atividades cotidianas leves, como tomar banho ou pentear o cabelo, mas assintomático em repouso.",
+      "Dispneia e sintomas que surgem com atividades mínimas ou em repouso (Classe IV).",
+      "Dispneia e sintomas que surgem com atividades menos que habituais ou caminhadas mais longas (Classe II).",
+      "Ausência de dispneia ou sintomas, mas com evidência de disfunção ventricular subclínica (Estágio B da ACC/AHA)."
+    ],
+    "correctIndex": 1,
+    "explanation": "A Classe Funcional III é caracterizada por dispneia e sintomas com atividades menos que habituais, tipicamente em pequenos esforços. Os materiais mencionam dispneia com cansaço para tomar banho e pentear os cabelos (sinais de grandes ou médios esforços), sugerindo CF III [11, 12].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na abordagem diagnóstica da Insuficiência Cardíaca, qual exame é considerado o 'melhor teste' por fornecer a avaliação direta da Função do Ventrículo Esquerdo, etiologia e grau de remodelamento?",
+    "options": [
+      "Dosagem sérica de eletrólitos, função renal e perfil lipídico, que são obrigatórios na investigação.",
+      "Eletrocardiograma de 12 derivações, para avaliar a presença de Bloqueio de Ramo Esquerdo (BRE) ou sinais de isquemia.",
+      "Radiografia simples do tórax, para avaliar a cardiomegalia e a presença de edema pulmonar (linhas B de Kerley).",
+      "Cateterismo de artéria pulmonar (Swan-Ganz), que mede a pressão capilar pulmonar de oclusão (PCWP) e o débito cardíaco.",
+      "Ecocardiograma, pois permite a visualização da Fração de Ejeção (FEVE), das paredes ventriculares e de valvulopatias associadas."
+    ],
+    "correctIndex": 4,
+    "explanation": "O ecocardiograma é o 'melhor teste' porque permite visualizar diretamente a Fração de Ejeção, o estado das paredes ventriculares e o grau de remodelamento (dilatação ou hipertrofia), sendo crucial para diferenciar ICFEr de ICFEp [13, 14].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a tríade de classes de medicamentos modificadores de mortalidade que historicamente formava o tratamento padrão ouro para a Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFEr)?",
+    "options": [
+      "Ivabradina, Diuréticos Tiazídicos (HCTZ) e Inibidores do SGLT2 (Empagliflozina).",
+      "Diuréticos de Alça (Furosemida), Vasodilatadores Diretos (Hidralazina) e Anticoagulantes Orais.",
+      "Inibidores da ECA ou BRA (Inibidores do SRAA), Betabloqueadores (Bisoprolol, Carvedilol, Metoprolol Succinato) e Antagonistas do Receptor Mineralocorticoide (ARM - Espironolactona).",
+      "Terapia Antiplaquetária Dupla (AAS e Clopidogrel), Estatinas de alta intensidade e Antagonistas da Aldosterona.",
+      "Bloqueadores dos Canais de Cálcio (BCC), Agentes Inotrópicos Positivos (Digoxina) e Nitratos (Dinitrato de Isossorbida)."
+    ],
+    "correctIndex": 2,
+    "explanation": "A tríade clássica de medicamentos modificadores de mortalidade para ICFEr é composta por Inibidores da ECA/BRA (Inibidores do SRAA), Betabloqueadores (Bisoprolol, Carvedilol e Metoprolol Succinato) e Antagonistas do Receptor Mineralocorticoide (Espironolactona) [15, 16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "No manejo da Insuficiência Cardíaca Aguda, o modelo clínico-hemodinâmico classifica os pacientes com base na perfusão (quente/frio) e na congestão (seco/congesto). Qual perfil é definido como 'Frio-Congesto' (Perfil C) e qual o tratamento inicial recomendado?",
+    "options": [
+      "Frio-Congesto (L): Mal perfundido e congesto; tratamento é Hidratação.",
+      "Quente-Congesto (B): Bem perfundido, mas congesto; tratamento é Diurético.",
+      "Quente-Seco (A): Bem perfundido e sem congestão; tratamento é Acompanhamento Clínico.",
+      "Frio-Seco (L): Mal perfundido e sem congestão; tratamento é Hidratação.",
+      "Frio-Congesto (C): Mal perfundido e congesto; tratamento é Dobutamina $\\pm$ Diurético."
+    ],
+    "correctIndex": 4,
+    "explanation": "O perfil 'Frio-Congesto' (Perfil C) é o paciente que está mal perfundido (frio) e congesto. O tratamento inicial para melhorar a perfusão (baixo débito) é o inotrópico, tipicamente Dobutamina, que pode ser associada a um diurético [12, 17].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A terapêutica com Betabloqueadores é fundamental na ICFEr. Quais são os três Betabloqueadores específicos que demonstraram reduzir a mortalidade na IC e, portanto, são utilizados para prevenir os efeitos deletérios da ativação simpática crônica?",
+    "options": [
+      "Atenolol, Propranolol e Sotalol.",
+      "Nadolol, Penbutolol e Carteolol.",
+      "Pindolol, Acebutolol e Esmolol.",
+      "Labetalol, Timolol e Betaxolol.",
+      "Bisoprolol, Succinato de Metoprolol e Carvedilol."
+    ],
+    "correctIndex": 4,
+    "explanation": "Os Betabloqueadores que demonstraram benefício na redução da mortalidade e são aprovados para o tratamento da Insuficiência Cardíaca Crônica são: Bisoprolol, Carvedilol e Succinato de Metoprolol [16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O antagonista do receptor mineralocorticoide (ARM), como a Espironolactona, faz parte do tratamento padrão da ICFEr. Qual é o seu principal mecanismo de ação que contribui para o benefício de mortalidade na IC?",
+    "options": [
+      "Aumentar a atividade dos barorreceptores, reduzindo a liberação de Angiotensina II e o tônus simpático.",
+      "Reduzir a frequência cardíaca ao inibir o canal If ('funny current'), sendo uma alternativa aos betabloqueadores em pacientes sintomáticos.",
+      "Sequestrar ácidos biliares no intestino, o que leva à depleção de colesterol hepático e aumenta a excreção fecal.",
+      "Inibir a enzima HMG-CoA redutase, o que reduz o colesterol LDL e diminui a inflamação vascular.",
+      "Bloquear os efeitos deletérios da aldosterona (retenção de sódio, fibrose miocárdica e ativação do SRAA), promovendo diurese e proteção de órgãos-alvo."
+    ],
+    "correctIndex": 4,
+    "explanation": "Os ARMs (Espironolactona/Eplerenona) atuam bloqueando os receptores de aldosterona. Isso contraria os efeitos deletérios da aldosterona no coração e vasos (fibrose, retenção de sódio e água), fornecendo benefício de mortalidade na ICFEr [18-20].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Cateterismo da Artéria Pulmonar (Cateter de Swan-Ganz) é o exame definitivo para confirmar a falência do coração esquerdo. Qual valor da Pressão Capilar Pulmonar de Oclusão (PCWP) é altamente sugestivo de Insuficiência Cardíaca Esquerda?",
+    "options": [
+      "PCWP inferior a 10 mmHg, indicando ausência de congestão pulmonar e volume adequado.",
+      "PCWP inferior a 5 mmHg, indicando hipovolemia grave e a necessidade de hidratação imediata.",
+      "PCWP entre 10 e 15 mmHg, que está dentro da faixa de pressão normal em pacientes com FEVE preservada.",
+      "PCWP superior a 18 mmHg, que indica alta pressão no coração esquerdo (e, por extensão, nos capilares pulmonares), sendo muito sugestivo de IC Esquerda.",
+      "PCWP superior a 25 mmHg, que indica estenose aórtica grave ou hipertensão pulmonar primária."
+    ],
+    "correctIndex": 3,
+    "explanation": "O Cateterismo de Swan-Ganz mede a PCWP. Um valor maior que 18 mmHg é muito sugestivo de alta pressão no coração esquerdo, indicando falência do coração esquerdo (IC Esquerda) [21].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Insuficiência Cardíaca pode levar à Anemia Severa. Qual fenótipo de IC é classificado como IC de Alto Débito e quais são algumas das etiologias clássicas dessa condição rara?",
+    "options": [
+      "IC com FEVE Preservada, com problemas de enchimento; causas incluem Hipertensão Pulmonar tipo 1 e tipo 2.",
+      "IC de Baixo Débito, com FEVE < 40%; causas incluem IM e Miocardite.",
+      "IC de Baixo Débito, com hipertrofia ventricular; causas incluem Hipertensão Crônica e Estenose Aórtica.",
+      "IC de Alto Débito, com vasodilatação maciça; causas incluem Sepsis, Beribéri (deficiência de tiamina), Tirotoxicose e Fístulas AV.",
+      "IC de Alto Débito, com vasoconstrição periférica; causas incluem Feocromocitoma e Hiperaldosteronismo."
+    ],
+    "correctIndex": 3,
+    "explanation": "A IC de Alto Débito é um tipo incomum onde o débito cardíaco está alto, mas não é suficiente para perfundir os tecidos devido à vasodilatação periférica maciça. Causas comuns incluem Sepsis, Beribéri (deficiência de tiamina), Tirotoxicose e Fístulas AV [22-24].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em pacientes com Insuficiência Cardíaca Crônica, o Betabloqueador deve ser introduzido para modular o SNS. Qual é a contraindicação de uso que exige cautela, especialmente no manejo inicial da IC Aguda?",
+    "options": [
+      "Bloqueio Atrioventricular de alto grau ou bradicardia sinusal assintomática (FC < 50 bpm).",
+      "Hipertensão Arterial Resistente (HAR), pois o BB é o quarto medicamento de escolha no tratamento.",
+      "Sinais de Congestão Pulmonar ou Edema Pulmonar, pois o BB pode reduzir a frequência cardíaca e a pós-carga, aliviando a congestão.",
+      "Estenose da artéria renal bilateral, pois o BB aumenta a produção de renina e a ativação do SRAA.",
+      "A presença de Choque Cardiogênico (hipotensão e malperfusão), pois o BB pode reduzir a contratilidade e a frequência cardíaca, exacerbando o colapso hemodinâmico."
+    ],
+    "correctIndex": 4,
+    "explanation": "O Betabloqueador reduz a contratilidade e a frequência cardíaca. Se o paciente estiver em Choque Cardiogênico (mal perfundido/frio), o BB pode agravar a hipotensão e a queda do débito cardíaco, sendo contraindicado ou devendo ser usado com extrema cautela [25].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os inibidores do cotransportador de sódio-glicose 2 (iSGLT2), como a Empagliflozina, são um dos quatro pilares do tratamento moderno da ICFEr. Qual é o mecanismo de ação primário dessa classe que confere benefício de mortalidade na IC?",
+    "options": [
+      "Aumento da degradação dos peptídeos natriuréticos (BNP/ANP), o que potencializa a ação do SRAA e melhora a função ventricular.",
+      "Inibição da Enzima Conversora de Angiotensina (ECA), reduzindo os níveis de Angiotensina II e promovendo vasodilatação.",
+      "Aumento da natriurese e aquarese (diurese de água), o que reduz a pré-carga e o volume intravascular, além de reduzir a atividade do SNS e remodelamento [26].",
+      "Aumento da reabsorção renal de sódio e água, resultando em hipervolemia controlada e melhora da pré-carga.",
+      "Bloqueio seletivo do canal If ('funny current') no nó sinusal, diminuindo a frequência cardíaca sem afetar a contratilidade."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os iSGLT2 (como Empagliflozina/Dapagliflozina) causam aquarese e natriurese (perda de água e sódio), reduzindo o volume intravascular (pré-carga), o que beneficia a IC, além de reduzir a atividade do SNS [26].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente de 58 anos com ICFEr (FEVE 30%) está em uso de doses otimizadas de IECA (Enalapril), Betabloqueador (Carvedilol) e Diurético de Alça (Furosemida). Qual é o próximo passo obrigatório para otimizar o tratamento modificador de mortalidade na ICFEr, conforme as diretrizes atuais?",
+    "options": [
+      "Encaminhar para implante de CDI e Terapia de Ressincronização Cardíaca (CRT), pois a FEVE é menor que 35% e o paciente está sintomático.",
+      "Adicionar Digoxina para aumentar a contratilidade e trocar o IECA por Hidralazina + Dinitrato de Isossorbida, devido à baixa FEVE.",
+      "Adicionar um Antagonista do Receptor Mineralocorticoide (ARM - Espironolactona) e um Inibidor do SGLT2 (iSGLT2 - Empagliflozina/Dapagliflozina), formando os quatro pilares da terapia modificadora de mortalidade.",
+      "Adicionar um Bloqueador do Canal de Cálcio (BCC - Anlodipino) e um ARB (Losartana) para atingir a meta pressórica, e realizar teste de estresse farmacológico.",
+      "Substituir o IECA (Enalapril) pelo Inibidor do Receptor de Angiotensina/Neprilisina (ARNI - Sacubitril/Valsartan) e adicionar a Ivabradina para otimizar a frequência cardíaca."
+    ],
+    "correctIndex": 2,
+    "explanation": "A otimização do tratamento modificador de mortalidade (os 4 pilares) na ICFEr deve incluir: 1) IECA/BRA/ARNI, 2) BB, 3) ARM (Espironolactona), e 4) iSGLT2. O paciente já utiliza IECA e BB, portanto, deve-se adicionar ARM e iSGLT2 [20, 27].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente de 75 anos, hipertensa crônica e diabética, chega ao PS com dispneia progressiva. A ecocardiografia mostra FEVE de 55% e hipertrofia ventricular esquerda (LVH). O BNP está discretamente elevado. Qual é o fenótipo de IC e qual achado do cateterismo seria definitivo para confirmar o diagnóstico?",
+    "options": [
+      "IC por Cardiomiopatia Dilatada; achado definitivo seria uma elevação do NT-proBNP acima de 4000 pg/mL e presença de ondas Q no ECG.",
+      "ICFEi (IC de Fração Intermediária); achado definitivo seria uma Pressão Arterial Sistólica (PAS) superior a 140 mmHg em repouso.",
+      "ICFEp (Falência Diastólica); achado definitivo seria uma Pressão Capilar Pulmonar de Oclusão (PCWP) superior a 18 mmHg.",
+      "ICFEr (Falência Sistólica); achado definitivo seria uma Pressão Capilar Pulmonar de Oclusão (PCWP) inferior a 15 mmHg.",
+      "IC de Alto Débito; achado definitivo seria uma Saturação Venosa Central (SvO2) superior a 75% e vasodilatação sistêmica."
+    ],
+    "correctIndex": 2,
+    "explanation": "O paciente apresenta FEVE $\\ge 50\\%$ e Hipertrofia Ventricular Esquerda, o que é altamente sugestivo de ICFEp (Falência Diastólica), comumente causada por hipertensão [3, 4, 28]. O diagnóstico definitivo da IC Esquerda é confirmado por uma PCWP > 18 mmHg no Cateterismo de Swan-Ganz [21].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com IC Aguda chega apresentando dispneia ao tomar banho, PA 110/70 mmHg, FC 110 bpm, Tempo de Enchimento Capilar (TEC) de 1,5 segundos (quente), e crepitantes bilaterais (congesto). Ele descompensou após ingerir 3L de água/dia. Qual o perfil hemodinâmico e qual a intervenção terapêutica inicial mais apropriada?",
+    "options": [
+      "Perfil L (Frio-Seco); o tratamento deve ser Hidratação, devido à baixa pressão e perfusão inadequada.",
+      "Perfil C (Frio-Congesto); o tratamento deve ser Dobutamina $\\pm$ Diurético, pois a perfusão está inadequada (frio).",
+      "Choque Cardiogênico; o tratamento deve ser VA ECMO e Inibidores da ECA, devido à queda da pressão arterial.",
+      "Perfil B (Quente-Congesto); o tratamento deve ser Diurético (ex: Furosemida), pois a perfusão está adequada (quente) e a causa primária é a retenção de volume (ingesta excessiva).",
+      "Perfil A (Quente-Seco); o tratamento deve ser apenas Acompanhamento Clínico e reavaliação da terapia crônica."
+    ],
+    "correctIndex": 3,
+    "explanation": "O paciente está 'quente' (bem perfundido, TEC < 2s) e 'congesto' (crepitantes, DPN). Isso define o Perfil B. O tratamento primário para o Perfil B, cuja causa é a sobrecarga volêmica (dieta/líquido inadequado), é o Diurético [12, 17, 29, 30].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com ICFEr (FEVE 30%) é assintomático, mas o ECG mostra Bloqueio de Ramo Esquerdo (LBBB). Qual dispositivo cardiovascular deve ser considerado para melhorar o prognóstico, o remodelamento ventricular e, possivelmente, a FEVE?",
+    "options": [
+      "Sistema de Assistência Ventricular Esquerda (LVAD), reservado apenas como ponte para o transplante cardíaco em pacientes refratários.",
+      "Cardiodesfibrilador Implantável (CDI), indicado apenas se a FEVE for inferior a 25% e houver arritmia ventricular prévia.",
+      "Terapia de Ressincronização Cardíaca (CRT), indicada em pacientes com FEVE $\\le 35\\%$ e LBBB (ou QRS alargado), pois melhora a sincronia ventricular.",
+      "Bomba de Balão Intra-Aórtico (IABP), indicado apenas no manejo agudo do choque cardiogênico para melhorar a perfusão coronária diastólica.",
+      "Implante de marca-passo biventricular, independentemente do LBBB ou FEVE, para otimizar a frequência cardíaca em bradicardia sinusal."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Terapia de Ressincronização Cardíaca (CRT) é indicada em pacientes com LVEF $\\le 35\\%$ e Bloqueio de Ramo Esquerdo (LBBB), pois corrige a dessincronia ventricular, melhorando potencialmente a FEVE [31].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente em Choque Cardiogênico (hipotensão e malperfusão sistêmica) devido a um IM maciço está refratário a altas doses de Dobutamina e Milrinone. Qual é o tratamento de suporte hemodinâmico de emergência que deve ser considerado como ponte para a recuperação ou para o transplante?",
+    "options": [
+      "Aumentar a dose de Espironolactona para otimizar a diurese e iniciar Hidratação intravenosa agressiva para aumentar o volume e a pré-carga.",
+      "Início de Betabloqueador intravenoso (Esmolol) e Diurético de Alça (Furosemida) para reduzir o consumo de oxigênio miocárdico e a congestão pulmonar.",
+      "Uso de suporte circulatório mecânico, como VA ECMO (Oxigenação por Membrana Extracorpórea Veno-Arterial) ou Balão Intra-Aórtico (IABP), para manter a perfusão sistêmica e coronária.",
+      "Realizar a Terapia de Ressincronização Cardíaca (CRT) emergencialmente, corrigindo o LBBB e otimizando a sincronia ventricular.",
+      "Adicionar Digoxina para aumentar a contratilidade e Hidralazina para reduzir a pós-carga arterial, mantendo o paciente em ventilação não invasiva (BiPAP)."
+    ],
+    "correctIndex": 2,
+    "explanation": "Em Choque Cardiogênico refratário a inotrópicos, o próximo passo são os dispositivos de suporte circulatório mecânico, como o Balão Intra-Aórtico (IABP) ou o VA ECMO, que ajudam a manter a perfusão sistêmica e coronária como ponte [32].",
+    "type": "raciocínio"
+  }
+]

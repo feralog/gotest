@@ -1,0 +1,509 @@
+[
+  {
+    "question": "Qual é a definição de nódulo cervical e qual o critério dimensional para sua caracterização?",
+    "options": [
+      "Lesões endurecidas com mais de 1,5cm de diâmetro na região do pescoço por fibrose tecidual pós-inflamatória crônica",
+      "Formações císticas com mais de 2cm de diâmetro na região do pescoço por acúmulo de líquido seroso",
+      "Formações sólidas com mais de 1cm de diâmetro na região do pescoço por crescimento anormal de células",
+      "Tumefações moles com mais de 0,5cm de diâmetro na região do pescoço por hiperplasia linfocítica reativa",
+      "Massas flutuantes com mais de 3cm de diâmetro na região do pescoço por dilatação vascular linfática congênita"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nódulos cervicais são formações sólidas com mais de um centímetro (1cm) de diâmetro que aparecem na região do pescoço devido ao crescimento anormal de células. Podem ser causados por diversas origens como aumento de linfonodos, cistos ou nódulos tireoidianos, e os sintomas variam de acordo com localização, tamanho e causa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as três grandes categorias etiológicas dos nódulos cervicais?",
+    "options": [
+      "Traumáticas (hematomas cervicais), metabólicas (bócio tireoidiano), vasculares (aneurismas carotídeos)",
+      "Genéticas (síndromes hereditárias), endócrinas (adenomas paratireoides), infecciosas (abscessos bacterianos)",
+      "Degenerativas (aterosclerose arterial), autoimunes (tireoidite Hashimoto), iatrogênicas (complicações pós-cirúrgicas)",
+      "Congênitas (cistos branquiais/ducto tireoglosso), inflamatórias (linfonodos reacionais), neoplásicas (tumores cabeça/pescoço)",
+      "Idiopáticas (origem desconhecida), nutricionais (deficiência de iodo), tóxicas (exposição química ambiental)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O diagnóstico etiológico dos nódulos cervicais divide-se em três grandes categorias: doenças congênitas (alterações presentes desde nascimento como cistos branquiais e cisto do ducto tireoglosso), doenças inflamatórias (infecções causando linfonodos cervicais reacionais) e neoplasias (tumores da região da cabeça e pescoço).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a distribuição epidemiológica das massas cervicais em pacientes de 0-15 anos?",
+    "options": [
+      "60% adenopatias inflamatórias/infecciosas, 25% lesões congênitas, 15% neoplasias",
+      "80% adenopatias inflamatórias/infecciosas, 15% lesões congênitas, 5% neoplasias",
+      "75% adenopatias inflamatórias/infecciosas, 20% lesões congênitas, 5% neoplasias",
+      "40% adenopatias inflamatórias/infecciosas, 40% lesões congênitas, 20% neoplasias",
+      "50% adenopatias inflamatórias/infecciosas, 30% lesões congênitas, 20% neoplasias"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em pacientes de 0-15 anos, aproximadamente 75% das massas cervicais são representadas por adenopatias inflamatórias ou infecciosas, 20% por lesões congênitas e apenas 5% pelas neoplasias. Esta distribuição é importante para direcionar a investigação diagnóstica nesta faixa etária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a distribuição epidemiológica das massas cervicais em adultos maiores de 40 anos?",
+    "options": [
+      "Cerca de 70% origem neoplásica, restante distribuído igualmente entre inflamatória e congênita",
+      "Cerca de 90% origem neoplásica, restante inflamatória (menos comum) e congênita (mais comum)",
+      "Cerca de 60% origem neoplásica, restante inflamatória (mais comum) e congênita (igualmente comum)",
+      "Cerca de 50% origem neoplásica, restante congênita (mais comum) e inflamatória (menos comum)",
+      "Cerca de 80% origem neoplásica, restante inflamatória (mais comum) e congênita (menos comum)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Nos adultos maiores de 40 anos, cerca de 80% dos casos de massas cervicais são de origem neoplásica. As alterações inflamatórias e do desenvolvimento embrionário (congênitas) representam o restante, sendo esta última a menos comum. Este panorama torna mandatória a investigação agressiva de malignidade nesta faixa etária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 8 anos com nódulo cervical há 5 dias, febre e dor local. Paciente de 55 anos com nódulo cervical há 3 meses, indolor, crescimento progressivo. Qual a probabilidade etiológica mais provável em cada caso?",
+    "options": [
+      "Criança: 60% infeccioso (tuberculose ganglionar), Adulto >40 anos: 50% inflamatório (sarcoidose sistêmica)",
+      "Criança: 90% neoplásico (linfoma não-Hodgkin), Adulto >40 anos: 70% congênito (cisto tireoglosso tardio)",
+      "Criança: 50% congênito (cisto branquial infectado), Adulto >40 anos: 60% inflamatório (adenite tuberculosa crônica)",
+      "Criança: 75% inflamatório/infeccioso (adenite aguda), Adulto >40 anos: 80% neoplásico (investigar malignidade)",
+      "Criança: 80% congênito (hemangioma complicado), Adulto >40 anos: 90% infeccioso (abscesso cervical profundo)"
+    ],
+    "correctIndex": 3,
+    "explanation": "A faixa etária é crucial no diagnóstico diferencial. Criança de 8 anos com nódulo febril e agudo tem 75% probabilidade de adenopatia inflamatória/infecciosa (adenite bacteriana). Adulto de 55 anos com nódulo indolor, crescimento progressivo tem 80% probabilidade de origem neoplásica, exigindo investigação agressiva para malignidade. O quadro clínico (agudo vs crônico, febril vs afebril) reforça essas probabilidades epidemiológicas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais características da anamnese são fundamentais na avaliação de massas cervicais?",
+    "options": [
+      "Somente consistência palpável endurecida/amolecida, mobilidade do nódulo e aderência a planos profundos do pescoço",
+      "Apenas tamanho do nódulo medido em centímetros, presença de dor à palpação e história familiar de câncer",
+      "Localização, taxa de crescimento, sinais/sintomas, idade de início, duração e sinais sistêmicos (febre/sudorese/fadiga/perda peso)",
+      "Exclusivamente cor da pele sobrejacente avermelhada, temperatura local aumentada e presença de pulsação arterial",
+      "Unicamente lateralidade direita/esquerda do nódulo, relação com deglutição e resposta prévia a antibióticos empíricos"
+    ],
+    "correctIndex": 2,
+    "explanation": "A anamnese completa deve incluir: características da massa (localização, taxa de crescimento, sinais/sintomas), idade de início e duração dos sintomas, e sinais sistêmicos de doença (febre, sudorese noturna, fadiga, perda de peso). Estas informações fornecem pistas sobre a natureza da lesão e direcionam o exame físico e propedêutica complementar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais sinais e sintomas sugerem que uma massa cervical seja neoplasia compressiva ou invasiva?",
+    "options": [
+      "Dor pulsátil cervical, sopro audível à ausculta, frêmito palpável e cianose das extremidades",
+      "Epistaxe recorrente, obstrução nasal progressiva, rouquidão, paralisia de nervos cranianos ou otorreia",
+      "Tosse produtiva crônica, dispneia aos esforços, sibilância expiratória e dor torácica pleurítica",
+      "Febre alta persistente, calafrios intensos, sudorese noturna profusa e perda ponderal aguda em semanas",
+      "Prurido generalizado, lesões cutâneas disseminadas, icterícia progressiva e hepatoesplenomegalia maciça"
+    ],
+    "correctIndex": 1,
+    "explanation": "Epistaxe recorrente, obstrução nasal progressiva, rouquidão, paralisia de nervos cranianos ou otorreia são indicativos de neoplasia que comprime ou invade tecidos normais adjacentes. Esses sintomas compressivos/invasivos sugerem tumor de vias aéreas superiores com extensão local, sendo sinais de alerta para malignidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a importância da localização cervical na diferenciação etiológica dos nódulos?",
+    "options": [
+      "Nódulos supraclaviculares tendem a ser inflamatórios, nódulos submandibulares tendem a ser neoplásicos metastáticos",
+      "Nódulos anteriores tendem a ser congênitos benignos, nódulos laterais tendem a ser inflamatórios reativos",
+      "Nódulos cervicais altos tendem a ser neoplásicos, nódulos cervicais baixos tendem a ser inflamatórios",
+      "Nódulos linha média tendem a ser neoplásicos malignos, nódulos posteriores tendem a ser congênitos tardios",
+      "Nódulos posteriores tendem a ser inflamatórios, nódulos na fossa supraclavicular tendem a ser neoplásicos"
+    ],
+    "correctIndex": 4,
+    "explanation": "A localização fornece pista diagnóstica importante: nódulos na região posterior do pescoço tendem a ser inflamatórios (adenites reativas), enquanto nódulos na fossa supraclavicular tendem a ser neoplásicos (metástases ou linfomas). Esta informação é particularmente importante na diferenciação de lesões e orienta decisões sobre biópsia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a importância da história de tabagismo e etilismo na avaliação de massas cervicais?",
+    "options": [
+      "Suspeita de adenoma paratireoidiano secretor por hiperplasia glandular secundária à toxicidade alcoólica crônica",
+      "Suspeita de hemangioma adquirido de manifestação tardia por vasodilatação crônica induzida pelo etilismo",
+      "Suspeita de lipoma cervical progressivo por deposição adiposa relacionada ao consumo crônico de álcool",
+      "Suspeita de linfadenopatia metastática de carcinoma células escamosas (CCE) vias aéreas/digestivas superiores, principalmente em indivíduos >40 anos",
+      "Suspeita de cisto sebáceo infectado recorrente por imunossupressão causada pelo tabagismo prolongado"
+    ],
+    "correctIndex": 3,
+    "explanation": "História pregressa ou atual de tabagismo ou etilismo levanta suspeita de que a massa cervical seja linfadenopatia metastática proveniente de carcinoma de células escamosas (CCE) das vias aéreas e digestivas superiores, principalmente em indivíduos mais velhos (>40 anos). Esta associação é importante para direcionar investigação endoscópica de tumor primário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características da consistência das massas cervicais e sua correlação diagnóstica?",
+    "options": [
+      "Endurecida: autoimune ou metabólica, Flutuante: granulomatosa crônica, Fixação: sugere hemangioma",
+      "Endurecida: infecciosa ou maligna, Flutuante: abscesso ou cística, Fixação: sugere malignidade",
+      "Endurecida: sempre benigna autolimitada, Flutuante: sempre maligna agressiva, Fixação: sugere inflamação",
+      "Endurecida: congênita apenas, Flutuante: sempre lipoma benigno, Fixação: sugere adenite bacteriana",
+      "Endurecida: vascular ou traumática, Flutuante: neoplásica avançada, Fixação: sugere benignidade"
+    ],
+    "correctIndex": 1,
+    "explanation": "A consistência é útil na classificação: massas endurecidas tendem a ocorrer em processos infecciosos ou malignos, massas flutuantes ocorrem em abcessos em formação ou lesões císticas. Fixação da massa à pele e/ou estruturas profundas do pescoço sugere fortemente malignidade por invasão tecidual.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com nódulo cervical de 3cm, endurecido, fixo a planos profundos, indolor, crescimento progressivo há 4 meses. Qual a interpretação das características e suspeita diagnóstica?",
+    "options": [
+      "Características de adenite granulomatosa (móvel/bilateral/múltiplos), suspeitar tuberculose ganglionar, indicar teste tuberculínico",
+      "Características sugestivas de malignidade (endurecido/fixo/>2cm/evolução insidiosa), suspeitar neoplasia, indicar biópsia",
+      "Características de lipoma simples benigno (amolecido/móvel/<2cm/estável), suspeitar lesão adiposa, conduta expectante",
+      "Características de adenite bacteriana aguda (endurecido/doloroso), suspeitar infecção estreptocócica, indicar antibioticoterapia",
+      "Características de cisto congênito complicado (flutuante/móvel), suspeitar cisto branquial infectado, indicar ultrassonografia"
+    ],
+    "correctIndex": 1,
+    "explanation": "O nódulo apresenta múltiplas características sugestivas de malignidade: (1) consistência endurecida, (2) fixação a planos profundos (invasão tecidual), (3) tamanho >2cm (neoplasias habitualmente >2cm), (4) indolor (neoplasias não têm sinais flogísticos inicialmente), (5) evolução insidiosa progressiva. Estas características indicam forte suspeita de neoplasia, exigindo biópsia para diagnóstico histológico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a divisão anatômica clássica do pescoço e suas principais regiões?",
+    "options": [
+      "Pescoço central e lateral (triângulos anterior/posterior): cervical anterior, trigono submandibular, carotídeo, esternocleidomastoideia, supraclavicular, cervical lateral",
+      "Pescoço visceral e neurovascular (compartimentos funcionais): bainha carotídea, loja tireoidiana, espaço submandibular",
+      "Pescoço anterior e posterior (níveis ganglionares): nível I a VI segundo classificação oncológica",
+      "Pescoço profundo e superficial (camadas fasciais): espaço retrofaríngeo, espaço parafaríngeo, espaço prevertebral",
+      "Pescoço superior e inferior (compartimentos medial/lateral): zona parotídea, zona mandibular, zona hioidea, zona cricoidea"
+    ],
+    "correctIndex": 0,
+    "explanation": "O pescoço é tradicionalmente dividido em pescoço central e lateral, com o pescoço lateral subdividido em triângulos anteriores e posteriores. As principais regiões incluem: cervical anterior, trigono submandibular, carotídeo, esternocleidomastoideia, supraclavicular e cervical lateral. Esta anatomia é fundamental para diagnóstico e gerenciamento de doenças cervicais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais estruturas anatômicas são palpáveis na região anterior do pescoço?",
+    "options": [
+      "Glândula parótida, músculo masseter, ramo mandibular e articulação temporomandibular",
+      "Músculo esternocleidomastoideo, veia jugular externa, artéria carótida comum e nervo vago",
+      "Proeminência laríngea, osso hióide, cartilagem cricóide, incisura jugular e glândula tireoide",
+      "Linfonodos cervicais profundos, cadeia espinhal acessória, plexo braquial e músculos escalenos",
+      "Processo espinhoso C2, protuberância occipital externa, processo espinhoso C7 e músculo trapézio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na palpação anterior do pescoço são identificáveis: proeminência laríngea (pomo de Adão), osso hióide (acima da cartilagem tireoide), cartilagem cricóide (abaixo da tireoide), incisura jugular (fúrcula esternal) e glândula tireoide. Estas estruturas servem como referência anatômica para localizar massas cervicais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a drenagem linfática da cadeia submental e submandibular?",
+    "options": [
+      "Submental: glândula tireoide/paratireoides; Submandibular: glândulas salivares menores",
+      "Submental: orelha inferior/parótida; Submandibular: couro cabeludo occipital/nuca/região posterior",
+      "Submental: tórax/abdome; Submandibular: traqueia/nasofaringe/palato/esôfago cervical",
+      "Submental: lábio inferior/assoalho boca/ápice língua; Submandibular: bochecha/lateral nariz/lábio inferior/gengivas/língua anterior",
+      "Submental: cavidades nasais/seios paranasais; Submandibular: laringe/esôfago/tireoide"
+    ],
+    "correctIndex": 3,
+    "explanation": "A cadeia submental drena: lábio inferior, assoalho da boca e ápice da língua. A cadeia submandibular drena: bochecha, lateral do nariz, lábio inferior, gengivas e língua anterior. Este conhecimento é essencial para identificar possível sítio primário quando há linfadenopatia metastática nestas cadeias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a drenagem linfática da cadeia cervical profunda e supraclavicular?",
+    "options": [
+      "Cervical profundo: unicamente glândulas salivares; Supraclavicular: unicamente mama",
+      "Cervical profundo: nodos cabeça/pescoço/couro occipital/orelha/nuca/língua/traqueia/nasofaringe/palato/esôfago; Supraclavicular: tórax/abdome",
+      "Cervical profundo: apenas glândula tireoide/paratireoides; Supraclavicular: apenas pulmões",
+      "Cervical profundo: exclusivamente pele face/couro cabeludo; Supraclavicular: exclusivamente fígado",
+      "Cervical profundo: somente músculos cervicais/vértebras; Supraclavicular: somente estômago"
+    ],
+    "correctIndex": 1,
+    "explanation": "A cadeia cervical profunda drena: outros nodos da cabeça e pescoço, couro cabeludo occipital, orelha, nuca, língua, traqueia, nasofaringe, cavidades nasais, palato e esôfago. A cadeia supraclavicular drena tórax e abdome. Linfadenopatia supraclavicular esquerda (nódulo de Virchow) pode indicar neoplasia abdominopélvica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com linfadenopatia em cadeia cervical profunda direita. Considerando a drenagem linfática, quais sítios primários devem ser investigados prioritariamente?",
+    "options": [
+      "Couro cabeludo occipital/orelha/língua/traqueia/nasofaringe/cavidades nasais/palato/esôfago (áreas drenadas por cervical profundo)",
+      "Exclusivamente mama/axila/parede torácica (áreas drenadas por cadeia mamária interna)",
+      "Somente bochecha/lateral nariz/gengivas (áreas drenadas por cadeia submandibular)",
+      "Apenas lábio inferior/assoalho boca/ápice língua (áreas drenadas por cadeia submental)",
+      "Tórax e abdome exclusivamente (áreas drenadas por cadeia supraclavicular)"
+    ],
+    "correctIndex": 0,
+    "explanation": "A cadeia cervical profunda drena extensas áreas da cabeça e pescoço: couro cabeludo occipital, orelha, nuca, língua, traqueia, nasofaringe, cavidades nasais, palato e esôfago. Linfadenopatia nesta cadeia exige investigação endoscópica (nasofibrolaringoscopia) e de imagem dessas regiões para identificar possível tumor primário, especialmente em paciente >40 anos com fatores de risco (tabagismo/etilismo).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais exames laboratoriais são importantes na investigação de quadros inflamatórios/infecciosos cervicais?",
+    "options": [
+      "Exclusivamente gasometria arterial, lactato sérico elevado e procalcitonina",
+      "Hemograma, proteínas de fase aguda (PCR/VHS) e sorologias específicas conforme suspeita clínica",
+      "Somente marcadores tumorais (CEA/CA 19-9/alfa-fetoproteína) e coagulograma completo",
+      "Apenas dosagem de cálcio sérico elevado e hormônios tireoidianos (T3/T4/TSH)",
+      "Unicamente eletroforese de proteínas, complemento sérico e fator reumatoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Exames laboratoriais como hemograma (leucocitose, desvio à esquerda), proteínas de fase aguda (PCR elevada, VHS acelerado) e sorologias (específicas para vírus Epstein-Barr, citomegalovírus, HIV, toxoplasmose conforme suspeita) são importantes principalmente nos quadros inflamatórios/infecciosos que cursam com linfadenopatia reativa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a indicação de dosagem de cálcio sérico e função tireoidiana na avaliação de massas cervicais?",
+    "options": [
+      "Cálcio elevado: suspeita de tuberculose; Função tireoidiana: avaliação de abscessos cervicais",
+      "Cálcio elevado: suspeita de adenite bacteriana; Função tireoidiana: avaliação de linfomas cervicais",
+      "Cálcio elevado: suspeita de sarcoidose; Função tireoidiana (T3/T4/TSH): avaliação de massas tireoidianas",
+      "Cálcio elevado: suspeita de lipoma; Função tireoidiana: avaliação de cistos branquiais",
+      "Cálcio elevado: suspeita de hemangioma; Função tireoidiana: avaliação de linfangiomas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Um nível elevado de cálcio sérico pode sugerir sarcoidose (doença granulomatosa com hipercalcemia por aumento da produção de vitamina D pelos granulomas). Os testes de função tireoidiana (T3, T4, TSH) são necessários na avaliação das massas tireoidianas para determinar estado funcional da glândula (eutireoidismo, hipertireoidismo, hipotireoidismo).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais indicações da ultrassonografia na avaliação de massas cervicais?",
+    "options": [
+      "Somente avalia fluxo vascular em hemangiomas e malformações arteriovenosas complexas",
+      "Unicamente mede diâmetro anteroposterior preciso de nódulos tireoidianos maiores que 5cm",
+      "Exclusivamente diagnostica calcificações em linfonodos granulomatosos tuberculosos crônicos",
+      "Apenas guia biópsia percutânea de linfonodos profundos não palpáveis em pacientes obesos mórbidos",
+      "Diferencia sólido vs cístico (90% acurácia), avalia congênitas/salivares/tireoide, confirma tireoide em posição habitual, guia PAAF"
+    ],
+    "correctIndex": 4,
+    "explanation": "A ultrassonografia (US) diferencia massas sólidas de císticas com acurácia em torno de 90%. É útil na avaliação de massas congênitas (cisto branquial, cisto ducto tireoglosso), afecções de glândulas salivares e tireoide. A US também confirma presença da tireoide em posição habitual, evitando exérese inadvertida de tireoide ectópica, e pode guiar PAAF.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a utilidade da PAAF na avaliação de massas cervicais?",
+    "options": [
+      "Unicamente para aspiração de conteúdo de cistos sebáceos infectados antes de antibioticoterapia",
+      "Fornece informação sobre natureza cística/sólida, obtém material para citologia/bioquímica/microbiologia",
+      "Somente para injeção de contraste em fistulografia de trajetos branquiais complexos",
+      "Exclusivamente para aplicação de corticoides intralesionais em queloides cervicais hipertróficos",
+      "Apenas para drenagem terapêutica de abscessos cervicais profundos não acessíveis cirurgicamente"
+    ],
+    "correctIndex": 1,
+    "explanation": "A PAAF (Punção Aspirativa por Agulha Fina) fornece informação sobre a natureza cística ou sólida da massa, além de obter material para exame citológico (células neoplásicas), bioquímico (dosagem de tireoglobulina em cisto) ou microbiológico (cultura, pesquisa BAAR). É procedimento minimamente invasivo, ambulatorial e de baixo custo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os princípios e indicações da biópsia cirúrgica de linfonodos cervicais?",
+    "options": [
+      "Indicada apenas em massas tireoidianas, deve ser sempre incisional parcial, escolher qualquer nódulo superficial acessível",
+      "Indicada exclusivamente em abscessos, deve ser por drenagem simples sem ressecção, escolher ponto de maior flutuação",
+      "Indicada em linfadenopatias, deve ser excisional sem violação cápsula, escolher por características (tamanho/localização/fixação/tempo) não por facilidade",
+      "Indicada unicamente em lipomas, deve ser por enucleação capsular completa, escolher lesão de menor tamanho",
+      "Indicada somente em cistos congênitos, deve ser por curetagem interna da parede, escolher lesão mais superficial"
+    ],
+    "correctIndex": 2,
+    "explanation": "A biópsia cirúrgica está indicada principalmente em linfadenopatias. Deve ser sempre que possível excisional (linfonodo inteiro) e sem violação da cápsula (evita fístulas em adenopatias granulomatosas e mantém arquitetura para diagnóstico). A escolha não deve ser por facilidade técnica mas por características clínicas: tamanho, localização, fixação e tempo de evolução. Linfonodo ideal é o maior e mais antigo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a importância da localização dos linfonodos na escolha para biópsia diagnóstica?",
+    "options": [
+      "Submentoniano/occipital: contraindicados absolutamente; Supraclaviculares: sem valor diagnóstico algum",
+      "Submentoniano/occipital: exclusivos para sarcoidose; Supraclaviculares: exclusivos para metástases",
+      "Submentoniano/occipital: sempre diagnósticos específicos (preferir); Supraclaviculares: sempre inespecíficos (evitar)",
+      "Submentoniano/occipital: apenas para tuberculose ganglionar; Supraclaviculares: apenas para linfomas",
+      "Submentoniano/occipital: altos índices inespecíficos (evitar); Supraclaviculares: mais auxiliam no diagnóstico (preferir quando presentes)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os linfonodos localizados nas regiões submentoniana e occipital, tecnicamente mais fáceis de serem removidos, têm os mais altos índices de resultados inespecíficos (hiperplasia reativa sem diagnóstico definitivo). Os linfonodos supraclaviculares são os que mais auxiliam no diagnóstico da etiologia das linfadenopatias, especialmente para identificar metástases de neoplasias intratorácicas ou intra-abdominais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com linfadenopatia cervical persistente há 6 semanas, múltiplos linfonodos palpáveis: occipital 1,5cm móvel há 2 semanas, supraclavicular esquerdo 2,5cm fixo há 6 semanas, submentoniano 1cm móvel há 1 semana. Qual linfonodo deve ser biopsiado prioritariamente?",
+    "options": [
+      "Supraclavicular esquerdo 2,5cm fixo há 6 semanas (maior volume/mais antigo/localização diagnóstica/características sugestivas malignidade)",
+      "Nenhum deve ser biopsiado (aguardar mais 6 semanas para confirmar persistência/observação clínica)",
+      "Occipital 1,5cm móvel há 2 semanas (tamanho intermediário/localização posterior/fácil acesso/boa visualização)",
+      "Qualquer dos três indistintamente (todos têm mesmo valor diagnóstico/devem ser removidos simultaneamente)",
+      "Submentoniano 1cm móvel há 1 semana (mais acessível tecnicamente/superficial/menor risco cirúrgico/fácil abordagem)"
+    ],
+    "correctIndex": 0,
+    "explanation": "O linfonodo supraclavicular deve ser escolhido por múltiplos motivos: (1) supraclaviculares mais auxiliam no diagnóstico (submentoniano/occipital têm altos índices inespecíficos), (2) maior volume (2,5cm), (3) mais antigo (6 semanas - alterações diagnósticas podem não estar presentes em linfonodos recentes), (4) fixação sugere malignidade, (5) supraclavicular esquerdo pode indicar neoplasia abdominopélvica (nódulo de Virchow). Não escolher por facilidade técnica mas por características clínicas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as características clínicas típicas das adenites cervicais?",
+    "options": [
+      "Causa rara de massa cervical, evolução crônica sem resolução espontânea, início insidioso sem sinais flogísticos, geralmente >2cm esféricos supraclavicular únicos unilaterais",
+      "Causa menos frequente que neoplasias, evolução subaguda recidivas, início súbito sem dor, geralmente 1,5cm alongados occipital variável número lateralidade alterna semanalmente",
+      "Causa intermediária de massa cervical, resolução apenas antibioticoterapia prolongada, início gradual febre baixa, geralmente 2cm exatos irregulares submandibular dois/três agrupados sempre bilaterais",
+      "Causa mais comum de massa inflamatória cervical, autolimitada resolução espontânea semanas, início súbito sinais flogísticos, geralmente <2cm ovais cervical alta múltiplos bilaterais",
+      "Causa exclusiva em idosos, cronificação obrigatória, início gradual prurido, geralmente <1cm poligonais submentoniano sempre solitários sempre unilaterais sem manifestações sistêmicas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Adenite é causa mais comum de massa inflamatória no pescoço. É tipicamente autolimitada com resolução espontânea em semanas. Apresenta início súbito com sinais flogísticos (dor, hiperemia, calor, flutuação). Frequentemente são <2cm, ovais, localizados na região cervical alta, múltiplos e bilaterais desde o início, quase sempre acompanhados de sinais sistêmicos revelando infecção (febre, mal-estar).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a condição benigna mais comum das glândulas salivares e sua complicação frequente?",
+    "options": [
+      "Adenoma pleomórfico (tumor misto) é condição benigna mais comum, nunca causando sintomas inflamatórios",
+      "Sialadenose (hipertrofia glandular) é condição benigna mais comum, eventualmente causando obstrução ductal",
+      "Sialometaplasia necrosante (necrose isquêmica) é condição benigna mais comum, frequentemente causando ulceração",
+      "Mucocele (cisto retenção mucosa) é condição benigna mais comum, raramente causando infecção secundária",
+      "Sialolitíase (cálculos glândulas salivares) é condição benigna mais comum, comumente causando sialoadenite (inflamação glandular)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Sialolitíase (presença de cálculos nas glândulas salivares) é a condição benigna mais comum das glândulas salivares. A sialoadenite (inflamação das glândulas salivares) é mais comumente causada por sialolitíase, pela obstrução ductal que o cálculo provoca, levando a estase salivar, infecção retrógrada e tumefação dolorosa da glândula.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza a sarcoidose e como ela pode manifestar-se como massa cervical?",
+    "options": [
+      "Doença autoimune sistêmica vasculite granulomatosa, massa cervical por trombose venosa jugular, cálcio sérico reduzido",
+      "Doença neoplásica hematológica infiltração linfocítica, massa cervical por metástases linfonodais, cálcio sérico variável",
+      "Doença metabólica hereditária deposição de cristais, massa cervical por tofos gotosos, cálcio sérico baixo",
+      "Doença infecciosa bacteriana granulomas caseosos, massa cervical apenas por abscesso frio, cálcio sérico sempre normal",
+      "Doença granulomatosa sistêmica etiologia desconhecida granulomas não caseosos, massa cervical por acometimento linfonodos/glândulas salivares, cálcio sérico elevado"
+    ],
+    "correctIndex": 4,
+    "explanation": "Sarcoidose é doença granulomatosa sistêmica de etiologia desconhecida, caracterizada pelo envolvimento de pele, vísceras e linfonodos com formação de granulomas não caseosos (diferente da tuberculose que tem granulomas caseosos). Pode gerar massa cervical pelo acometimento de linfonodos e glândulas salivares. Cálcio sérico elevado é achado característico (hipercalcemia por produção excessiva de vitamina D pelos granulomas).",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza a síndrome de Sjögren e suas manifestações cervicais?",
+    "options": [
+      "Neuropatia autoimune desmielinização nervos cranianos causando paralisia facial/disgeusia, tumefação cervical por neuroma",
+      "Endocrinopatia autoimune destruição glândulas tireoide/paratireoides causando hipotireoidismo/hipocalcemia, tumefação cervical por bócio compensatório",
+      "Exocrinopatia autoimune infiltração linfocítica glândulas lacrimais/salivares causando xerostomia/xeroftalmia progressivas, tumefação cervical por acometimento glandular",
+      "Miopatia autoimune degeneração músculos cervicais causando disfagia/disfonia progressivas, tumefação cervical por pseudohipertrofia",
+      "Vasculopatia autoimune oclusão artérias carótidas causando isquemia cerebral/amaurose fugaz, tumefação cervical por aneurismas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Síndrome de Sjögren é exocrinopatia autoimune caracterizada por infiltração linfocítica de glândulas lacrimais e salivares, levando a xerostomia (boca seca) e xeroftalmia (olho seco) progressivas. Gera tumefação cervical por acometimento glandular salivar (parótidas e submandibulares aumentadas). Pode apresentar parotidite de repetição.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com linfonodomegalia cervical bilateral simétrica há 8 semanas, indolor, sem sinais flogísticos, com xerostomia, xeroftalmia e aumento das glândulas parótidas. Qual o diagnóstico diferencial mais provável?",
+    "options": [
+      "Linfoma não-Hodgkin (neoplasia hematológica/geralmente sem xerostomia-xeroftalmia/evolução rápida)",
+      "Cisto branquial bilateral (congênito/flutuante/não causa xerostomia-xeroftalmia/2ª-3ª décadas)",
+      "Sialolitíase bilateral (cálculos salivares/dor relacionada refeições/evolução intermitente)",
+      "Adenite bacteriana aguda bilateral (infecção sinais flogísticos/febre/evolução aguda dias/semanas)",
+      "Síndrome de Sjögren (exocrinopatia autoimune infiltração linfocítica glandular/xerostomia/xeroftalmia/parotidite)"
+    ],
+    "correctIndex": 4,
+    "explanation": "A tríade xerostomia + xeroftalmia + tumefação de glândulas salivares é altamente sugestiva de síndrome de Sjögren. A linfonodomegalia cervical indolor sem sinais flogísticos por 8 semanas, associada ao aumento glandular salivar bilateral, consolida a hipótese. Adenite teria sinais flogísticos e evolução aguda. Linfoma teria evolução mais rápida e não explicaria xerose. Cistos seriam flutuantes e não causam xerose. Sialolitíase teria dor relacionada à alimentação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as lesões congênitas cervicais mais comuns?",
+    "options": [
+      "Apenas teratoma, cisto dermoide e ranula são consideradas lesões congênitas cervicais comuns",
+      "Unicamente aneurisma carotídeo, fístula arteriovenosa e divertículo faríngeo são congênitos comuns",
+      "Exclusivamente bócio, adenoma paratireoidiano e cisto sebáceo são lesões congênitas cervicais",
+      "Somente lipoma, fibroma e neurofibroma representam lesões congênitas cervicais frequentes",
+      "Linfangioma, hemangioma, cisto do ducto tireoglosso e cistos branquiais são as lesões congênitas comuns"
+    ],
+    "correctIndex": 4,
+    "explanation": "As massas cervicais congênitas comuns incluem: linfangioma (malformação linfática), hemangioma (malformação vascular), cisto do ducto tireoglosso (anomalia linha média) e cistos branquiais (anomalia de arcos branquiais). As lesões menos comuns são cisto dermoide, teratoma e outras raras. Estas lesões são tipicamente notadas em crianças como massas flutuantes e macias, usualmente não dolorosas exceto se infectadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características do cisto do ducto tireoglosso?",
+    "options": [
+      "Anomalia congênita mais comum pescoço, formação cística linha mediana cervical anterior, move com deglutição/protrusão língua, tratamento: Sistrunk (exérese+porção mediana osso hioide)",
+      "Anomalia adquirida comum pescoço, formação flutuante posterior, move horizontalmente com rotação cervical, tratamento: punção aspirativa simples",
+      "Anomalia adquirida rara pescoço, formação endurecida submandibular, move com mastigação, tratamento: radioterapia local",
+      "Anomalia congênita intermediária pescoço, formação irregular supraclavicular, não move com protrusão língua, tratamento: antibioticoterapia prolongada",
+      "Anomalia congênita rara pescoço, formação sólida lateral, não move com deglutição, tratamento: apenas observação expectante"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cisto do ducto tireoglosso é a anomalia congênita mais comum do pescoço. Caracteriza-se por formação nodular cística localizada na linha mediana da região cervical anterior. São lesões fibroelásticas que se movem verticalmente com a deglutição e com a protrusão da língua (patognomônico). O tratamento é cirúrgico: operação de Sistrunk - exérese completa do cisto, de todo trajeto do ducto tireoglosso incluindo a porção mediana do osso hioide (previne recidiva).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características dos cistos branquiais?",
+    "options": [
+      "Correspondem a 3/4 doenças congênitas, ocorrem 6ª década, surgem após radioterapia, massa irregular fixa profunda fossa supraclavicular",
+      "Correspondem a 1/4 doenças congênitas, ocorrem ao nascimento, surgem após choro intenso, massa sólida dolorosa posterior junto trapézio",
+      "Correspondem a 1/3 doenças congênitas, ocorrem 2ª-3ª décadas, surgem após infecção trato aerodigestivo superior, massa flutuante não dolorosa profunda junto borda anterior esternocleidomastoideo",
+      "Correspondem a metade doenças congênitas, ocorrem 4ª-5ª décadas, surgem após trauma cervical direto, massa pulsátil não dolorosa lateral junto carótida",
+      "Correspondem a 2/3 doenças congênitas, ocorrem 1ª década, surgem espontaneamente sem fator desencadeante, massa endurecida dolorosa superficial linha mediana cervical"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cisto branquial corresponde a um terço (1/3) das doenças congênitas, ocorre mais comumente na segunda e terceira décadas e surge frequentemente após processo infeccioso do trato aerodigestivo superior (faringite, amigdalite). Clinicamente manifesta-se como massa flutuante e não dolorosa localizada profundamente junto à borda anterior do músculo esternocleidomastoideo. Pode inflamar e formar abscesso durante episódio de infecção de vias aéreas superiores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características dos hemangiomas cervicais?",
+    "options": [
+      "Malformações benignas tecido vascular, 10% crianças predominância feminina 2:1, presentes nascimento/1º ano vida, regressão espontânea até 6º-7º anos, tratamento: observação (exceto se crescimento rápido/sangramento/necrose/coagulopatia/comprometimento estruturas)",
+      "Malformações malignas tecido vascular, 30% crianças predominância masculina 3:1, presentes apenas adolescência, progressão até vida adulta, tratamento: ressecção cirúrgica imediata obrigatória",
+      "Malformações adquiridas tecido nervoso, 20% crianças predominância feminina 4:1, presentes puberdade, estabilização após menopausa, tratamento: observação indefinida",
+      "Malformações benignas tecido linfático, 5% crianças distribuição igual sexos, presentes 2º ano vida, regressão até 10 anos, tratamento: escleroterapia sempre indicada",
+      "Malformações congênitas tecido muscular, 15% crianças predominância masculina 1:2, presentes 3 anos, regressão até 15 anos, tratamento: fisioterapia intensiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hemangiomas representam malformações benignas do tecido vascular. Ocorrem em cerca de 10% das crianças, com predomínio pelo sexo feminino na proporção de 2:1. Quase sempre estão presentes ao nascimento ou aparecem dentro do primeiro ano de vida. Tendem a regredir espontaneamente até o sexto e sétimo anos de vida. Tratamento consiste em observação somente, a menos que apresente: crescimento rápido, sangramento, necrose cutânea, coagulopatia por trombocitopenia (síndrome de Kasabach-Merritt) ou comprometimento de estruturas como olhos e boca.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características dos linfangiomas cervicais?",
+    "options": [
+      "Afecção rara qualquer idade neoplasia tecido linfático, 5% nascimento 20% manifestos até 10 anos, igual ambos sexos, região submandibular, massas sempre simétricas bilaterais",
+      "Afecção típica adolescente hiperplasia tecido linfático, 80% nascimento 100% manifestos até 5 anos, predomina sexo masculino 1:2, fossa supraclavicular, massas pulsáteis dolorosas",
+      "Afecção típica criança malformação congênita tecido linfático, 50% nascimento 90% manifestos até 1º ano, ambos sexos igualmente, trigono posterior pescoço, massas tamanhos variados (infecção/hemorragia)",
+      "Afecção típica idoso degeneração tecido linfático, nenhum nascimento todos manifestos após 50 anos, predomina sexo feminino 2:1, linha mediana pescoço, massas endurecidas fixas",
+      "Afecção típica adulto malformação adquirida tecido linfático, 10% nascimento 30% manifestos até 1º ano, predomina sexo masculino 3:1, trigono anterior pescoço, massas sempre pequenas <2cm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Linfangioma é afecção típica da criança resultante de malformação congênita do tecido linfático. Cerca de 50% estão presentes ao nascimento e 90% se tornam manifestos até o primeiro ano de vida. Acometem igualmente ambos os sexos. Localizam-se mais comumente no trigono posterior do pescoço. Apresentam-se clinicamente como massas de tamanhos variados, podendo aumentar abruptamente como resultado de infecção ou hemorragia intralesional.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 6 meses com massa cervical posterior presente desde o nascimento, 4cm, flutuante, indolor, sem sinais flogísticos. Criança de 2 anos com massa cervical linha média, 2cm, move com deglutição, surgiu após faringite. Qual diagnóstico diferencial para cada caso?",
+    "options": [
+      "Criança 6 meses: linfangioma (90% manifestos até 1º ano/trigono posterior/flutuante); Criança 2 anos: cisto ducto tireoglosso (linha média/move com deglutição/surge após IVAS)",
+      "Criança 6 meses: linfoma não-Hodgkin (raro lactente); Criança 2 anos: tumor tireoidiano (raro esta idade)",
+      "Criança 6 meses: lipoma (massa adiposa/qualquer idade); Criança 2 anos: adenite bacteriana (sinais flogísticos/febre)",
+      "Criança 6 meses: hemangioma (10% crianças/regressão espontânea); Criança 2 anos: cisto branquial (2ª-3ª décadas/lateral ECM)",
+      "Criança 6 meses: cisto dermoide (raro/linha média); Criança 2 anos: teratoma (menos comum/crescimento rápido)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Criança de 6 meses: massa presente desde nascimento, trigono posterior, flutuante, 90% manifestos até 1º ano = linfangioma característico. Criança de 2 anos: massa linha média cervical que move com deglutição (patognomônico), surgiu após IVAS (frequente desencadeante) = cisto ducto tireoglosso. Hemangioma seria vascular visível, regressão até 6-7 anos. Cisto branquial surge 2ª-3ª décadas, lateral ao ECM. Adenite teria sinais flogísticos. Neoplasias são raríssimas nestas idades.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as características dos linfonodos com acometimento neoplásico?",
+    "options": [
+      "Com febre associada obrigatória, muito dolorosos, evolução fulminante, sempre mais cinco, habitualmente <1cm contorno triangular, lateralidade depende sítio primário",
+      "Sem sinais flogísticos inicialmente, indolores, evolução insidiosa, únicos no início, habitualmente >2cm contorno esférico, tendem unilaterais (exceto casos avançados comprometimento bilateral)",
+      "Com sinais flogísticos desde início, dolorosos, evolução aguda, múltiplos desde início, habitualmente <2cm contorno oval, sempre bilaterais desde apresentação inicial",
+      "Com sinais flogísticos tardios, indolores apenas palpação profunda, evolução subaguda, variável número, habitualmente 1,5cm contorno poligonal, sempre bilaterais simétricos",
+      "Sem sinais flogísticos, dolorosos intermitentes, evolução rápida alternada, dois/três agrupados, exatamente 2cm contorno irregular, lateralidade alterna semanalmente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linfonodos com acometimento neoplásico geralmente não apresentam, no início de evolução, sinais flogísticos (diferente de adenites). São indolores, possuem evolução mais insidiosa e quase sempre são únicos no início da afecção. Os nódulos são habitualmente maiores que 2cm (adenites geralmente <2cm) e de contorno mais esférico. Tendem a ser unilaterais, exceto nos casos avançados quando já existe comprometimento metastático bilateral do pescoço.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características dos nódulos tireoidianos e quando suspeitar de malignidade?",
+    "options": [
+      "Prevalência 25-30% nódulos palpáveis (metade maligna), 25% palpáveis malignos, cintilografia primeiro exame, qualquer nódulo: tireoidectomia imediata",
+      "Prevalência 10-12% nódulos palpáveis (raramente malignos), 2% palpáveis malignos, tomografia primeiro exame, suspeita malignidade: apenas observação",
+      "Prevalência 4-7% nódulos palpáveis população geral (maioria benigna), 5% palpáveis malignos, PAAF primeiro exame (segura/baixo custo/fácil/alta especificidade), suspeita malignidade: tireoidectomia diagnóstica",
+      "Prevalência 1-2% nódulos palpáveis (todos benignos), 0% palpáveis malignos, apenas ultrassom necessário, nunca indicar cirurgia",
+      "Prevalência 15-20% nódulos palpáveis (maioria maligna), 50% palpáveis malignos, biópsia cirúrgica primeiro exame, suspeita benignidade: tireoidectomia total"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nódulos tireoidianos constituem achado clínico comum, com prevalência estimada em 4-7% de nódulos palpáveis na população geral, sendo a imensa maioria de origem benigna. Somente 5% dos nódulos palpáveis correspondem a lesões malignas. A PAAF é relativamente segura, de baixo custo, tecnicamente fácil e apresenta alto índice de especificidade, tornando-se o principal método propedêutico e primeiro exame na avaliação de nódulos tireoidianos. Quando houver suspeita de malignidade, a melhor conduta é indicação de tireoidectomia diagnóstica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características da doença de Hodgkin manifestando-se como massa cervical?",
+    "options": [
+      "Massa cervical crescimento ultrarrápido/explosivo/extremamente dolorosa, febre altíssima contínua, cadeias linfonodais aderidas bloco, sem limites definíveis, completamente fixa, consistência necrótica",
+      "Massa cervical crescimento moderado/alternante/indolor apenas palpação, febre baixa ocasional, cadeias linfonodais rosário linear, limites difusos, mobilidade excessiva, consistência cística",
+      "Massa cervical crescimento rápido/regressivo/dolorosa, acompanhada febre alta intermitente, cadeias linfonodais separadas sem confluência, limites mal definidos, mobilidade reduzida, consistência amolecida",
+      "Massa cervical crescimento lento/progressivo/indolor, acompanhada febre moderada semanas, cadeias linfonodais confluem \"cacho uva\", limites definidos, mobilidade preservada, consistência firme-elástica",
+      "Massa cervical tamanho estável/sem progressão/muito dolorosa, sem febre associada, cadeias linfonodais individualizadas, limites imprecisos, fixação completa, consistência pétrea"
+    ],
+    "correctIndex": 3,
+    "explanation": "A doença de Hodgkin manifesta-se como massa cervical de crescimento lento, progressivo, indolor e acompanhada de febre moderada por algumas semanas (sintomas B). As cadeias linfonodais comprometidas tendem a confluir, formando um aspecto semelhante a \"cacho de uva\". Os limites são na maioria das vezes bem definidos, a mobilidade geralmente está presente e a consistência é firme e elástica (contrasta com a consistência pétrea de metástases e a amolecida de adenites).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características dos linfomas não-Hodgkin manifestando-se como massa cervical?",
+    "options": [
+      "Linfadenopatia evolução mais lenta que Hodgkin, forma assimétrica pescoço, acomete apenas cadeias contíguas, comprometem pescoço unilateralmente, consistência mole, mobilidade preservada, muito dolorosos, sem infiltração cutânea",
+      "Linfadenopatia evolução mais rápida que Hodgkin, forma simétrica pescoço, acomete cadeias não contíguas, comprometem pescoço bilateralmente, consistência firme, fixação tecidos profundos, indolores, infiltração subcutâneo/pele",
+      "Linfadenopatia evolução súbita, forma cacho pescoço, acomete cadeias aleatórias, comprometem região supraclavicular isolada, consistência flutuante, não há fixação, extremamente dolorosos, infiltração apenas vascular",
+      "Linfadenopatia evolução lentíssima, forma linear pescoço, acomete todas cadeias igualmente, comprometem pescoço fases, consistência borrachosa, fixação superficial apenas, indolores palpação profunda, infiltração óssea predomina",
+      "Linfadenopatia evolução intermediária, forma irregular pescoço, acomete uma única cadeia, comprometem alternadamente lados, consistência cística, mobilidade excessiva, dolorosos intermitentes, infiltração apenas muscular"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os linfomas não-Hodgkin apresentam linfadenopatia de evolução mais rápida que Hodgkin, de forma simétrica no pescoço, podendo acometer cadeias linfáticas não contíguas (salto de cadeias). Usualmente comprometem o pescoço bilateralmente e apresentam consistência firme, fixação aos tecidos profundos e são indolores. Também é comum haver infiltração para o tecido subcutâneo e para a pele (diferente de Hodgkin que tende a ser mais localizado inicialmente).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 25 anos com linfonodomegalia cervical bilateral há 6 meses, crescimento lento, indolor, febre vespertina 38°C há 8 semanas, sudorese noturna, perda ponderal 8kg, linfonodos confluentes em \"cacho de uva\", firme-elásticos, móveis. Qual diagnóstico mais provável?",
+    "options": [
+      "Tuberculose ganglionar (evolução crônica/fistulização/não forma \"cacho uva\"/adenopatia assimétrica típica)",
+      "Linfoma não-Hodgkin (evolução mais rápida/simétrico/acomete cadeias não contíguas/fixação profunda/infiltração cutânea)",
+      "Metástase carcinoma células escamosas (idade mais avançada >40 anos/história tabagismo-etilismo/único-unilateral/endurecido/fixo)",
+      "Doença de Hodgkin (idade jovem/crescimento lento/sintomas B clássicos: febre-sudorese-perda peso/linfonodos confluentes \"cacho uva\"/firme-elásticos/móveis)",
+      "Adenite bacteriana aguda (evolução aguda dias-semanas/sinais flogísticos locais/febre alta/sem perda ponderal significativa/múltiplos <2cm)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro é altamente sugestivo de doença de Hodgkin: (1) idade jovem (25 anos - pico bimodal 20-30 e >50 anos), (2) crescimento lento e progressivo por 6 meses, (3) sintomas B clássicos (febre vespertina, sudorese noturna, perda ponderal >10%), (4) linfonodos confluentes em \"cacho de uva\" (característico), (5) consistência firme-elástica (não pétrea como metástase, não amolecida como adenite), (6) mobilidade preservada. Adenite seria aguda com sinais flogísticos. Linfoma não-Hodgkin teria evolução mais rápida e fixação. Tuberculose teria fistulização. Metástase seria em paciente mais velho com fatores de risco.",
+    "type": "raciocínio"
+  }
+]

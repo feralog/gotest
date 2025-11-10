@@ -1,0 +1,1146 @@
+[
+  {
+    "question": "O calendário vacinal da Sociedade Brasileira de Pediatria (SBP) 2025/2026 é elaborado para um grupo específico de crianças e adolescentes. Para qual população este calendário é primariamente destinado?",
+    "options": [
+      "Crianças e adolescentes hígidos do nascimento até 19 anos de idade",
+      "Crianças e adolescentes em risco social do nascimento até 21 anos",
+      "Crianças e adolescentes com comorbidades do nascimento até 19 anos",
+      "Crianças e adolescentes hospitalizados do nascimento até 18 anos",
+      "Crianças e adolescentes imunocomprometidos do nascimento até 18 anos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O calendário SBP 2025/2026 é elaborado especificamente para crianças e adolescentes hígidos (saudáveis) do nascimento até 19 anos de idade. Para aqueles com imunodeficiências ou em situações epidemiológicas específicas, as recomendações podem sofrer alterações. Este é o público-alvo padrão do calendário nacional de imunização.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quando a vacinação é iniciada fora da idade idealmente recomendada, qual é a conduta preconizada pela SBP quanto aos esquemas vacinais?",
+    "options": [
+      "Esquemas encurtados em 50% dos intervalos para recuperar atraso",
+      "Esquemas reiniciados desde o começo, desconsiderando todas as doses anteriores",
+      "Esquemas suspensos até criança atingir idade ideal para reinício",
+      "Esquemas adaptados conforme idade de início, respeitando intervalos mínimos entre doses",
+      "Esquemas mantidos conforme calendário original, independente do atraso temporal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Quando a vacinação é iniciada fora da idade idealmente recomendada, os esquemas podem ser adaptados de acordo com a idade de início, sempre respeitando-se os intervalos mínimos entre as doses. Não é necessário reiniciar esquemas, pois doses válidas aplicadas anteriormente são contabilizadas. Esta flexibilidade permite a atualização vacinal de crianças com atraso no calendário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação da SBP quanto à notificação de eventos adversos após a vacinação?",
+    "options": [
+      "Notificação de qualquer evento adverso é fundamental para segurança vacinal",
+      "Notificação recomendada apenas para eventos nas primeiras 24 horas",
+      "Notificação necessária apenas para eventos graves com hospitalização imediata",
+      "Notificação opcional e restrita ao profissional que aplicou vacina",
+      "Notificação obrigatória somente para vacinas fora do calendário PNI"
+    ],
+    "correctIndex": 0,
+    "explanation": "A SBP enfatiza que a notificação de qualquer evento adverso é fundamental para a manutenção da segurança das vacinas licenciadas no país. Embora a maioria dos eventos adversos seja leve e transitória, o sistema de farmacovigilância depende da notificação completa para monitorar a segurança vacinal continuamente. Todos os profissionais de saúde devem estar atentos e notificar eventos adversos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com o calendário SBP 2025/2026, qual é a orientação sobre eventos adversos que deve ser fornecida às famílias antes da vacinação?",
+    "options": [
+      "Eventos graves são comuns e famílias devem esperar hospitalização",
+      "Apenas vacinas vivas atenuadas causam eventos adversos relevantes às famílias",
+      "Somente vacinas da rede privada têm eventos adversos significativos",
+      "Vacinas podem causar eventos adversos leves e transitórios que devem ser informados",
+      "Eventos adversos são raros e não devem ser mencionados às famílias"
+    ],
+    "correctIndex": 3,
+    "explanation": "O documento da SBP é claro ao orientar que todas as vacinas podem ocasionar eventos adversos, em geral leves e transitórios, e que essas informações devem ser fornecidas à família. Esta comunicação transparente é essencial para o consentimento informado e para que os pais/responsáveis saibam o que esperar e quando procurar atendimento médico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para crianças com imunodeficiências, como o calendário vacinal SBP 2025/2026 deve ser interpretado?",
+    "options": [
+      "Calendário deve ser postergado em 6 meses para vacinas",
+      "Calendário padrão deve ser seguido rigorosamente sem modificações",
+      "Apenas vacinas inativadas permitidas seguindo calendário padrão",
+      "Recomendações podem sofrer alterações específicas para cada situação",
+      "Todas vacinas contraindicadas até estabilização da imunodeficiência"
+    ],
+    "correctIndex": 3,
+    "explanation": "O calendário SBP é elaborado para crianças hígidas, mas reconhece que para aqueles com imunodeficiências ou em situações epidemiológicas específicas, as recomendações podem sofrer alterações. Cada caso deve ser avaliado individualmente, considerando o tipo e gravidade da imunodeficiência, com possíveis modificações no tipo de vacina, esquema ou contraindicações específicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Lactente de 7 meses comparece à primeira consulta de puericultura com cartão vacinal em branco. Os pais relatam mudança recente de cidade e nunca vacinaram a criança. Qual a melhor estratégia para iniciar a atualização do calendário vacinal neste caso?",
+    "options": [
+      "Iniciar esquema adaptado à idade atual, respeitando intervalos e priorizando vacinas com limite etário",
+      "Recomendar reiniciar calendário apenas aos 12 meses quando houver mais vacinas",
+      "Aplicar todas as vacinas do calendário de 0-6 meses em única consulta",
+      "Solicitar parecer de infectologia antes de iniciar qualquer vacina por atraso",
+      "Aguardar até 12 meses para iniciar todas vacinas do calendário simultaneamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quando há atraso significativo no calendário vacinal, deve-se iniciar esquema adaptado conforme a idade atual da criança, respeitando intervalos mínimos entre doses. É fundamental priorizar vacinas com limite de idade (como rotavírus, que não pode mais ser iniciada após 3 meses e 29 dias). O calendário deve ser atualizado progressivamente, aplicando as vacinas possíveis em cada consulta, sem necessidade de reiniciar desde o nascimento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a recomendação da SBP quanto ao peso mínimo do recém-nascido para aplicação da vacina BCG?",
+    "options": [
+      "Peso maior que 2.000g para aplicação da vacina BCG",
+      "Peso maior que 2.500g para aplicação da vacina BCG",
+      "Peso maior que 1.500g para aplicação da vacina BCG",
+      "Peso maior que 3.000g para aplicação da vacina BCG",
+      "Peso maior que 1.800g para aplicação da vacina BCG"
+    ],
+    "correctIndex": 0,
+    "explanation": "A vacina BCG deve ser aplicada em recém-nascidos com peso maior que 2.000g. Para prematuros ou recém-nascidos de baixo peso que não atingem este limite, a vacinação deve ser adiada até que alcancem o peso adequado. Este critério é importante para garantir resposta imunológica adequada e minimizar riscos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com as recomendações atuais da SBP, qual a conduta para crianças que não apresentam cicatriz vacinal de BCG no local da aplicação após 6 meses?",
+    "options": [
+      "Não se recomenda revacinação de crianças sem cicatriz após 6 meses",
+      "Aguardar até 12 meses e reaplicar se ainda não houver cicatriz",
+      "Reaplicar vacina BCG imediatamente ao completar 6 meses sem cicatriz",
+      "Aplicar dose dupla de BCG para garantir imunização adequada",
+      "Realizar teste tuberculínico antes de decidir sobre revacinação"
+    ],
+    "correctIndex": 0,
+    "explanation": "A SBP atualizou suas recomendações e não recomenda mais a revacinação de crianças que não apresentam cicatriz no local da aplicação após 6 meses. Estudos demonstraram que a ausência de cicatriz não necessariamente indica falha vacinal, e a revacinação não está mais indicada de rotina. A presença de cicatriz não é mais considerada obrigatória como comprovação de vacinação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o momento ideal para aplicação da primeira dose da vacina contra Hepatite B no recém-nascido, segundo a SBP?",
+    "options": [
+      "Após 48 horas de vida para permitir estabilização clínica neonatal",
+      "Mais precocemente possível, preferencialmente nas primeiras 12-24 horas de vida",
+      "Primeira semana de vida, sem necessidade de aplicação na maternidade",
+      "Aos 30 dias simultaneamente com as vacinas do segundo mês",
+      "Aos 15 dias de vida na primeira consulta ambulatorial de puericultura"
+    ],
+    "correctIndex": 1,
+    "explanation": "A primeira dose da vacina contra Hepatite B deve ser aplicada o mais precocemente possível, preferencialmente nas primeiras 12 a 24 horas de vida, ainda na maternidade. Esta aplicação precoce é fundamental para prevenir transmissão vertical, especialmente em casos de mães portadoras do vírus HBV. A dose ao nascer é considerada a 'dose zero' do esquema completo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema completo de vacinação contra Hepatite B recomendado pela SBP para lactentes, incluindo a dose ao nascer?",
+    "options": [
+      "Dose ao nascer, seguida de doses aos 3, 5 e 7 meses",
+      "Dose ao nascer, seguida de doses aos 1, 6 e 12 meses",
+      "Dose ao nascer, seguida de doses aos 2 e 6 meses",
+      "Dose ao nascer, seguida de doses aos 1, 2 e 6 meses",
+      "Dose ao nascer, seguida de doses aos 2, 4 e 6 meses"
+    ],
+    "correctIndex": 4,
+    "explanation": "O esquema completo de Hepatite B segundo a SBP consiste em dose ao nascer (idealmente nas primeiras 12-24h), seguida de doses aos 2, 4 e 6 meses de idade. Este esquema de 4 doses (0, 2, 4, 6 meses) garante proteção adequada e está alinhado com as outras vacinas do calendário, facilitando a adesão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para adolescentes que nunca foram vacinados contra Hepatite B, qual é o esquema recomendado pela SBP?",
+    "options": [
+      "Adolescentes não vacinados devem receber 5 doses da vacina",
+      "Adolescentes não vacinados devem receber 3 doses da vacina",
+      "Adolescentes não vacinados devem receber dose única da vacina",
+      "Adolescentes não vacinados devem receber 4 doses da vacina",
+      "Adolescentes não vacinados devem receber 2 doses da vacina"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para adolescentes não vacinados contra Hepatite B, o esquema recomendado é de 3 doses. Diferentemente do esquema de lactentes que inclui a dose ao nascer, adolescentes seguem o esquema padrão de primovacinação com 3 doses, geralmente nos intervalos 0, 1 e 6 meses. Este esquema garante soroconversão adequada nesta faixa etária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Recém-nascido a termo, peso de 1.950g, sem intercorrências clínicas, comparece à primeira consulta com 5 dias de vida. Mãe nega vacinação na maternidade. Qual a conduta adequada quanto à vacina BCG neste momento?",
+    "options": [
+      "Adiar todas vacinas para 1 mês quando peso estará adequado",
+      "Aplicar BCG imediatamente independente do peso e aguardar para Hepatite B",
+      "Aguardar até 2.500g para aplicar BCG e Hepatite B simultaneamente",
+      "Aplicar ambas vacinas imediatamente pois peso está próximo do limite",
+      "Aguardar ganho de peso até >2.000g para BCG e aplicar Hepatite B imediatamente"
+    ],
+    "correctIndex": 4,
+    "explanation": "Como o recém-nascido tem peso de 1.950g (abaixo de 2.000g), deve-se aguardar ganho de peso adequado para aplicar a BCG. No entanto, a vacina Hepatite B não tem restrição de peso e deve ser aplicada o quanto antes, mesmo que tardiamente em relação ao nascimento. A BCG será aplicada assim que a criança atingir peso superior a 2.000g. Esta é a conduta que equilibra os critérios de segurança e eficácia vacinal.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 4 meses comparece para segunda dose de Hepatite B. Mãe relata que a criança recebeu BCG ao nascer, mas não recebeu a dose de Hepatite B na maternidade, tendo recebido a primeira dose apenas aos 2 meses. Qual a orientação adequada sobre o esquema de Hepatite B neste caso?",
+    "options": [
+      "Reiniciar esquema completo com dose imediata e repetir aos 6 e 8 meses",
+      "Aplicar segunda dose aos 4 meses, terceira aos 6 e quarta aos 8 meses",
+      "Aplicar segunda dose aos 4 meses e terceira aos 6 meses, completando 3 doses",
+      "Aplicar segunda dose aos 4 meses e considerar esquema completo apenas",
+      "Aguardar 6 meses para segunda dose e terceira dose aos 12 meses"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quando a dose ao nascer não foi aplicada e o esquema foi iniciado tardiamente aos 2 meses, deve-se continuar o esquema respeitando as doses subsequentes (4 e 6 meses), completando assim 3 doses no total. Não é necessário aplicar uma quarta dose para 'compensar' a dose ao nascer perdida. O importante é garantir o número mínimo de doses e os intervalos adequados para imunização eficaz.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as duas vacinas contra rotavírus licenciadas no Brasil e seus respectivos esquemas de doses?",
+    "options": [
+      "Monovalente (RV1) em dose única aos 2 meses e pentavalente (RV5) em 2 doses aos 2, 4 meses",
+      "Monovalente (RV1) em 3 doses aos 2, 4, 6 meses e pentavalente (RV5) em 2 doses aos 2, 4 meses",
+      "Monovalente (RV1) em 3 doses aos 2, 3, 4 meses e pentavalente (RV5) em 2 doses aos 2, 6 meses",
+      "Monovalente (RV1) em 2 doses aos 3, 5 meses e pentavalente (RV5) em 3 doses aos 3, 5, 7 meses",
+      "Monovalente (RV1) em 2 doses aos 2, 4 meses e pentavalente (RV5) em 3 doses aos 2, 4, 6 meses"
+    ],
+    "correctIndex": 4,
+    "explanation": "Existem duas vacinas contra rotavírus licenciadas no Brasil: a monovalente (RV1) incluída no PNI, indicada em duas doses (aos 2 e 4 meses), e a pentavalente (RV5) disponível na rede privada, indicada em três doses (aos 2, 4 e 6 meses). Ambas são eficazes, mas têm esquemas diferentes que devem ser respeitados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a idade máxima para aplicação da primeira dose da vacina contra rotavírus, segundo as recomendações da SBP?",
+    "options": [
+      "Primeira dose até no máximo 4 meses e 29 dias",
+      "Primeira dose até no máximo 6 meses e 29 dias",
+      "Primeira dose até no máximo 2 meses e 29 dias",
+      "Primeira dose até no máximo 5 meses e 29 dias",
+      "Primeira dose até no máximo 3 meses e 29 dias"
+    ],
+    "correctIndex": 4,
+    "explanation": "A primeira dose da vacina contra rotavírus deve ser administrada até no máximo 3 meses e 29 dias de idade. Este limite é estabelecido por questões de segurança, especialmente em relação ao risco de invaginação intestinal. Após esta idade, não se deve iniciar a vacinação contra rotavírus.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a idade máxima para aplicação da última dose da vacina contra rotavírus, independentemente da vacina utilizada?",
+    "options": [
+      "Última dose até 10 meses e 29 dias",
+      "Última dose até 8 meses e 29 dias",
+      "Última dose até 11 meses e 29 dias",
+      "Última dose até 12 meses e 29 dias",
+      "Última dose até 9 meses e 29 dias"
+    ],
+    "correctIndex": 2,
+    "explanation": "A última dose da vacina contra rotavírus, independentemente de ser RV1 ou RV5, deve ser administrada até 11 meses e 29 dias de idade. Este é o limite superior de idade para completar o esquema vacinal, estabelecido por questões de segurança relacionadas ao risco de invaginação intestinal em crianças mais velhas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o intervalo mínimo recomendado entre as doses da vacina contra rotavírus?",
+    "options": [
+      "Intervalo mínimo de no mínimo 2 semanas entre doses",
+      "Intervalo mínimo de no mínimo 4 semanas entre doses",
+      "Intervalo mínimo de no mínimo 8 semanas entre doses",
+      "Intervalo mínimo de no mínimo 6 semanas entre doses",
+      "Intervalo mínimo de no mínimo 3 semanas entre doses"
+    ],
+    "correctIndex": 1,
+    "explanation": "O intervalo mínimo entre as doses da vacina contra rotavírus deve ser de no mínimo quatro semanas (28 dias). Este intervalo é necessário para garantir resposta imunológica adequada e é válido tanto para a vacina monovalente quanto para a pentavalente. Intervalos menores podem comprometer a eficácia vacinal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Lactente de 3 meses e 15 dias comparece para consulta de puericultura. Recebeu primeira dose de rotavírus monovalente (RV1) aos 2 meses. Mãe relata viagem com atraso na segunda dose. Qual a conduta adequada?",
+    "options": [
+      "Aguardar até 4 meses exatos para segunda dose respeitando intervalo 2 meses",
+      "Aplicar segunda dose imediatamente, pois ainda dentro do limite para completar esquema",
+      "Reiniciar esquema com primeira dose de pentavalente (RV5) e mais duas doses",
+      "Contraindicar segunda dose pois ultrapassou prazo ideal e manter apenas vigilância",
+      "Aplicar segunda dose e adicionar terceira dose aos 6 meses compensando atraso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Como a criança tem 3 meses e 15 dias e já passou o intervalo mínimo de 4 semanas desde a primeira dose, pode e deve receber a segunda dose imediatamente. Ela ainda está dentro do limite de idade (antes de 3 meses e 29 dias era para primeira dose; a última dose pode ir até 11 meses e 29 dias). Como iniciou com RV1, deve completar o esquema de 2 doses. O importante é respeitar os intervalos mínimos e limites de idade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 4 meses comparece para consulta de puericultura. Não recebeu nenhuma dose de rotavírus anteriormente. Mãe deseja iniciar vacinação. Qual a orientação adequada?",
+    "options": [
+      "Aguardar até 6 meses para iniciar com dose dupla compensando atraso",
+      "Informar que não é possível iniciar vacinação, pois ultrapassou limite de 3m29d",
+      "Iniciar esquema com pentavalente (RV5) imediatamente em esquema acelerado com 2 doses",
+      "Aplicar dose única de monovalente (RV1) como dose de resgate por atraso",
+      "Iniciar esquema com monovalente (RV1) imediatamente e segunda dose aos 6 meses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Como o lactente tem 4 meses e nunca recebeu vacina contra rotavírus, não é mais possível iniciar a vacinação. O limite para aplicação da primeira dose é até 3 meses e 29 dias de idade. Este limite é estabelecido por questões de segurança, principalmente relacionadas ao risco de invaginação intestinal. A família deve ser orientada sobre a importância de outras medidas preventivas para gastroenterite.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o esquema de vacinação com DTP/DTPa recomendado pela SBP, incluindo doses primárias e reforços?",
+    "options": [
+      "Doses aos 3, 5, 7 meses com reforços aos 15 meses e 4-6 anos",
+      "Doses aos 2, 4, 6 meses com reforços aos 12 e 18 meses",
+      "Doses aos 2, 4, 6 meses com reforços aos 15 meses e 4-6 anos",
+      "Doses aos 2, 4, 6 meses com reforço único aos 12 meses",
+      "Doses aos 2, 3, 4 meses com reforços aos 15 meses e 4-6 anos"
+    ],
+    "correctIndex": 2,
+    "explanation": "O esquema de vacinação com DTP ou DTPa consiste em três doses primárias aos 2, 4 e 6 meses de idade, seguidas de dois reforços: o primeiro aos 15 meses e o segundo entre 4-6 anos de idade. Este esquema garante proteção adequada e duradoura contra difteria, tétano e coqueluche durante toda a infância.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação com Hib (Haemophilus influenzae tipo b) recomendado pela SBP?",
+    "options": [
+      "Doses aos 2, 4 meses com reforço aos 12 meses",
+      "Doses aos 2, 4, 6 meses sem necessidade de reforço",
+      "Doses aos 2, 4, 6 meses com reforço aos 12 meses",
+      "Doses aos 2, 4, 6 meses com reforço aos 15 meses",
+      "Doses aos 3, 5, 7 meses com reforço aos 15 meses"
+    ],
+    "correctIndex": 3,
+    "explanation": "A vacina Hib (contra Haemophilus influenzae tipo b) segue esquema de três doses primárias aos 2, 4 e 6 meses de idade, com reforço aos 15 meses. Este esquema é importante para prevenir doenças invasivas causadas por este agente, como meningite e epiglotite. O reforço aos 15 meses garante imunidade prolongada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação com VIP (vacina inativada contra poliomielite) recomendado pela SBP?",
+    "options": [
+      "Doses aos 2, 4, 6 meses sem necessidade de reforço",
+      "Doses aos 2, 4, 6 meses com reforço aos 15 meses",
+      "Doses aos 3, 5, 7 meses com reforço entre 4-6 anos",
+      "Doses aos 2, 4 meses com reforços aos 6 e 15 meses",
+      "Doses aos 2, 4, 6 meses com reforço entre 4-6 anos"
+    ],
+    "correctIndex": 4,
+    "explanation": "A vacina VIP (poliomielite inativada) é aplicada em três doses primárias aos 2, 4 e 6 meses de idade, com reforço entre 4-6 anos. O Brasil utiliza apenas VIP no calendário (esquema totalmente injetável), abandonando a VOP (oral) para prevenir casos de poliomielite associada à vacina. O reforço escolar é fundamental para manter a erradicação da doença.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais diferenças entre as vacinas DTP e DTPa em termos de composição e perfil de eventos adversos?",
+    "options": [
+      "DTP com perfil superior; DTPa com células inteiras e maior imunogenicidade",
+      "DTP e DTPa com mesma composição, diferindo apenas em laboratório produtor",
+      "DTP indicada apenas para adultos; DTPa indicada apenas para menores de 7 anos",
+      "DTP com componentes acelulares; DTPa com células inteiras e maior eficácia",
+      "DTP com células inteiras e maior reatogenicidade; DTPa acelular com melhor perfil de segurança"
+    ],
+    "correctIndex": 4,
+    "explanation": "A principal diferença está no componente pertussis: a DTP contém células inteiras de Bordetella pertussis e tem maior reatogenicidade (mais eventos adversos locais e sistêmicos como febre e dor), enquanto a DTPa contém componentes acelulares purificados do pertussis, com perfil de segurança melhor e menos eventos adversos. Por isso, quando disponível, a DTPa é preferível.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No calendário SBP, em que momento está indicado o primeiro reforço com DTP/DTPa?",
+    "options": [
+      "Primeiro reforço está indicado aos 12 meses de idade",
+      "Primeiro reforço está indicado entre 12-15 meses de idade",
+      "Primeiro reforço está indicado aos 18 meses de idade",
+      "Primeiro reforço está indicado aos 24 meses de idade",
+      "Primeiro reforço está indicado aos 15 meses de idade"
+    ],
+    "correctIndex": 4,
+    "explanation": "O primeiro reforço da vacina DTP ou DTPa está indicado aos 15 meses de idade, após as três doses primárias aos 2, 4 e 6 meses. Este reforço coincide com o reforço de Hib e é fundamental para manter a imunidade contra coqueluche, tétano e difteria antes do reforço escolar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 5 anos comparece para consulta pré-escolar. Cartão vacinal mostra esquema completo de DTP com 3 doses no primeiro ano de vida e reforço aos 15 meses, mas não realizou o segundo reforço entre 4-6 anos. Qual a conduta adequada?",
+    "options": [
+      "Considerar esquema completo pois já tem 4 doses e dispensar segundo reforço",
+      "Aplicar reforço com DTP ou DTPa imediatamente para completar esquema escolar",
+      "Reiniciar esquema completo com 3 doses primárias e 2 reforços desde início",
+      "Aguardar até 6 anos completos para aplicar reforço respeitando idade calendário",
+      "Aplicar duas doses de DTP com intervalo de 2 meses compensando atraso"
+    ],
+    "correctIndex": 1,
+    "explanation": "A criança deve receber o segundo reforço imediatamente, mesmo que ainda não tenha completado 6 anos. O calendário indica 4-6 anos, ou seja, a partir dos 4 anos a dose pode ser aplicada. Este reforço é fundamental antes do ingresso escolar, período de maior exposição a Bordetella pertussis. Não há necessidade de aguardar completar 6 anos se a criança já está na faixa etária adequada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 8 meses comparece para atualização de vacinas. Recebeu apenas primeira dose de DTP, Hib e VIP aos 2 meses. Qual a melhor estratégia para atualizar o calendário deste lactente?",
+    "options": [
+      "Aguardar até 12 meses para aplicar todas doses atrasadas em consulta única",
+      "Aplicar segunda dose imediatamente, terceira dose após 2 meses e reforço aos 15 meses",
+      "Reiniciar esquema completo com primeira dose imediata e intervalo padrão de 2 meses",
+      "Aplicar três doses (segunda, terceira e reforço) simultaneamente para compensar atraso",
+      "Aplicar apenas dose de resgate aos 8 meses e considerar esquema completo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Não é necessário reiniciar esquemas vacinais. A primeira dose aplicada aos 2 meses é válida. Deve-se aplicar a segunda dose imediatamente (respeitando intervalo mínimo já cumprido), agendar a terceira dose para 2 meses depois (respeitando intervalo mínimo entre doses) e o reforço aos 15 meses conforme calendário. Esta é a forma mais eficiente de atualizar esquemas atrasados, respeitando intervalos mínimos sem descartar doses válidas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quantas vacinas pneumocócicas conjugadas (VPC) estão atualmente licenciadas no Brasil, segundo o documento da SBP?",
+    "options": [
+      "Seis vacinas licenciadas: VPC7, VPC10, VPC13, VPC15, VPC20 e VPC23",
+      "Quatro vacinas licenciadas: VPC10, VPC13, VPC15 e VPC20",
+      "Três vacinas licenciadas: VPC10, VPC13 e VPC15",
+      "Duas vacinas licenciadas: VPC10 e VPC13",
+      "Cinco vacinas licenciadas: VPC7, VPC10, VPC13, VPC15 e VPC20"
+    ],
+    "correctIndex": 1,
+    "explanation": "De acordo com o documento da SBP 2025/2026, quatro vacinas pneumocócicas conjugadas estão licenciadas no Brasil: VPC10 (10-valente), VPC13 (13-valente), VPC15 (15-valente) e VPC20 (20-valente). Cada uma oferece proteção contra número diferente de sorotipos de pneumococo, sendo que as de maior valência oferecem proteção mais ampla.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação pneumocócica utilizado pelo Programa Nacional de Imunizações (PNI)?",
+    "options": [
+      "PNI utiliza VPC13 no esquema 3+1 (doses aos 2, 4, 6 meses e reforço aos 12 meses)",
+      "PNI utiliza VPC15 no esquema 2+1 (doses aos 2, 4 meses e reforço aos 12 meses)",
+      "PNI utiliza VPC10 no esquema 2+1 (doses aos 2, 4 meses e reforço aos 12 meses)",
+      "PNI utiliza VPC13 no esquema 2+1 (doses aos 2, 4 meses e reforço aos 12 meses)",
+      "PNI utiliza VPC10 no esquema 3+1 (doses aos 2, 4, 6 meses e reforço aos 12-15 meses)"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Programa Nacional de Imunizações (PNI) utiliza a vacina pneumocócica conjugada 10-valente (VPC10) no esquema 2+1, com duas doses primárias aos 2 e 4 meses de idade e um reforço aos 12 meses. Este esquema reduzido (comparado ao 3+1) é considerado adequado para o contexto de saúde pública brasileira.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação pneumocócica recomendado pela SBP, sempre que possível?",
+    "options": [
+      "SBP recomenda VPC13 no esquema 3+1 (2, 4, 6 e 12-15 meses)",
+      "SBP recomenda VPC15 ou VPC20 no esquema 3+1 (2, 4, 6 e 12-15 meses)",
+      "SBP recomenda VPC15 ou VPC20 no esquema 2+1 (2, 4 e 12 meses)",
+      "SBP recomenda VPC10 no esquema 2+1 (2, 4 e 12 meses)",
+      "SBP recomenda VPC13 no esquema 2+1 (2, 4 e 12 meses)"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Sociedade Brasileira de Pediatria recomenda, sempre que possível, o uso da VPC15 ou VPC20 no esquema 3+1 (três doses aos 2, 4 e 6 meses, seguida de reforço aos 12-15 meses). Esta recomendação visa ampliar a proteção para sorotipos adicionais não contemplados pela VPC10 do PNI, oferecendo proteção mais abrangente contra doença pneumocócica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação da SBP para crianças saudáveis com esquema completo de VPC10 pelo PNI?",
+    "options": [
+      "Crianças saudáveis com VPC10 se beneficiam de dose adicional de VPC13/15/20 (intervalo 2 meses, até 5 anos)",
+      "Crianças saudáveis com VPC10 devem aguardar até 10 anos para dose adicional VPC20",
+      "Crianças saudáveis com VPC10 completa não necessitam doses adicionais de outras vacinas",
+      "Crianças saudáveis com VPC10 completa devem repetir esquema completo com VPC15/20",
+      "Crianças saudáveis com VPC10 só se beneficiam de doses adicionais com comorbidades"
+    ],
+    "correctIndex": 0,
+    "explanation": "A SBP recomenda que crianças saudáveis com esquema completo de VPC10 se beneficiem de dose(s) adicional(is) das vacinas VPC13, VPC15 ou VPC20, respeitando intervalo mínimo de 2 meses entre as doses, até os 5 anos de idade. Esta recomendação se baseia na elevada prevalência dos sorotipos não-VPC13 e sorotipo 3 no Brasil, ampliando a proteção individual.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o intervalo mínimo recomendado entre doses da vacina pneumocócica conjugada?",
+    "options": [
+      "Intervalo mínimo de 8 semanas entre doses da vacina pneumocócica",
+      "Intervalo mínimo de 4 semanas entre doses da vacina pneumocócica",
+      "Intervalo mínimo de 2 meses entre doses da vacina pneumocócica",
+      "Intervalo mínimo de 6 semanas entre doses da vacina pneumocócica",
+      "Intervalo mínimo de 3 meses entre doses da vacina pneumocócica"
+    ],
+    "correctIndex": 2,
+    "explanation": "O intervalo mínimo entre doses da vacina pneumocócica conjugada é de 2 meses (8 semanas). Este intervalo deve ser respeitado tanto para as doses do esquema primário quanto para doses adicionais ou de reforço. É importante respeitar este intervalo para garantir resposta imunológica adequada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a SBP recomenda doses adicionais de vacinas pneumocócicas de maior valência para crianças vacinadas com VPC10?",
+    "options": [
+      "Devido ao esquema 2+1 do PNI ser insuficiente para proteção adequada",
+      "Devido à baixa imunogenicidade da VPC10 em lactentes brasileiros",
+      "Devido à elevada prevalência dos sorotipos não-VPC13 e sorotipo 3 no Brasil",
+      "Devido à recomendação internacional de sempre usar vacinas de maior valência",
+      "Devido ao curto tempo de proteção conferido pela VPC10 em crianças saudáveis"
+    ],
+    "correctIndex": 2,
+    "explanation": "A SBP fundamenta sua recomendação de doses adicionais na elevada prevalência dos sorotipos não-VPC13 e sorotipo 3 em nosso país. Estes sorotipos não estão incluídos na VPC10 mas são cobertos pelas vacinas de maior valência (VPC13, VPC15, VPC20), justificando a complementação vacinal para ampliar a proteção contra doença pneumocócica invasiva no contexto epidemiológico brasileiro.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 18 meses comparece para consulta. Recebeu esquema completo de VPC10 pelo PNI (2, 4 e 12 meses). Pais tiveram acesso à informação sobre vacinas de maior valência e desejam ampliar proteção. Qual a orientação adequada?",
+    "options": [
+      "Orientar repetir esquema completo 3+1 com VPC20 desde o início",
+      "Recomendar aguardar até 5 anos para aplicar dose única de VPC20",
+      "Aplicar apenas se criança apresentar comorbidades ou imunodeficiência",
+      "Informar que não é possível aplicar vacinas adicionais após completar esquema PNI",
+      "Aplicar dose adicional de VPC15/20 imediatamente, respeitando intervalo 2 meses da última VPC10"
+    ],
+    "correctIndex": 4,
+    "explanation": "Como a criança tem 18 meses e completou o esquema de VPC10 aos 12 meses (há 6 meses), já passou o intervalo mínimo de 2 meses e está dentro do limite de 5 anos para dose adicional. Pode-se aplicar imediatamente uma dose de VPC15 ou VPC20 para ampliar a proteção. Esta é uma recomendação da SBP para crianças saudáveis, não apenas para grupos de risco, devido ao perfil epidemiológico brasileiro.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 7 meses iniciou vacinação pneumocócica tardiamente aos 5 meses, recebendo primeira dose de VPC15. Como completar o esquema vacinal nesta situação?",
+    "options": [
+      "Aplicar segunda dose aos 7 meses, terceira aos 9 meses e reforço 12-15 meses (esquema 3+1)",
+      "Aplicar apenas mais uma dose aos 7 meses e considerar esquema completo por início tardio",
+      "Aguardar até 12 meses para aplicar dose única de reforço totalizando 2 doses",
+      "Reiniciar esquema aos 2 meses como referência com 3 doses e reforço",
+      "Aplicar segunda dose aos 7 meses e reforço aos 12 meses em esquema 2+1 reduzido"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mesmo com início tardio, para crianças que iniciam a vacinação pneumocócica entre 4 e 11 meses de idade, o esquema recomendado ainda segue o padrão 3+1 (três doses do esquema primário respeitando intervalo mínimo de 2 meses entre elas, mais reforço entre 12-15 meses). O número de doses e esquema seguem as recomendações das bulas dos produtos para cada idade de início, conforme mencionado no documento da SBP.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Criança de 3 anos nunca vacinada contra pneumococo comparece para iniciar imunização. Pais têm acesso a qualquer vacina pneumocócica. Qual a orientação quanto ao esquema nesta idade?",
+    "options": [
+      "Aplicar esquema completo 3+1 (2, 4, 6 meses e reforço 12-15 meses) adaptado",
+      "Contraindicar vacinação pneumocócica pois ultrapassou idade ideal de início",
+      "Aplicar dose única de VPC20 pois acima de 2 anos não necessita mais doses",
+      "Aplicar 3 doses com intervalo de 1 mês entre elas sem necessidade reforço",
+      "Verificar bula para início 2-4 anos, geralmente 2 doses VPC15/20 com intervalo 2 meses"
+    ],
+    "correctIndex": 4,
+    "explanation": "Para crianças que iniciam vacinação pneumocócica após os 2 anos até 4 anos de idade, o esquema varia conforme a vacina e bula do produto. Geralmente, nesta faixa etária são recomendadas 2 doses com intervalo de 2 meses. O documento da SBP menciona que 'para os que iniciam a vacinação depois dos 4 meses até 4 anos de idade, o número de doses e o esquema segue segundo as recomendações das bulas dos produtos', sendo importante consultar a bula específica da vacina escolhida.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal recomendação da SBP quanto ao tipo de vacina meningocócica conjugada a ser utilizada, sempre que possível?",
+    "options": [
+      "Utilizar preferencialmente combinação MenC e MenB em esquemas alternados",
+      "Utilizar preferencialmente vacina ACWY pelo maior espectro de proteção",
+      "Utilizar preferencialmente vacina MenC por ser disponível no PNI",
+      "Utilizar preferencialmente vacina MenB por proteger sorogrupo mais prevalente",
+      "Utilizar preferencialmente vacina ACWY apenas para grupos específicos de risco"
+    ],
+    "correctIndex": 1,
+    "explanation": "A SBP recomenda utilizar preferencialmente a vacina meningocócica ACWY pelo maior espectro de proteção. Enquanto a MenC protege apenas contra o sorogrupo C, a ACWY protege contra os sorogrupos A, C, W e Y, oferecendo proteção mais ampla. Esta recomendação vale inclusive para os reforços de crianças previamente vacinadas com MenC.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quantas vacinas meningocócicas conjugadas estão licenciadas e disponíveis no Brasil, segundo o documento da SBP?",
+    "options": [
+      "Duas MenC conjugadas e duas ACWY conjugadas disponíveis no Brasil",
+      "Três MenC conjugadas e duas ACWY conjugadas disponíveis no Brasil",
+      "Uma MenC conjugada e três ACWY conjugadas disponíveis no Brasil",
+      "Uma MenC conjugada e duas ACWY conjugadas disponíveis no Brasil",
+      "Duas MenC conjugadas (MenC-CRM, MenC-TT) e três ACWY (MenACWY-CRM, MenACWY-TT, duas MenACWY-D)"
+    ],
+    "correctIndex": 4,
+    "explanation": "No Brasil estão licenciadas e disponíveis duas vacinas meningocócicas C conjugadas (MenC-CRM e MenC-TT) e três vacinas meningocócicas ACWY conjugadas (MenACWY-CRM, MenACWY-TT e duas vacinas MenACWY-D). As diferentes conjugações referem-se às proteínas carreadoras utilizadas, que podem influenciar imunogenicidade e esquemas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação meningocócica recomendado pela SBP, preferencialmente com vacina ACWY?",
+    "options": [
+      "Dose única aos 3 meses, reforço aos 12 meses, reforço 5 anos e adolescência",
+      "Doses aos 3, 5 meses, reforço aos 12 meses, reforço 5 anos e reforço adolescência (≥11 anos)",
+      "Doses aos 3, 5 meses, reforço aos 12 meses e dose única adolescência",
+      "Doses aos 2, 4, 6 meses, reforço aos 12 meses e adolescência",
+      "Doses aos 2, 4 meses, reforço aos 12 meses e reforço adolescência (≥11 anos)"
+    ],
+    "correctIndex": 1,
+    "explanation": "A SBP recomenda esquema com vacina meningocócica conjugada (preferencialmente ACWY) com duas doses no primeiro ano (aos 3 e 5 meses), reforço aos 12 meses, reforço aos 5 anos e reforço na adolescência (a partir dos 11 anos). Esta recomendação de reforços múltiplos baseia-se na diminuição dos títulos de anticorpos após a primovacinação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação meningocócica utilizado pelo PNI?",
+    "options": [
+      "MenC aos 2, 4, 12 meses; MenACWY entre 11-14 anos",
+      "MenC aos 3, 5, 12 meses; MenACWY entre 11-14 anos",
+      "MenACWY aos 2, 4, 12 meses; reforço aos 5 anos",
+      "MenC aos 3, 5, 12 meses; sem reforço na adolescência",
+      "MenACWY aos 3, 5, 12 meses; reforço entre 11-14 anos"
+    ],
+    "correctIndex": 1,
+    "explanation": "O Programa Nacional de Imunizações utiliza a vacina MenC no esquema primário de duas doses (aos 3 e 5 meses) com reforço aos 12 meses, e aplica a vacina MenACWY entre 11 e 14 anos de idade. Esta estratégia do PNI mudou recentemente para incluir a vacina ACWY na adolescência, ampliando a proteção nesta faixa etária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o intervalo mínimo recomendado entre doses da vacina meningocócica conjugada?",
+    "options": [
+      "Intervalo mínimo de 1 mês entre doses da vacina meningocócica",
+      "Intervalo mínimo de 4 semanas entre doses da vacina meningocócica",
+      "Intervalo mínimo de 2 meses entre doses da vacina meningocócica",
+      "Intervalo mínimo de 6 semanas entre doses da vacina meningocócica",
+      "Intervalo mínimo de 3 meses entre doses da vacina meningocócica"
+    ],
+    "correctIndex": 0,
+    "explanation": "O intervalo mínimo recomendado entre doses da vacina meningocócica conjugada (MenC ou ACWY) é de 1 mês (4 semanas). Este intervalo deve ser respeitado para garantir resposta imunológica adequada, embora o intervalo ideal seja geralmente de 2 meses conforme calendário padrão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para adolescentes de 15 anos que nunca receberam vacina MenACWY, qual é o esquema recomendado pelo PNI?",
+    "options": [
+      "Adolescentes de 15 anos devem aguardar completar 16 anos para dose única",
+      "Adolescentes de 15 anos devem receber dose única sem necessidade de reforço",
+      "Adolescentes de 15 anos devem receber esquema completo de lactente adaptado",
+      "Adolescentes de 15 anos devem receber duas doses com intervalo de 5 anos (idealmente 11-16 anos)",
+      "Adolescentes de 15 anos devem receber três doses com intervalo de 2 meses"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para adolescentes de 15 anos de idade que nunca receberam MenACWY, o PNI recomenda duas doses com intervalo de cinco anos, idealmente entre 11 e aos 16 anos de idade. Esta estratégia de duas doses garante melhor proteção prolongada em adolescentes que iniciam vacinação tardiamente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para adolescentes de 16 a 18 anos nunca antes vacinados com vacina MenACWY, qual é a recomendação do PNI?",
+    "options": [
+      "Administrar duas doses da vacina com intervalo de 6 meses",
+      "Administrar três doses da vacina com intervalo de 2 meses",
+      "Administrar duas doses da vacina com intervalo de 5 anos",
+      "Administrar somente uma dose da vacina MenACWY",
+      "Administrar esquema completo de lactente adaptado para adolescente"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para adolescentes de 16 a 18 anos nunca antes vacinados com vacina MenACWY, o PNI recomenda administrar somente uma dose da vacina. Este esquema reduzido nesta faixa etária considera o perfil de risco e a resposta imunológica esperada, diferindo da recomendação de duas doses para quem inicia aos 15 anos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 3 anos comparece para consulta. Recebeu esquema completo com vacina MenC pelo PNI (3, 5 e 12 meses). Pais desejam ampliar proteção para outros sorogrupos. Qual a orientação adequada?",
+    "options": [
+      "Aplicar MenACWY apenas se houver surto de meningite por sorogrupos W/Y",
+      "Aplicar dose adicional de MenACWY respeitando intervalo mínimo 1 mês da última MenC",
+      "Informar que não é possível trocar vacinas após completar esquema com MenC",
+      "Orientar repetir esquema completo com MenACWY desde o início",
+      "Recomendar aguardar até 11 anos para aplicar MenACWY conforme PNI"
+    ],
+    "correctIndex": 1,
+    "explanation": "Crianças com esquema vacinal completo com a vacina MenC podem se beneficiar com dose(s) adicional(is) da vacina ACWY a qualquer momento, respeitando-se um intervalo mínimo de 1 mês entre as doses. Isto amplia a proteção para os sorogrupos A, W e Y, não cobertos pela MenC. A SBP recomenda preferir ACWY inclusive para reforços de crianças previamente vacinadas com MenC.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Adolescente de 12 anos nunca vacinado contra meningococo comparece para atualização vacinal. Qual a melhor estratégia de vacinação neste caso?",
+    "options": [
+      "Aplicar dose única de MenACWY sem necessidade de reforço por ser adolescente",
+      "Aplicar duas doses de MenACWY com intervalo de 6 meses",
+      "Aplicar três doses de MenACWY com intervalo de 2 meses entre elas",
+      "Aplicar esquema completo de lactente com doses aos 3, 5, 12 meses adaptado",
+      "Aplicar dose de MenACWY imediatamente e agendar reforço para 5 anos depois (aos 17 anos)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Para adolescentes na faixa de 11-14 anos nunca vacinados, o PNI recomenda a vacina MenACWY. Considerando que adolescentes de 15 anos recebem duas doses com intervalo de 5 anos (11 e 16 anos), a estratégia mais adequada seria aplicar a primeira dose aos 12 anos e o reforço aos 17 anos. Esta é a melhor forma de garantir proteção adequada e duradoura nesta faixa etária.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 8 meses recebeu primeira dose de MenC aos 3 meses e segunda dose aos 5 meses pelo PNI. Pais têm acesso a vacina MenACWY e desejam trocar para as próximas doses. Qual a conduta adequada?",
+    "options": [
+      "Reiniciar esquema completo com MenACWY descartando doses anteriores de MenC",
+      "Aplicar reforço aos 12 meses com MenACWY e manter reforços subsequentes com ACWY",
+      "Completar esquema com MenC pois não é possível trocar vacinas entre doses",
+      "Aplicar dose adicional de MenACWY imediatamente e reforço aos 12 meses",
+      "Aguardar até 11 anos para aplicar MenACWY conforme calendário PNI"
+    ],
+    "correctIndex": 1,
+    "explanation": "Não é necessário descartar doses válidas aplicadas anteriormente. As duas doses de MenC aos 3 e 5 meses contam como esquema primário. Pode-se aplicar o reforço aos 12 meses com MenACWY, ampliando a proteção para os sorogrupos A, W e Y, e manter os reforços subsequentes (5 anos e adolescência) com MenACWY. As vacinas meningocócicas conjugadas são intercambiáveis para complementar esquemas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quantas vacinas meningocócicas recombinantes contra o sorogrupo B estão licenciadas no Brasil?",
+    "options": [
+      "Três vacinas meningocócicas recombinantes contra sorogrupo B licenciadas",
+      "Nenhuma vacina meningocócica recombinante contra sorogrupo B licenciada",
+      "Quatro vacinas meningocócicas recombinantes contra sorogrupo B licenciadas",
+      "Uma vacina meningocócica recombinante contra sorogrupo B licenciada",
+      "Duas vacinas meningocócicas recombinantes contra sorogrupo B licenciadas"
+    ],
+    "correctIndex": 4,
+    "explanation": "Duas vacinas meningocócicas recombinantes contra o sorogrupo B estão licenciadas no Brasil: Bexsero® (do laboratório GSK) e Trumenba® (do laboratório Pfizer). Estas vacinas têm indicações de faixa etária, esquemas e características diferentes, mas ambas protegem contra meningite pelo sorogrupo B.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação com Bexsero® (MenB-GSK) para lactentes que iniciam entre 2 e 12 meses de idade?",
+    "options": [
+      "Três doses com intervalo mínimo 1 mês entre elas, sem necessidade de reforço",
+      "Duas doses com intervalo mínimo 2 meses entre elas, mais reforço no segundo ano de vida",
+      "Dose única no primeiro ano de vida, com reforço no segundo ano",
+      "Três doses com intervalo de 2 meses entre elas, com reforço aos 5 anos",
+      "Duas doses com intervalo de 6 meses entre elas, sem necessidade de reforço"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para lactentes que iniciam vacinação com Bexsero® entre 2 e 12 meses de idade, são recomendadas duas doses com intervalo mínimo de 2 meses entre elas, além de uma dose de reforço no segundo ano de vida. Este esquema garante imunogenicidade adequada e proteção prolongada contra meningococo B.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação com Bexsero® (MenB-GSK) para crianças que iniciam entre 12 e 23 meses de idade?",
+    "options": [
+      "Três doses com intervalo de 2 meses entre elas e reforço no segundo ano",
+      "Três doses com intervalo de 1 mês entre elas, sem reforço",
+      "Dose única sem necessidade de reforço por já estarem mais velhas",
+      "Duas doses com intervalo entre elas, mais reforço 12-23 meses após",
+      "Duas doses com intervalo de 6 meses entre elas, sem reforço"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para crianças que iniciam vacinação com Bexsero® entre 12 e 23 meses de idade, também devem receber o esquema de duas doses com intervalo entre elas, além de uma dose de reforço 12 a 23 meses após. O esquema nesta faixa etária mantém a estrutura de duas doses primárias mais reforço, garantindo proteção adequada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação com Bexsero® (MenB-GSK) para crianças que iniciam após os 2 anos e adolescentes?",
+    "options": [
+      "Duas doses com intervalo de 6 meses entre elas",
+      "Três doses com intervalo de no mínimo 2 meses entre elas",
+      "Duas doses com intervalo de no mínimo 1 mês entre elas",
+      "Dose única sem necessidade de reforço",
+      "Três doses com intervalo de 1 mês entre elas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para crianças que iniciam vacinação com Bexsero® após os 2 anos de idade e adolescentes, são indicadas duas doses com intervalo de no mínimo 1 mês entre elas. Nesta faixa etária, não há necessidade de dose de reforço adicional, diferentemente do esquema para lactentes e crianças menores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação com Trumenba® (MenB-Pfizer) e para qual faixa etária está licenciada?",
+    "options": [
+      "Licenciada para 10-25 anos em esquema de 2 doses, segunda 6 meses após primeira",
+      "Licenciada para todas as idades em esquema de 2 doses com intervalo 1 mês",
+      "Licenciada para adolescentes de 11-18 anos em esquema de dose única",
+      "Licenciada para lactentes a partir de 2 meses em esquema de 2 doses com intervalo 2 meses",
+      "Licenciada para crianças a partir de 1 ano em esquema de 3 doses com intervalo 1 mês"
+    ],
+    "correctIndex": 0,
+    "explanation": "A vacina Trumenba® (do laboratório Pfizer) está licenciada para adolescentes e adultos de 10 a 25 anos de idade, em esquema de duas doses, sendo a segunda aplicada 6 meses após a primeira. Esta é uma diferença importante em relação à Bexsero®, que tem licenciamento mais amplo incluindo lactentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Adolescente de 14 anos nunca vacinado contra meningococo B deseja iniciar imunização. Qual a orientação adequada sobre as vacinas disponíveis e esquemas?",
+    "options": [
+      "Pode iniciar com Bexsero® e completar com Trumenba® pois são intercambiáveis",
+      "Pode usar Bexsero® (2 doses intervalo 1 mês) ou Trumenba® (2 doses intervalo 6 meses), vacinas não intercambiáveis",
+      "Deve receber esquema de 3 doses de qualquer vacina MenB com intervalo 2 meses",
+      "Deve usar apenas Trumenba® pois Bexsero® só é licenciada até 10 anos",
+      "Deve usar apenas Bexsero® pois Trumenba® só é licenciada a partir de 16 anos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para adolescente de 14 anos, ambas as vacinas estão licenciadas: Bexsero® (que cobre desde lactentes até adolescentes e adultos) em esquema de 2 doses com intervalo mínimo de 1 mês, ou Trumenba® (licenciada de 10 a 25 anos) em esquema de 2 doses com intervalo de 6 meses. É importante destacar que as duas apresentações das vacinas meningocócicas B não são intercambiáveis, devendo-se completar o esquema com a mesma vacina iniciada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A partir de qual idade está indicada a vacinação contra influenza para todas as crianças e adolescentes, segundo a SBP?",
+    "options": [
+      "Vacinação contra influenza indicada a partir dos 6 meses de idade",
+      "Vacinação contra influenza indicada a partir dos 2 meses de idade",
+      "Vacinação contra influenza indicada a partir de 1 ano de idade",
+      "Vacinação contra influenza indicada a partir dos 9 meses de idade",
+      "Vacinação contra influenza indicada a partir dos 12 meses de idade"
+    ],
+    "correctIndex": 0,
+    "explanation": "A vacina influenza está indicada para todas as crianças e adolescentes a partir dos 6 meses de idade. Esta é a idade mínima recomendada para início da vacinação contra influenza, sendo uma vacina anual importante na prevenção de complicações respiratórias graves causadas pelo vírus da gripe.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de primovacinação contra influenza para crianças menores de 9 anos?",
+    "options": [
+      "Primovacinação de crianças <9 anos com duas doses, intervalo de 15 dias",
+      "Primovacinação de crianças <9 anos com duas doses, intervalo de 30 dias entre elas",
+      "Primovacinação de crianças <9 anos com duas doses, intervalo de 60 dias",
+      "Primovacinação de crianças <9 anos com dose única anual",
+      "Primovacinação de crianças <9 anos com três doses, intervalo de 30 dias"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para crianças menores de 9 anos que nunca receberam vacina influenza (primovacinação), devem ser aplicadas duas doses com intervalo de 30 dias entre elas. Isto é necessário porque crianças pequenas são imunologicamente 'virgens' para o vírus influenza e necessitam de duas doses para resposta imunológica adequada. Após a primovacinação, seguem com dose anual única.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a dose da vacina influenza recomendada para pessoas a partir de 9 anos de idade?",
+    "options": [
+      "Dose para pessoas a partir de 9 anos é de 0,25 ml",
+      "Dose para pessoas a partir de 9 anos é de 0,5 ml",
+      "Dose para pessoas a partir de 9 anos é de 1,0 ml",
+      "Dose para pessoas a partir de 9 anos é de 0,3 ml",
+      "Dose para pessoas a partir de 9 anos é de 0,75 ml"
+    ],
+    "correctIndex": 1,
+    "explanation": "A dose da vacina influenza para adultos com idades entre 9 e 64 anos é de 0,5 ml (pode variar conforme o fabricante). Esta é a dose padrão para pessoas a partir dos 9 anos de idade. Para crianças de 6 meses a menos de 9 anos, a dose pode ser menor (geralmente 0,25 ml) dependendo da vacina utilizada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 7 anos comparece em março para vacinação contra influenza. Recebeu vacina influenza pela primeira vez no ano anterior (duas doses conforme primovacinação). Qual a conduta adequada para este ano?",
+    "options": [
+      "Não aplicar vacina influenza pois já foi vacinada no ano anterior",
+      "Aplicar dose única de influenza, pois após primovacinação são necessárias doses anuais únicas",
+      "Aguardar até completar 9 anos para iniciar vacinação anual",
+      "Aplicar duas doses com intervalo de 30 dias, pois tem menos de 9 anos",
+      "Aplicar três doses com intervalo de 30 dias para reforçar imunidade"
+    ],
+    "correctIndex": 1,
+    "explanation": "Como a criança já completou primovacinação no ano anterior (2 doses), agora necessita apenas de dose anual única. O esquema de duas doses só é necessário na primovacinação de crianças menores de 9 anos que nunca receberam a vacina. A partir do segundo ano de vacinação, aplica-se dose única anualmente, independentemente da idade, pois o sistema imunológico já teve contato prévio com antígenos do vírus influenza.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o esquema de vacinação com tríplice viral (SCR) e varicela aos 12 meses, segundo a SBP?",
+    "options": [
+      "Aos 12 meses deve ser aplicada tríplice viral (SCR), deixando varicela para 15 meses",
+      "Aos 12 meses deve ser aplicada varicela, deixando SCR para 15 meses",
+      "Aos 12 meses deve ser aplicada apenas tetraviral (SCRV) obrigatoriamente",
+      "Aos 12 meses aplicar primeiras doses de SCR e varicela em administrações separadas, ou tetraviral (SCRV)",
+      "Aos 12 meses devem ser aplicadas SCR e varicela com intervalo de 30 dias entre elas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aos 12 meses de idade, a SBP recomenda que sejam aplicadas, na mesma visita, as primeiras doses das vacinas tríplice viral (SCR) e varicela (V) em administrações separadas, ou a vacina tetraviral (SCRV). Ambas as estratégias são adequadas, permitindo flexibilidade conforme disponibilidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a SBP menciona cautela com o uso da vacina tetraviral (SCRV) na primeira dose aos 12 meses?",
+    "options": [
+      "SCRV tem menor eficácia contra sarampo comparada à tríplice viral isolada",
+      "SCRV causa mais eventos adversos neurológicos que as vacinas separadas",
+      "SCRV associada a maior frequência de febre na primeira dose comparada às vacinas separadas",
+      "SCRV não pode ser aplicada antes de 15 meses por questões de licenciamento",
+      "SCRV tem prazo de validade menor que as vacinas separadas"
+    ],
+    "correctIndex": 2,
+    "explanation": "A vacina tetraviral (SCRV) mostrou-se associada a uma maior frequência de febre em lactentes que recebem a primeira dose com esta vacina quando comparada às vacinas varicela e tríplice viral em injeções separadas. Por esta razão, embora seja uma opção válida, alguns pais podem preferir as vacinas separadas na primeira dose aos 12 meses para reduzir risco de febre.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o intervalo recomendado entre a primeira e segunda dose de vacinas contendo sarampo, caxumba, rubéola e varicela?",
+    "options": [
+      "Aos 18 meses fazer segunda dose, com 6 meses de intervalo mínimo da primeira dose",
+      "Aos 15 meses fazer segunda dose, preferencialmente com 3 meses de intervalo mínimo da última SCR/SCRV",
+      "Aos 12 meses fazer segunda dose, imediatamente após primeira com intervalo de 30 dias",
+      "Aos 24 meses fazer segunda dose, com 12 meses de intervalo mínimo da primeira dose",
+      "Aos 15 meses fazer segunda dose, com intervalo mínimo de 1 mês da primeira dose"
+    ],
+    "correctIndex": 1,
+    "explanation": "A segunda dose deve ser aplicada aos 15 meses de idade, preferencialmente com três meses de intervalo mínimo da última dose de SCR ou SCRV aplicada aos 12 meses. Este intervalo de 3 meses é o mínimo recomendado entre as duas doses para garantir resposta imunológica adequada, embora seja preferível esperar os 3 meses completos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em situações de surto de sarampo, a partir de qual idade é possível vacinar crianças imunocompetentes com a vacina SCR?",
+    "options": [
+      "Em situações de surto, é possível vacinar crianças apenas a partir de 12 meses com SCR",
+      "Em situações de risco como surtos, é possível vacinar crianças de 6-12 meses com SCR",
+      "Em situações de surto, é possível vacinar crianças a partir de 4 meses com SCR",
+      "Em situações de surto, é possível vacinar crianças a partir de 3 meses com SCR",
+      "Em situações de surto, é possível vacinar crianças a partir de 9 meses com SCR"
+    ],
+    "correctIndex": 1,
+    "explanation": "Em situações de risco como surtos ou exposição domiciliar ao sarampo, é possível vacinar crianças imunocompetentes de 6 a 12 meses com a vacina SCR. No entanto, essas doses aplicadas antes de 12 meses não são consideradas doses válidas do calendário, sendo necessária aplicação de mais duas doses após a idade de um ano (aos 12 e 15 meses).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em caso de surto de varicela ou contato íntimo com caso, a partir de qual idade a vacina varicela pode ser utilizada?",
+    "options": [
+      "Vacina varicela pode ser utilizada a partir de 6 meses em surto ou contato íntimo",
+      "Vacina varicela pode ser utilizada a partir de 9 meses em surto ou contato íntimo",
+      "Vacina varicela pode ser utilizada a partir de 15 meses em surto ou contato íntimo",
+      "Vacina varicela pode ser utilizada a partir de 12 meses em surto ou contato íntimo",
+      "Vacina varicela pode ser utilizada a partir de 3 meses em surto ou contato íntimo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Em caso de surto ou contato íntimo com caso de varicela, a vacina pode ser utilizada a partir de 9 meses de idade. Assim como na situação de sarampo, doses aplicadas antes de 12 meses não são consideradas válidas para o calendário regular, necessitando-se de mais duas doses após um ano de idade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o prazo para aplicação da vacina varicela como profilaxia pós-exposição, e qual o momento preferencial?",
+    "options": [
+      "Vacina varicela na profilaxia pós-exposição dentro de 3 dias após contato, preferencialmente primeiras 24h",
+      "Vacina varicela na profilaxia pós-exposição dentro de 10 dias após contato, preferencialmente primeiras 48h",
+      "Vacina varicela na profilaxia pós-exposição dentro de 7 dias após contato, preferencialmente primeiras 96h",
+      "Vacina varicela na profilaxia pós-exposição apenas nas primeiras 24h após contato",
+      "Vacina varicela na profilaxia pós-exposição dentro de 5 dias após contato, preferencialmente primeiras 72h"
+    ],
+    "correctIndex": 4,
+    "explanation": "A vacina varicela pode ser indicada na profilaxia pós-exposição dentro de cinco dias após o contato, preferencialmente nas primeiras 72 horas. A aplicação precoce aumenta as chances de prevenir ou atenuar a doença, sendo mais efetiva quanto mais rapidamente for aplicada após a exposição.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 13 meses comparece para consulta. Recebeu primeira dose de SCRV aos 12 meses há 2 semanas. Mãe questiona quando aplicar segunda dose. Qual a orientação adequada?",
+    "options": [
+      "Não aplicar segunda dose pois SCRV em dose única é suficiente",
+      "Aguardar até 18 meses para aplicar segunda dose com intervalo de 6 meses",
+      "Aplicar segunda dose aos 24 meses para garantir melhor resposta imunológica",
+      "Agendar segunda dose para quando completar 3 meses da primeira (aos 15 meses), respeitando intervalo mínimo",
+      "Aplicar segunda dose imediatamente, pois intervalo mínimo é de apenas 4 semanas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Embora o intervalo mínimo entre doses seja possível em situações especiais, a recomendação é aplicar a segunda dose aos 15 meses, preferencialmente com três meses de intervalo mínimo da última dose de SCR ou SCRV. Como a criança recebeu a primeira dose aos 12 meses, o ideal é aguardar até completar 3 meses (15 meses de idade) para aplicar a segunda dose, otimizando a resposta imunológica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o esquema de vacinação contra Hepatite A recomendado pela SBP?",
+    "options": [
+      "Vacina deve ser administrada em duas doses, a partir dos 6 meses de idade",
+      "Vacina deve ser administrada em duas doses, a partir dos 12 meses de idade",
+      "Vacina deve ser administrada em três doses, a partir dos 6 meses de idade",
+      "Vacina deve ser administrada em dose única, a partir dos 12 meses de idade",
+      "Vacina deve ser administrada em dose única, a partir dos 15 meses de idade"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Sociedade Brasileira de Pediatria recomenda que a vacina Hepatite A seja administrada em duas doses, a partir dos 12 meses de idade. O esquema de duas doses garante proteção prolongada e possivelmente permanente contra hepatite A, diferentemente do esquema de dose única do PNI.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação contra Hepatite A oferecido pelo PNI?",
+    "options": [
+      "PNI oferece vacina em dose única aos 12 meses de idade",
+      "PNI oferece vacina em duas doses aos 12 e 18 meses de idade",
+      "PNI oferece vacina em duas doses aos 15 e 21 meses de idade",
+      "PNI oferece vacina em três doses aos 12, 15 e 18 meses",
+      "PNI oferece vacina em dose única aos 15 meses de idade"
+    ],
+    "correctIndex": 4,
+    "explanation": "O Programa Nacional de Imunizações oferece a vacina Hepatite A em dose única aos 15 meses de idade. Esta é uma diferença importante em relação à recomendação da SBP, que preconiza duas doses. O esquema de dose única do PNI considera custo-efetividade para saúde pública.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Adolescente de 14 anos nunca vacinado contra Hepatite A comparece para atualização vacinal. Qual o esquema recomendado nesta situação?",
+    "options": [
+      "Adolescentes podem receber dose única da vacina Hepatite A sem necessidade de reforço",
+      "Adolescentes acima de 13 anos não necessitam vacinação contra Hepatite A",
+      "Adolescentes podem receber duas doses da vacina Hepatite A com intervalo de 6 meses",
+      "Adolescentes podem receber três doses da vacina Hepatite A com intervalo de 2 meses",
+      "Adolescentes podem receber duas doses da vacina Hepatite A com intervalo de 1 mês"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adolescentes não vacinados devem receber duas doses da vacina Hepatite A. O esquema típico para adolescentes e adultos é de duas doses com intervalo de 6 meses entre elas, conforme mencionado no documento para menores de 16 anos. Este intervalo garante resposta imunológica adequada e proteção duradoura.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o esquema de vacinação contra febre amarela recomendado pela SBP?",
+    "options": [
+      "Vacina deve ser administrada aos 9 meses e aos 4 anos de idade",
+      "Vacina deve ser administrada aos 9 meses, 15 meses e 4 anos",
+      "Vacina deve ser administrada aos 6 meses e aos 5 anos de idade",
+      "Vacina deve ser administrada em dose única aos 9 meses de idade",
+      "Vacina deve ser administrada aos 12 meses e aos 4 anos de idade"
+    ],
+    "correctIndex": 0,
+    "explanation": "A SBP recomenda que a vacina febre amarela seja administrada aos 9 meses e aos 4 anos de idade. Esta recomendação de duas doses visa prevenir falhas vacinais e garantir proteção adequada para toda a população brasileira e pessoas que se deslocam para países que exigem comprovação de vacinação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação do PNI quanto ao esquema de vacina febre amarela?",
+    "options": [
+      "PNI oferece três doses para crianças e duas doses para adolescentes e adultos",
+      "PNI oferece duas doses apenas para pessoas em áreas de risco",
+      "PNI oferece duas doses para todas pessoas independente da idade de início",
+      "PNI oferece duas doses somente para crianças que iniciaram esquema com menos de 5 anos",
+      "PNI oferece dose única para todas pessoas independente da idade"
+    ],
+    "correctIndex": 3,
+    "explanation": "O PNI oferece duas doses da vacina febre amarela somente para crianças que iniciaram o esquema com menos de 5 anos. Para pessoas que iniciam a vacinação após 5 anos, o PNI adota a recomendação da OMS de dose única. A SBP, no entanto, recomenda aplicação da segunda dose para todos os adolescentes e adultos para prevenir falhas vacinais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em municípios com circulação comprovada do vírus da febre amarela, a partir de qual idade a vacinação pode ser considerada?",
+    "options": [
+      "Vacinação pode ser considerada para crianças apenas a partir de 9 meses conforme calendário padrão",
+      "Vacinação pode ser considerada para crianças a partir de 3 meses como dose válida do calendário",
+      "Vacinação pode ser considerada para crianças a partir de 2 meses em dose antecipada",
+      "Vacinação pode ser considerada para crianças entre 6-9 meses, não sendo esta dose válida para rotina",
+      "Vacinação pode ser considerada para crianças entre 4-8 meses como dose válida"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em municípios com circulação comprovada do vírus da febre amarela (casos em humanos e/ou epizootias), a vacinação deve ser considerada para crianças com idade entre seis e nove meses. No entanto, esta dose não é considerada válida para a rotina, devendo a criança receber o esquema regular a partir dos 9 meses de idade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a orientação para mães lactantes de bebês menores de 6 meses quando vacinadas contra febre amarela?",
+    "options": [
+      "Lactentes de mães vacinadas devem ter aleitamento materno suspenso por 10 dias após vacinação",
+      "Lactentes de mães vacinadas devem ter aleitamento materno suspenso por 30 dias após vacinação",
+      "Lactentes de mães vacinadas devem ter aleitamento materno suspenso por 5 dias após vacinação",
+      "Lactentes de mães vacinadas devem ter aleitamento materno suspenso por 15 dias após vacinação",
+      "Lactentes de mães vacinadas podem continuar aleitamento materno sem restrições"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lactentes de bebês menores de 6 meses de idade, quando as mães são vacinadas contra febre amarela, devem ser orientados para a suspensão do aleitamento materno por 10 dias após a vacinação. Esta medida visa evitar a transmissão do vírus vacinal pelo leite materno, que poderia causar eventos adversos no lactente jovem.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 18 meses vai viajar com os pais para área de risco de febre amarela. Recebeu primeira dose de febre amarela aos 9 meses. Pais questionam se precisa de nova dose antes da viagem. Qual a orientação adequada?",
+    "options": [
+      "Não pode viajar para área de risco pois ainda não completou esquema de duas doses",
+      "Deve receber segunda dose apenas se for para país que exige duas doses no certificado",
+      "Deve receber imunoglobulina específica pois é muito nova para segunda dose",
+      "Deve receber segunda dose imediatamente antes da viagem para garantir proteção adequada",
+      "Não precisa de nova dose, pois segunda dose indicada aos 4 anos e já tem proteção da primeira dose"
+    ],
+    "correctIndex": 4,
+    "explanation": "A criança já recebeu a primeira dose aos 9 meses e está protegida. A segunda dose está indicada aos 4 anos conforme calendário da SBP para prevenir falhas vacinais a longo prazo, mas não é necessária antes desta idade para viagens. A OMS considera que uma dose é suficiente para viagens internacionais. A proteção conferida pela primeira dose é adequada para a viagem aos 18 meses.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quantas vacinas contra HPV estão disponíveis no Brasil, segundo o documento da SBP, e quais os tipos virais que cada uma contém?",
+    "options": [
+      "Duas vacinas: HPV2 (tipos 16, 18) e HPV4 (tipos 6, 11, 16, 18)",
+      "Duas vacinas: HPV4 (tipos 6, 11, 16, 18) e HPV9 (adiciona 31, 33, 45, 52, 58)",
+      "Uma vacina: HPV4 (tipos 6, 11, 16, 18) disponível no PNI",
+      "Quatro vacinas: HPV2, HPV4, HPV6 e HPV9 com diferentes combinações",
+      "Três vacinas: HPV2, HPV4 e HPV9 com diferentes tipos virais"
+    ],
+    "correctIndex": 1,
+    "explanation": "Duas vacinas contra o HPV do laboratório MSD (Gardasil®) estão disponíveis no Brasil: a HPV4 (quadrivalente) contém VLP dos tipos 6, 11, 16 e 18, e a HPV9 (nonavalente) tem o acréscimo dos tipos 31, 33, 45, 52 e 58. A HPV9 oferece maior espectro de proteção contra tipos oncogênicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação contra HPV recomendado para indivíduos entre 9 e 14 anos?",
+    "options": [
+      "Dose única sem necessidade de reforço",
+      "Três doses com intervalos de 0, 2 e 6 meses",
+      "Três doses com intervalos de 0, 1-2 e 6 meses",
+      "Duas doses com intervalo de 3 meses entre elas",
+      "Duas doses com intervalo de 6 meses entre elas"
+    ],
+    "correctIndex": 4,
+    "explanation": "Para indivíduos com idade entre 9 e 14 anos, tanto a HPV4 quanto a HPV9 devem ser administradas em esquema de duas doses com intervalo de 6 meses entre elas. Este esquema reduzido (comparado ao de 3 doses) é possível nesta faixa etária devido à melhor resposta imunológica em indivíduos mais jovens.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de vacinação contra HPV recomendado para indivíduos com 15 anos ou mais, e para imunocomprometidos?",
+    "options": [
+      "Duas doses com intervalo de 6 meses entre elas",
+      "Três doses com intervalos de 0, 1-2 e 6 meses",
+      "Duas doses com intervalo de 3 meses entre elas",
+      "Dose única sem necessidade de reforço",
+      "Quatro doses com intervalos de 0, 2, 4 e 12 meses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para maiores de 15 anos e para imunocomprometidos (independentemente da idade), o esquema recomendado é de três doses com intervalos de 0, 1-2 e 6 meses. O esquema estendido garante melhor resposta imunológica em indivíduos mais velhos e naqueles com comprometimento imunológico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual vacina HPV a SBP recomenda sempre que possível, e por quê?",
+    "options": [
+      "SBP recomenda vacina nonavalente (HPV9) pelo maior espectro de proteção",
+      "SBP recomenda qualquer vacina HPV pois têm eficácia equivalente",
+      "SBP recomenda alternância entre HPV4 e HPV9 para ampliar proteção",
+      "SBP recomenda vacina bivalente (HPV2) por proteger tipos oncogênicos principais",
+      "SBP recomenda vacina quadrivalente (HPV4) por ser disponível no PNI"
+    ],
+    "correctIndex": 0,
+    "explanation": "A SBP recomenda, sempre que possível, a vacina nonavalente (HPV9) pelo maior espectro de proteção. A HPV9 protege contra 9 tipos de HPV (incluindo os 4 da HPV4 mais 5 tipos oncogênicos adicionais), oferecendo proteção mais abrangente contra câncer de colo uterino, vulva, vagina, ânus, pênis e orofaringe.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Adolescente de 13 anos, sexo feminino, nunca vacinada contra HPV, comparece para iniciar imunização. Pais têm acesso a vacina HPV9. Qual o esquema adequado?",
+    "options": [
+      "Aplicar dose única de HPV9 pois é adolescente",
+      "Recomendar aguardar até 15 anos para aplicar esquema de 3 doses",
+      "Aplicar primeira dose de HPV9 imediatamente e segunda dose após 6 meses",
+      "Aplicar primeira dose imediatamente e segunda dose após 3 meses apenas",
+      "Aplicar esquema de três doses (0, 2 e 6 meses) por nunca ter sido vacinada"
+    ],
+    "correctIndex": 2,
+    "explanation": "Como a adolescente tem 13 anos (entre 9 e 14 anos), o esquema recomendado é de duas doses com intervalo de 6 meses entre elas. Não importa que ela nunca foi vacinada antes - o que define o número de doses é a idade atual (9-14 anos = 2 doses; ≥15 anos = 3 doses). Deve-se aplicar a primeira dose imediatamente e agendar a segunda para 6 meses depois.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a recomendação do PNI quanto à vacinação contra COVID-19 para crianças?",
+    "options": [
+      "PNI contempla vacinação contra COVID-19 para todas crianças a partir de 12 meses de idade",
+      "PNI contempla vacinação contra COVID-19 apenas para crianças acima de 5 anos",
+      "PNI contempla vacinação contra COVID-19 para todas crianças de 6 meses a 4 anos, 11 meses e 29 dias",
+      "PNI contempla vacinação contra COVID-19 para todas crianças a partir de 2 anos de idade",
+      "PNI contempla vacinação contra COVID-19 apenas para crianças com comorbidades"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Programa Nacional de Imunizações contempla a vacinação contra COVID-19 no seu calendário para todas as crianças de 6 meses a 4 anos, 11 meses e 29 dias. Esta é a faixa etária definida pelo PNI para vacinação rotineira contra COVID-19 no calendário nacional.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação da SBP quanto à vacinação rotineira contra COVID-19?",
+    "options": [
+      "SBP recomenda vacinação apenas para crianças e adolescentes com comorbidades de qualquer idade",
+      "SBP recomenda vacinação rotineira de 6 meses a <5 anos, mais crianças/adolescentes com vulnerabilidade ou comorbidades",
+      "SBP não recomenda vacinação rotineira, apenas em situação de surto",
+      "SBP recomenda vacinação universal para todas crianças e adolescentes até 19 anos",
+      "SBP recomenda vacinação apenas para crianças menores de 2 anos independente de fatores risco"
+    ],
+    "correctIndex": 1,
+    "explanation": "A SBP recomenda a vacinação rotineira de crianças a partir de 6 meses até menores de 5 anos de idade, além de crianças e adolescentes de qualquer idade com maior vulnerabilidade ou condições que aumentem o risco para formas graves da doença (presença de comorbidades ou imunossupressão). Esta é uma recomendação baseada em dados de efetividade e segurança.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Adolescente de 15 anos, hígido, sem comorbidades, questiona se deve receber vacina contra COVID-19. Qual a orientação adequada baseada nas recomendações da SBP?",
+    "options": [
+      "Não deve receber vacina pois está fora da faixa etária de recomendação da SBP",
+      "Deve aguardar até apresentar comorbidade para indicar vacinação",
+      "Deve receber vacinação obrigatoriamente pois faz parte do calendário SBP para todos até 19 anos",
+      "Vacinação rotineira SBP é para <5 anos e grupos risco; para adolescentes hígidos avaliar contexto epidemiológico",
+      "Deve receber apenas se houver surto ativo de COVID-19 na região"
+    ],
+    "correctIndex": 3,
+    "explanation": "A recomendação da SBP para vacinação rotineira contra COVID-19 é específica: crianças de 6 meses a <5 anos + crianças e adolescentes de qualquer idade com maior vulnerabilidade/comorbidades. Para adolescentes hígidos acima de 5 anos, não há recomendação de vacinação rotineira universal pela SBP, embora a vacina esteja disponível e possa ser considerada em contexto individual. O importante é ressaltar a vacinação de gestantes e grupos de risco.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual vacina contra dengue está disponível no Brasil, segundo o documento da SBP, e qual sua faixa etária de aplicação?",
+    "options": [
+      "Vacina recombinante Qdenga® (Takeda) para 2-60 anos de idade",
+      "Vacina inativada Dengvaxia® (Sanofi) para 9-45 anos de idade",
+      "Vacina atenuada Dengvaxia® (Sanofi) para 6 meses a 60 anos de idade",
+      "Vacina conjugada Qdenga® (Takeda) para 6-60 anos de idade",
+      "Vacina recombinante e atenuada Qdenga® (Takeda) para 4-60 anos de idade"
+    ],
+    "correctIndex": 4,
+    "explanation": "A vacina recombinante e atenuada Qdenga®, do laboratório Takeda, pode ser aplicada a partir de 4 anos até 60 anos de idade. Esta é a vacina dengue atualmente recomendada pela SBP, com esquema de duas doses e intervalo de três meses entre elas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Adolescente de 16 anos, sexo feminino, grávida de 8 semanas, moradora de área endêmica para dengue, questiona sobre vacina dengue. Qual a orientação adequada?",
+    "options": [
+      "Vacina dengue está contraindicada para gestantes; orientar medidas de proteção individual contra mosquito",
+      "Deve aguardar até segundo trimestre para aplicar vacina com segurança",
+      "Pode receber vacina dengue pois mora em área endêmica e benefícios superam riscos",
+      "Pode receber vacina se assinar termo de consentimento informado sobre uso em gestantes",
+      "Deve receber imunoglobulina específica ao invés da vacina durante gestação"
+    ],
+    "correctIndex": 0,
+    "explanation": "A vacina dengue (Qdenga®) está contraindicada para gestantes, mulheres que amamentam e imunocomprometidos. Mesmo em área endêmica, a gestante não deve receber a vacina. Deve-se orientar medidas rigorosas de proteção individual contra o mosquito Aedes aegypti (repelentes seguros na gestação, roupas adequadas, telas, eliminação de criadouros). A vacinação poderá ser realizada após o parto e cessação da amamentação, se indicada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as duas estratégias disponíveis para prevenção das infecções pelo VSR (vírus sincicial respiratório) no lactente?",
+    "options": [
+      "Vacinação da gestante com Synagis® (Palivizumab) ou anticorpo monoclonal no bebê aos 6 meses",
+      "Vacinação da gestante com Abrysvo® (Pfizer) ou administração de anticorpo monoclonal (nirsevimabe) no bebê",
+      "Vacinação do lactente aos 2 meses com vacina VSR ou imunoglobulina específica ao nascer",
+      "Administração de anticorpo monoclonal aos 2, 4 meses ou vacinação da gestante no terceiro trimestre",
+      "Vacinação do lactente aos 6 meses com vacina atenuada ou imunoglobulina policlonal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Existem duas estratégias para prevenção das infecções pelo VSR no lactente: vacinação da gestante com Abrysvo® (do laboratório Pfizer) ou administração do anticorpo monoclonal nirsevimabe no bebê ao nascer. Ambas as estratégias são eficazes, e em alguns casos, as duas estratégias combinadas devem ser consideradas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema de doses do anticorpo monoclonal nirsevimabe para prevenção de VSR na primeira sazonalidade?",
+    "options": [
+      "Dose única ao nascer: 100 mg independente do peso da criança",
+      "Três doses: 50 mg ao nascer, 2 e 4 meses para crianças risco",
+      "Duas doses: 50 mg ao nascer e 50 mg aos 3 meses para todas crianças",
+      "Dose única ao nascer: 25 mg para <2,5 kg e 50 mg para ≥2,5 kg",
+      "Dose única ao nascer: 50 mg para <5 kg e 100 mg para ≥5 kg"
+    ],
+    "correctIndex": 4,
+    "explanation": "A imunização com nirsevimabe deve ser realizada ao nascer em dose única, independentemente da idade gestacional: 50 mg para crianças com peso inferior a 5 kg e 100 mg para crianças com peso ≥5 kg, por via intramuscular. Esta dose única oferece proteção durante toda a primeira sazonalidade do VSR.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em quais situações o anticorpo monoclonal nirsevimabe deve ser administrado mesmo quando a gestante foi vacinada?",
+    "options": [
+      "Somente em prematuros extremos nascidos antes de 28 semanas de gestação",
+      "Apenas quando gestante não completou esquema de duas doses da vacina VSR",
+      "Gestante vacinada <14 dias do parto e crianças com risco (prematuros, doença pulmonar, cardiopatias, fibrose cística, Down)",
+      "Apenas quando há surto ativo de VSR na região ou em época sazonal pico",
+      "Todas situações, pois vacina materna e anticorpo no bebê são estratégias complementares obrigatórias"
+    ],
+    "correctIndex": 2,
+    "explanation": "O anticorpo monoclonal nirsevimabe deve ser administrado no bebê mesmo quando a mãe foi vacinada em casos de: gestante vacinada há menos de 14 dias do parto (tempo insuficiente para transferência de anticorpos) e em situações de maior risco para a criança, como doença pulmonar crônica da prematuridade, outros distúrbios de imunidade, fibrose cística, cardiopatias congênitas e síndrome de Down.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Recém-nascido a termo, peso 3.200g, mãe recebeu vacina VSR há 10 dias do parto. Pediatra avalia risco de VSR por ser época sazonal. Qual a conduta adequada quanto à profilaxia de VSR?",
+    "options": [
+      "Aplicar nirsevimabe 50 mg ao nascer, pois mãe vacinada <14 dias (tempo insuficiente transferência anticorpos)",
+      "Aplicar dose dupla de nirsevimabe (100 mg) para compensar vacinação materna tardia",
+      "Aguardar 4 dias para completar 14 dias da vacinação materna e reavaliar necessidade",
+      "Não aplicar nirsevimabe pois mãe foi vacinada e bebê protegido por anticorpos maternos",
+      "Aplicar apenas se houver sinais de desconforto respiratório nos primeiros dias vida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Como a gestante foi vacinada há menos de 14 dias do parto, não houve tempo suficiente para transferência adequada de anticorpos para o feto. Neste caso, o bebê deve receber o anticorpo monoclonal nirsevimabe ao nascer. Como o peso é <5 kg, a dose é de 50 mg. Esta é uma das situações especiais em que se recomenda a administração do anticorpo mesmo quando a mãe foi vacinada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 10 meses, portador de cardiopatia congênita, recebeu nirsevimabe ao nascer. Pais questionam sobre proteção para a próxima sazonalidade de VSR. Qual a orientação adequada?",
+    "options": [
+      "Na segunda sazonalidade, recomenda-se dose de 200 mg independente do peso para crianças até 2 anos com risco",
+      "Não há recomendação de segunda dose, apenas vigilância de sintomas respiratórios",
+      "Deve receber nova dose de 50 mg se peso <5 kg ou 100 mg se ≥5 kg",
+      "Não é necessária nova dose pois primeira oferece proteção por 2 anos completos",
+      "Deve aguardar até 2 anos para receber vacinação ativa contra VSR"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na segunda sazonalidade (segundo ano de vida), o nirsevimabe é recomendado apenas para crianças de até 2 anos com maior risco de doença grave por VSR, como este caso de cardiopatia congênita. A dose na segunda sazonalidade é de 200 mg, independente do peso da criança. Esta dose adicional mantém a proteção em crianças de alto risco que ainda são vulneráveis ao VSR.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais vacinas são recomendadas para gestantes durante a gestação, segundo o documento da SBP?",
+    "options": [
+      "COVID-19, dTpa, influenza, VSR e hepatite B durante gestação",
+      "COVID-19, dTpa e influenza apenas, VSR não está recomendada para gestantes",
+      "COVID-19 (qualquer momento), dTpa (≥20 semanas), influenza (qualquer momento) e VSR (≥28 semanas)",
+      "Apenas COVID-19 e influenza, deixando dTpa e VSR para puerpério",
+      "Apenas dTpa (≥20 semanas) e influenza (qualquer momento) durante gestação"
+    ],
+    "correctIndex": 2,
+    "explanation": "Durante a gestação, são recomendadas as vacinas: COVID-19 (em qualquer momento da gestação), dTpa (a partir de 20 semanas de idade gestacional), influenza (de acordo com a sazonalidade do vírus, em qualquer momento da gestação), e a vacina contra o VSR a partir da 28ª semana de idade gestacional (sendo que a vacina está licenciada a partir de 24 semanas gestacionais). A Hepatite B deve estar atualizada, mas não é rotineiramente aplicada durante a gestação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A partir de qual idade gestacional está recomendada a aplicação da vacina VSR em gestantes?",
+    "options": [
+      "Vacina VSR recomendada apenas no terceiro trimestre após 34 semanas",
+      "Vacina VSR recomendada em qualquer momento da gestação",
+      "Vacina VSR recomendada a partir da 28ª semana gestacional (licenciada a partir de 24 semanas)",
+      "Vacina VSR recomendada a partir da 32ª semana de idade gestacional",
+      "Vacina VSR recomendada a partir da 20ª semana de idade gestacional"
+    ],
+    "correctIndex": 2,
+    "explanation": "A vacina contra o VSR (Abrysvo®) está recomendada para aplicação a partir da 28ª semana de idade gestacional. O documento menciona que a vacina está licenciada a partir de 24 semanas gestacionais, mas a recomendação de uso rotineiro é a partir de 28 semanas. Esta vacinação visa proteger o bebê nos primeiros meses de vida através de anticorpos maternos transferidos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Gestante de 26 semanas, comparece para consulta pré-natal com pediatra. Cartão mostra apenas Hepatite B completa. É abril (período pré-sazonal de influenza). Qual a conduta adequada quanto à vacinação?",
+    "options": [
+      "Aplicar apenas COVID-19 e dTpa, contraindicar influenza fora de período sazonal",
+      "Aplicar apenas influenza agora e demais vacinas no terceiro trimestre",
+      "Aplicar dTpa e influenza agora; aguardar puerpério para COVID-19 e VSR",
+      "Aguardar 28 semanas para aplicar todas vacinas simultaneamente",
+      "Aplicar influenza e COVID-19 imediatamente; agendar dTpa (já pode ≥20 semanas) e VSR para 28 semanas"
+    ],
+    "correctIndex": 4,
+    "explanation": "A gestante está com 26 semanas, portanto já passou de 20 semanas (pode receber dTpa). Deve-se aplicar imediatamente: influenza (qualquer momento da gestação, aproveitando período pré-sazonal), COVID-19 (qualquer momento) e dTpa (≥20 semanas). A vacina VSR deve ser agendada para quando completar 28 semanas. É fundamental aproveitar cada consulta pré-natal para atualizar o calendário vacinal da gestante, otimizando a proteção tanto materna quanto do recém-nascido.",
+    "type": "raciocínio"
+  }
+]

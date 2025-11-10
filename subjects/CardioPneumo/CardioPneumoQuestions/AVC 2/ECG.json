@@ -1,0 +1,214 @@
+[
+  {
+  "question": "Observe o eletrocardiograma abaixo. Corresponde à descrição apropriada desse eletrocardiograma:",
+  "image": "subjects/CardioPneumo/CardioPneumoImages/ekg7.jpg",
+  "options": [
+    "Ritmo sinusal, frequência cardíaca de 71 bpm, eixo do QRS a + 60º, com infarto agudo do miocárdio de parede anterior.",
+    "Ritmo sinusal, frequência cardíaca de 80 bpm, eixo do QRS a 0º, com bloqueio de ramo direito.",
+    "Ritmo irregular, frequência cardíaca de aproximadamente 100 bpm, eixo do QRS a + 60º, com taquicardia ventricular.",
+    "Ritmo sinusal, frequência cardíaca de 71 bpm, eixo do QRS a + 60º, correspondendo a um eletrocardiograma dentro dos padrões de normalidade.",
+    "Ritmo sinusal, frequência cardíaca de 80 bpm, eixo do QRS a 0º, com bloqueio de ramo esquerdo."
+  ],
+  "correctIndex": 0,
+  "explanation": "O traçado apresenta ritmo sinusal, frequência cardíaca de aproximadamente 71 bpm e eixo do QRS em torno de +60º. As derivações V1 a V4 mostram elevação do segmento ST, achado típico de infarto agudo do miocárdio de parede anterior.",
+  "type": "raciocínio"
+},
+{
+  "question": "Durante a análise do eletrocardiograma de um homem de 45 anos, foi identificado o seguinte padrão: onda QRS positiva em D1 e negativa em aVF. Qual é a interpretação mais provável do eixo elétrico do coração neste caso?",
+  "options": [
+    "Eixo indeterminado.",
+    "Eixo normal.",
+    "Desvio do eixo para a esquerda.",
+    "Desvio do eixo para a direita.",
+    "Desvio do eixo para a direita superior."
+  ],
+  "correctIndex": 2,
+  "explanation": "O padrão de QRS positivo em D1 e negativo em aVF indica desvio do eixo elétrico para a esquerda. Se D2 também for negativo, o desvio é confirmado. Essa alteração sugere condições como hipertrofia ventricular esquerda, hemibloqueio anterior esquerdo ou infarto inferior.",
+  "type": "conteudista"
+},
+{
+  "question": "Homem de 32 anos, assintomático: Calcule o eixo QRS no plano frontal com base na análise do eletrocardiograma fornecido.",
+  "image": "subjects/CardioPneumo/CardioPneumoImages/ekg8.jpg",
+  "options": [
+    "Eixo QRS a +60º, com QRS isodifásico em aVL e polarização positiva em D2.",
+    "Eixo QRS a 0º, com QRS positivo em todas as derivações periféricas.",
+    "Eixo QRS indeterminado, com ondas negativas em D1 e aVF.",
+    "Eixo QRS a +120º, caracterizando desvio do eixo para a direita.",
+    "Eixo QRS negativo em D2 e positivo em aVF, sugerindo bloqueio de ramo."
+  ],
+  "correctIndex": 0,
+  "explanation": "A maior amplitude do QRS está em D2, cujo eixo é +60º. O QRS em aVL está isodifásico (igual positivo e negativo), que corresponde ao ângulo reto do eixo com essa derivação (-30º). Assim, o eixo do QRS está em +60º no plano frontal.",
+  "type": "raciocínio"
+},
+{
+  "question": "Os dois pacientes a seguir são assintomáticos, com sistema cardiovascular normal:\nPaciente A: Homem de 66 anos, 1,64 m e 92 kg.\nPaciente B: Homem de 29 anos, 1,81 m e 71 kg.\nAbaixo, ECG 1 e ECG 2. Com base no eixo QRS frontal, qual ECG corresponde a qual paciente?",
+  "image": "subjects/CardioPneumo/CardioPneumoImages/ekg9.jpg",
+  "options": [
+    "ECG 1 é do paciente B (QRS em +90º, eixo verticalizado); ECG 2 é do paciente A (QRS em 0º, eixo horizontalizado).",
+    "ECG 1 é do paciente A (QRS em 0º, eixo horizontalizado); ECG 2 é do paciente B (QRS em +90º, eixo verticalizado).",
+    "Ambos os ECGs mostram eixo QRS indeterminado e não podem ser diferenciados.",
+    "ECG 1 tem desvio do eixo para a esquerda (paciente A); ECG 2 tem desvio do eixo para a direita (paciente B).",
+    "ECG 1 e ECG 2 apresentam o mesmo eixo QRS, não havendo diferença entre pacientes de diferentes biotipos."
+  ],
+  "correctIndex": 0,
+  "explanation": "O ECG 1 é do paciente B: homem jovem, longilíneo, com eixo QRS em +90º (verticalizado), padrão comum nessa faixa etária e biotipo. ECG 2 é do paciente A: homem mais velho, brevelíneo, eixo QRS em 0º (horizontalizado), esperado nesse perfil corporal. O traçado confirma a relação entre biotipo e orientação do eixo cardíaco.",
+  "type": "raciocínio"
+},
+{
+  "question": "O ECG abaixo, de um homem de 56 anos, assintomático e esportista, é considerado normal. Indique quais das alternativas justifica a normalidade do exame, considerando os seguintes parâmetros: ritmo, frequência cardíaca, intervalo PR, complexo QRS, eixo QRS, progressão da onda R, segmento ST, ondas T e intervalo QT.",
+  "image": "subjects/CardioPneumo/CardioPneumoImages/ekg11.jpg",
+  "options": [
+    "Ritmo sinusal (ondas P positivas em D1 e D2, negativas em aVR), frequência cardíaca de 60 bpm, intervalo PR fixo em 0,16s, QRS de 0,08s, eixo QRS em +60º, progressão normal da onda R de V1 a V5, segmento ST com leve supradesnível (<1mm), ondas T positivas exceto em aVR, intervalo QT <50% do RR.",
+    "Ritmo atrial com FC de 110 bpm, PR de 0,22s, QRS de 0,14s, eixo QRS indeterminado, ausência de progressão da onda R, segmento ST infradesnivelado, ondas T invertidas em todas as derivações, QT prolongado.",
+    "Ritmo sinusal, FC de 45 bpm, PR de 0,12s, QRS de 0,10s, eixo QRS de -30º, ausência de progressão da R, ST supradesnivelado em todas derivações, ondas T negativas em D1 e aVL, QT normal.",
+    "Ritmo nodal, FC de 150 bpm, PR de 0,18s, QRS de 0,12s, eixo QRS em +120º, ausência de R em V5/V6, ST isoelétrico, ondas T negativas em aVF, QT prolongado.",
+    "Ritmo sinusal, FC de 90 bpm, PR de 0,20s, QRS de 0,11s, eixo QRS em +90º, progressão de R até V3, ST infradesnivelado de 1,5mm em D2, T negativas em V4-V6, QT de 0,55s."
+  ],
+  "correctIndex": 0,
+  "explanation": "O ECG apresenta padrão absolutamente normal: ritmo sinusal, FC 60 bpm, PR 0,16s, QRS 0,08s, eixo +60º, progressão de R adequada, segmento ST fisiológico, ondas T positivas (exceto aVR) e intervalo QT inferior a 50% do RR. Essas características confirmam o diagnóstico de ECG normal em adulto assintomático e esportista.",
+  "type": "conteudista"
+},
+  {
+    "question": "O eletrocardiograma, também chamado de ECG, é o registro gráfico dos fenômenos elétricos do músculo cardíaco ou do coração. Com base no tema, é CORRETO afirmar:",
+    "options": [
+      "O complexo QRS representa a despolarização e a condução do impulso nos ventrículos.",
+      "O ECG é registrado em papel gráfico, na velocidade (linha vertical) de 20 mm/s, ou 1mm a cada 0,04 segundos.",
+      "As derivações periféricas são obtidas no plano horizontal, pela colocação de eletrodos no tórax do paciente.",
+      "O posicionamento do eletrodo para derivação precordial V4 deve ser de 4° espaço intercostal à direita, próximo ao esterno."
+    ],
+    "correctIndex": 0,
+    "explanation": "O complexo QRS representa a despolarização ventricular, ou seja, a ativação elétrica que resulta na contração dos ventrículos. Ele é formado por três ondas (Q, R e S) e reflete a condução do impulso elétrico através do sistema de condução intraventricular (feixe de His, ramos direito e esquerdo, e fibras de Purkinje). A duração normal do QRS é de até 110-120ms. As demais alternativas estão incorretas: o ECG é registrado a 25 mm/s (não 20 mm/s); as derivações periféricas são obtidas no plano frontal (não horizontal); e V4 é posicionada no 5° espaço intercostal esquerdo na linha hemiclavicular (não 4° EIC à direita).",
+    "type": "conteudista"
+  },
+{
+    "question": "Aumentos cavitários\nHMN, masculino de 57 anos, grande tabagista e obeso, analisando o ECG foi encontrado Sobrecarga Atrial Esquerda (SAE) com onda P com componente negativo aumentado (final lento e profundo) na derivação V1. Podemos indicar como correto que:",
+    "options": [
+      "A área da fase negativa de pelo menos 0,09 mm/s, ou igual ou superior a 1 mm², constitui o Índice de Morris, que apresenta melhor sensibilidade que o critério isolado de duração aumentada.",
+      "A área da fase negativa de pelo menos 0,04 mm/s, ou igual ou superior a 11 mm², constitui o Índice de Morris, que apresenta melhor sensibilidade que o critério isolado de duração aumentada.",
+      "A área da fase negativa de pelo menos 0,04 mm/s, ou igual ou superior a 1 mm², constitui o Índice de Morris, que apresenta pior sensibilidade que o critério isolado de duração aumentada.",
+      "A área da fase negativa de pelo menos 0,04 mm/s, ou igual ou superior a 1 mm², constitui o Índice de Morris, que apresenta melhor sensibilidade que o critério isolado de duração aumentada."
+    ],
+    "correctIndex": 3,
+    "explanation": "O Índice de Morris é calculado pela multiplicação da duração da fase negativa da onda P em V1 (em milissegundos) pela amplitude dessa mesma fase (em milímetros). Um valor igual ou superior a 40 ms x mm (equivalente a 0,04 mm/s ou área de 1 mm²) é altamente sugestivo de sobrecarga atrial esquerda e apresenta maior sensibilidade comparado ao critério isolado de duração aumentada da onda P. Esse índice é um critério específico para detectar SAE no ECG, especialmente em pacientes com condições associadas, como hipertensão e valvopatias.",
+    "type": "conteudista"
+  },
+{
+    "question": "Assinale a alternativa correta: Quais as condições que podem mimetizar no eletrocardiograma o infarto com supradesnivelamento do segmento ST?",
+    "options": [
+      "Repolarização precoce",
+      "Miocardite",
+      "Síndrome de Takotsubo (cardiomiopatia por stress)",
+      "Todas acima"
+    ],
+    "correctIndex": 3,
+    "explanation": "Condições como repolarização precoce, miocardite e a Síndrome de Takotsubo podem causar alterações no ECG que simulam o infarto com supradesnivelamento do segmento ST. Todos esses quadros apresentam elevação do segmento ST que pode gerar confusão diagnóstica, portanto a alternativa correta é 'Todas acima'.",
+    "type": "conteudista"
+  },
+ {
+    "question": "Maria, 66 anos de idade, diabética e hipertensa, em uso de enalapril e metformina, comparece a consulta ambulatorial com queixa de astenia e turvação visual há 2 dias. É encaminhada ao Departamento de Emergência após realizar o seguinte eletrocardiograma. Qual deve ser a conduta imediata?",
+    "image": "subjects/CardioPneumo/CardioPneumoImages/ekg1.jpg",
+    "options": [
+      "Atropina.",
+      "Encaminhar para marcapasso definitivo.",
+      "Trombólise.",
+      "Gluconato de cálcio.",
+      "Marcapasso transcutâneo."
+    ],
+    "correctIndex": 3,
+    "explanation": "O rastreio do eletrocardiograma, associado ao quadro clínico, sugere hipercalemia grave (ondas T apiculadas, alargamento do QRS, bloqueios de condução). Nessas situações, a conduta imediata é a administração de gluconato de cálcio, pois estabiliza eletricamente a membrana cardíaca e reduz o risco de arritmias fatais.",
+    "type": "raciocínio"
+  },
+ {
+    "question": "Homem, 50 anos, hipertenso, em uso de propranolol 120 mg/dia, procura a unidade de pronto atendimento por palpitação há uma semana. O exame clínico é normal, com frequência cardíaca de 56 bpm. O ECG realizado na unidade de saúde está mostrado a seguir. Qual o ritmo cardíaco mostrado no eletrocardiograma?",
+    "image": "subjects/CardioPneumo/CardioPneumoImages/ekg2.jpg",
+    "options": [
+      "BAV de segundo grau Mobitz I.",
+      "Bradicardia sinusal.",
+      "BAV de primeiro grau.",
+      "BAV de segundo grau Mobitz II."
+    ],
+    "correctIndex": 3,
+    "explanation": "O eletrocardiograma apresentado mostra bloqueio atrioventricular de segundo grau Mobitz II, caracterizado por falha súbita na condução do estímulo dos átrios para os ventrículos sem alargamento progressivo do intervalo PR. Essa condição é grave e implica alto risco para evolução para BAV total, justificando monitorização e eventual indicação de marcapasso.",
+    "type": "raciocínio"
+  },
+ {
+    "question": "Distúrbios de ritmo cardíaco Bloqueios - Mulher, 55 anos, natural do interior de Minas Gerais, apresenta queixa de palpitações há algum tempo, com piora nos últimos dois meses. Apresentou dois episódios de síncope nesse período e deu entrada no serviço de emergência com queixa de astenia, tontura, turvação visual, falta de ar, edema nas pernas e desconforto torácico. Foi realizado um eletrocardiograma que está ilustrado a seguir. Assinale a alternativa que apresenta a causa mais provável da sintomatologia apresentada.",
+    "image": "subjects/CardioPneumo/CardioPneumoImages/ekg3.jpg",
+    "options": [
+      "Taquicardia atrial com condução atrioventricular variável gerando baixo débito.",
+      "Síndrome coronariana aguda.",
+      "Insuficiência cardíaca perfil C.",
+      "Dissociação atrioventricular.",
+      "Hipotensão postural por disautonomia."
+    ],
+    "correctIndex": 3,
+    "explanation": "O quadro clínico, associado ao eletrocardiograma apresentado, sugere dissociação atrioventricular, presumivelmente por bloqueio atrioventricular total (BAVT). Esta condição justifica os episódios de síncope e os sintomas de baixo débito cardíaco devido à ausência de condução elétrica adequada entre átrios e ventrículos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Distúrbios eletrolíticos\nObserve os eletrocardiogramas abaixo e assinale a alternativa CORRETA:",
+    "image": "subjects/CardioPneumo/CardioPneumoImages/ekg4.jpg",
+    "options": [
+      "O ECG 1 é de um paciente hipertenso estágio 3.",
+      "O ECG 2 é de um paciente renal crônico com hipercalemia.",
+      "O ECG 3 é de um paciente com bloqueio de ramo esquerdo.",
+      "O ECG 4 é de uma pessoa normal."
+    ],
+    "correctIndex": 1,
+    "explanation": "O ECG 2 mostra características eletrocardiográficas típicas da hipercalemia em paciente portador de doença renal crônica, como ondas T apiculadas e alargamento do QRS. As demais alternativas apontam diagnósticos incorretos para os respectivos eletrocardiogramas apresentados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 71 anos de idade é atendido em consulta de retorno e traz o eletrocardiograma (ECG) mostrado a seguir. O diagnóstico correto é:",
+    "image": "subjects/CardioPneumo/CardioPneumoImages/ekg5.jpg",
+    "options": [
+      "Doença do nó sinusal.",
+      "Flutter atrial.",
+      "Pré-excitação (Wolf-Parkinson-White).",
+      "Ritmo atrial ectópico."
+    ],
+    "correctIndex": 3,
+    "explanation": "O eletrocardiograma apresentado mostra ritmo atrial ectópico, evidenciado por morfologia anormal da onda P diferente da sinusal e eixo diferente do habitual. Não há critérios para flutter, pré-excitação ou doença do nó sinusal.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente homem, 66 anos, hipertenso, diabético tipo 2, dislipidêmico, admitido com quadro de dor torácica retroesternal opressiva, sem irradiação, iniciada há cerca de dez minutos antes do atendimento. Seu primeiro eletrocardiograma revelou-se normal. Foi indicado novo eletrocardiograma após quinze minutos da realização do primeiro. Qual dos parâmetros abaixo NÃO se observa na evolução eletrocardiográfica do caso?",
+    "options": [
+      "Simetria da onda T.",
+      "Aumento da amplitude da onda S.",
+      "Surgimento de onda Q.",
+      "Infradesnivelamento do segmento ST.",
+      "Supradesnivelamento do segmento ST."
+    ],
+    "correctIndex": 1,
+    "explanation": "Na evolução eletrocardiográfica da síndrome coronariana aguda, podem ser observadas simetria da onda T (ondas T hiperagudas), surgimento de onda Q, infradesnivelamento e supradesnivelamento do segmento ST. O aumento da amplitude da onda S não é uma alteração esperada nessa evolução.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Assinale, dentre as alternativas a seguir, qual é a angulação no plano frontal do vetor da derivação aVL, no eletrocardiograma.",
+    "options": [
+      "+30°.",
+      "-30°.",
+      "+60°.",
+      "-60°."
+    ],
+    "correctIndex": 1,
+    "explanation": "A derivação aVL do eletrocardiograma corresponde a um ângulo de -30° no plano frontal, segundo o sistema hexa-axial de orientação das derivações periféricas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Observe o traçado do eletrocardiograma abaixo (derivação DII aumentada). Qual é a frequência cardíaca aproximada (em batimentos por minuto) dessa imagem?",
+    "image": "subjects/CardioPneumo/CardioPneumoImages/ekg6.jpg",
+    "options": [
+      "120 bpm",
+      "110 bpm",
+      "100 bpm",
+      "170 bpm",
+      "198 bpm"
+    ],
+    "correctIndex": 3,
+    "explanation": "A frequência cardíaca estimada pelo traçado apresentado é de aproximadamente 170 bpm, compatível com um ritmo irregular e taquicárdico, sugerindo provável taquiarritmia supraventricular. Em ritmos irregulares, calcula-se a FC contando-se o número de complexos QRS em 30 quadrados grandes (que equivalem a 6 segundos) e multiplicando esse número por 10 para obter a FC por minuto. No caso, temos 17 complexos QRS em 30 quadrados grandes, então 17 x 10 = 170 bpm[5][6][7].",
+    "type": "raciocínio"
+  }
+
+]

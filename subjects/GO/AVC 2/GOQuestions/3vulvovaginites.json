@@ -1,0 +1,509 @@
+[
+  {
+    "question": "Qual é o pH vaginal normal durante a menacme (vida reprodutiva)?",
+    "options": [
+      "pH 4,5-5,5 comum em mulheres com vaginose bacteriana assintomática",
+      "pH 7,0-8,0 típico de mulheres na pós-menopausa com atrofia vaginal",
+      "pH 6,0-7,5 devido à predominância de bactérias anaeróbias facultativas",
+      "pH 5,0-6,0 característico da flora mista com presença de Gardnerella",
+      "pH 3,8-4,2 mantido pelos lactobacilos que produzem ácido lático"
+    ],
+    "correctIndex": 4,
+    "explanation": "O pH vaginal normal durante a menacme é 3,8-4,2, mantido principalmente pelos lactobacilos que produzem ácido lático a partir do glicogênio epitelial, criando ambiente desfavorável para patógenos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a porcentagem aproximada de lactobacilos na flora vaginal normal durante a menacme?",
+    "options": [
+      "30% das bactérias da flora normal são lactobacilos durante a menacme",
+      "70% das bactérias da flora normal são lactobacilos durante a menacme",
+      "90% das bactérias da flora normal são lactobacilos durante a menacme",
+      "50% das bactérias da flora normal são lactobacilos durante a menacme",
+      "10% das bactérias da flora normal são lactobacilos durante a menacme"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os lactobacilos correspondem a aproximadamente 90% da flora vaginal normal durante a menacme, sendo responsáveis pela manutenção do pH ácido através da produção de ácido lático e peróxido de hidrogênio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal mecanismo de defesa vaginal proporcionado pelos lactobacilos?",
+    "options": [
+      "Produção de ácido lático e peróxido de hidrogênio que mantêm pH ácido inibindo patógenos",
+      "Secreção de imunoglobulinas específicas contra bactérias anaeróbias facultativas",
+      "Síntese de antibióticos naturais contra fungos e protozoários oportunistas",
+      "Produção de muco espesso que impede aderência de microorganismos ao epitélio",
+      "Liberação de citocinas pró-inflamatórias que ativam resposta imune celular local"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os lactobacilos mantêm o ambiente vaginal hostil a patógenos através da produção de ácido lático (que acidifica o pH) e peróxido de hidrogênio (com ação antimicrobiana), constituindo a principal defesa química vaginal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o pH vaginal típico na menopausa e qual a principal causa desta alteração?",
+    "options": [
+      "pH 7,0-8,0 resultante da colonização por enterobactérias do trato gastrointestinal",
+      "pH 3,8-4,2 preservado pela terapia hormonal de reposição na pós-menopausa",
+      "pH 5,0-5,5 característico do aumento de bactérias anaeróbias obrigatórias",
+      "pH 6,0-7,5 devido ao hipoestrogenismo com epitélio vaginal delgado e redução de glicogênio",
+      "pH 4,0-4,5 mantido pela flora residual de lactobacilos sem influência hormonal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na menopausa, o pH vaginal sobe para 6,0-7,5 devido ao hipoestrogenismo, que causa adelgaçamento do epitélio vaginal, redução do glicogênio e consequente diminuição dos lactobacilos produtores de ácido lático.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Que porcentagem de mulheres saudáveis apresenta colonização vaginal por Candida sp. sem sintomas?",
+    "options": [
+      "70% das mulheres saudáveis têm colonização por Candida sp. assintomática",
+      "10% das mulheres saudáveis têm colonização por Candida sp. assintomática",
+      "5% das mulheres saudáveis têm colonização por Candida sp. assintomática",
+      "30% das mulheres saudáveis têm colonização por Candida sp. assintomática",
+      "50% das mulheres saudáveis têm colonização por Candida sp. assintomática"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cerca de 30% das mulheres saudáveis apresentam colonização vaginal por Candida sp. de forma assintomática, demonstrando que a presença do fungo não necessariamente indica doença.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 35 anos relata aumento do corrimento após uso de antibiótico para infecção urinária. Qual mecanismo fisiopatológico explica este quadro?",
+    "options": [
+      "Alteração do sistema imune local com redução da atividade das células NK",
+      "Aumento da permeabilidade vascular por resposta alérgica aos componentes do antibiótico",
+      "Destruição da barreira epitelial vaginal por toxicidade direta do antimicrobiano",
+      "Redução dos lactobacilos produtores de H2O2 permitindo proliferação de Candida sp.",
+      "Estimulação da resposta inflamatória Th2 com aumento de exsudato vaginal"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os antibióticos de amplo espectro reduzem os lactobacilos produtores de peróxido de hidrogênio, diminuindo a proteção antifúngica natural e permitindo a proliferação de Candida sp., que pode estar presente de forma assintomática.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal causa de consulta ginecológica relacionada a vulvovaginites?",
+    "options": [
+      "15% das consultas ginecológicas são por vulvovaginites em serviços de atenção básica",
+      "40% das consultas ginecológicas são por vulvovaginites (30-50% conforme diferentes estudos)",
+      "25% das consultas ginecológicas são por vulvovaginites segundo dados epidemiológicos",
+      "75% das consultas ginecológicas são por vulvovaginites em populações de alto risco",
+      "60% das consultas ginecológicas são por vulvovaginites em mulheres na menacme"
+    ],
+    "correctIndex": 1,
+    "explanation": "As vulvovaginites representam aproximadamente 40% das consultas ginecológicas (com variação de 30-50% entre diferentes estudos), sendo a principal queixa em serviços de ginecologia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual NÃO é considerado fator predisponente para vulvovaginites?",
+    "options": [
+      "Uso regular de multivitamínicos como parte de hábitos de vida saudáveis",
+      "Duchas vaginais frequentes que alteram o pH e a flora vaginal normal",
+      "Depilação excessiva que remove pelos pubianos com função protetora",
+      "Diabetes mellitus descompensado com hiperglicemia que favorece infecções",
+      "Uso de antibióticos de amplo espectro que reduzem os lactobacilos protetores"
+    ],
+    "correctIndex": 0,
+    "explanation": "O uso regular de multivitamínicos não é fator predisponente para vulvovaginites, enquanto duchas vaginais, antibióticos, depilação excessiva e diabetes descompensado são fatores de risco estabelecidos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a importância clínica das vulvovaginites além do desconforto local?",
+    "options": [
+      "Aumentam o risco de IST e têm grande impacto na qualidade de vida das mulheres",
+      "Representam fator de risco isolado para desenvolvimento de câncer cervical",
+      "São consideradas marcadores de imunossupressão grave necessitando investigação",
+      "Causam apenas sintomas locais sem consequências sistêmicas ou complicações",
+      "Predispõem exclusivamente a infertilidade tubária por ascensão de microorganismos"
+    ],
+    "correctIndex": 0,
+    "explanation": "As vulvovaginites aumentam o risco de aquisição de IST (especialmente HIV) devido à quebra da barreira protetora vaginal e têm significativo impacto na qualidade de vida, sendo motivo frequente de desconforto e angústia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 28 anos, sexualmente ativa, relata corrimento recorrente. Qual fator NÃO deve ser investigado na anamnese como possível predisponente?",
+    "options": [
+      "Consumo alimentar rico em carboidratos e açúcares refinados",
+      "Uso de duchas vaginais e lubrificantes com substâncias irritantes",
+      "Uso recente de antibióticos para infecção respiratória há 2 semanas",
+      "História familiar de câncer de mama em parente de primeiro grau",
+      "Hábitos de depilação vulvar completa com frequência semanal"
+    ],
+    "correctIndex": 3,
+    "explanation": "História familiar de câncer de mama não é fator predisponente para vulvovaginites, enquanto duchas vaginais, depilação, uso de antibióticos e dieta rica em carboidratos são fatores relevantes a serem investigados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual teste complementar permite avaliar a flora vaginal através de escores como o critério de Nugent?",
+    "options": [
+      "Exame a fresco em microscópio para visualização de elementos móveis",
+      "Cultura em meio específico para isolamento de microorganismos patogênicos",
+      "Teste das aminas com KOH para detecção de odor característico de peixe",
+      "Coloração com Gram do conteúdo vaginal para escore de Nugent (0-10 pontos)",
+      "Fitas de pH vaginal para medida direta da acidez do ambiente vaginal"
+    ],
+    "correctIndex": 3,
+    "explanation": "A coloração com Gram permite o escore de Nugent (0-10 pontos), que avalia quantitativamente a relação entre lactobacilos (Gram positivos) e bactérias associadas à vaginose (Gram negativas/ variáveis), sendo método objetivo para diagnóstico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal utilidade do teste das aminas (whiff test) no diagnóstico das vulvovaginites?",
+    "options": [
+      "Identificar presença de pseudohifas fúngicas na candidíase vulvovaginal",
+      "Avaliar a intensidade do processo inflamatório na vaginite descamativa",
+      "Visualizar tricomonas móveis na tricomoníase através do movimento flagelar",
+      "Diferenciar entre flora normal e vaginose citolítica pelo padrão de coloração",
+      "Detectar odor de peixe podre característico da vaginose bacteriana por liberação de aminas"
+    ],
+    "correctIndex": 4,
+    "explanation": "O teste das aminas (whiff test) com KOH detecta odor de peixe podre característico da vaginose bacteriana, resultante da liberação de aminas voláteis (putrescina, cadaverina) pelo metabolismo de bactérias anaeróbias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os quatro critérios de Amsel para diagnóstico de vaginose bacteriana?",
+    "options": [
+      "Corrimento grumoso branco, pH<4,5, whiff test negativo, pseudohifas no KOH",
+      "Corrimento bolhoso amarelo-esverdeado, pH>4,5, tricomonas móveis, colo em morango",
+      "Corrimento purulento abundante, pH>4,5, leucócitos aumentados, flora mista",
+      "Corrimento leitoso fluido, pH≤4,0, lactobacilos aumentados, ausência de fungos",
+      "Corrimento homogêneo branco-acinzentado, pH>4,5, whiff test positivo, clue cells"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os critérios de Amsel para vaginose bacteriana são: (1) corrimento homogêneo branco-acinzentado aderente, (2) pH vaginal >4,5, (3) whiff test positivo, (4) presença de clue cells na microscopia. São necessários 3 dos 4 critérios para diagnóstico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o escore de Nugent que define vaginose bacteriana?",
+    "options": [
+      "Escore 0-3 no critério de Nugent define vaginose bacteriana",
+      "Escore 7-10 no critério de Nugent define vaginose bacteriana",
+      "Escore 4-6 no critério de Nugent define vaginose bacteriana",
+      "Escore 8-12 no critério de Nugent define vaginose bacteriana",
+      "Escore 1-5 no critério de Nugent define vaginose bacteriana"
+    ],
+    "correctIndex": 1,
+    "explanation": "O escore de Nugent classifica: 0-3 = normal, 4-6 = flora intermediária, 7-10 = vaginose bacteriana. O escore é calculado pela proporção entre lactobacilos (pontuação inversa) e bactérias associadas à VB (Gardnerella, Mobiluncus).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento de primeira linha para vaginose bacteriana não gestante?",
+    "options": [
+      "Clindamicina 300mg VO 12/12h por 7 dias como única opção disponível",
+      "Secnidazol 2g VO dose única com cobertura para anaeróbios facultativos",
+      "Tinidazol 2g VO dose única como tratamento preferencial para todas as pacientes",
+      "Fluconazol 150mg VO dose única para erradicação de fungos oportunistas",
+      "Metronidazol 500mg VO 12/12h por 7 dias ou gel 0,75% intravaginal 5 dias"
+    ],
+    "correctIndex": 4,
+    "explanation": "O tratamento de primeira linha para vaginose bacteriana em não gestantes é metronidazol 500mg VO 12/12h por 7 dias ou metronidazol gel 0,75% intravaginal por 5 dias, conforme diretrizes da FEBRASGO e CDC.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a vaginose bacteriana na gestação deve ser tratada mesmo quando assintomática?",
+    "options": [
+      "Provoca trabalho de parto prematuro imediato em 50% das gestantes não tratadas",
+      "Associa-se com prematuridade, abortamento e complicações perinatais por ascensão bacteriana",
+      "Determina restrição de crescimento fetal por insuficiência placentária",
+      "Causa transmissão vertical obrigatória do microorganismo para o recém-nascido",
+      "Aumenta obrigatoriamente o risco de malformações fetais por toxinas bacterianas"
+    ],
+    "correctIndex": 1,
+    "explanation": "A vaginose bacteriana na gestação associa-se com prematuridade, abortamento espontâneo, baixo peso ao nascer, rotura prematura de membranas e endometrite pós-parto devido à ascensão bacteriana e inflamação, justificando tratamento mesmo em assintomáticas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o esquema alternativo para vaginose bacteriana quando há contraindicação ao metronidazol?",
+    "options": [
+      "Doxiciclina 100mg VO 12/12h 7 dias para cobertura de micoplasmas genitais",
+      "Nitrofurantoína 100mg VO 12/12h 7 dias com ação sobre bactérias uropatogênicas",
+      "Clindamicina creme 2% intravaginal 7 dias ou clindamicina 300mg VO 12/12h 7 dias",
+      "Fluconazol 150mg VO dose única para controle de infecções fúngicas secundárias",
+      "Amoxicilina 500mg VO 8/8h 7 dias como alternativa de amplo espectro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quando há contraindicação ou intolerância ao metronidazol, a clindamicina creme 2% intravaginal por 7 dias ou clindamicina 300mg VO 12/12h por 7 dias são alternativas eficazes para vaginose bacteriana.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com VB recorrente apresenta 3 episódios confirmados nos últimos 6 meses. Qual fator NÃO está associado à recorrência?",
+    "options": [
+      "Duchas vaginais semanais por hábito de higiene íntima excessiva",
+      "Uso de terapia hormonal com estrogênio transdérmico para menopausa",
+      "História de diabetes mellitus tipo 2 com controle glicêmico inadequado",
+      "Relações sexuais desprotegidas com múltiplos parceiros sem preservativo",
+      "Uso de dispositivos intrauterinos não medicados por mais de 2 anos"
+    ],
+    "correctIndex": 1,
+    "explanation": "A terapia com estrogênio não está associada à recorrência de VB, enquanto duchas vaginais, múltiplos parceiros, DIU e diabetes descompensado são fatores de risco conhecidos para recidivas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher com diagnóstico de VB inicia tratamento com metronidazol gel. Qual orientação sobre atividade sexual deve ser fornecida?",
+    "options": [
+      "Os cremes vaginais à base de óleo podem enfraquecer o látex do preservativo",
+      "O parceiro deve usar obrigatoriamente preservativo por 30 dias pós-tratamento",
+      "O tratamento do parceiro é necessário para evitar reinfecção imediata",
+      "A abstinência sexual é obrigatória durante todo o tratamento de 7 dias",
+      "As relações sexuais estão liberadas sem restrições durante o tratamento tópico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cremes vaginais à base de óleo podem enfraquecer o látex do preservativo, reduzindo sua eficácia contraceptiva e para IST. Deve-se orientar uso de métodos barreira não látex ou abstinência durante o tratamento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual espécie de Candida é responsável pela maioria (80-90%) dos casos de candidíase vulvovaginal?",
+    "options": [
+      "Candida albicans é responsável por 80-90% dos casos de candidíase vulvovaginal",
+      "Candida krusei é responsável por 80-90% dos casos de candidíase vulvovaginal",
+      "Candida glabrata é responsável por 80-90% dos casos de candidíase vulvovaginal",
+      "Candida parapsilosis é responsável por 80-90% dos casos de candidíase vulvovaginal",
+      "Candida tropicalis é responsável por 80-90% dos casos de candidíase vulvovaginal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Candida albicans é responsável por 80-90% dos casos de candidíase vulvovaginal, sendo as espécies não-albicans (glabrata, tropicalis, krusei, parapsilosis) responsáveis pelos 10-20% restantes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal sintoma da candidíase vulvovaginal?",
+    "options": [
+      "Sangramento genital intermenstrual é o principal sintoma da candidíase",
+      "Prurido vulvovaginal intenso é o principal sintoma da candidíase",
+      "Ardor miccional intenso com disúria é o principal sintoma da candidíase",
+      "Corrimento com odor fétido tipo peixe é o principal sintoma da candidíase",
+      "Dispareunia profunda com sangramento é o principal sintoma da candidíase"
+    ],
+    "correctIndex": 1,
+    "explanation": "O prurido vulvovaginal intenso é o principal e mais característico sintoma da candidíase, frequentemente associado a ardência, corrimento branco grumoso (aspecto de leite coalhado) e edema vulvar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o pH vaginal característico da candidíase vulvovaginal?",
+    "options": [
+      "pH >4,5 é característico da candidíase vulvovaginal com whiff test positivo",
+      "pH 6,0-7,0 é característico da candidíase vulvovaginal com whiff test negativo",
+      "pH 5,0-6,0 é característico da candidíase vulvovaginal com whiff test variável",
+      "pH <4,5 é característico da candidíase vulvovaginal com whiff test negativo",
+      "pH 7,0-8,0 é característico da candidíase vulvovaginal com whiff test positivo"
+    ],
+    "correctIndex": 3,
+    "explanation": "A candidíase vulvovaginal apresenta pH <4,5 (normal ou levemente ácido) e teste das aminas (whiff test) negativo, diferenciando-se da vaginose bacteriana (pH>4,5, whiff positivo) e tricomoníase (pH>4,5).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento de primeira linha para candidíase vulvovaginal não complicada em não gestantes?",
+    "options": [
+      "Tinidazol 2g VO dose única com ação antiprotozoária ampla",
+      "Clindamicina creme 2% intravaginal 7 dias para flora mista",
+      "Fluconazol 150mg VO dose única ou imidazólicos tópicos por 1-7 dias",
+      "Metronidazol 500mg VO 12/12h 7 dias para cobertura de anaeróbios",
+      "Secnidazol 2g VO dose única para infecções polimicrobianas"
+    ],
+    "correctIndex": 2,
+    "explanation": "O tratamento de primeira linha para candidíase não complicada é fluconazol 150mg VO dose única ou imidazólicos tópicos (clotrimazol, miconazol) por 1-7 dias, conforme preferência da paciente e disponibilidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação para tratamento de candidíase vulvovaginal na gestação?",
+    "options": [
+      "Cetoconazol 400mg VO 5 dias a partir do segundo trimestre gestacional",
+      "Fluconazol 150mg VO dose única em qualquer trimestre gestacional",
+      "Itraconazol 100mg VO 2x/dia 1 dia no segundo e terceiro trimestres",
+      "Imidazólicos tópicos por ≥7 dias (clotrimazol, miconazol, isoconazol)",
+      "Nistatina VO 100.000UI 2x/dia por 14 dias com absorção sistêmica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na gestação, o tratamento deve ser com imidazólicos tópicos por ≥7 dias (clotrimazol 1%, miconazol 2%, isoconazol 1%). Antifúngicos orais são contraindicados em qualquer trimestre devido a risco teratogênico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é definida a candidíase vulvovaginal recorrente?",
+    "options": [
+      "≥4 episódios confirmados em 24 meses caracterizam candidíase recorrente",
+      "≥5 episódios confirmados em 18 meses caracterizam candidíase recorrente",
+      "≥6 episódios confirmados em 36 meses caracterizam candidíase recorrente",
+      "≥3 episódios confirmados em 12 meses caracterizam candidíase recorrente",
+      "≥2 episódios confirmados em 6 meses caracterizam candidíase recorrente"
+    ],
+    "correctIndex": 3,
+    "explanation": "Candidíase vulvovaginal recorrente é definida como ≥3 episódios confirmados clinicamente e laboratorialmente em um período de 12 meses, necessitando investigação de fatores predisponentes e tratamento prolongado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento para candidíase por Candida não-albicans na gestação?",
+    "options": [
+      "Nistatina creme vaginal por 14 dias para Candida não-albicans na gestação",
+      "Itraconazol 100mg VO 2x/dia 1 dia para Candida não-albicans na gestação",
+      "Ácido bórico 600mg intravaginal por 14 dias para Candida não-albicans na gestação",
+      "Fluconazol 150mg VO semanal por 6 meses para Candida não-albicans na gestação",
+      "Cetoconazol 400mg VO por 7 dias para Candida não-albicans na gestação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para Candida não-albicans na gestação, a orientação é uso de nistatina creme vaginal por 14 dias. O ácido bórico é contraindicado na gestação e os antifúngicos orais não são recomendados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com candidíase recorrente por C. glabrata não responde a fluconazol. Qual alternativa terapêutica NÃO está indicada?",
+    "options": [
+      "Nistatina 100.000UI intravaginal 1x/dia por 14 dias como opção tópica",
+      "Itraconazol 100mg VO 2x/dia por 1 dia seguido de 200mg/dia por 3 dias",
+      "Ácido bórico 600mg intravaginal ao deitar por 14 dias em cápsulas gelatinosas",
+      "Anfotericina B tópica em formulação vaginal por 14 dias para casos refratários",
+      "Metronidazol 500mg VO 12/12h 7 dias para tratamento de anaeróbios"
+    ],
+    "correctIndex": 4,
+    "explanation": "Metronidazol não tem atividade antifúngica e não está indicado para candidíase. Alternativas para C. glabrata incluem ácido bórico, nistatina, itraconazol ou anfotericina B tópica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher com diabetes descompensado apresenta candidíase de repetição. Qual abordagem é mais importante para controle das recidivas?",
+    "options": [
+      "Controle glicêmico rigoroso com HbA1c <7% é fundamental para reduzir recidivas",
+      "Tratamento do parceiro sexual com itraconazol 100mg/dia por 7 dias",
+      "Uso profilático de fluconazol 150mg semanal independente da glicemia",
+      "Realização de duchas vaginais diárias com solução de bicarbonato de sódio",
+      "Suplementação com lactobacilos orais sem modificação da dieta ou medicação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em pacientes diabéticas com candidíase recorrente, o controle glicêmico rigoroso (HbA1c <7%) é a medida mais importante, já que a hiperglicemia favorece o crescimento fúngico através de maior disponibilidade de glicogênio epitelial.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o agente etiológico da tricomoníase e sua principal via de transmissão?",
+    "options": [
+      "Ureaplasma urealyticum com transmissão por contato não sexual",
+      "Trichomonas vaginalis com transmissão sexual como IST obrigatória",
+      "Mycoplasma hominis com transmissão vertical durante o parto",
+      "Candida albicans com transmissão por fômites e autoinoculação",
+      "Gardnerella vaginalis com transmissão por desequilíbrio da flora"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trichomonas vaginalis é um protozoário flagelado anaeróbio facultativo com transmissão sexual obrigatória (IST), sendo os humanos seus únicos hospedeiros naturais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o período de incubação da tricomoníase?",
+    "options": [
+      "2-6 meses é o período de incubação da tricomoníase",
+      "1-3 dias é o período de incubação da tricomoníase",
+      "30-45 dias é o período de incubação da tricomoníase",
+      "7-10 dias é o período de incubação da tricomoníase",
+      "4-28 dias é o período de incubação da tricomoníase"
+    ],
+    "correctIndex": 4,
+    "explanation": "O período de incubação da tricomoníase varia de 4 a 28 dias, com média de 5-7 dias, podendo ser assintomática em até 50% dos casos, principalmente em homens.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado colposcópico é característico da tricomoníase?",
+    "options": [
+      "Colo em morango (colpitis macularis) com pontilhado hemorrágico",
+      "Clue cells recobertas por cocobacilos na microscopia de contraste",
+      "Áreas de metaplasia escamosa com vasos em padrão de mosaico fino",
+      "Placas esbranquiçadas aderidas com teste de Schiller positivo",
+      "Ectopia cervical com secreção mucopurulenta endocervical"
+    ],
+    "correctIndex": 0,
+    "explanation": "O colo em morango (colpitis macularis) com aspecto pontilhado hemorrágico é achado característico da tricomoníase, resultante da resposta inflamatória intensa à infecção pelo protozoário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento de escolha para tricomoníase em não gestantes?",
+    "options": [
+      "Secnidazol 2g VO dose única como única opção disponível no SUS",
+      "Clindamicina creme 2% intravaginal 7 dias para flora anaeróbia",
+      "Fluconazol 150mg VO dose única para infecções fúngicas associadas",
+      "Metronidazol 2g VO dose única ou tinidazol 2g VO dose única",
+      "Azitromicina 1g VO dose única para cobertura de clamídia concomitante"
+    ],
+    "correctIndex": 3,
+    "explanation": "O tratamento de escolha para tricomoníase é metronidazol 2g VO dose única ou tinidazol 2g VO dose única. Esquemas alternativos incluem metronidazol 500mg VO 12/12h por 7 dias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação para tratamento de tricomoníase na gestação?",
+    "options": [
+      "Clindamicina 300mg VO 12/12h 7 dias como primeira opção em qualquer trimestre",
+      "Metronidazol 500mg VO 12/12h 7 dias (esquema prolongado mais eficaz)",
+      "Fluconazol 150mg VO dose única associado a metronidazol tópico",
+      "Secnidazol 2g VO dose única no primeiro e segundo trimestres gestacionais",
+      "Tinidazol 2g VO dose única a partir do segundo trimestre gestacional"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na gestação, recomenda-se metronidazol 500mg VO 12/12h por 7 dias (esquema prolongado mais eficaz). Tinidazol e secnidazol são contraindicados. No 1º trimestre, pode-se usar clindamicina se metronidazol não for tolerado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com tricomoníase diagnosticada deve ser orientada sobre:",
+    "options": [
+      "Uso de duchas vaginais diárias por 7 dias para limpeza do protozoário",
+      "Realização de teste de cura obrigatório 48 horas após término do tratamento",
+      "Não há necessidade de tratar parceiros assintomáticos pela baixa transmissibilidade",
+      "Tratamento obrigatório do(s) parceiro(s) sexual(is) e pesquisa de outras IST",
+      "Abstinência sexual apenas durante os dias de tratamento medicamentoso"
+    ],
+    "correctIndex": 3,
+    "explanation": "Como IST, a tricomoníase requer tratamento obrigatório do(s) parceiro(s) sexual(is) dos últimos 60 dias e pesquisa de outras IST (HIV, sífilis, hepatites, clamídia, gonorreia) devido à associação frequente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal característica da vaginose citolítica?",
+    "options": [
+      "Processo inflamatório intenso com células parabasais e pH >4,5",
+      "Substituição de lactobacilos por anaeróbios com pH >4,5 e clue cells",
+      "Crescimento fúngico com pseudohifas e pH <4,5 com prurido intenso",
+      "Infecção por protozoário flagelado com pH >4,5 e tricomonas móveis",
+      "Excessiva proliferação de Lactobacillus com pH ≤4,0 sem elementos fúngicos"
+    ],
+    "correctIndex": 4,
+    "explanation": "A vaginose citolítica caracteriza-se por excessiva proliferação de Lactobacillus com pH ≤4,0, ausência de elementos fúngicos, e frequentemente é confundida com candidíase devido a sintomas similares (prurido, ardor, corrimento esbranquiçado).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento indicado para vaginose citolítica?",
+    "options": [
+      "Metronidazol 500mg VO 12/12h 7 dias para controle de anaeróbios",
+      "Fluconazol 150mg VO dose única para erradicação de fungos oportunistas",
+      "Alcalinização do pH vaginal com duchas de bicarbonato de sódio",
+      "Hidrocortisona 10% intravaginal 2-4 semanas para inflamação",
+      "Clindamicina creme 2% intravaginal 21 dias para flora bacteriana"
+    ],
+    "correctIndex": 2,
+    "explanation": "O tratamento da vaginose citolítica visa alcalinizar o pH vaginal com duchas de bicarbonato de sódio (1-2 colheres de sopa/litro de água) para reduzir a proliferação excessiva de lactobacilos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento de primeira linha para vaginite inflamatória descamativa?",
+    "options": [
+      "Estrogênio vaginal tópico por 3 meses para atrofia epitelial subjacente",
+      "Metronidazol 500mg VO 12/12h 7 dias para infecções anaeróbias associadas",
+      "Clindamicina creme 2% intravaginal 21 dias ou hidrocortisona 10% vaginal 2-4 semanas",
+      "Fluconazol 150mg VO semanal por 6 meses para controle fúngico prolongado",
+      "Tinidazol 2g VO dose única com ação antiprotozoária de amplo espectro"
+    ],
+    "correctIndex": 2,
+    "explanation": "A vaginite inflamatória descamativa trata-se com clindamicina creme 2% intravaginal por 21 dias ou hidrocortisona 10% vaginal por 2-4 semanas. Estrogênio vaginal pode ser associado para reduzir recidivas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a abordagem terapêutica para vaginite aeróbica conforme os achados microscópicos?",
+    "options": [
+      "Metronidazol 500mg VO 7 dias independentemente do padrão microbiológico",
+      "Associação de tinidazol e secnidazol em dose única para cobertura ampla",
+      "Duchas com bicarbonato diárias por 14 dias para alcalinização do pH",
+      "Hidrocortisona 10% vaginal se predomínio inflamatório, estrógenos se atrofia, clindamicina se excesso bacteriano",
+      "Fluconazol 150mg VO dose única seguido de itraconazol por 7 dias"
+    ],
+    "correctIndex": 3,
+    "explanation": "O tratamento da vaginite aeróbica é individualizado: hidrocortisona 10% vaginal se predomínio inflamatório, estrógenos vaginais se atrofia epitelial, clindamicina 2% local se excesso de bactérias aeróbicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com corrimento crônico já tratada múltiplas vezes para candidíase e VB sem sucesso. A microscopia mostra lactobacilos aumentados, pH 3,8, ausência de fungos. Qual diagnóstico e conduta?",
+    "options": [
+      "Vaginose citolítica; duchas com bicarbonato de sódio para alcalinizar pH",
+      "Candidíase recorrente; fluconazol 150mg semanal por 6 meses",
+      "Vaginite descamativa; clindamicina creme 2% intravaginal 21 dias",
+      "Tricomoníase; metronidazol 2g VO dose única com tratamento do parceiro",
+      "Vaginose bacteriana; metronidazol gel 0,75% intravaginal 5 dias"
+    ],
+    "correctIndex": 0,
+    "explanation": "O quadro sugere vaginose citolítica: lactobacilos aumentados, pH ≤4,0, ausência de fungos, sintomas similares à candidíase. O tratamento é com duchas de bicarbonato de sódio para alcalinizar o pH e reduzir a proliferação excessiva de lactobacilos.",
+    "type": "raciocínio"
+  }
+]

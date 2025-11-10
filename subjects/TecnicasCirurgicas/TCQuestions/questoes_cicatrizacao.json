@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Qual é a ordem correta das fases da cicatrização de feridas, conforme a descrição dos fundamentos?",
+    "options": [
+      "Hemostasia, Reepitelização, Remodelação; Na prática clínica, consideramos fatores como nutrição, perfusão capilar e presença de contaminação ao avaliar os passos da cicatrização e sua duração. A presença de tecidos desvitalizados, corpo estranho e edema pode prolongar a fase inflamatória e comprometer a cicatrização adequada.",
+      "Maturação, Inflamatória, Proliferativa; Fatores sistêmicos como controle glicêmico, função imunológica e uso de medicamentos influenciam a formação de cicatrizes e a velocidade do reparo. Uma boa oxigenação e suprimento sanguíneo são essenciais para síntese de colágeno e formação de tecido de granulação.",
+      "Inflamatória, Proliferativa, Manutenção (Maturação); Esse conhecimento é aplicado nas condutas de limpeza, debridamento e controle de infecções em feridas. Além disso, orienta a avaliação diária, a nutrição e a monitorização do paciente durante a evolução da cicatrização.",
+      "Contração, Fibroplasia, Angiogênese; Condições como idade avançada, tabagismo e vascularização comprometida impactam diretamente nas fases inflamatória e proliferativa, de acordo com evidências médicas. Desordens nutricionais, uso de corticosteroides e radioterapia estão entre os fatores que podem retardar o processo cicatricial.",
+      "Proliferativa, Inflamatória, Maturação; A avaliação diária inclui inspeção da ferida, limpeza, e orientação ao paciente sobre sinais de infecção, fatores de risco e prognóstico do processo cicatricial. O manejo adequado da dor, manutenção da higiene local e mobilização precoce do paciente são aspectos práticos no ambulatório."
+    ],
+    "correctIndex": 2,
+    "explanation": "A cicatrização possui três fases principais: Inflamatória, Proliferativa e de Manutenção (também chamada de Maturação). O processo de hemostasia ocorre dentro da fase inflamatória.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na fase inflamatória da cicatrização, qual o papel fundamental dos neutrófilos e monócitos, e por qual período predominam suas atividades?",
+    "options": [
+      "Neoangiogênese; por cerca de um mês; A abordagem terapêutica inclui debridamento, controle de carga bacteriana e suporte às comorbidades que interferem na cicatrização.",
+      "Limpeza do local da lesão; neutrófilos 24-48h, macrófagos dias seguintes; A aplicação prática inclui o manejo adequado de fatores sistêmicos e a prevenção de complicações no ambulatório.",
+      "Produção de colágeno; durante semanas; Os profissionais avaliam sinais clínicos de infecção, bordas da ferida e evolução do tecido de granulação para ajustar o tratamento.",
+      "Contração da ferida; após a terceira semana; Controle rigoroso de glicemia em diabéticos e cessação do tabagismo são intervenções importantes para otimizar a reparação tecidual.",
+      "Síntese de elastina; durante meses; O uso de curativos oclusivos, negativos ou impregnados é escolhido com base em características da ferida e secreção."
+    ],
+    "correctIndex": 1,
+    "explanation": "Na fase inflamatória, neutrófilos e monócitos são essenciais para a limpeza do local da lesão. O pico de atividade dos polimorfonucleares (como neutrófilos) ocorre de 24 a 48 horas após o trauma, e os macrófagos migram nos dois ou três dias seguintes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal evento que marca o início da fase proliferativa da cicatrização de feridas e qual sua duração aproximada?",
+    "options": [
+      "Reepitelização; 24 a 36 horas; A educação do paciente sobre cuidados domiciliares e sinais de alerta contribui para prevenir complicações infecciosas. Tratamentos tópicos com hidrocoloides, alginatos ou espuma são selecionados conforme o estágio da cicatrização e o volume de exsudato. Na prática clínica, consideramos fatores como nutrição, perfusão capilar e presença de contaminação ao avaliar os passos da cicatrização e sua duração. A presença de tecidos desvitalizados, corpo estranho e edema pode prolongar a fase inflamatória e comprometer a cicatrização adequada.",
+      "Contração da ferida; um ano ou mais; Casos de cicatrização complexa requerem abordagem multidisciplinar com nutricionista, enfermeiro e cirurgião para melhor acompanhamento. O suporte psicossocial e o entendimento do paciente sobre o processo de cicatrização ajudam na adesão ao tratamento e no autocuidado. Fatores sistêmicos como controle glicêmico, função imunológica e uso de medicamentos influenciam a formação de cicatrizes e a velocidade do reparo. Desordens nutricionais, uso de corticosteroides e radioterapia estão entre os fatores que podem retardar o processo cicatricial.",
+      "Formação de tecido de granulação; duas a três semanas; A imobilização excessiva ou a tensão nas margens da ferida podem levar à deiscência e atraso na consolidação dos tecidos. A hiperemia local no início da cicatrização é um sinal esperado devido à liberação de mediadores inflamatórios e vasodilatação. Condições como idade avançada, tabagismo e vascularização comprometida impactam diretamente nas fases inflamatória e proliferativa, de acordo com evidências médicas.",
+      "Hemostasia; algumas horas; O equilíbrio entre síntese e degradação de colágeno ao longo do tempo determina a qualidade da cicatriz formada. Pacientes com insuficiência vascular periférica apresentam maior risco de isquemia local e úlceras de difícil cicatrização. Temperaturas baixas podem reduzir a atividade enzimática e a taxa metabólica dos tecidos, retardando o processo de cicatrização. Uma boa oxigenação e suprimento sanguíneo são essenciais para síntese de colágeno e formação de tecido de granulação.",
+      "Depósito excessivo de colágeno; indefinidamente; Situações de hipoalbuminemia e desnutrição proteico-calórica podem comprometer a neoangiogênese e a formação de matriz extracelular. Alguns medicamentos, como quimioterápicos e imunossupressores, podem prejudicar a regeneração tecidual e aumentar a suscetibilidade a infecções. Feridas infectadas requerem antibióticos sistêmicos ou tópicos, drenagem e desbridamento para restaurar condições favoráveis à reparação. A avaliação diária inclui inspeção da ferida, limpeza, e orientação ao paciente sobre sinais de infecção, fatores de risco e prognóstico do processo cicatricial."
+    ],
+    "correctIndex": 2,
+    "explanation": "A fase proliferativa se inicia três dias após a lesão, tem uma duração de umas duas ou três semanas, e seu marco inicial é a formação de tecido de granulação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a função mais crucial dos fibroblastos durante a cicatrização da ferida e qual nutriente é vital para a síntese do colágeno que eles produzem?",
+    "options": [
+      "Vasodilatação; Ferro; O manejo adequado da dor, manutenção da higiene local e mobilização precoce do paciente são aspectos práticos no ambulatório.",
+      "Síntese de colágeno; Vitamina C; A abordagem terapêutica inclui debridamento, controle de carga bacteriana e suporte às comorbidades que interferem na cicatrização.",
+      "Estimulação de células inflamatórias; Zinco; Os profissionais avaliam sinais clínicos de infecção, bordas da ferida e evolução do tecido de granulação para ajustar o tratamento.",
+      "Degradação de matriz extracelular; Vitamina B; Controle rigoroso de glicemia em diabéticos e cessação do tabagismo são intervenções importantes para otimizar a reparação tecidual.",
+      "Fagocitose de bactérias; Vitamina K; O uso de curativos oclusivos, negativos ou impregnados é escolhido com base em características da ferida e secreção."
+    ],
+    "correctIndex": 1,
+    "explanation": "A função mais importante dos fibroblastos é a síntese de colágeno, proteína responsável pela força tênsil da cicatriz. A síntese de colágeno depende da hidroxilação de prolina e lisina, mediada por enzima na presença de coenzimas como a Vitamina C. A deficiência de Vitamina C pode impedir a hidroxilação, resultando em hélices triplas instáveis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A reepitelização, particularmente em ferimentos superficiais como escoriações ou queimaduras de primeiro e segundo grau superficial, é possível devido a qual estrutura da pele?",
+    "options": [
+      "O depósito de fibrina que se transforma em nova epiderme. A educação do paciente sobre cuidados domiciliares e sinais de alerta contribui para prevenir complicações infecciosas. Tratamentos tópicos com hidrocoloides, alginatos ou espuma são selecionados conforme o estágio da cicatrização e o volume de exsudato. Na prática clínica, consideramos fatores como nutrição, perfusão capilar e presença de contaminação ao avaliar os passos da cicatrização e sua duração.",
+      "A migração de melanócitos para cobrir a ferida. Casos de cicatrização complexa requerem abordagem multidisciplinar com nutricionista, enfermeiro e cirurgião para melhor acompanhamento. O suporte psicossocial e o entendimento do paciente sobre o processo de cicatrização ajudam na adesão ao tratamento e no autocuidado. Fatores sistêmicos como controle glicêmico, função imunológica e uso de medicamentos influenciam a formação de cicatrizes e a velocidade do reparo.",
+      "A formação de uma nova camada basal por macrófagos. O equilíbrio entre síntese e degradação de colágeno ao longo do tempo determina a qualidade da cicatriz formada. Pacientes com insuficiência vascular periférica apresentam maior risco de isquemia local e úlceras de difícil cicatrização. Temperaturas baixas podem reduzir a atividade enzimática e a taxa metabólica dos tecidos, retardando o processo de cicatrização.",
+      "A ativação direta de queratinócitos da corrente sanguínea. Situações de hipoalbuminemia e desnutrição proteico-calórica podem comprometer a neoangiogênese e a formação de matriz extracelular. Alguns medicamentos, como quimioterápicos e imunossupressores, podem prejudicar a regeneração tecidual e aumentar a suscetibilidade a infecções. Feridas infectadas requerem antibióticos sistêmicos ou tópicos, drenagem e desbridamento para restaurar condições favoráveis à reparação.",
+      "A invaginação da camada basal da epiderme nos anexos da pele (glândulas e folículos pilosos). A imobilização excessiva ou a tensão nas margens da ferida podem levar à deiscência e atraso na consolidação dos tecidos. A hiperemia local no início da cicatrização é um sinal esperado devido à liberação de mediadores inflamatórios e vasodilatação."
+    ],
+    "correctIndex": 4,
+    "explanation": "Mesmo que a camada basal superficial seja perdida, a reepitelização ocorre porque essa camada basal se invagina nos anexos da pele, como glândulas e folículos pilosos, que continuam a forrar e podem recobrir a ferida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual tipo de cicatrização é caracterizado pela aproximação cirúrgica das bordas da ferida, com perda mínima de tecido, sem infecção e mínimo edema, e onde o tecido de granulação não é visível?",
+    "options": [
+      "Primeira intenção",
+      "Terceira intenção",
+      "Segunda intenção",
+      "Regeneração tecidual",
+      "Cicatrização patológica"
+    ],
+    "correctIndex": 0,
+    "explanation": "A cicatrização por primeira intenção é aquela em que as bordas são aproximadas (por exemplo, por sutura cirúrgica), há perda mínima de tecido, sem infecção e com mínimo edema. O tecido de granulação, embora presente, não é visível.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma ferida aberta com perda de substância significativa, onde a aproximação das bordas não é possível e que é deixada para fechar por contração e epitelização, caracteriza qual tipo de cicatrização?",
+    "options": [
+      "Terceira intenção; Condições como idade avançada, tabagismo e vascularização comprometida impactam diretamente nas fases inflamatória e proliferativa, de acordo com evidências médicas. A abordagem terapêutica inclui debridamento, controle de carga bacteriana e suporte às comorbidades que interferem na cicatrização.",
+      "Fechamento primário tardio; Desordens nutricionais, uso de corticosteroides e radioterapia estão entre os fatores que podem retardar o processo cicatricial. Os profissionais avaliam sinais clínicos de infecção, bordas da ferida e evolução do tecido de granulação para ajustar o tratamento.",
+      "Primeira intenção; A avaliação diária inclui inspeção da ferida, limpeza, e orientação ao paciente sobre sinais de infecção, fatores de risco e prognóstico do processo cicatricial. Controle rigoroso de glicemia em diabéticos e cessação do tabagismo são intervenções importantes para otimizar a reparação tecidual.",
+      "Segunda intenção; A presença de tecidos desvitalizados, corpo estranho e edema pode prolongar a fase inflamatória e comprometer a cicatrização adequada. O uso de curativos oclusivos, negativos ou impregnados é escolhido com base em características da ferida e secreção.",
+      "Sutura cirúrgica; Uma boa oxigenação e suprimento sanguíneo são essenciais para síntese de colágeno e formação de tecido de granulação. O manejo adequado da dor, manutenção da higiene local e mobilização precoce do paciente são aspectos práticos no ambulatório."
+    ],
+    "correctIndex": 3,
+    "explanation": "Feridas com perda de substância, onde a aproximação das bordas não é possível e que fecham por contração e epitelização, são características da cicatrização por segunda intenção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A cicatrização por terceira intenção é uma abordagem para feridas que apresentam qual condição inicial?",
+    "options": [
+      "Lesões contusas com perda mínima de tecido. A educação do paciente sobre cuidados domiciliares e sinais de alerta contribui para prevenir complicações infecciosas. Pacientes com insuficiência vascular periférica apresentam maior risco de isquemia local e úlceras de difícil cicatrização. Temperaturas baixas podem reduzir a atividade enzimática e a taxa metabólica dos tecidos, retardando o processo de cicatrização. A avaliação diária inclui inspeção da ferida, limpeza, e orientação ao paciente sobre sinais de infecção, fatores de risco e prognóstico do processo cicatricial.",
+      "Feridas cirúrgicas limpas fechadas imediatamente. Casos de cicatrização complexa requerem abordagem multidisciplinar com nutricionista, enfermeiro e cirurgião para melhor acompanhamento. A imobilização excessiva ou a tensão nas margens da ferida podem levar à deiscência e atraso na consolidação dos tecidos. Feridas infectadas requerem antibióticos sistêmicos ou tópicos, drenagem e desbridamento para restaurar condições favoráveis à reparação. A presença de tecidos desvitalizados, corpo estranho e edema pode prolongar a fase inflamatória e comprometer a cicatrização adequada.",
+      "Feridas que cicatrizam sem formação de tecido de granulação. O equilíbrio entre síntese e degradação de colágeno ao longo do tempo determina a qualidade da cicatriz formada. Alguns medicamentos, como quimioterápicos e imunossupressores, podem prejudicar a regeneração tecidual e aumentar a suscetibilidade a infecções. Na prática clínica, consideramos fatores como nutrição, perfusão capilar e presença de contaminação ao avaliar os passos da cicatrização e sua duração.",
+      "Feridas com infecção inicial que é tratada, sendo suturadas posteriormente para acelerar o fechamento. Tratamentos tópicos com hidrocoloides, alginatos ou espuma são selecionados conforme o estágio da cicatrização e o volume de exsudato. A hiperemia local no início da cicatrização é um sinal esperado devido à liberação de mediadores inflamatórios e vasodilatação. Condições como idade avançada, tabagismo e vascularização comprometida impactam diretamente nas fases inflamatória e proliferativa, de acordo com evidências médicas.",
+      "Queimaduras superficiais que reepitelizam espontaneamente. Situações de hipoalbuminemia e desnutrição proteico-calórica podem comprometer a neoangiogênese e a formação de matriz extracelular. O suporte psicossocial e o entendimento do paciente sobre o processo de cicatrização ajudam na adesão ao tratamento e no autocuidado. Fatores sistêmicos como controle glicêmico, função imunológica e uso de medicamentos influenciam a formação de cicatrizes e a velocidade do reparo. Uma boa oxigenação e suprimento sanguíneo são essenciais para síntese de colágeno e formação de tecido de granulação."
+    ],
+    "correctIndex": 3,
+    "explanation": "A cicatrização por terceira intenção é a aproximação das bordas da ferida após um tratamento inicial aberto, geralmente quando há infecção que precisa ser tratada antes da sutura.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes fatores é classificado como local e pode interferir significativamente na cicatrização de uma ferida?",
+    "options": [
+      "Uso de medicamentos imunossupressores; Os profissionais avaliam sinais clínicos de infecção, bordas da ferida e evolução do tecido de granulação para ajustar o tratamento. Casos de cicatrização complexa requerem abordagem multidisciplinar com nutricionista, enfermeiro e cirurgião para melhor acompanhamento.",
+      "Deficiências nutricionais; Desordens nutricionais, uso de corticosteroides e radioterapia estão entre os fatores que podem retardar o processo cicatricial. O uso de curativos oclusivos, negativos ou impregnados é escolhido com base em características da ferida e secreção.",
+      "Idade do paciente; O manejo adequado da dor, manutenção da higiene local e mobilização precoce do paciente são aspectos práticos no ambulatório. O equilíbrio entre síntese e degradação de colágeno ao longo do tempo determina a qualidade da cicatriz formada.",
+      "Vascularização das bordas da ferida; Controle rigoroso de glicemia em diabéticos e cessação do tabagismo são intervenções importantes para otimizar a reparação tecidual. Situações de hipoalbuminemia e desnutrição proteico-calórica podem comprometer a neoangiogênese e a formação de matriz extracelular.",
+      "Doenças metabólicas; A abordagem terapêutica inclui debridamento, controle de carga bacteriana e suporte às comorbidades que interferem na cicatrização. A educação do paciente sobre cuidados domiciliares e sinais de alerta contribui para prevenir complicações infecciosas."
+    ],
+    "correctIndex": 3,
+    "explanation": "A vascularização das bordas da ferida, o grau de contaminação e o tratamento da ferida são considerados fatores locais que podem interferir no processo de cicatrização.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A formação de queloides é explicada por um desequilíbrio na síntese e degradação do colágeno. Qual é esse desequilíbrio?",
+    "options": [
+      "Uma diminuição na produção de colágeno tipo III. A imobilização excessiva ou a tensão nas margens da ferida podem levar à deiscência e atraso na consolidação dos tecidos.",
+      "A síntese de colágeno é maior do que a degradação. Pacientes com insuficiência vascular periférica apresentam maior risco de isquemia local e úlceras de difícil cicatrização.",
+      "Existe um equilíbrio perfeito entre a síntese e a degradação de colágeno. Alguns medicamentos, como quimioterápicos e imunossupressores, podem prejudicar a regeneração tecidual e aumentar a suscetibilidade a infecções.",
+      "A degradação de colágeno é maior que a síntese. Tratamentos tópicos com hidrocoloides, alginatos ou espuma são selecionados conforme o estágio da cicatrização e o volume de exsudato.",
+      "A ausência de colágeno na fase de maturação. O suporte psicossocial e o entendimento do paciente sobre o processo de cicatrização ajudam na adesão ao tratamento e no autocuidado."
+    ],
+    "correctIndex": 1,
+    "explanation": "Cicatrizes queloidianas e hipertróficas são caracterizadas pela deposição excessiva de colágeno versus degradação de colágeno, ou seja, a síntese de colágeno é maior do que a degradação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é o tecido de granulação histologicamente, e em qual fase da cicatrização ele é proeminente?",
+    "options": [
+      "É uma camada de células epiteliais; fase de epitelização. Temperaturas baixas podem reduzir a atividade enzimática e a taxa metabólica dos tecidos, retardando o processo de cicatrização.",
+      "É um tecido conjuntivo denso e acelular; fase inflamatória. Feridas infectadas requerem antibióticos sistêmicos ou tópicos, drenagem e desbridamento para restaurar condições favoráveis à reparação.",
+      "É um tecido muscular liso neoformado; fase de maturação. Na prática clínica, consideramos fatores como nutrição, perfusão capilar e presença de contaminação ao avaliar os passos da cicatrização e sua duração.",
+      "É um tecido vascular neoformado; fase proliferativa. A hiperemia local no início da cicatrização é um sinal esperado devido à liberação de mediadores inflamatórios e vasodilatação.",
+      "É um coágulo de fibrina; fase de hemostasia. Fatores sistêmicos como controle glicêmico, função imunológica e uso de medicamentos influenciam a formação de cicatrizes e a velocidade do reparo."
+    ],
+    "correctIndex": 3,
+    "explanation": "O tecido de granulação é histologicamente um tecido vascular neoformado e é o marco inicial da fase proliferativa da cicatrização.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na cicatrização de feridas, os macrófagos são considerados células fundamentais. Qual de suas ações subsequentes é ativada por eles?",
+    "options": [
+      "Liberação de citocinas e estimulação de processos subsequentes de cicatrização; Desordens nutricionais, uso de corticosteroides e radioterapia estão entre os fatores que podem retardar o processo cicatricial. Os profissionais avaliam sinais clínicos de infecção, bordas da ferida e evolução do tecido de granulação para ajustar o tratamento.",
+      "Formação de miofibroblastos sem estímulo; Condições como idade avançada, tabagismo e vascularização comprometida impactam diretamente nas fases inflamatória e proliferativa, de acordo com evidências médicas. Controle rigoroso de glicemia em diabéticos e cessação do tabagismo são intervenções importantes para otimizar a reparação tecidual.",
+      "Degradação do colágeno tipo I; A avaliação diária inclui inspeção da ferida, limpeza, e orientação ao paciente sobre sinais de infecção, fatores de risco e prognóstico do processo cicatricial. O uso de curativos oclusivos, negativos ou impregnados é escolhido com base em características da ferida e secreção.",
+      "Inibição da angiogênese; A presença de tecidos desvitalizados, corpo estranho e edema pode prolongar a fase inflamatória e comprometer a cicatrização adequada. O manejo adequado da dor, manutenção da higiene local e mobilização precoce do paciente são aspectos práticos no ambulatório.",
+      "Diminuição da permeabilidade vascular; Uma boa oxigenação e suprimento sanguíneo são essenciais para síntese de colágeno e formação de tecido de granulação. A abordagem terapêutica inclui debridamento, controle de carga bacteriana e suporte às comorbidades que interferem na cicatrização."
+    ],
+    "correctIndex": 0,
+    "explanation": "O macrófago é a única célula verdadeiramente fundamental para a cicatrização de feridas, pois serve para orquestrar a liberação de citocinas e estimular muitos dos processos subsequentes de cicatrização.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A fase de maturação da cicatrização é caracterizada por dois processos principais. Quais são eles?",
+    "options": [
+      "Hemostasia e inflamação; A educação do paciente sobre cuidados domiciliares e sinais de alerta contribui para prevenir complicações infecciosas. Tratamentos tópicos com hidrocoloides, alginatos ou espuma são selecionados conforme o estágio da cicatrização e o volume de exsudato.",
+      "Neoangiogênese e fibroplasia; Casos de cicatrização complexa requerem abordagem multidisciplinar com nutricionista, enfermeiro e cirurgião para melhor acompanhamento. O suporte psicossocial e o entendimento do paciente sobre o processo de cicatrização ajudam na adesão ao tratamento e no autocuidado.",
+      "Reepitelização e formação de fibrina; O equilíbrio entre síntese e degradação de colágeno ao longo do tempo determina a qualidade da cicatriz formada. Pacientes com insuficiência vascular periférica apresentam maior risco de isquemia local e úlceras de difícil cicatrização.",
+      "Contração da ferida e remodelação; Situações de hipoalbuminemia e desnutrição proteico-calórica podem comprometer a neoangiogênese e a formação de matriz extracelular. Alguns medicamentos, como quimioterápicos e imunossupressores, podem prejudicar a regeneração tecidual e aumentar a suscetibilidade a infecções.",
+      "Migração de neutrófilos e monócitos; A imobilização excessiva ou a tensão nas margens da ferida podem levar à deiscência e atraso na consolidação dos tecidos. A hiperemia local no início da cicatrização é um sinal esperado devido à liberação de mediadores inflamatórios e vasodilatação."
+    ],
+    "correctIndex": 3,
+    "explanation": "A terceira fase da cicatrização, a de maturação, tem duas etapas: a contração da ferida e a remodelação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual citocina, produzida por macrófagos, fibroblastos e PMN, é um potente estimulador da proliferação de fibroblastos e está reduzida em fibroblastos envelhecidos e em feridas fetais?",
+    "options": [
+      "IL-8",
+      "TNF-α",
+      "IL-6",
+      "IL-1",
+      "IFN-γ"
+    ],
+    "correctIndex": 2,
+    "explanation": "A IL-6, produzida por monócitos, macrófagos, PMN e fibroblastos, é um potente estimulador de proliferação de fibroblastos e está reduzida em fibroblastos envelhecidos e em feridas fetais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação à cicatrização de feridas fetais em comparação com as adultas, qual das seguintes afirmações é verdadeira?",
+    "options": [
+      "O ambiente fetal tem baixos níveis de ácido hialurônico, o que retarda a cicatrização. Temperaturas baixas podem reduzir a atividade enzimática e a taxa metabólica dos tecidos, retardando o processo de cicatrização. Uma boa oxigenação e suprimento sanguíneo são essenciais para síntese de colágeno e formação de tecido de granulação.",
+      "A cicatrização fetal é sempre sem cicatriz, independentemente da idade gestacional ou tamanho da ferida. Feridas infectadas requerem antibióticos sistêmicos ou tópicos, drenagem e desbridamento para restaurar condições favoráveis à reparação. A avaliação diária inclui inspeção da ferida, limpeza, e orientação ao paciente sobre sinais de infecção, fatores de risco e prognóstico do processo cicatricial.",
+      "Feridas fetais demonstram níveis elevados de TGF-β e FGF-2, promovendo fibrose. Na prática clínica, consideramos fatores como nutrição, perfusão capilar e presença de contaminação ao avaliar os passos da cicatrização e sua duração. Desordens nutricionais, uso de corticosteroides e radioterapia estão entre os fatores que podem retardar o processo cicatricial.",
+      "A cicatrização fetal é caracterizada pela regeneração dos apêndices dérmicos e um padrão reticular de colágeno, semelhante à pele normal. Condições como idade avançada, tabagismo e vascularização comprometida impactam diretamente nas fases inflamatória e proliferativa, de acordo com evidências médicas. O manejo adequado da dor, manutenção da higiene local e mobilização precoce do paciente são aspectos práticos no ambulatório.",
+      "Feridas fetais cicatrizam mais lentamente, com mais fibrose e inflamação. Fatores sistêmicos como controle glicêmico, função imunológica e uso de medicamentos influenciam a formação de cicatrizes e a velocidade do reparo. A presença de tecidos desvitalizados, corpo estranho e edema pode prolongar a fase inflamatória e comprometer a cicatrização adequada."
+    ],
+    "correctIndex": 3,
+    "explanation": "As feridas da pele fetal cicatrizam rapidamente, sem a fibrose e a inflamação características das feridas da pele adulta, com a regeneração dos apêndices dérmicos e um padrão reticular de colágeno, semelhante à pele normal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente diabético apresenta uma ferida crônica no tornozelo que não mostra sinais de cicatrização adequada há vários meses. Considerando os fatores intrínsecos relacionados ao diabetes, qual a principal razão para a falha na cicatrização?",
+    "options": [
+      "Reepitelização muito rápida, impedindo a formação de um tecido de granulação robusto. Os profissionais avaliam sinais clínicos de infecção, bordas da ferida e evolução do tecido de granulação para ajustar o tratamento.",
+      "Hipóxia tecidual devido à doença vascular, disfunção de macrófagos e colágeno mais frágil pela glicosilação. Controle rigoroso de glicemia em diabéticos e cessação do tabagismo são intervenções importantes para otimizar a reparação tecidual.",
+      "Aumento da degradação de MMP-2 e MMP-9, levando à estabilização excessiva da matriz. O uso de curativos oclusivos, negativos ou impregnados é escolhido com base em características da ferida e secreção.",
+      "Excesso de fatores de crescimento epidérmicos, levando à hiperproliferação celular desorganizada. A abordagem terapêutica inclui debridamento, controle de carga bacteriana e suporte às comorbidades que interferem na cicatrização.",
+      "Aumento da resposta inflamatória, com excesso de neutrófilos e macrófagos, mas sem atividade fagocitária. A educação do paciente sobre cuidados domiciliares e sinais de alerta contribui para prevenir complicações infecciosas."
+    ],
+    "correctIndex": 1,
+    "explanation": "O diabetes prejudica a cicatrização em todos os estágios devido a vários fatores, incluindo hipóxia tecidual (doença vascular), resposta inflamatória atenuada com quimiotaxia diminuída e eliminação bacteriana ineficiente, e a formação de colágeno mais frágil devido à glicosilação, além da falha na regulação do VEGF em resposta à hipóxia.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Após uma cirurgia abdominal, o paciente idoso, com histórico de desnutrição e uso de corticoesteroides crônicos para uma condição autoimune, desenvolve deiscência da ferida. Qual combinação de fatores é a mais provável para explicar esta complicação?",
+    "options": [
+      "Contração excessiva da ferida e ausência de tecido de granulação. Casos de cicatrização complexa requerem abordagem multidisciplinar com nutricionista, enfermeiro e cirurgião para melhor acompanhamento. O suporte psicossocial e o entendimento do paciente sobre o processo de cicatrização ajudam na adesão ao tratamento e no autocuidado. Fatores sistêmicos como controle glicêmico, função imunológica e uso de medicamentos influenciam a formação de cicatrizes e a velocidade do reparo.",
+      "Aumento da síntese de colágeno e rápida proliferação de fibroblastos. O equilíbrio entre síntese e degradação de colágeno ao longo do tempo determina a qualidade da cicatriz formada. Pacientes com insuficiência vascular periférica apresentam maior risco de isquemia local e úlceras de difícil cicatrização. Feridas infectadas requerem antibióticos sistêmicos ou tópicos, drenagem e desbridamento para restaurar condições favoráveis à reparação.",
+      "Cicatrização por primeira intenção e vascularização excessiva das bordas. Situações de hipoalbuminemia e desnutrição proteico-calórica podem comprometer a neoangiogênese e a formação de matriz extracelular. Alguns medicamentos, como quimioterápicos e imunossupressores, podem prejudicar a regeneração tecidual e aumentar a suscetibilidade a infecções. Na prática clínica, consideramos fatores como nutrição, perfusão capilar e presença de contaminação ao avaliar os passos da cicatrização e sua duração.",
+      "Idade avançada, desnutrição (especialmente proteica) e os efeitos inibitórios dos glicocorticoides na síntese de colágeno e proliferação de fibroblastos. Tratamentos tópicos com hidrocoloides, alginatos ou espuma são selecionados conforme o estágio da cicatrização e o volume de exsudato. Temperaturas baixas podem reduzir a atividade enzimática e a taxa metabólica dos tecidos, retardando o processo de cicatrização.",
+      "Infecção assintomática e uso de suplementos de Vitamina C em excesso. A imobilização excessiva ou a tensão nas margens da ferida podem levar à deiscência e atraso na consolidação dos tecidos. A hiperemia local no início da cicatrização é um sinal esperado devido à liberação de mediadores inflamatórios e vasodilatação. Condições como idade avançada, tabagismo e vascularização comprometida impactam diretamente nas fases inflamatória e proliferativa, de acordo com evidências médicas."
+    ],
+    "correctIndex": 3,
+    "explanation": "Pacientes idosos têm menos colágeno. A desnutrição, especialmente a deficiência de proteínas, pode resultar em atraso da cicatrização ou deiscência. Os glicocorticoides inibem diretamente a proliferação de fibroblastos e a síntese de colágeno, além de reduzirem a quantidade de tecido de granulação formado. A combinação desses fatores aumenta significativamente o risco de deiscência.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um médico está avaliando uma ferida profunda e contaminada. Inicialmente, ele opta por deixá-la aberta para limpeza e drenagem. Após alguns dias, a infecção foi controlada e o leito da ferida apresenta um bom tecido de granulação. Qual seria a conduta mais apropriada neste momento, e qual tipo de cicatrização seria realizada?",
+    "options": [
+      "Realizar sutura imediata, caracterizando uma cicatrização por primeira intenção. A avaliação diária inclui inspeção da ferida, limpeza, e orientação ao paciente sobre sinais de infecção, fatores de risco e prognóstico do processo cicatricial.",
+      "Aplicar curativos oclusivos sem remoção, independentemente da contaminação. A presença de tecidos desvitalizados, corpo estranho e edema pode prolongar a fase inflamatória e comprometer a cicatrização adequada.",
+      "Remover o tecido de granulação para estimular um novo ciclo de cicatrização. Uma boa oxigenação e suprimento sanguíneo são essenciais para síntese de colágeno e formação de tecido de granulação.",
+      "Deixar a ferida fechar espontaneamente, aguardando a cicatrização por segunda intenção. Desordens nutricionais, uso de corticosteroides e radioterapia estão entre os fatores que podem retardar o processo cicatricial.",
+      "Realizar a aproximação das bordas por sutura, configurando uma cicatrização por terceira intenção. O manejo adequado da dor, manutenção da higiene local e mobilização precoce do paciente são aspectos práticos no ambulatório."
+    ],
+    "correctIndex": 4,
+    "explanation": "A cicatrização por terceira intenção é indicada quando há infecção que deve ser tratada inicialmente. Uma vez controlada a infecção e havendo formação de tecido de granulação, a ferida pode ser suturada posteriormente para acelerar o fechamento, o que é o caso descrito.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante a fase de maturação de uma ferida cirúrgica, o paciente reclama de uma cicatriz com resistência reduzida e menos elasticidade do que a pele normal, mesmo após um ano da cirurgia. Qual característica da remodelação da cicatriz explica essa observação?",
+    "options": [
+      "A síntese excessiva de elastina, tornando a cicatriz hiperextensível. Os profissionais avaliam sinais clínicos de infecção, bordas da ferida e evolução do tecido de granulação para ajustar o tratamento.",
+      "Uma degradação de colágeno muito superior à síntese. A abordagem terapêutica inclui debridamento, controle de carga bacteriana e suporte às comorbidades que interferem na cicatrização.",
+      "A perda das cristas interpapilares na interface dermoepidérmica da ferida cicatrizada. Controle rigoroso de glicemia em diabéticos e cessação do tabagismo são intervenções importantes para otimizar a reparação tecidual.",
+      "A ausência completa de colágeno tipo I na cicatriz. O uso de curativos oclusivos, negativos ou impregnados é escolhido com base em características da ferida e secreção.",
+      "O aumento contínuo da densidade de miofibroblastos na cicatriz. A educação do paciente sobre cuidados domiciliares e sinais de alerta contribui para prevenir complicações infecciosas."
+    ],
+    "correctIndex": 2,
+    "explanation": "Em comparação com a pele não ferida, a resistência à tração é de apenas 30% na cicatriz. A perda das cristas interpapilares na interface dermoepidérmica da ferida cicatrizada, que são projeções ondulantes da epiderme que penetram na derme papilar, resulta em maior fragilidade e predispõe a neoepiderme a avulsão após traumatismo mínimo. Embora a ligação cruzada de colágeno aumente a resistência, ela também resulta em uma cicatriz mais frágil e menos elástica que a pele normal.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A terapia de fechamento de ferida assistida por pressão negativa (VAC) é uma ferramenta importante no manejo de feridas complexas. Qual é o paradoxo observado na cicatrização de feridas tratadas com VAC em relação à carga bacteriana, e qual o provável impacto na cicatrização?",
+    "options": [
+      "A VAC sempre elimina completamente todas as bactérias, mas retarda a cicatrização por ressecamento. Casos de cicatrização complexa requerem abordagem multidisciplinar com nutricionista, enfermeiro e cirurgião para melhor acompanhamento. O suporte psicossocial e o entendimento do paciente sobre o processo de cicatrização ajudam na adesão ao tratamento e no autocuidado. Fatores sistêmicos como controle glicêmico, função imunológica e uso de medicamentos influenciam a formação de cicatrizes e a velocidade do reparo.",
+      "A VAC não tem efeito sobre a carga bacteriana, nem na velocidade de cicatrização. O equilíbrio entre síntese e degradação de colágeno ao longo do tempo determina a qualidade da cicatriz formada. Pacientes com insuficiência vascular periférica apresentam maior risco de isquemia local e úlceras de difícil cicatrização. Feridas infectadas requerem antibióticos sistêmicos ou tópicos, drenagem e desbridamento para restaurar condições favoráveis à reparação.",
+      "A VAC só é eficaz em feridas estéreis, pois qualquer bactéria a inativa. Situações de hipoalbuminemia e desnutrição proteico-calórica podem comprometer a neoangiogênese e a formação de matriz extracelular. Alguns medicamentos, como quimioterápicos e imunossupressores, podem prejudicar a regeneração tecidual e aumentar a suscetibilidade a infecções. Na prática clínica, consideramos fatores como nutrição, perfusão capilar e presença de contaminação ao avaliar os passos da cicatrização e sua duração.",
+      "A VAC aumenta a carga bacteriana e lentifica a cicatrização, o que limita seu uso. A imobilização excessiva ou a tensão nas margens da ferida podem levar à deiscência e atraso na consolidação dos tecidos. A hiperemia local no início da cicatrização é um sinal esperado devido à liberação de mediadores inflamatórios e vasodilatação. Condições como idade avançada, tabagismo e vascularização comprometida impactam diretamente nas fases inflamatória e proliferativa, de acordo com evidências médicas.",
+      "Apesar de resultar em maiores contagens bacterianas, a VAC acelera a cicatrização devido à remoção de exsudatos e à estimulação do tecido de granulação. Tratamentos tópicos com hidrocoloides, alginatos ou espuma são selecionados conforme o estágio da cicatrização e o volume de exsudato. Temperaturas baixas podem reduzir a atividade enzimática e a taxa metabólica dos tecidos, retardando o processo de cicatrização."
+    ],
+    "correctIndex": 4,
+    "explanation": "Embora a terapia de pressão negativa resulte em maiores contagens bacterianas, paradoxalmente, ela promove uma maior cicatrização da ferida. Isso é atribuído à remoção de exsudatos, estimulação do tecido de granulação, aumento do fluxo sanguíneo local e alterações no ambiente da ferida, como o estresse tridimensional nas células e a remoção de proteinases e citocinas inflamatórias prejudiciais.",
+    "type": "raciocínio"
+  }
+]

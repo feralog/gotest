@@ -1,0 +1,262 @@
+[
+  {
+    "question": "De acordo com as classificações de pressão arterial, a Hipertensão Arterial Estágio 2 é definida por níveis de Pressão Arterial Sistólica (PAS) e Pressão Arterial Diastólica (PAD) que correspondem a qual faixa de valores?",
+    "options": [
+      "PAS maior que 120 mmHg e menor que 130 mmHg, com PAD menor que 80 mmHg.",
+      "PAS maior que 130 mmHg e menor que 140 mmHg, com PAD maior que 80 mmHg e menor que 90 mmHg.",
+      "PAS maior ou igual a 160 mmHg ou PAD maior ou igual a 100 mmHg.",
+      "PAS maior que 180 mmHg ou PAD maior que 120 mmHg, caracterizando uma crise.",
+      "PAS menor que 120 mmHg e PAD menor que 80 mmHg."
+    ],
+    "correctIndex": 2,
+    "explanation": "A hipertensão arterial Estágio 2 é definida quando a Pressão Arterial Sistólica (PAS) é maior que 160 mmHg ou a Pressão Arterial Diastólica (PAD) é maior que 100 mmHg [1, 2]. PAS < 120 e PAD < 80 é a PA normal [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual combinação de mecanismos fisiopatológicos é classicamente associada ao desenvolvimento da Hipertensão Arterial Essencial (Primária), que representa cerca de 90% dos casos, segundo os materiais?",
+    "options": [
+      "Rigidez vascular aumentada, hiperatividade do SRAA e produção excessiva de catecolaminas adrenais.",
+      "Aumento da Resistência Vascular Sistêmica (RVS) devido a espessamento dos vasos e retenção de sódio e água, elevando o débito cardíaco.",
+      "Supressão da renina plasmática por hiperaldosteronismo primário e vasoconstrição causada por disfunção adrenal.",
+      "Estenose da artéria renal por aterosclerose e liberação de citocinas pró-inflamatórias específicas pelo tecido adiposo.",
+      "Hipertireoidismo com aumento do débito cardíaco e hiperatividade exclusiva do Sistema Nervoso Simpático."
+    ],
+    "correctIndex": 1,
+    "explanation": "Os mecanismos fisiopatológicos da Hipertensão Essencial envolvem o aumento da Resistência Vascular Sistêmica (RVS) devido ao espessamento e vasoconstrição dos vasos, e a retenção de sódio e água, que aumenta a pré-carga e o Débito Cardíaco [3, 4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A obesidade é classificada como um dos maiores fatores de risco modificáveis para a hipertensão essencial. Qual mecanismo fisiopatológico primário liga a obesidade ao aumento da pressão arterial?",
+    "options": [
+      "Produção diminuída de hormônios tireoidianos (T3/T4 baixo), resultando em aumento exclusivo da Resistência Vascular Sistêmica (RVS).",
+      "Liberação de citocinas pró-inflamatórias (TNF-alfa, IL-6) e adipocinas, resultando em hiperatividade do SRAA e do Sistema Nervoso Simpático (SNS).",
+      "Disfunção renal crônica precoce, caracterizada por TFG inferior a 60 ml/min e albuminúria, independentemente do SRAA.",
+      "Compressão extrínseca da aorta abdominal e das artérias renais pelo aumento da gordura visceral, diminuindo o fluxo renal.",
+      "Aumento da pressão intracraniana, desencadeando a tríade de Cushing (bradicardia, hipertensão, respirações irregulares)."
+    ],
+    "correctIndex": 1,
+    "explanation": "A obesidade, um fator de risco modificável, contribui para a HAS através da secreção de citocinas pró-inflamatórias (como TNF-alfa e IL-6) e adipocinas (leptina e resistina), que levam à hiperatividade do Sistema Renina-Angiotensina-Aldosterona (SRAA) e do Sistema Nervoso Simpático (SNS) [5, 6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Antes de classificar um paciente com Hipertensão Arterial Resistente (HAR) verdadeira, é crucial descartar a pseudorresistência. Qual alternativa descreve corretamente uma causa de pseudorresistência e o método essencial para o seu descarte?",
+    "options": [
+      "Uso incorreto de medicamentos concomitantes (AINEs, corticoides), o que exige a realização de TC de adrenal de cortes finos para exclusão.",
+      "Hipertensão do Avental Branco (elevação apenas no ambiente clínico), necessitando de Monitorização Ambulatorial (MAPA) ou Residencial (MRPA) para confirmação domiciliar.",
+      "Hipopotassemia espontânea ou induzida por diuréticos, exigindo o cálculo da Razão Aldosterona/Renina (RAR) no rastreio laboratorial.",
+      "Hiperatividade do Sistema Nervoso Simpático, que é afastada pelo teste de supressão de GH após sobrecarga oral de glicose.",
+      "Rigidez vascular aumentada e polimorfismos genéticos, que são confirmados através da arteriografia renal."
+    ],
+    "correctIndex": 1,
+    "explanation": "A Hipertensão do Avental Branco é uma causa de pseudorresistência [4]. Para confirmar o diagnóstico de HAR verdadeira e descartar a pseudorresistência, a Monitorização Ambulatorial da Pressão Arterial (MAPA) ou a Monitorização Residencial (MRPA) são cruciais [4, 7, 8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos achados clínicos abaixo representa um sinal de alerta fundamental que deve levar à suspeita e à investigação de uma causa de Hipertensão Arterial Secundária?",
+    "options": [
+      "Ocorrência de hipertensão estágio 1 em paciente com 45 anos, obeso e sedentário, com controle satisfatório após monoterapia com IECA.",
+      "Hipertensão arterial estágio 3 (PA ≥ 180/110 mmHg) em paciente antes dos 30 anos sem história familiar de hipertensão ou fatores de risco clássicos.",
+      "Presença de hipercolesterolemia, tabagismo e diabetes mellitus tipo 2, indicando alto risco de Doença Arterial Coronariana (DAC).",
+      "Pressão arterial sistólica menor que 120 mmHg e diastólica menor que 80 mmHg em paciente jovem com dieta rica em sódio.",
+      "Necessidade de uso de apenas duas classes de medicamentos anti-hipertensivos para manter a PA abaixo de 140/90 mmHg."
+    ],
+    "correctIndex": 1,
+    "explanation": "A suspeita de Hipertensão Secundária é levantada em casos de idade de início atípica, como hipertensão estágio 3 antes dos 30 anos ou após os 55 anos sem fatores de risco clássicos [9, 10]. A HA resistente ou refratária também é um forte sinal de alerta [9].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Doença Renal Crônica (DRC) é uma causa chave de hipertensão secundária, caracterizada pela persistência de alterações renais por, pelo menos, 3 meses. Quais achados laboratoriais ou funcionais confirmam o diagnóstico de DRC?",
+    "options": [
+      "Taxa de Filtração Glomerular (TFG) superior a 90 ml/min, desde que associada à presença de hematúria macroscópica.",
+      "Pressão arterial elevada, que é controlada exclusivamente pelo tratamento do hiperparatireoidismo subjacente com remoção do adenoma.",
+      "TFG inferior a 60 ml/min e/ou albuminúria na urina 1 (≥ 30 mg/24h) e/ou alteração na morfologia renal.",
+      "Presença de assimetria renal (> 1,5 cm) em ultrassonografia Doppler das artérias renais ou sopro abdominal.",
+      "Potássio sérico inferior a 3 mEq/L, associado à detecção de aldosterona plasmática superior a 15 ng/dL e renina suprimida."
+    ],
+    "correctIndex": 2,
+    "explanation": "A DRC é definida pela persistência de alteração da função renal por pelo menos 3 meses, caracterizada por Taxa de Filtração Glomerular (TFG) inferior a 60 ml/min e/ou albuminúria (≥ 30 mg/24h) e/ou alteração na morfologia renal [11].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Hiperaldosteronismo Primário (HAP) é uma causa comum de hipertensão resistente, caracterizado pela produção elevada de aldosterona e supressão da atividade de renina plasmática. Qual combinação de exames laboratoriais é o rastreio padrão para HAP?",
+    "options": [
+      "Dosagem de metanefrinas plasmáticas livres e TSH sérico.",
+      "Dosagem de IGF-1 e teste de supressão com dexametasona.",
+      "Dosagem de aldosterona plasmática e atividade/concentração de renina plasmática, com cálculo da Razão Aldosterona/Renina (RAR > 30).",
+      "Cortisol salivar à meia-noite e dosagem de PTH sérico total.",
+      "Uréia e Creatinina séricas anuais e ultrassonografia Doppler de artérias renais."
+    ],
+    "correctIndex": 2,
+    "explanation": "O rastreio para Hiperaldosteronismo Primário envolve a dosagem de aldosterona plasmática e da atividade/concentração de renina plasmática [12]. Uma Razão Aldosterona/Renina (RAR) superior a 30 é altamente sugestiva de HAP [12].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Hipertensão Renovascular (HRV) é uma causa secundária importante. Qual a principal etiologia da HRV em adultos jovens e o método de rastreio não invasivo inicial preferencial, respectivamente?",
+    "options": [
+      "Aterosclerose em idosos e cintilografia com MIBG.",
+      "Displasia Fibromuscular (DFM) em adultos jovens e Ultrassonografia Doppler das artérias renais.",
+      "Coarctação da aorta na região do ducto arterioso e arteriografia renal, devido à sua alta sensibilidade.",
+      "Hiperplasia Adrenal Cortical Bilateral e Ressonância Magnética (RM) de sela túrcica.",
+      "Hiperatividade do Sistema Nervoso Simpático e monitorização ambulatorial da pressão arterial (MAPA)."
+    ],
+    "correctIndex": 1,
+    "explanation": "A principal causa de Hipertensão Renovascular (HRV) em adultos jovens e mulheres é a Displasia Fibromuscular (DFM) [13]. O rastreio inicial preferencial e não invasivo é a ultrassonografia Doppler das artérias renais [14].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A hipertensão arterial crônica é um fator de risco primário para Lesão de Órgão-Alvo (LOA) cardiovascular. Qual é a principal complicação cardíaca resultante do aumento crônico da pós-carga que leva à Hipertrofia Ventricular Esquerda?",
+    "options": [
+      "Dissecção aórtica, causada pela fraqueza da parede do vaso devido a danos nos *vasa vasorum*.",
+      "Insuficiência Cardíaca Diastólica (ICFEp), caracterizada pela dificuldade de enchimento ventricular devido à hipertrofia miocárdica.",
+      "Hipertensão pulmonar primária, levando à falência do ventrículo direito.",
+      "Edema agudo de pulmão recorrente após o uso de IECA ou BRA em pacientes com estenose bilateral de artéria renal.",
+      "Doença arterial periférica (DAP) grave, causada pela calcificação das artérias coronarianas e carótidas."
+    ],
+    "correctIndex": 1,
+    "explanation": "A alta pós-carga crônica induzida pela HAS leva à Hipertrofia Ventricular Esquerda (HVE) [15]. A HVE reduz a capacidade de enchimento do ventrículo, resultando na Insuficiência Cardíaca Diastólica (ICFEp) [15, 16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Retinopatia Hipertensiva é uma das manifestações da Lesão de Órgão-Alvo (LOA). Qual achado fundoscópico é especificamente característico do Grau 4 da retinopatia e indica uma Emergência Hipertensiva?",
+    "options": [
+      "Presença exclusiva de entroncamento arteriovenoso (*AV nicking*) na periferia da retina.",
+      "Esclerose da arteríola aferente renal e ruptura da barreira glomerular, levando à proteinúria.",
+      "Papiledema (inchaço e embaçamento do disco óptico), geralmente acompanhado por hemorragias e exsudatos duros.",
+      "Aumento significativo da pressão intracraniana, levando ao surgimento de bradicardia e respirações irregulares (Tríade de Cushing).",
+      "Aterosclerose grave nas artérias carótidas, causando redução do suprimento de oxigênio cerebral."
+    ],
+    "correctIndex": 2,
+    "explanation": "A retinopatia hipertensiva Grau 4, que se enquadra em uma Emergência Hipertensiva, é caracterizada pelo achado de papiledema [17].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente chega ao serviço de emergência com pressão arterial de 200/115 mmHg, mas está assintomático, sem evidência de lesão de órgão-alvo (LOA). De acordo com os materiais, qual é a classificação correta para este quadro e o objetivo primário de manejo?",
+    "options": [
+      "Emergência Hipertensiva; o objetivo é reduzir a Pressão Arterial Média (PAM) em 25% nas primeiras duas horas utilizando agentes intravenosos tituláveis.",
+      "Crise Hipertensiva Refratária; o objetivo é iniciar IECA/BRA, tiazídico e bloqueador de canal de cálcio imediatamente.",
+      "Urgência Hipertensiva; o objetivo é reduzir a PA para menos de 160/100 mmHg utilizando medicamentos orais conforme necessário, sem pressa.",
+      "Hipertensão do Avental Branco; o objetivo é confirmar a PA elevada com o uso de Ultrassonografia Doppler das artérias renais em 24 horas.",
+      "Pseudo-hipertensão; o objetivo é iniciar o tratamento cirúrgico para remoção de adenoma adrenal, se a tomografia for positiva."
+    ],
+    "correctIndex": 2,
+    "explanation": "A PA > 180/120 mmHg é uma Crise Hipertensiva [18]. A ausência de Lesão de Órgão-Alvo (LOA) classifica o quadro como Urgência Hipertensiva [18]. O manejo exige a redução da PA para menos de 160/100 mmHg utilizando medicamentos orais, sem a necessidade de uma redução rápida para evitar isquemia [19, 20].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os diuréticos tiazídicos, como a hidroclorotiazida, são amplamente utilizados no manejo da hipertensão. Qual comorbidade específica confere uma vantagem terapêutica à escolha da hidroclorotiazida como agente anti-hipertensivo de primeira linha?",
+    "options": [
+      "Doença arterial coronariana (DAC), devido ao seu potente efeito na redução do remodelamento ventricular.",
+      "Insuficiência Cardíaca Descompensada Aguda, onde se necessita de agentes que reduzem rapidamente a volemia.",
+      "Gota e Hiperuricemia, devido à sua capacidade de aumentar a excreção de ácido úrico pelos rins.",
+      "Osteoporose, pois o mecanismo de ação deste diurético inclui a conservação do cálcio.",
+      "Hipertensão de baixa renina em pacientes afro-americanos, sendo menos eficaz que os IECA ou BRA."
+    ],
+    "correctIndex": 3,
+    "explanation": "A Hidroclorotiazida é um agente de escolha na presença de Osteoporose, devido ao seu mecanismo de ação que promove a conservação de cálcio [21]. Deve-se evitar seu uso na gota, pois pode causar hiperuricemia [22].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O uso de medicamentos concomitantes ou substâncias exógenas é uma causa conhecida de hipertensão secundária ou pseudorresistência. Qual das classes de medicamentos ou substâncias listadas abaixo é conhecida por elevar a pressão arterial primariamente através da indução de hiperatividade do Sistema Nervoso Simpático?",
+    "options": [
+      "Glicocorticoides e Anticoncepcionais orais, por reterem sódio e volume.",
+      "Inibidores da Enzima Conversora de Angiotensina (IECA) e Bloqueadores do Receptor de Angiotensina (BRA), por inibirem o SRAA.",
+      "Anti-inflamatórios Não Esteroides (AINEs) e Inibidores de Calcineurina, por retenção de volume e ativação do SRAA.",
+      "Descongestionantes nasais (pseudoefedrina), Anfetaminas e Cocaína, por seu efeito simpaticomimético direto.",
+      "Metildopa e Hidralazina, por atuarem como vasodilatadores diretos e betabloqueadores."
+    ],
+    "correctIndex": 3,
+    "explanation": "Substâncias como descongestionantes nasais, anfetaminas e cocaína aumentam a pressão arterial devido à indução de hiperatividade do Sistema Nervoso Simpático, atuando como agentes simpaticomiméticos [23-25]. AINEs, corticoides e anticoncepcionais causam retenção de volume [23].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O tratamento definitivo para o Feocromocitoma é cirúrgico, mas o preparo pré-operatório rigoroso é essencial para prevenir crises adrenérgicas. Qual é a ordem correta e obrigatória do bloqueio farmacológico pré-operatório, de acordo com as diretrizes mencionadas?",
+    "options": [
+      "Iniciar um betabloqueador (ex: Esmolol) para reduzir o débito cardíaco, seguido pela introdução de um vasodilatador direto (ex: Hidralazina).",
+      "Iniciar um Bloqueador Alfa-1 (ex: doxazosina) para controlar a hipertensão, e somente depois iniciar o betabloqueador para controlar a taquicardia e arritmias.",
+      "Realizar a adrenalectomia unilateral e, em seguida, iniciar IECA/BRA para reduzir a hiperfiltração renal contralateral.",
+      "Administrar Nitroprussiato de sódio IV para reduzir a PAM em 25% na primeira hora, seguido por diuréticos de alça.",
+      "Iniciar espironolactona 50 mg/dia para reduzir a retenção de sódio e volume e, posteriormente, adicionar um BCC di-hidropiridínico."
+    ],
+    "correctIndex": 1,
+    "explanation": "No preparo pré-operatório do Feocromocitoma, é mandatório iniciar o Bloqueador Alfa-1 (como doxazosina ou prazosina). O betabloqueador só pode ser introduzido após o bloqueio alfa-adrenérgico adequado, para evitar o risco de hipertensão paradoxal [26, 27].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Coarctação da Aorta é uma causa congênita de hipertensão secundária. Qual achado clínico é essencial para levantar a suspeita diagnóstica e diferenciar esta condição de outras etiologias?",
+    "options": [
+      "Presença de cefaleia, palpitações e sudorese, indicando excesso de catecolaminas adrenais.",
+      "Discrepância pressórica, com a Pressão Arterial Sistólica (PAS) 10 mmHg maior nos membros superiores em comparação com os inferiores.",
+      "Hipopotassemia espontânea e nódulo adrenal incidental detectado por TC.",
+      "Hipertensão diastólica isolada, associada a fadiga persistente e sonolência diurna excessiva.",
+      "Ausência de descenso noturno da PA, confirmada pela monitorização ambulatorial de 24 horas."
+    ],
+    "correctIndex": 1,
+    "explanation": "A suspeita de Coarctação da Aorta é levantada pela Discrepância Pressórica, onde a PAS é 10 mmHg maior nos membros superiores em relação aos inferiores (braquial vs. poplítea) [2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente de 55 anos apresenta Diabetes Mellitus tipo 2 e Doença Renal Crônica (DRC) com albuminúria. Suas aferições de pressão arterial confirmam Hipertensão Estágio 2 (145/95 mmHg). Qual classe de medicamento anti-hipertensivo deve ser iniciada prioritariamente neste cenário clínico, considerando a proteção de órgão-alvo?",
+    "options": [
+      "Antagonistas da Aldosterona (ex: Espironolactona), devido à sua eficácia na retenção de sódio e volume observada na DRC.",
+      "Bloqueadores de Canal de Cálcio Di-hidropiridínicos (ex: anlodipino), pois são superiores no controle da hipertensão de baixa renina.",
+      "Inibidores da ECA (IECA) ou Bloqueadores do Receptor de Angiotensina (BRA), devido à sua capacidade comprovada de fornecer proteção renal e reduzir a proteinúria.",
+      "Betabloqueadores (ex: Carvedilol), pois são essenciais para reduzir a demanda miocárdica de oxigênio e controlar a taquicardia.",
+      "Diuréticos de alça (ex: Furosemida), por serem os mais potentes na remoção de fluidos e tratamento do aumento da volemia."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para pacientes com Diabetes e Doença Renal Crônica (DRC), os Inibidores da ECA (IECA) ou os Bloqueadores do Receptor de Angiotensina (BRA) são os agentes de escolha, pois oferecem proteção renal específica e são eficazes na redução da proteinúria/albuminúria [28].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente de 60 anos, com história de Infarto do Miocárdio (IM) prévio e Fração de Ejeção reduzida (ICFEr), apresenta hipertensão arterial persistente (148/92 mmHg). Qual combinação de classes de anti-hipertensivos deve ser priorizada no esquema terapêutico, visando o melhor prognóstico cardiovascular e o manejo da insuficiência cardíaca?",
+    "options": [
+      "Bloqueadores do Receptor Alfa Um (Doxazosina) e Bloqueadores do Canal de Cálcio Di-hidropiridínico (Anlodipino) em dose máxima.",
+      "IECA ou BRA associado a um Betabloqueador, e se necessário, adição de Antagonistas da Aldosterona (Espironolactona).",
+      "Diurético Tiazídico (HCTZ) isoladamente, devido à sua capacidade de conservar cálcio e reduzir o risco de osteoporose.",
+      "Nitratos (Mononitrato de Isossorbida) e IECA/BRA, evitando o uso de betabloqueadores para prevenir broncoespasmo.",
+      "Clonidina (Alfa-agonista central) e um Diurético de Alça, devido à sua eficácia no manejo da hiperatividade simpática."
+    ],
+    "correctIndex": 1,
+    "explanation": "Em pacientes com histórico de Infarto do Miocárdio (IM) e Insuficiência Cardíaca (IC), as classes prioritárias para otimização do tratamento são Betabloqueadores, IECA ou BRA, e Antagonistas da Aldosterona, pois reduzem o remodelamento ventricular [5, 29].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente foi diagnosticado com Hipertensão Arterial Resistente (HAR) verdadeira, mantendo a PA em 155/98 mmHg mesmo após o uso otimizado de um diurético tiazídico (clortalidona), um IECA (enalapril) e um BCC de longa duração (anlodipino). Qual é o quarto fármaco de primeira escolha, de acordo com o escalonamento terapêutico para HAR?",
+    "options": [
+      "Clonidina, um alfa-agonista central, devido à sua eficácia na hiperatividade do Sistema Nervoso Simpático observada na HA refratária.",
+      "Hidralazina, um vasodilatador direto, reservado para os casos mais complexos de falha no tratamento.",
+      "Espironolactona (25-50 mg/dia), devido à sua eficácia na HAR, especialmente em pacientes com hiperaldosteronismo.",
+      "Betabloqueador (metoprolol succinato), que deve ser iniciado antes do quinto fármaco.",
+      "Diurético de alça (furosemida) em alta dose, para otimizar a excreção de sódio e água na disfunção renal crônica."
+    ],
+    "correctIndex": 2,
+    "explanation": "Se a PA não for controlada com o regime triplo otimizado (tiazídico + IECA/BRA + BCC di-hidropiridínico) [30, 31], a Espironolactona (25-50 mg/dia) é o quarto fármaco de primeira escolha para o escalonamento terapêutico na HAR [31].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com hipertensão resistente inicia o uso de um IECA, mas desenvolve uma elevação inexplicável e significativa dos níveis de creatinina sérica e disfunção renal. Qual etiologia de hipertensão secundária deve ser fortemente suspeitada neste cenário e qual é a contraindicação associada ao uso deste fármaco?",
+    "options": [
+      "Hiperaldosteronismo Primário; a contraindicação é o risco de acidose láctica.",
+      "Feocromocitoma; a contraindicação é a exacerbação da tríade de cefaleia, palpitações e sudorese.",
+      "Estenose da Artéria Renal (Hipertensão Renovascular); a contraindicação é a possibilidade de Insuficiência Renal Aguda (IRA) se a estenose for bilateral.",
+      "Coarctação da Aorta; a contraindicação é o aumento da diferença de pulso entre membros superiores e inferiores.",
+      "Síndrome de Cushing; a contraindicação é o risco de hipopotassemia refratária ao tratamento."
+    ],
+    "correctIndex": 2,
+    "explanation": "A piora inexplicável da função renal após o uso de IECA ou BRA é um forte sinal de alerta para Hipertensão Renovascular [10]. IECA e BRA são contraindicados na estenose de artéria renal bilateral, devido ao risco de Insuficiência Renal Aguda (IRA) [2].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente é admitido com Pressão Arterial de 210/130 mmHg, acompanhada de papiledema (Retinopatia Grau 4) e déficits neurológicos focais, configurando uma Emergência Hipertensiva. Qual é o objetivo terapêutico inicial e o método de administração farmacológica preconizado?",
+    "options": [
+      "Reduzir a Pressão Arterial Média (PAM) em aproximadamente 25% nas primeiras duas horas, utilizando agentes anti-hipertensivos intravenosos tituláveis.",
+      "Reduzir a Pressão Arterial Sistólica (PAS) imediatamente para 120 mmHg, utilizando bolus de Hidralazina para prevenir hemorragia intracerebral.",
+      "Iniciar um regime quádruplo oral (IECA, BCC, tiazídico, espironolactona) para controle da hipertensão refratária em 24 horas.",
+      "Diminuir a PA para menos de 160/100 mmHg em aproximadamente 48 horas, utilizando preferencialmente medicamentos orais.",
+      "Instituir o bloqueio Alfa-1 seguido de Betabloqueador IV (Esmolol) para garantir a profilaxia de arritmias adrenérgicas."
+    ],
+    "correctIndex": 0,
+    "explanation": "Em Emergência Hipertensiva (PA > 180/120 mmHg com Lesão de Órgão-Alvo) [18], o objetivo inicial é diminuir a Pressão Arterial Média (PAM) em aproximadamente 25% nas primeiras duas horas, utilizando agentes IV tituláveis (como Nicardipina ou Esmolol) [23, 32]. A queda abrupta da PA deve ser evitada [23, 32].",
+    "type": "raciocínio"
+  }
+]

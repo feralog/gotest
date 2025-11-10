@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual é a incidência anual de varizes segundo o estudo de Framingham?",
+    "options": [
+      "4,1% em mulheres e 3,3% em homens, não incluindo telangiectasias",
+      "1,9% em mulheres e 2,6% em homens, incluindo telangiectasias",
+      "2,2% em mulheres e 1,5% em homens, incluindo telangiectasias",
+      "2,6% em mulheres e 1,9% em homens, não incluindo telangiectasias",
+      "3,5% em mulheres e 2,8% em homens, não incluindo telangiectasias"
+    ],
+    "correctIndex": 3,
+    "explanation": "O estudo de Framingham demonstrou incidência anual de 2,6% em mulheres e 1,9% em homens, sendo importante destacar que estes dados não incluem telangiectasias. Esta diferença de prevalência entre gêneros reflete a influência de fatores hormonais femininos e gestação como fatores de risco importantes para o desenvolvimento de doença venosa crônica. Os dados são fundamentais para compreender a magnitude epidemiológica da doença e seu impacto diferencial entre os sexos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo o consenso ESVS 2015, qual é a prevalência de telangiectasias na população geral?",
+    "options": [
+      "80% apresentam telangiectasias na população estudada",
+      "35% apresentam telangiectasias na população estudada",
+      "64% apresentam telangiectasias na população estudada",
+      "50% apresentam telangiectasias na população estudada",
+      "20% apresentam telangiectasias na população estudada"
+    ],
+    "correctIndex": 0,
+    "explanation": "O consenso da ESVS 2015 estabeleceu que 80% da população apresenta telangiectasias, tornando-se a manifestação mais prevalente da doença venosa crônica. Outras prevalências importantes incluem 20-64% para veias varicosas, 5% para estágios mais avançados e 1% para úlceras ativas ou cicatrizadas. Estes dados epidemiológicos demonstram que manifestações iniciais são extremamente comuns, enquanto complicações graves acometem percentual menor da população.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual foi a primeira descrição histórica documentada sobre varizes?",
+    "options": [
+      "Escritos de Galeno em 200 dC, descrevendo insuficiência venosa",
+      "Manuscritos de Hipócrates em 460 aC, descrevendo veias dilatadas",
+      "Papiro de Ebers em 1550 aC, descrevendo dilatações serpentiformes e tortuosas",
+      "Documentos de Paulo Aegineta em 600 dC, descrevendo ligadura venosa",
+      "Tratado de Plutarco em 105 aC, descrevendo técnicas cirúrgicas"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Papiro de Ebers (1550 aC) representa a primeira descrição documentada de varizes na história da medicina, caracterizando-as como dilatações serpentiformes, enroladas, endurecidas, com nódulos e como cheias de ar. Este manuscrito médico egípcio antigo encontra-se atualmente na Biblioteca da Universidade de Leipzig. Posteriormente, Hipócrates (460-370 aC) descreveu aspectos clínicos e terapêuticos, Plutarco (105 aC) realizou a primeira cirurgia em Roma, Galeno descreveu a flebectomia, e Paulo Aegineta (600 dC) realizou a primeira ligadura de safena magna.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição de Doença Venosa Crônica segundo os conceitos atuais?",
+    "options": [
+      "Dilatação transitória do sistema venoso devido a alterações hemodinâmicas agudas, culminando em sintomas intermitentes",
+      "Anormalidade de longa duração do sistema venoso devido a alterações estruturais ou funcionais das veias, culminando em manifestação de sinais e sintomas",
+      "Modificação súbita do sistema venoso devido a obstrução mecânica das veias, culminando em insuficiência aguda",
+      "Transformação progressiva do sistema venoso devido a processos inflamatórios sistêmicos, culminando em trombose recorrente",
+      "Alteração temporária do sistema venoso devido a disfunção valvular reversível, culminando em edema ocasional"
+    ],
+    "correctIndex": 1,
+    "explanation": "Doença Venosa Crônica é definida como anormalidade de longa duração do sistema venoso devido a alterações estruturais ou funcionais das veias, culminando em manifestação de sinais e sintomas. Esta definição enfatiza três aspectos fundamentais: a cronicidade do processo, a natureza estrutural e/ou funcional das alterações, e a presença de manifestações clínicas. Varizes, especificamente, são veias que por diferentes processos tornam-se dilatadas, alongadas e tortuosas, com perda da função valvar e alterações de parede decorrentes de hipertensão venosa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual teoria fisiopatológica explica o surgimento de varizes pela alteração primária da parede venosa?",
+    "options": [
+      "Teoria da disfunção valvular congênita ou adquirida, com incompetência levando ao aumento da pressão distal",
+      "Teoria das fístulas arteriovenosas, com microfístulas causando dilatação venosa progressiva",
+      "Teoria das perfurantes insuficientes, com refluxo das veias comunicantes levando a varizes",
+      "Teoria de dilatação venosa primária levando a disfunção valvular, com alterações da parede causando menor resistência e afastamento das cúspides",
+      "Teoria da hipertensão venosa ambulatorial, com aumento da pressão causando incompetência secundária"
+    ],
+    "correctIndex": 3,
+    "explanation": "A teoria de dilatação venosa primária propõe que alterações da parede venosa (menor resistência da parede, alteração do tônus, ativação endotelial) causam dilatação primária que afasta as cúspides venosas, levando secundariamente à disfunção valvular. Esta teoria contrasta com a teoria da disfunção valvular primária, que propõe que a causa básica é a incompetência valvular congênita ou adquirida. Outras teorias incluem a das fístulas arteriovenosas (com poucos estudos demonstrando tal mecanismo) e a das perfurantes insuficientes. A sequência fisiopatológica final resulta em: insuficiência valvar → refluxo → hipertensão venosa → inflamação → alterações da microcirculação → úlcera.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a probabilidade de desenvolvimento de varizes quando ambos os progenitores são varicosos?",
+    "options": [
+      "45% dos filhos desenvolvem varizes quando ambos os progenitores são varicosos",
+      "55% dos filhos desenvolvem varizes quando ambos os progenitores são varicosos",
+      "65% dos filhos desenvolvem varizes quando ambos os progenitores são varicosos",
+      "95% dos filhos desenvolvem varizes quando ambos os progenitores são varicosos",
+      "85% dos filhos desenvolvem varizes quando ambos os progenitores são varicosos"
+    ],
+    "correctIndex": 4,
+    "explanation": "Estudos demonstram que se ambos os progenitores eram varicosos, a doença aparecia em 85% dos filhos, evidenciando o forte componente hereditário da doença venosa crônica. A hereditariedade pode manifestar-se como doença autossômica dominante ou recessiva, sendo mais provável autossômica dominante ligada ao sexo, com penetrância incompleta e expressividade variável. Genes específicos foram identificados como associados, incluindo FOXC2 e mutação do Notch3. Este fator de risco não modificável é fundamental na estratificação de pacientes e aconselhamento sobre medidas preventivas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na classificação CEAP 2020, qual categoria representa veias varicosas sem outras manifestações?",
+    "options": [
+      "C2: veias varicosas visíveis, dilatadas e tortuosas sem edema ou alterações cutâneas",
+      "C0: ausência de sinais visíveis ou palpáveis de doença venosa",
+      "C4a: pigmentação cutânea (dermatite ocre) ou eczema venoso associado",
+      "C3: edema maleolar secundário à insuficiência venosa crônica estabelecida",
+      "C1: telangiectasias ou veias reticulares sem dilatação troncos venosos principais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na classificação CEAP 2020, C2 representa veias varicosas visíveis, sendo o primeiro estágio onde há dilatação, alongamento e tortuosidade de veias superficiais. A progressão é: C0 (sem sinais visíveis/palpáveis), C1 (telangiectasias/veias reticulares), C2 (veias varicosas), C2r (varicosas recorrentes), C3 (edema), C4 (alterações cutâneas: C4a pigmentação/eczema, C4b lipodermatosclerose/atrofia branca, C4c corona phlebectatica), C5 (úlcera cicatrizada), C6 (úlcera ativa), C6r (úlcera recorrente). A classificação completa inclui C (clínica), E (etiologia), A (anatômica) e P (fisiopatologia).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a característica do CEAP C4b que o diferencia de outras manifestações cutâneas?",
+    "options": [
+      "C3 caracteriza-se por edema maleolar progressivo secundário à insuficiência venosa",
+      "C4c caracteriza-se por corona phlebectatica (veias intradérmicas em maleolar medial)",
+      "C4b caracteriza-se por lipodermatosclerose ou atrofia branca secundárias à hipertensão venosa crônica",
+      "C4a caracteriza-se por pigmentação cutânea (dermatite ocre) ou eczema venoso localizado",
+      "C5 caracteriza-se por úlcera venosa cicatrizada em região maleolar típica"
+    ],
+    "correctIndex": 2,
+    "explanation": "CEAP C4b caracteriza-se especificamente por lipodermatosclerose (endurecimento e fibrose do tecido subcutâneo) ou atrofia branca (áreas esbranquiçadas atróficas da pele), representando alterações mais avançadas que C4a. A classificação C4 divide-se em três subcategorias: C4a (pigmentação/eczema), C4b (lipodermatosclerose/atrofia branca) e C4c (corona phlebectatica). Estas alterações resultam de hipertensão venosa ambulatorial prolongada com alterações inflamatórias e fibrose progressiva do tecido subcutâneo, precedendo o desenvolvimento de úlceras (C5 cicatrizada, C6 ativa).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual característica clínica dos sintomas de varizes auxilia no diagnóstico diferencial?",
+    "options": [
+      "Sintomas são exacerbados em temperaturas baixas e aliviam com calor",
+      "Sintomas são mais presentes no decorrer do dia e exacerbados em temperaturas elevadas",
+      "Sintomas são constantes durante todo o dia independente da posição corporal",
+      "Sintomas são mais intensos pela manhã e melhoram durante o dia",
+      "Sintomas são intermitentes sem relação com período do dia ou temperatura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os sintomas de insuficiência venosa crônica apresentam padrão característico: são mais presentes no decorrer do dia (piorando progressivamente) e exacerbados em temperaturas elevadas. Esta característica temporal relaciona-se com a posição ortostática prolongada e acúmulo de sangue nos membros inferiores por ação gravitacional. Adicionalmente, a ação hormonal influencia nos sintomas (período pré-menstrual, uso de anticoncepcionais orais, terapia de reposição hormonal). O exame físico deve ser realizado em ortostatismo para avaliar tipo, severidade e extensão de varizes, presença de perfurantes insuficientes, corona flebectásica, edema maleolar e alterações tróficas da pele.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal vantagem da ecografia com Doppler no diagnóstico de insuficiência venosa crônica?",
+    "options": [
+      "Permite avaliação anatômica e funcional do sistema venoso, é de fácil acesso, sem contraindicação e permite planejamento individualizado",
+      "Proporciona imagem detalhada apenas do sistema venoso profundo, sendo método padrão para trombose venosa",
+      "Oferece visualização invasiva do sistema venoso, com contraste venoso, ideal para casos complexos recorrentes",
+      "Possibilita avaliação exclusivamente anatômica do sistema venoso, com custo acessível e boa disponibilidade",
+      "Garante avaliação funcional isolada do sistema venoso, sem visualização anatômica mas com alta sensibilidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "A ecografia com Doppler representa o método diagnóstico ideal para insuficiência venosa crônica por permitir avaliação tanto anatômica quanto funcional do sistema venoso superficial e profundo, ser de fácil acesso, não apresentar contraindicações, e possibilitar planejamento e abordagem individualizada de tratamento. É indispensável em procedimentos ecoguiados. Em contraste, a flebografia tem indicações específicas (obesos, recidiva, malformações congênitas) mas apresenta desvantagens significativas: risco de anafilaxia, alterações renais pelo contraste, oferece somente avaliação anatômica e possui custo elevado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo de ação do tratamento compressivo na insuficiência venosa crônica?",
+    "options": [
+      "Comprime veias superficiais permanentemente, induz fibrose venosa, elimina refluxo valvular definitivamente",
+      "Reduz calibre venoso mecanicamente, bloqueia fluxo sanguíneo retrógrado, previne dilatação venosa futura",
+      "Estimula contração muscular reflexa, aumenta retorno venoso passivo, dissolve trombos venosos superficiais",
+      "Aumenta a pressão arterial local, melhora perfusão tecidual, reduz formação de novos vasos colaterais",
+      "Melhora a bomba muscular da panturrilha, diminui a pressão venosa ambulatorial, reduz o edema e a inflamação"
+    ],
+    "correctIndex": 4,
+    "explanation": "O tratamento compressivo é considerado o padrão para tratamento conservador da insuficiência venosa crônica, atuando através de múltiplos mecanismos: melhora a eficiência da bomba muscular da panturrilha, diminui a pressão venosa ambulatorial (PVA), reduz o edema e diminui a inflamação local. A compressão pneumática intermitente representa modalidade adicional. O tratamento conservador completo inclui ainda: orientações gerais (evitar ortostatismo prolongado, atividade física regular) e tratamento farmacológico com drogas venoativas (melhoram sintomas, reduzem edema maleolar, auxiliam na cicatrização de feridas).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a técnica cirúrgica clássica para tratamento de varizes de safena magna?",
+    "options": [
+      "ASVAL com flebectomias seletivas preservando tronco safênico incompetente e ressecando apenas tributárias varicosas",
+      "Termoablação por radiofrequência (RFA) com cateter ablativo atuando em segmentos sequenciais de 7 cm",
+      "Termoablação por laser (EVLA) com fibra óptica endovenosa destruindo endotélio por energia térmica cefalocaudal",
+      "CHIVA (descrita em 1988) com desconexão de shunts venovenosos e interrupção estratégica de JSF e perfurantes",
+      "Safenectomia convencional com ligadura de crossa e stripping até coxa, complementada por microincisões com ganchos para ressecção de colaterais"
+    ],
+    "correctIndex": 4,
+    "explanation": "A safenectomia convencional representa a técnica cirúrgica clássica, consistindo em ligadura de crossa e stripping até coxa com fleboextrator metálico ou descartável. As grandes incisões deram lugar às microincisões para ressecção de colaterais através do uso de ganchos (agulhas de crochê). Outras técnicas incluem: CHIVA (1988) que desconecta shunts e interrompe JSF e perfurantes; ASVAL que preserva safena incompetente realizando apenas flebectomias de tributárias; técnicas de termoablação (EVLA com laser e RFA com ablação por segmentos de 7 cm) com maior eficácia e menor complicação; e técnicas de ablação não térmica (escleroterapia com espuma, MOCA com rotação 3500rpm, cianoacrilato).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual característica diferencia a técnica RFA (radiofrequência) no tratamento de varizes?",
+    "options": [
+      "Injeta espuma de polidocanol ecoguiada com técnica de Tessari para esclerose química do endotélio",
+      "Emprega fibra óptica que transmite laser monocromático destruindo endotélio por energia luminosa transformada em calor",
+      "Utiliza cateter que permite ablação da veia por segmentos de 7 cm através de energia térmica controlada",
+      "Utiliza N-butil cianoacrilato que sofre polimerização com formação de granuloma e fibrose oclusiva",
+      "Aplica cateter em rotação de 3500 rpm associado a esclerosante para lesão mecânica e química combinadas"
+    ],
+    "correctIndex": 2,
+    "explanation": "A RFA (radiofrequência) caracteriza-se especificamente por utilizar cateter que permite a ablação da veia por segmentos de 7 cm, diferindo no processo físico de produção de energia térmica em relação ao EVLA. O EVLA (endotermoablação a laser) introduz fibra óptica por punção guiada, emitindo luz monocromática que se transforma em energia térmica, causando destruição endotelial e retração da parede venosa. Técnicas de ablação não térmica incluem: escleroterapia com espuma (técnica Tessari, recanalizações em veias >5-7mm), MOCA (mecânico-químico, rotação 3500rpm + esclerosante), e cianoacrilato (polimerização, granuloma, fibrose). Termoablações apresentam maior eficácia e menor complicação comparadas à cirurgia convencional.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal limitação da escleroterapia com espuma de polidocanol ecoguiada (USFS)?",
+    "options": [
+      "Requer anestesia geral obrigatória para aplicação adequada da espuma esclerosante por via endovenosa",
+      "Impossibilidade de realizar o procedimento em ambiente ambulatorial, necessitando sempre centro cirúrgico equipado",
+      "Causa dor intensa e prolongada durante aplicação, limitando aceitação pelos pacientes mesmo com analgesia",
+      "Alta incidência de recanalizações em veias maiores que 5-7 mm, limitando aplicação em veias de maior calibre",
+      "Apresenta taxa de complicações tromboembólicas significativamente maior que outras técnicas endovenosas modernas"
+    ],
+    "correctIndex": 3,
+    "explanation": "A escleroterapia com espuma de polidocanol ecoguiada (USFS), realizada pela técnica de Tessari, apresenta como principal limitação a alta incidência de recanalizações em veias maiores que 5-7 mm de diâmetro. Esta técnica de ablação não térmica utiliza espuma de polidocanol injetada sob orientação ultrassonográfica. Outras técnicas de ablação não térmica incluem: MOCA (método mecânico-químico com cateter em rotação de 3500 rpm associado a polidocanol ou sulfato de sódio tetradecil, causando lesão mecânica e espasmo que leva a maior penetração do esclerosante) e cianoacrilato (N-butil cianoacrilato que sofre polimerização em contato com sangue, desencadeando resposta inflamatória com formação de granuloma de corpo estranho, fibrose e oclusão vascular).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual conselho para prevenção de varizes relaciona-se especificamente ao repouso?",
+    "options": [
+      "Exercitar as pernas em todas as circunstâncias possíveis durante atividades diárias",
+      "Procurar um esporte mais adequado às necessidades individuais e praticar regularmente",
+      "Evitar longos períodos na mesma posição seja sentado ou em pé durante o trabalho",
+      "Usar vestuário adequado incluindo meias elásticas sempre sob supervisão médica especializada",
+      "Facilitar o retorno venoso ao repouso elevando as pernas 10-15 cm acima do nível do coração"
+    ],
+    "correctIndex": 4,
+    "explanation": "Entre os 10 conselhos para prevenção de varizes, facilitar o retorno venoso ao repouso através da elevação das pernas 10-15 cm representa medida específica relacionada ao repouso. Os fatores de risco dividem-se em modificáveis e não modificáveis. Não modificáveis incluem idade, gênero e hereditariedade (85% dos filhos se ambos progenitores varicosos). Os modificáveis, quando bem gerenciados, ajudam a retardar aparecimento e evolução para complicações. Outros conselhos incluem: exercitar pernas, praticar esporte adequado, evitar lugares quentes, evitar longos períodos na mesma posição, prevenir constipação e excesso de peso através de dieta, usar vestuário adequado com meias elásticas sob supervisão, não fumar, reconhecer situações que agravam problemas venosos e massagear as pernas frequentemente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual fator de risco para insuficiência venosa crônica está relacionado especificamente à ocupação profissional?",
+    "options": [
+      "Ortostatismo prolongado em profissões que exigem permanecer em pé por longos períodos durante o trabalho",
+      "Idade avançada como fator progressivo e inevitável aumentando prevalência com envelhecimento populacional",
+      "Hereditariedade com padrão autossômico dominante ligado ao sexo e penetrância incompleta variável",
+      "Sedentarismo como fator independente agravante da progressão da doença venosa crônica estabelecida",
+      "Gestação e hormônios femininos influenciando a parede venosa e função valvular durante período reprodutivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "O ortostatismo prolongado relacionado à profissão representa fator de risco ocupacional específico para insuficiência venosa crônica, afetando trabalhadores que permanecem em pé por longos períodos (professores, cirurgiões, cabeleireiros, vendedores). Os fatores de risco podem ser desencadeantes ou agravantes: idade (aumenta com envelhecimento), etnia (branca, países ocidentais desenvolvidos), gênero (prevalência em mulheres), gestação e hormônios femininos, sedentarismo (fator independente agravante), e hereditariedade (autossômica dominante ou recessiva, mais provável dominante ligada ao sexo com penetrância incompleta, 85% dos filhos se ambos progenitores varicosos, genes FOXC2 e mutação Notch3). Outros fatores incluem constipação, hábito de sentar, roupas apertadas e pés planos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual foi a contribuição histórica de Paulo Aegineta (600 dC) para o tratamento de varizes?",
+    "options": [
+      "Primeira documentação da relação entre repouso e melhora dos sintomas de varizes em membros inferiores",
+      "Primeira descrição do uso de esclerose química para tratamento de veias varicosas dilatadas",
+      "Primeira cirurgia de varizes documentada com ligadura e ressecção venosa descrita em Roma",
+      "Primeira descrição da flebectomia como técnica cirúrgica para remoção de veias varicosas na Ásia Menor",
+      "Primeira ligadura de veia safena magna na coxa e primeira marcação pré-operatória de varizes em Alexandria"
+    ],
+    "correctIndex": 4,
+    "explanation": "Paulo Aegineta, em Alexandria no ano 600 dC, realizou duas contribuições importantes: a primeira ligadura de veia safena magna na coxa e a primeira marcação pré-operatória de varizes. Outras contribuições históricas importantes incluem: Papiro de Ebers (1550 aC) com primeira descrição de varizes como dilatações serpentiformes; Hipócrates (460-370 aC) descreveu que repouso fazia bem às varizes, não era bom ficar em pé com úlcera, e já tratou varizes com esclerose; Plutarco (105 aC) descreveu pela primeira vez a cirurgia de varizes em Roma; e Galeno, na Ásia Menor, descreveu a flebectomia. Estas contribuições históricas demonstram que varizes são reconhecidas e tratadas há milênios.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo a classificação CEAP 2020, o que caracteriza especificamente a categoria C4c?",
+    "options": [
+      "Pigmentação cutânea (dermatite ocre) caracterizada por deposição de hemossiderina em região perimaleolar",
+      "Atrofia branca caracterizada por áreas esbranquiçadas atróficas da pele em região maleolar lateral",
+      "Eczema venoso caracterizado por lesões pruriginosas descamativas em região de veias varicosas",
+      "Lipodermatosclerose caracterizada por endurecimento e fibrose do tecido subcutâneo em região maleolar",
+      "Corona phlebectatica caracterizada por veias intradérmicas em formato de coroa na região maleolar medial"
+    ],
+    "correctIndex": 4,
+    "explanation": "Na classificação CEAP 2020, C4c caracteriza-se especificamente por corona phlebectatica, que consiste em veias intradérmicas dispostas em formato de coroa, tipicamente na região maleolar medial. A categoria C4 subdivide-se em três: C4a (pigmentação cutânea ou dermatite ocre, e eczema venoso), C4b (lipodermatosclerose caracterizada por endurecimento e fibrose do tecido subcutâneo, ou atrofia branca caracterizada por áreas esbranquiçadas atróficas), e C4c (corona phlebectatica). Todas estas alterações representam mudanças na pele e tecido subcutâneo secundárias à doença venosa crônica, precedendo o desenvolvimento de úlceras (C5 cicatrizada, C6 ativa). A classificação completa CEAP inclui C (manifestações clínicas), E (etiologia), A (distribuição anatômica) e P (fisiopatologia).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a base fisiopatológica da técnica CHIVA descrita em 1988?",
+    "options": [
+      "Desconecta shunts venovenosos e interrompe estrategicamente segmentos venosos como junção safenofemoral e perfurantes insuficientes",
+      "Preserva o tronco safênico incompetente realizando exclusivamente flebectomias de veias tributárias varicosas por microincisões",
+      "Remove completamente o tronco da veia safena através de stripping com fleboextrator desde a crossa até o joelho",
+      "Oclui a veia safena através de laser endovenoso aplicado de forma cefalocaudal transformando energia luminosa em térmica",
+      "Destrói endotélio venoso por energia térmica aplicada através de cateter de radiofrequência em segmentos de 7 cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "CHIVA (Tratamento Conservador e Hemodinâmico da Insuficiência Venosa Crônica em Ambulatório), descrita em 1988, baseia-se na desconexão de shunts venovenosos e interrupção estratégica de segmentos venosos específicos como junção safenofemoral (JSF) e perfurantes insuficientes. Outras técnicas cirúrgicas incluem: safenectomia convencional (ligadura de crossa e stripping até coxa com microincisões para colaterais usando ganchos); ASVAL (flebectomias com preservação de safena incompetente, ressecando apenas tributárias); termoablação por RFA (cateter ablação por segmentos de 7cm) ou EVLA (fibra óptica com laser, energia térmica, destruição endotelial), ambas com maior eficácia e menor complicação; e ablação não térmica (escleroterapia espuma, MOCA com rotação 3500rpm, cianoacrilato).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo de ação do cianoacrilato na ablação venosa?",
+    "options": [
+      "Energia térmica por radiofrequência causa destruição endotelial controlada através de cateter aplicado em segmentos sequenciais de 7 cm de extensão",
+      "Cateter rotativo a 3500 rpm causa lesão mecânica associada a esclerosante químico, levando a espasmo e maior penetração do agente ablativo",
+      "Laser monocromático transmitido por fibra óptica se transforma em energia térmica causando destruição endotelial e retração da parede venosa",
+      "Polidocanol em forma de espuma causa lesão química do endotélio através da técnica de Tessari, com recanalizações frequentes em veias maiores que 5-7mm",
+      "N-butil cianoacrilato sofre polimerização em contato com sangue, desencadeia resposta inflamatória com formação de granuloma de corpo estranho, fibrose e oclusão vascular"
+    ],
+    "correctIndex": 4,
+    "explanation": "A venoablação com cola de cianoacrilato funciona através do seguinte mecanismo: o N-butil cianoacrilato sofre polimerização em contato com o sangue e desencadeia uma resposta inflamatória com formação de granuloma de corpo estranho, fibrose e subsequente oclusão vascular. Esta técnica representa método de ablação não térmica. Outras técnicas de ablação não térmica incluem: escleroterapia com espuma de polidocanol ecoguiada (USFS) utilizando técnica de Tessari, com limitação de alta incidência de recanalizações em veias maiores que 5-7mm; e MOCA (método mecânico-químico) com cateter em rotação de 3500 rpm associado a esclerosante, causando lesão mecânica e espasmo que leva a maior penetração do agente. Técnicas térmicas incluem RFA (segmentos de 7cm) e EVLA (laser com fibra óptica).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente feminina, 45 anos, professora há 20 anos, com mãe e avó maternas com histórico de varizes, apresenta veias varicosas em membros inferiores há 8 anos com piora progressiva. Refere dor em peso e queimação que pioram ao final do dia e no verão. Exame: veias varicosas tortuosas em território de safena magna bilateral, edema maleolar discreto ao final do dia, ausência de alterações cutâneas. Quantos fatores de risco modificáveis e não modificáveis estão presentes?",
+    "options": [
+      "4 fatores de risco não modificáveis (idade, gênero, hereditariedade materna bilateral, evolução crônica) e 1 fator modificável (ortostatismo profissional prolongado)",
+      "5 fatores de risco não modificáveis (idade, gênero, hereditariedade materna, hereditariedade avó, cronicidade) e nenhum fator modificável",
+      "2 fatores de risco não modificáveis (gênero feminino, história familiar) e 2 fatores modificáveis (profissão em pé, tempo de doença)",
+      "2 fatores de risco não modificáveis (gênero, hereditariedade) e 3 fatores modificáveis (idade, profissão, tempo de evolução)",
+      "3 fatores de risco não modificáveis (idade, gênero, hereditariedade) e 2 fatores modificáveis (ortostatismo profissional, sedentarismo implícito)"
+    ],
+    "correctIndex": 0,
+    "explanation": "A paciente apresenta 4 fatores de risco não modificáveis: idade (45 anos, doença aumenta com idade), gênero feminino (maioria dos estudos confirma prevalência em mulheres), hereditariedade materna bilateral (mãe e avó maternas varicosas - se ambos progenitores varicosos, 85% dos filhos desenvolvem doença, genes FOXC2 e mutação Notch3), e evolução crônica de 8 anos. Apresenta 1 fator de risco modificável: ortostatismo profissional prolongado (professora há 20 anos). Os sintomas característicos (piora ao final do dia, exacerbação no verão) e achados clínicos (varizes território safena magna, edema maleolar) classificam como CEAP C3 (presença de edema além das varizes). Medidas preventivas aplicáveis incluem: atividade física, evitar ortostatismo prolongado, uso de meias elásticas, elevar pernas 10-15cm ao repouso.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem, 52 anos, segurança há 25 anos, IMC 32 kg/m², sedentário, pai com varizes, apresenta veias varicosas há 10 anos. Exame: varizes em território de safenas magna e parva bilateralmente, edema maleolar importante, hiperpigmentação cutânea perimalerolar bilateral e pequena área de atrofia branca em maléolo medial direito. Ausência de úlcera ativa ou cicatrizada. Qual a classificação CEAP mais adequada e qual a implicação prognóstica?",
+    "options": [
+      "C2 pela presença de veias varicosas como achado principal, indicando estágio inicial com baixo risco de progressão para complicações",
+      "C3 pela presença de edema maleolar importante como manifestação predominante, indicando necessidade apenas de tratamento conservador compressivo",
+      "C5 pela presença de atrofia branca considerada equivalente a úlcera cicatrizada, indicando doença avançada necessitando intervenção urgente",
+      "C4b pela presença de lipodermatosclerose ou atrofia branca, indicando alto risco de progressão para úlcera venosa (C5/C6) sem tratamento adequado",
+      "C4a pela presença de pigmentação cutânea exclusivamente, indicando estágio intermediário com risco moderado de complicações futuras"
+    ],
+    "correctIndex": 3,
+    "explanation": "O paciente apresenta classificação CEAP C4b devido à presença de lipodermatosclerose e/ou atrofia branca (área de atrofia branca em maléolo medial direito), que representa alteração mais avançada que a pigmentação cutânea (C4a). A categoria C4 subdivide-se em: C4a (pigmentação/eczema), C4b (lipodermatosclerose/atrofia branca), C4c (corona phlebectatica). A presença de C4b indica alto risco de progressão para úlcera venosa (C5 cicatrizada ou C6 ativa) sem tratamento adequado. Fatores de risco presentes: idade (aumenta com idade), gênero masculino (prevalência menor mas presente), hereditariedade (pai varicoso), ortostatismo profissional (segurança 25 anos), sedentarismo (fator independente agravante), obesidade (IMC 32). Tratamento deve ser ativo (cirúrgico/endovascular) associado a medidas conservadoras (compressão, venoativos, atividade física, controle peso).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente feminina, 38 anos, nuligesta, uso de anticoncepcional oral há 15 anos, apresenta telangiectasias e veias reticulares em coxas e pernas bilateralmente. Refere sensação de peso nas pernas ao final do dia que melhora com repouso. Exame: ausência de veias varicosas tronculares, ausência de edema, ausência de alterações cutâneas. Doppler venoso: refluxo em safena magna bilateral <0,5 segundos, sistema venoso profundo competente. Qual a conduta mais adequada?",
+    "options": [
+      "Termoablação por radiofrequência (RFA) ou laser (EVLA) bilateral urgente para prevenir progressão para estágios avançados da doença venosa",
+      "Safenectomia convencional bilateral com ligadura de crossa e stripping até joelho pela presença de refluxo em safena magna documentado ao Doppler",
+      "Escleroterapia com espuma de polidocanol ecoguiada em safena magna bilateralmente associada a tratamento de telangiectasias em mesmo procedimento",
+      "Tratamento conservador com orientações gerais (evitar ortostatismo prolongado, atividade física, elevação de membros), venoativos para sintomas, considerar tratamento estético de telangiectasias",
+      "Técnica CHIVA bilateral com desconexão de shunts e interrupção estratégica de junção safenofemoral para correção do refluxo documentado"
+    ],
+    "correctIndex": 3,
+    "explanation": "A paciente apresenta classificação CEAP C1 (telangiectasias ou veias reticulares) sem veias varicosas tronculares (C2), edema (C3) ou alterações cutâneas (C4). O refluxo em safena magna <0,5 segundos é considerado fisiológico (refluxo patológico geralmente >0,5-1 segundo). A conduta adequada para C1 é tratamento conservador: orientações gerais (evitar ortostatismo prolongado, praticar atividade física regular, elevar membros 10-15cm ao repouso, evitar temperaturas elevadas), tratamento farmacológico com venoativos para melhora de sintomas, e pode-se considerar tratamento estético de telangiectasias. Fatores de risco presentes incluem: gênero feminino (prevalência aumentada), hormônios (anticoncepcional oral há 15 anos - ação hormonal influencia sintomas), e sintomas característicos (piora ao final do dia melhorando com repouso). Procedimentos cirúrgicos ou endovasculares não estão indicados neste estágio inicial sem insuficiência venosa documentada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente, 60 anos, com úlcera ativa em maléolo medial esquerdo há 3 meses, precedida por histórico de varizes há 20 anos não tratadas. Exame: úlcera 4x3 cm em maléolo medial, edema importante, lipodermatosclerose circunferencial em terço distal da perna, pigmentação extensa, varizes tronculares em território de safena magna. Doppler: refluxo em safena magna e perfurantes mediais. Índice tornozelo-braquial (ITB) 0,95. Qual a estratégia terapêutica mais adequada?",
+    "options": [
+      "Técnica CHIVA urgente desconectando shunts e interrompendo perfurantes durante fase aguda para acelerar processo de cicatrização ulcerosa",
+      "Apenas tratamento conservador definitivo com compressão permanente, venoativos e curativos sem indicação de correção cirúrgica pela idade avançada",
+      "Termoablação por laser (EVLA) imediata da safena magna com úlcera ativa associada a escleroterapia de perfurantes em mesmo procedimento",
+      "Tratamento compressivo intensivo para cicatrização de úlcera, seguido de correção da insuficiência venosa (cirúrgica ou endovascular) após cicatrização para prevenir recorrência",
+      "Safenectomia convencional imediata com úlcera ativa para corrigir causa da hipertensão venosa e permitir cicatrização mais rápida da lesão"
+    ],
+    "correctIndex": 3,
+    "explanation": "O paciente apresenta CEAP C6 (úlcera venosa ativa) com múltiplos fatores perpetuadores: refluxo em safena magna e perfurantes mediais, edema importante, lipodermatosclerose (C4b), história prolongada não tratada. ITB 0,95 descarta doença arterial significativa (normal >0,9), confirmando etiologia venosa. A estratégia adequada é bifásica: primeiro, tratamento compressivo intensivo (padrão para tratamento conservador) associado a venoativos e cuidados locais para promover cicatrização da úlcera; segundo, após cicatrização completa (transformando C6 em C5), realizar correção definitiva da insuficiência venosa (cirúrgica convencional, termoablação, ou CHIVA) para prevenir recorrência (C6r). Realizar procedimento invasivo com úlcera ativa aumenta risco de infecção e complicações. A compressão melhora bomba muscular, diminui PVA/edema/inflamação, auxiliando cicatrização. Sem correção da causa (refluxo), taxa de recorrência é muito alta.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente feminina, 42 anos, secretária, apresenta varizes em membro inferior direito. Doppler: safena magna diâmetro 8mm com refluxo >2 segundos, 3 perfurantes insuficientes em perna medial, sistema profundo competente. Deseja tratamento minimamente invasivo. Considerando técnicas endovasculares disponíveis, qual apresenta melhor relação eficácia/complicação e qual apresenta limitação para este caso?",
+    "options": [
+      "Escleroterapia com espuma é mais eficaz por ser não térmica; termoablação tem limitação por necessitar anestesia geral obrigatória para aplicação adequada",
+      "Termoablação (EVLA ou RFA) apresenta maior eficácia e menor complicação; escleroterapia com espuma tem limitação por alta recanalizações em veias >5-7mm neste caso de safena 8mm",
+      "RFA é mais eficaz por aplicação em segmentos de 7cm; EVLA tem limitação por necessitar múltiplas punções para tratar safena de 8mm adequadamente",
+      "MOCA apresenta maior eficácia por combinar lesão mecânica e química; cianoacrilato tem limitação por causar dor intensa durante aplicação nesta faixa etária",
+      "Cianoacrilato é mais eficaz por não necessitar anestesia; termoablação tem limitação por risco aumentado de lesão nervosa em safenas de calibre maior"
+    ],
+    "correctIndex": 1,
+    "explanation": "As técnicas de termoablação (EVLA - laser endovenoso e RFA - radiofrequência) foram introduzidas nas últimas décadas apresentando maior eficácia e menor complicação comparadas à cirurgia convencional. Ambas causam destruição térmica do endotélio e consequente oclusão da veia, preservando tecidos vizinhos, diferindo no processo físico de produção de energia térmica. RFA utiliza cateter com ablação por segmentos de 7cm; EVLA utiliza fibra óptica transmitindo laser que transforma energia luminosa em térmica. Para ablação não térmica, a escleroterapia com espuma de polidocanol ecoguiada (USFS, técnica Tessari) apresenta limitação específica: alta incidência de recanalizações em veias maiores que 5-7mm, o que limita sua aplicação neste caso de safena com 8mm de diâmetro. Outras técnicas não térmicas incluem MOCA (cateter 3500rpm + esclerosante, lesão mecânica e química) e cianoacrilato (polimerização, granuloma, fibrose). Todas são minimamente invasivas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente masculino, 55 anos, motorista de caminhão, tabagista, IMC 35 kg/m², apresenta varizes recorrentes 5 anos após safenectomia convencional bilateral. Doppler atual: refluxo em safena parva bilateral, refluxo em safena magna residual (não removida previamente), múltiplas perfurantes insuficientes. Deseja investigação complementar antes de nova intervenção. Qual exame está indicado e por quê?",
+    "options": [
+      "Pletismografia venosa indicada para quantificar grau de refluxo e hipertensão venosa ambulatorial como parâmetros objetivos para planejamento terapêutico",
+      "Repetição de Doppler venoso colorido suficiente por permitir avaliação anatômica e funcional completa, sem necessidade de exame invasivo adicional neste caso",
+      "Flebografia indicada por ser caso de recidiva complexa, permitindo avaliação anatômica detalhada de veias residuais, perfurantes e possíveis malformações não identificadas ao Doppler",
+      "Angiotomografia computadorizada venosa indicada para avaliar sistema venoso profundo e descartar trombose venosa profunda antiga não diagnosticada previamente",
+      "Ressonância magnética venosa indicada por ser padrão-ouro em casos de recidiva complexa, permitindo reconstrução tridimensional do sistema venoso completo"
+    ],
+    "correctIndex": 2,
+    "explanation": "A flebografia está especificamente indicada em casos excepcionais de recidiva de varizes (como este caso 5 anos pós-cirurgia), em obesos (IMC 35), para diagnóstico diferencial de malformações congênitas, e em casos de varizes difusas. Este paciente apresenta múltiplas indicações: recidiva complexa com múltiplos pontos de refluxo (safena parva bilateral, safena magna residual, múltiplas perfurantes), obesidade (IMC 35), e necessidade de planejamento detalhado pré-reintervenção. Desvantagens da flebografia incluem: risco de anafilaxia, alterações renais pelo contraste, oferece somente avaliação anatômica (não funcional), e custo elevado. A ecografia/Doppler é o método diagnóstico de escolha na maioria dos casos por permitir avaliação anatômica e funcional, ser de fácil acesso, sem contraindicação, e possibilitar planejamento individualizado, mas em casos complexos de recidiva a flebografia pode adicionar informações anatômicas não visualizadas ao ultrassom.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente feminina, 50 anos, com varizes CEAP C2 sintomáticas, IMC 28 kg/m², sedentária, trabalha 10h/dia em pé. Doppler: safena magna incompetente bilateral, diâmetro 6mm, refluxo >1,5 segundos. Recusa procedimentos invasivos no momento. Qual a melhor estratégia conservadora considerando os múltiplos componentes do tratamento?",
+    "options": [
+      "Compressão pneumática intermitente domiciliar diária como alternativa à meia elástica, sem necessidade de venoativos ou modificação de fatores de risco",
+      "Apenas tratamento farmacológico com venoativos em dose máxima para melhorar sintomas, considerando que compressão não é tolerada em ambiente de trabalho",
+      "Escleroterapia de telangiectasias associada exclusivamente sem outras medidas, aguardando piora clínica para indicar tratamento mais agressivo de troncos",
+      "Apenas orientações gerais de atividade física e elevação de membros, evitando tratamento compressivo que pode causar dependência e atrofia da bomba muscular",
+      "Tratamento compressivo (padrão conservador) melhorando bomba muscular e diminuindo PVA/edema/inflamação, venoativos para sintomas/edema/cicatrização, orientações gerais (atividade física, evitar ortostatismo, controle peso, elevar pernas 10-15cm)"
+    ],
+    "correctIndex": 4,
+    "explanation": "O tratamento conservador completo para insuficiência venosa crônica sintomática (CEAP C2) deve incluir três componentes integrados. Primeiro, tratamento compressivo considerado padrão para tratamento conservador: melhora bomba muscular da panturrilha, diminui pressão venosa ambulatorial (PVA), reduz edema e inflamação; compressão pneumática intermitente é alternativa complementar. Segundo, tratamento farmacológico: drogas venoativas melhoram sintomas de varizes, promovem redução de edema maleolar e são coadjuvantes na cicatrização de feridas. Terceiro, orientações gerais modificando fatores de risco: evitar ortostatismo prolongado (fundamental nesta paciente com trabalho 10h em pé), atividade física regular (sedentarismo é fator independente agravante), controle de peso (IMC 28, sobrepeso), elevar pernas 10-15cm ao repouso facilitando retorno venoso. Esta abordagem multimodal é essencial mesmo quando paciente recusa procedimentos invasivos, podendo controlar sintomas e retardar progressão da doença.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual técnica cirúrgica se baseia no princípio hemodinâmico de desconexão seletiva de pontos de refluxo preservando drenagem venosa?",
+    "options": [
+      "Termoablação (EVLA/RFA) oclui tronco safênico por destruição térmica do endotélio preservando tecidos adjacentes mas eliminando função de drenagem",
+      "CHIVA (1988) desconecta shunts venovenosos e interrompe estrategicamente segmentos como JSF e perfurantes, mantendo drenagem venosa superficial funcional quando possível",
+      "Safenectomia convencional remove tronco safênico por stripping após ligadura de crossa, complementada por ressecção de colaterais através de microincisões",
+      "ASVAL realiza flebectomias seletivas preservando tronco safênico incompetente, removendo apenas tributárias varicosas por microincisões sob anestesia local ambulatorial",
+      "Escleroterapia com espuma oclui quimicamente segmentos venosos selecionados através de polidocanol ecoguiado pela técnica de Tessari modificada"
+    ],
+    "correctIndex": 1,
+    "explanation": "CHIVA (Tratamento Conservador e Hemodinâmico da Insuficiência Venosa Crônica em Ambulatório), descrita em 1988, fundamenta-se no princípio hemodinâmico de desconectar seletivamente shunts venovenosos e interromper estrategicamente segmentos venosos específicos como junção safenofemoral (JSF) e perfurantes insuficientes, mas preservando quando possível a drenagem venosa superficial funcional. Diferencia-se de outras técnicas: safenectomia convencional remove completamente o tronco safênico (ligadura crossa + stripping até coxa/joelho + microincisões para colaterais); ASVAL preserva safena incompetente mas realiza flebectomias de tributárias varicosas; termoablação (EVLA com laser ou RFA por segmentos de 7cm) oclui tronco safênico por destruição térmica endotelial preservando tecidos adjacentes mas eliminando função venosa; ablação não térmica (escleroterapia espuma, MOCA rotação 3500rpm, cianoacrilato) também oclui veias tratadas. CHIVA busca correção hemodinâmica mantendo drenagem venosa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com úlcera venosa recorrente (C6r) apresenta ao Doppler: refluxo em safena magna, refluxo em safena parva, múltiplas perfurantes insuficientes em perna medial e posterior, refluxo em veias gastrocnêmias. Sistema venoso profundo pérvioe competente. Qual abordagem terapêutica é mais abrangente para prevenir nova recorrência?",
+    "options": [
+      "Tratamento exclusivo de safena magna por ser tronco principal, aguardando resolução de outros refluxos secundários após correção do ponto de maior débito",
+      "Compressão elástica permanente e venoativos em dose máxima sem correção cirúrgica, considerando alto risco de nova recorrência mesmo após intervenções",
+      "CHIVA isolada interrompendo apenas junção safenofemoral estrategicamente, permitindo que hemodinâmica venosa remanescente se reorganize espontaneamente ao longo do tempo",
+      "Escleroterapia com espuma de todos os segmentos refluxivos simultaneamente em sessão única, aproveitando efeito sistêmico do esclerosante em múltiplos territórios",
+      "Abordagem combinada tratando múltiplos pontos de refluxo: safena magna (cirúrgico/endovascular), safena parva (cirúrgico/endovascular), perfurantes insuficientes (ligadura/esclerose), seguido de compressão e venoativos a longo prazo"
+    ],
+    "correctIndex": 4,
+    "explanation": "Úlcera venosa recorrente (C6r) com múltiplos pontos de refluxo documentados (safena magna, safena parva, múltiplas perfurantes, veias gastrocnêmias) indica doença venosa complexa necessitando abordagem terapêutica abrangente para prevenir nova recorrência. A estratégia deve incluir: tratamento de safena magna (opções: safenectomia convencional, termoablação RFA/EVLA, ou CHIVA dependendo da anatomia); tratamento de safena parva (mesmas opções técnicas); tratamento de perfurantes insuficientes (ligadura cirúrgica ou esclerose); seguido obrigatoriamente de tratamento conservador a longo prazo (compressão elástica permanente - padrão conservador que melhora bomba muscular, diminui PVA/edema/inflamação; venoativos - melhoram sintomas, reduzem edema, auxiliam cicatrização). Tratar apenas um segmento deixando outros pontos de refluxo aumenta significativamente risco de recorrência. Sistema venoso profundo pérvio e competente confirma doença restrita ao superficial, sendo passível de correção completa. A complexidade do caso justifica planejamento cirúrgico detalhado, possivelmente com auxílio de flebografia.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Considerando as teorias fisiopatológicas para surgimento de varizes, qual sequência de eventos leva às complicações tróficas cutâneas (C4/C5/C6)?",
+    "options": [
+      "Perfurantes insuficientes primárias → refluxo do sistema profundo para superficial → varizes tronculares → hipertensão venosa → úlcera",
+      "Microfístulas arteriovenosas → aumento de fluxo venoso → dilatação venosa progressiva → incompetência valvar → úlcera venosa",
+      "Dilatação venosa primária → distanciamento de cúspides valvares → incompetência valvar secundária → hipertensão venosa → úlcera venosa direta",
+      "Insuficiência valvar primária ou secundária → refluxo venoso → hipertensão venosa ambulatorial → alterações inflamatórias → alterações da microcirculação → úlcera venosa",
+      "Fraqueza de parede venosa congênita → dilatação venosa difusa → estase venosa → tromboflebite → alterações tróficas → úlcera"
+    ],
+    "correctIndex": 3,
+    "explanation": "A sequência fisiopatológica estabelecida que culmina em complicações tróficas (C4: alterações cutâneas, C5: úlcera cicatrizada, C6: úlcera ativa) é: insuficiência valvar (congênita ou adquirida) → refluxo venoso → hipertensão venosa ambulatorial → alterações inflamatórias → alterações da microcirculação → úlcera venosa. Várias teorias explicam o surgimento inicial: teoria da disfunção valvular primária (causa básica é incompetência valvular aumentando pressão distal); teoria da dilatação venosa primária (alterações de parede causam menor resistência, afastando cúspides por dilatação - alteração tônus, ativação endotelial); teoria das fístulas arteriovenosas (microfístulas causariam varizes, porém poucos estudos demonstram tal mecanismo); teoria das perfurantes (perfurantes insuficientes levam a varizes). Independente da teoria inicial, a via final comum é hipertensão venosa crônica levando a inflamação e alterações microcirculatórias progressivas que culminam em úlcera venosa quando não tratadas adequadamente.",
+    "type": "raciocínio"
+  }
+]

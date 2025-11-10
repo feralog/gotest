@@ -1,0 +1,470 @@
+[
+  {
+    "question": "Qual a definição correta de tireotoxicose e sua relação com o hipertireoidismo?",
+    "options": [
+      "Tireotoxicose e hipertireoidismo são termos sinônimos e intercambiáveis para qualquer doença tireoidiana",
+      "Tireotoxicose é síndrome clínica causada por excesso circulante de hormônios tireoidianos, e todo hipertireoidismo é uma tireotoxicose, mas nem toda tireotoxicose é hipertireoidismo",
+      "Tireotoxicose é um tipo específico de hipertireoidismo causado exclusivamente por tumores secretores de TSH",
+      "Tireotoxicose descreve uma deficiência dos hormônios tireoidianos circulantes com sintomas clínicos de hipotireoidismo",
+      "Hipertireoidismo ocorre sempre por ingestão excessiva de hormônios tireoidianos e não está relacionado a tireotoxicose"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tireotoxicose é uma síndrome clínica decorrente do EXCESSO de hormônios tireoidianos circulantes, independentemente da origem. Todo HIPERTIREOIDISMO (produção/excreção aumentada pela tireoide) causa tireotoxicose, mas nem toda tireotoxicose ocorre por hipertireoidismo (ex: tireotoxicose factícia por ingestão). É importante esse conceito para diagnóstico e manejo adequados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais os dois principais tipos celulares da glândula tireoide e suas funções?",
+    "options": [
+      "Células foliculares que produzem T3 e T4, e células parafoliculares (células C) que produzem calcitonina",
+      "Células endoteliais que produzem tiroglobulina e células foliculares que produzem calcitonina",
+      "Células foliculares que produzem calcitonina e células parafoliculares que produzem T3 e T4",
+      "Células epiteliais que formam o istmo da tireoide e células mesenquimais que secretam TSH",
+      "Células parafoliculares que sintetizam hormônios tireoidianos e células foliculares que produzem hormona paratireóidea"
+    ],
+    "correctIndex": 0,
+    "explanation": "A glândula tireoide é composta por dois tipos celulares principais: CÉLULAS FOLICULARES que produzem os hormônios tireoidianos TRI-iodotironina (T3) e TETRA-iodotironina (T4) e CÉLULAS PARAFOLICULARES ou células C que produzem CALCITONINA, hormônio envolvido no metabolismo do cálcio. Essas funções são básicas para o entendimento da fisiologia tireoidiana.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a diferença entre o tireotoxicose primária e secundária com hipertireoidismo?",
+    "options": [
+      "Primária: produção excessiva dos hormônios pela tireoide (↑T4/T3 com ↓TSH); secundária: estimulação elevada da tireoide por TSH hipofisário (↑TSH e ↑T4/T3)",
+      "Primária: produção de calcitonina por células parafoliculares; secundária: produção excessiva de TSH por tumor hipofisário não secretor",
+      "Primária: aumento somente da fração livre de T3; secundária: aumento isolado da T4 total sem alterações do TSH",
+      "Primária: hipofunção da tireoide idiopática; secundária: resistência da hipófise ao hormônio liberador de tireotropina (TRH)",
+      "Primária: ingestão exógena de hormônios; secundária: destruição autoimune das células foliculares tireoidianas"
+    ],
+    "correctIndex": 0,
+    "explanation": "No hipertireoidismo PRIMÁRIO ocorre produção excessiva de hormônios tireoidianos pela própia tireoide, o que causa redução dos níveis de TSH por feedback negativo (↓TSH, ↑T4/T3). No hipertireoidismo SECUNDÁRIO, há estimulação excessiva pela hipófise por tumor secretor de TSH, que aumenta TSH e consequentemente a produção tireoidiana (↑TSH e ↑T4/T3). Essa distinção é fundamental para diagnóstico diferencial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais causas de tireotoxicose SEM hipertireoidismo?",
+    "options": [
+      "Tireoidite subaguda, tireoidite pós-parto/silenciosa, tireotoxicose factícia, struma ovarii, metástase funcionante de carcinoma folicular",
+      "Hipotireoidismo primário crônico, tireoidite de Hashimoto, deficiência de iodo",
+      "Doença de Graves, bócio multinodular tóxico, adenoma tóxico, excessos iatrogênicos de hormônios",
+      "Cretinismo congênito, defeitos na organificação do iodo, lesão mediastinal por irradiodoterapia",
+      "Hipertireoidismo hipofisário, resistência ao hormônio tireoidiano, produção ectópica de TSH"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tireotoxicose SEM hipertireoidismo ocorre devido ao excesso de hormônios tireoidianos circulantes sem aumento da produção pela tireoide, geralmente por LIBERAÇÃO passiva das hormonas a partir de destruição da tireoide ou tecido ectópico. Exemplos: TIREOIDITE subaguda (De Quervain), tireoidite pós-parto/silenciosa (autoimune sem dor), tireotoxicose FACTÍCIA (ingestão exógena), STRUMA OVARII (teratoma com tecido tireoidiano), metástases funcionantes de carcinoma folicular. É importante para diagnóstico diferencial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal causa de hipertireoidismo primário e suas características imunológicas?",
+    "options": [
+      "Bócio multinodular tóxico: neoplasia folicular com múltiplos nódulos autônomos, sem envolvimento imunológico direto",
+      "Doença de Graves: autoimune, com produção de anticorpos estimulantes do receptor de TSH (TRAb) que causam hipersecreção hormonal e bócio difuso",
+      "Adenoma tóxico (Doença de Plummer): mutação somática receptor TSH, nódulo benigno hipersecretor, sem produção de autoanticorpos específicos",
+      "Tireoidite de Hashimoto: inflamação crônica autoimune com destruição da tireoide e hipotireoidismo progressivo",
+      "Tireotoxicose factícia: ingestão exógena de hormônios, sem envolvimento da hipófise ou sistema imune"
+    ],
+    "correctIndex": 1,
+    "explanation": "A DOENÇA DE GRAVES é a principal causa de hipertireoidismo primário, sendo autoimune. Ocorre perda da tolerância imunológica com produção de anticorpos estimulantes do receptor de TSH: TRAb (Thyroid Stimulating Antibodies), que ativam permanentemente o receptor, promovendo secreção excessiva de T3 e T4 e crescimento difuso da tireoide (bócio). Tem predileção por mulheres jovens e associação com outras doenças autoimunes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o papel das tionamidas no tratamento do hipertireoidismo e quais as duas principais medicações utilizadas?",
+    "options": [
+      "Estimular resposta imune contra células foliculares por mecanismos citotóxicos; principais: interferon alfa e anticorpos monoclonais anti-TSHR",
+      "Aumentam a captação de iodo pela tireoide, favorecendo a produção hormonal; principais: iodeto de potássio e perchlorato sódico",
+      "Atuam como antagonistas competitivos dos receptores de TSH na hipófise; principais: propranolol e atenolol",
+      "Inibem a conversão periférica de T4 em T3 exclusivamente; principais: levotiroxina e liotironina",
+      "Inibem a ação da tireoperoxidase, bloqueando oxidação, organificação e acoplamento do iodo na síntese hormonal; principais: metimazol (Tapazol) e propiltiouracil (Propil)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Tionamidas são os agentes antitireoidianos que INIBEM a TIREOPERIODASE (TPO), bloqueando a oxidação, organificação e acoplamento do iodo na produção dos hormônios T3 e T4. As principais medicações são METIMAZOL (Tapazol), com menos hepatotoxicidade e dose única diária, e PROPILTIOURACIL (Propil), maior hepatotoxicidade, porém inibe conversão periférica T4→T3 em doses elevadas e preferido no 1º trimestre de gestação. São primeira linha no tratamento clínico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais fatores estão associados ao maior risco de recidiva do hipertireoidismo após tratamento clínico com tionamidas?",
+    "options": [
+      "Em gestantes com hipertireoidismo controlado por tionamidas, sem sintomas, com função hepática normal e sem bócio palpável",
+      "Níveis normais de T3, aumento da tireoglobulina sérica, ausência de anticorpos anti-TPO, tratamento superior a 36 meses",
+      "Idade avançada, TSH normalizado no tratamento, ausência de mutação genética, ausência de sintomas oculares, pequena tireoide com cicatrização",
+      "Níveis muito elevados de T3, idade jovem, sexo masculino, tabagismo, oftalmopatia, TSH suprimido ao final do tratamento, presença de TRAb detectável, bócio volumoso",
+      "Uso prolongado de betabloqueadores, dieta hipocalórica, atividade física regular, história familiar negativa para doenças autoimunes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os fatores de MAIOR RISCO DE RECIDIVA após tratamento clínico com tionamidas incluem níveis MUITO ELEVADOS de T3 ao diagnóstico, FAIXA ETÁRIA JOVEM, SEXO MASCULINO, TABAGISMO, OFTALMOPATIA, TSH SUPRIMIDO ao fim do tratamento, PRESENÇA DE TRAb detectável no final e BÓCIO VOLUMOSO. Esses indicam maior atividade autoimune e hipertireoidismo persistente ou grave, requerendo acompanhamento e estratégias adicionais como iodoterapia ou cirurgia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual exame de imagem é típico na Doença de Graves e quais seus achados característicos?",
+    "options": [
+      "Cintilografia de tireoide revela captação focal intensa limitada a um nódulo autônomo, com supressão do restante da glândula",
+      "Ultrassonografia de tireoide mostra glândula hipoecogênica, difusamente aumentada, hipervascularizada ao Doppler (aspecto conhecido como 'inferno tireoidiano')",
+      "Ultrassonografia mostra glândula normoecogênica, heterogênea com múltiplos nódulos e vascularização reduzida ou ausente ao Doppler",
+      "Cintilografia com captação reduzida ou ausente na glândula tireoide, sugerindo tireoidite destrutiva ou tireotoxicose factícia",
+      "Imagem de ressonância magnética das órbitas revela infiltração difusa dos músculos extraoculares e edema periorbitário"
+    ],
+    "correctIndex": 1,
+    "explanation": "O exame mais utilizado é a ULTRASSONOGRAFIA DE TIREOIDE, que na DOENÇA DE GRAVES apresenta: GLÂNDULA HIPO-ECOGÊNICA (mais escura que o normal), AUMENTADA DIFUSAMENTE e com HIPERVASCULARIZAÇÃO ao Doppler, chamada de 'INFERNO TIREOIDIANO'. Esse quadro ajuda a diferenciar de outras causas de tireotoxicose e orientar manejo. Cintilografia e imagem orbital são exames complementares dependendo do caso.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a indicação principal para a ablação por iodo radioativo (I-131) no tratamento do hipertireoidismo?",
+    "options": [
+      "Pacientes com hipotireoidismo permanente que necessitam de reposição hormonal diária para manter eutireoidismo",
+      "Gestantes no primeiro trimestre com hipertiroidismo grave refratário às tionamidas e doenças autoimunes concomitantes",
+      "Pacientes com recidiva após tratamento clínico, bócio multinodular tóxico, adenoma tóxico e contra-indicações à cirurgia",
+      "Paciente com tireoidite subaguda pós-viral, boa evolução espontânea e ausência de anticorpos TRAb positivos",
+      "Pacientes jovens com tireotoxicose apática, sem sintomas severos e bom controle clínico inicial com betabloqueadores"
+    ],
+    "correctIndex": 2,
+    "explanation": "A IODO RADIOTERAPIA (I-131) é indicada para pacientes com RECIDIVA após tratamento clínico com tionamidas, BÓCIO MULTINODULAR TÓXICO, ADENOMA TÓXICO e contra-indicações à cirurgia (ex: alto risco cirúrgico). É contraindicada em GESTANTES e lactantes. A ablação leva à destruição seletiva de tecido tireoidiano com hipofunção subsequente que é tratada com reposição hormonal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as indicações absolutas para tireoidectomia no manejo do hipertireoidismo?",
+    "options": [
+      "Gestantes que não respondem às tionamidas, bócio volumoso com compressão de órgãos próximos, nódulos suspeitos de malignidade, recusa ou falha da iodoterapia",
+      "Pacientes assintomáticos com tireoidite pós-parto com níveis normais de TSH, sem sinais clínicos e boa evolução natural",
+      "Pacientes com hipertireoidismo leve e dosagem hormonal limítrofe, com história familiar de câncer de tireoide sem sintomatologia atual",
+      "Indivíduos com hipotireoidismo após tratamento por bócio multinodular, apresentando sintomas de insuficiência tireoidiana",
+      "Idosos com tireotoxicose apática e contra-indicação a beta-bloqueadores, sem alterações autoimunes ou nodulares volumosas"
+    ],
+    "correctIndex": 0,
+    "explanation": "TIREOIDECTOMIA está indicada em: (1) gestantes com efeitos adversos graves às tionamidas ou resistência, (2) bócio volumoso causando compressão traqueal ou esofágica, (3) nódulo tireoidiano suspeito de malignidade, (4) pacientes que recusam ou falharam iodoterapia, e (5) recidivas ou contraindicações a outros tratamentos. O procedimento é definitivo, com riscos operatórios (lesão de nervo laríngeo e hipoparatireoidismo).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a abordagem diferenciada para tireotoxicose durante a gestação, especialmente no primeiro trimestre?",
+    "options": [
+      "Usar corticosteróides e iodeto de potássio exclusivamente durante o primeiro trimestre para prevenir choque tireoidiano fetal",
+      "Preferir propiltiouracil por menor passagem placentária; evitar metimazol devido a teratogenicidade; betabloqueadores são indicados para sintomas adrenérgicos",
+      "Indicada tireoidectomia precoce no segundo mês de gravidez para prevenir complicações maternas e fetais associadas",
+      "Suspender completamente medicações antitireoidianas para evitar toxicidade fetal; iniciar tratamento apenas após parto ou lactação",
+      "Preferir metimazol por efeito mais rápido e dose única diária; usar betabloqueadores para controle da hipertensão gestacional"
+    ],
+    "correctIndex": 1,
+    "explanation": "Durante a GESTAÇÃO, especialmente no 1º TRIMESTRE, preferem-se TIONAMIDAS com menor passagem placentária e menor risco teratogênico: PROPILTIOURACIL é a escolha durante o 1º trimestre. Metimazol é evitado no 1º trimestre por risco teratogênico, podendo ser usado nos trimestres seguintes. Betabloqueadores controlam sintomas adrenérgicos mas não modificam a doença. Abordagem deve equilibrar benefício materno e risco fetal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como diferenciar clínica e laboratorialmente a tireoidite subaguda de Quervain do hipertireoidismo autoimune?",
+    "options": [
+      "Tireoidite subaguda associa dor cervical intensa, VHS e PCR elevados, captação citológico baixa na cintilografia e ausência de anticorpos TRAb; Graves tem bócio indolor, TRAb positivo e captação alta",
+      "Tireoidite subaguda tem padrão multinodular com aumento do TSH e baixa oferta hormonal; Graves tem bócio volumoso e tiroglobulina baixa",
+      "Tireoidite subaguda tem produce anticorpos TRAb e captação alta na cintilografia; Graves tem captação baixa e antirreceptor TSH negativo",
+      "Tireoidite subaguda apresenta exoftalmia e mixedema pré-tibial; Graves apresenta dor cervical e febre alta, além de elevação de VHS e PCR",
+      "Tireoidite subaguda evolui com hipotireoidismo permanente e necessita de levotiroxina; Graves causa hiperfunção transitória sem necessidade de medicação"
+    ],
+    "correctIndex": 0,
+    "explanation": "TIREOIDITE SUBAGUDA de Quérvain caracteriza-se por: dor cervical intensa, febre, VHS/PCR elevados (marcadores inflamatórios), cintilografia com CAPTAÇÃO BAIXA DE IODO (inibição da função tireoidiana por destruição), sem anticorpos TRAb. Graves caracteriza-se por bócio INDOLOR, exoftalmia, captação ALTA difusa na cintilografia e TRAb POSITIVO. Distinção essencial para evitar uso inadequado de tionamidas na tireoidite.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com hipertireoidismo apresenta efeitos adversos graves de tionamidas como agranulocitose. Qual a conduta terapêutica adequada?",
+    "options": [
+      "Continuar a medicação associando antibióticos profiláticos para prevenção de infecções bacterianas oportunistas",
+      "Reduzir a dose da tionamida e manter monitoramento laboratorial rígido para correção rápida de leucopenia",
+      "Substituir metimazol por propiltiouracil com corticosteroides para controle da reação adversa",
+      "Iniciar terapia imunossupressora com metotrexato para evitar reação autoimune grave às tionamidas",
+      "Suspender imediatamente a tionamida e encaminhar para tratamento definitivo com radioiodoterapia ou cirurgia após estabilização"
+    ],
+    "correctIndex": 4,
+    "explanation": "AGRANULOCITOSE é efeito adverso grave e rara das TIONAMIDAS. Na suspeita de agranulocitose a medicação deve ser SUSPENSA IMEDIATAMENTE, com tratamento sintomático (controle febre, prevenção infecções). O paciente deve ser encaminhado para tratamento definitivo com RADIOIODOTERAPIA ou CIRURGIA após estabilização clínica e controle dos sintomas. Manter tionamidas ou reduzir dose é perigoso. Monitoramento laboratorial é urgente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Homem de 45 anos com bócio multinodular tóxico. Qual a abordagem terapêutica padrão inicialmente e os passos seguintes em caso de falha ou recidiva?",
+    "options": [
+      "Início com radioiodoterapia exclusiva para ablação tecidual, com controle sintomático suplementar por anestésicos específicos",
+      "Indicação direta de tireoidectomia radical para prevenir malignização nos múltiplos nódulos e complicações compressivas",
+      "Tratamento exclusivo com betabloqueadores para sintomas adrenérgicos; a cessação natural do bócio ocorre em meses sem necessidade de terapia hormonal",
+      "Inicialmente tionamidas com betabloqueadores para controle sintomático; em caso de recidiva, radioiodoterapia ou tireoidectomia parcial/total dependendo do quadro",
+      "Suspensão de iodo na dieta e início imediato de corticoterapia oral para reduzir tamanho do bócio e inflamação subjacente"
+    ],
+    "correctIndex": 3,
+    "explanation": "No BÓCIO MULTINODULAR TÓXICO o tratamento inicial é clínico: TIONAMIDAS para redução da produção hormonal e BETABLOQUEADORES para controle dos sintomas adrenérgicos. Caso haja FALHA ou RECIDIVA, indica-se RADIOIODOTERAPIA para redução do tecido hiperfuncionante. Cirurgia (tireoidectomia parcial ou total) é indicada em casos de compressão, contraindicação à radioiodoterapia, ou recidiva persistente. Abordagem escalonada é padrão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em paciente com adenoma tóxico de tireoide, qual exame é mais indicativo para diagnóstico e qual tratamento inicial adequado?",
+    "options": [
+      "Ultrassonografia revelando vários nódulos isoecogênicos; terapia com corticosteroides para reduzir inflamação local",
+      "Sorologia para TRAb positiva; indicação imediata de radioiodoterapia para controle da hipertireoidose",
+      "TSH elevado com T3 e T4 normais; tratamento inicial com levotiroxina para aumentar sensibilidade à insulina",
+      "Cintilografia com captação alta focal no nódulo com supressão do restante da glândula; tratamento inicial com tionamidas e betabloqueadores",
+      "Biópsia de tireoide mostrando carcinoma folicular; inicia-se quimioterapia antineoplásica específica"
+    ],
+    "correctIndex": 3,
+    "explanation": "No ADENOMA TÓXICO a CINTILOGRAFIA mostra área de CAPTAÇÃO ALTA FOCAIS com SUPRESSÃO do restante da glândula devido à produção autônoma hormonal. O tratamento inicial é clínico com TIONAMIDAS (metimazol/propiltiouracil) e BETABLOQUEADORES para sintomas. Cirurgia ou radioiodoterapia podem ser indicadas após controle inicial. Diagnóstico diferencial importante para terapias adequadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais aspectos clínicos sugerem tireotoxicose apática, e em que população é mais comum?",
+    "options": [
+      "Fraqueza, astenia, falta de sintomas clássicos, comum em idosos e comorbidades múltiplas, apresenta diagnóstico tardio por ausência de sintomas evidentes",
+      "Presença de exoftalmia e dermatopatia associada, prevalente em mulheres jovens, com diagnóstico clínico rápido e confirmado por TRAb",
+      "Sintomas adrenérgicos intensos como tremores e ansiedade, comum em jovens adultos sem comorbidades, associado à doença de Graves grave",
+      "Apresentação com crises hipertensivas e taquiarritmias, comum em pacientes com adenomas tóxicos múltiplos",
+      "Quadro subclínico com níveis hormonais normais, diagnostico incidental por exames de rotina, igualmente frequente em todas faixas etárias"
+    ],
+    "correctIndex": 0,
+    "explanation": "TIREOTOXICOSE APÁTICA caracteriza-se por FRAGUEZA intensa, ASTENIA e AUSÊNCIA ou ATENUAÇÃO DOS SINTOMAS CLÁSSICOS (taquicardia, ansiedade, tremores), dificultando o diagnóstico. É mais comum em IDOSOS ou pacientes com múltiplas comorbidades que apresentam baixa resposta adrenérgica e sintomas não específicos. Requer alta suspeita clínica e avaliação laboratorial cuidadosa para diagnóstico precoce.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Homem de 38 anos, com taquicardia, perda de peso e bócio difuso. TSH suprimido, T4 alto, TRAb positivo. Qual o diagnóstico mais provável?",
+    "options": [
+      "Doença de Graves, hipertireoidismo autoimune com bócio difuso e produção de anticorpos estimulantes do receptor TSH",
+      "Tireoidite subaguda com liberação transiente de hormônios devido a destruição glandular",
+      "Adenoma tóxico com mutação somática no receptor de TSH, apresentando nódulo único",
+      "Tireotoxicose factícia por ingestão exógena de hormônios tireoidianos",
+      "Bócio multinodular tóxico com nódulos autônomos e sem anticorpos específicos detectáveis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quadro clínico e laboratorial caracterizam DOENÇA DE GRAVES: taquicardia, perda de peso, bócio DIFUSO, TSH SUprimido, T4 alto e presença de TRAb (anticorpos estimulantes do receptor de TSH). É doença autoimune mais comum causadora de hipertireoidismo primário. Outras opções correspondem a causas diferentes ou fases distintas da tireotoxicose.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual o principal teste inicial para triagem laboratorial em suspeita de tireotoxicose, e o resultado esperado na forma primária?",
+    "options": [
+      "Tireoglobulina sérica, geralmente elevada em todas as formas de tireotoxicose",
+      "Anti-TPO, esperado positivo em todos os casos de tireotoxicose primária",
+      "Cintilografia de tireoide com resultado de captação difusa",
+      "TSH, esperado baixo/suprimido, seguido de T4 livre e T3 total elevados",
+      "T4 total, esperado baixo, com TSH e T3 total elevados"
+    ],
+    "correctIndex": 3,
+    "explanation": "O TSH é o exame inicial mais sensível para suspeita de tireotoxicose. Em formas primárias, o TSH está baixo ou suprimido, enquanto T4 livre e T3 total estão elevados. Isso distingue tireotoxicose primária, causada pela glândula, de causas secundárias ou outras hipóteses.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quando o T3 está elevado com T4 normal em quadro clínico sugestivo, qual quadro laboratorial é mais provável?",
+    "options": [
+      "Hipertireoidismo secundário: TSH elevado, T3 total e T4 livre levemente elevados",
+      "T3-tireotoxicose: TSH suprimido, T3 total elevado e T4 livre normal",
+      "Tireoidite subaguda: T3 total normal, T4 livre levemente elevado e TSH normal",
+      "Tireotoxicose apática: T3 total e T4 livre normais, TSH suprimido somente em idosos",
+      "Hipotireoidismo subclínico: T3 total e T4 livre baixos, TSH elevado"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na T3-tireotoxicose, há predomínio de secreção de T3 sobre T4 pela glândula. Apresenta TSH suprimido, T3 total elevado e T4 livre ainda dentro da normalidade, sendo importante para diagnóstico precoce e estratificação do hipertireoidismo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual anticorpo é mais sensível e específico para diagnóstico da Doença de Graves?",
+    "options": [
+      "TRAb (antirreceptor de TSH), com sensibilidade e especificidade superiores a 95%",
+      "Anti-microssomal, presente em todas as formas autoimunes com baixa especificidade",
+      "Anticorpo contra desiodase tipo 2, marcador único da tireotoxicose factícia",
+      "Anti-tireoglobulina, altamente específico para bócio multinodular tóxico",
+      "Anti-TPO, com sensibilidade de 70% e baixa especificidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "TRAb (anticorpo contra o receptor de TSH) é altamente sensível e específico para Doença de Graves, auxiliando no diagnóstico diferencial, sobretudo frente a outras causas autoimunes da tireotoxicose como tireoidites.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em pacientes usando biotina, por que pode haver interferência nos testes laboratoriais da função tireoidiana?",
+    "options": [
+      "A biotina estabiliza o T3 e T4, aumentando falsamente sua concentração sérica mesmo na ausência de doença",
+      "A biotina age como antagonista do receptor de TSH, causando falso hipotireoidismo laboratorial",
+      "A biotina pode causar resultados artificialmente baixos de TSH por interferir em ensaios imunométricos baseados em estreptavidina",
+      "A biotina bloqueia diretamente a ação dos anticorpos TRAb, falseando positividade em exames automáticos",
+      "A biotina reduz a ligação da tireoglobulina às proteínas carreadoras, levando a elevação de TSH"
+    ],
+    "correctIndex": 2,
+    "explanation": "A biotina tem potencial para interferir em ensaios laboratoriais da função tireoidiana, principalmente imunodosagens, por competir com a ligação estreptavidina–biotina nos ensaios. Isso pode gerar resultados falsamente baixos de TSH e elevados de hormônios tireoidianos, devendo ser suspensa pelo menos 48h antes de coletar exames de função tireoidiana.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual padrão ecográfico e Doppler esperado na Doença de Graves por ultrassonografia?",
+    "options": [
+      "Glândula atrófica, com vascularização reduzida e padrão arquitetural homogêneo",
+      "Glândula difusamente aumentada e hipoecogênica com hipervascularização difusa (padão 'inferno tireoidiano')",
+      "Múltiplos nódulos isoecogênicos com vascularização normal, sem alterações do volume total glandular",
+      "Lobo tireoidiano aumentado isoladamente sem padrão vascular alterado no exame Doppler",
+      "Nódulo único sólido com vascularização periférica predominante e sem aumento global da tireoide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na Doença de Graves, a ultrassonografia revela glândula aumentada, difusamente hipoecogênica e com hipervascularização intensa ao Doppler, conhecida como 'inferno tireoidiano'. Esse achado é bastante específico para o diagnóstico diferencial frente a outras causas de tireotoxicose.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Frente ao achado de bócio multinodular em paciente com hipertireoidismo, qual exame de imagem é mais útil para diferenciar bócio multinodular tóxico de Graves?",
+    "options": [
+      "Ressonância magnética com detecção de acúmulo de iodo radioativo periférico",
+      "Cintilografia com captação múltipla (vários focos quentes) no Bócio multinodular tóxico e captação difusa na Doença de Graves",
+      "Tomografia computadorizada evidenciando calcificações em nódulos funcionantes",
+      "Biópsia aspirativa por agulha fina mostrando células foliculares proliferativas em ambos os casos",
+      "Ultrassonografia com padrão homogêneo e hipervascularização intensa no bócio multinodular tóxico"
+    ],
+    "correctIndex": 1,
+    "explanation": "A cintilografia é fundamental: no Bócio Multinodular Tóxico mostra múltiplas áreas de captação aumentada ('focos quentes') e supressão do tecido adjacente, enquanto na Doença de Graves a captação é difusa. Tal diferenciação é essencial para planejamento terapêutico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Diante de cintilografia mostrando captação única e focal intensa com supressão do tecido adjacente em paciente tireotóxico, qual o diagnóstico provável?",
+    "options": [
+      "Adenoma tóxico (Doença de Plummer)",
+      "Bócio multinodular tóxico",
+      "Doença de Graves",
+      "Tireoidite subaguda",
+      "Tireotoxicose factícia"
+    ],
+    "correctIndex": 0,
+    "explanation": "O adenoma tóxico manifesta-se na cintilografia como área única de captação aumentada (nódulo quente) com supressão do tecido tireoidiano normal. Graves apresenta captação difusa, bócio multinodular vários focos captantes e tireoidites/factícia mostram captação baixa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na tireoidite subaguda de De Quervain, quais achados laboratoriais e de imagem são característicos?",
+    "options": [
+      "VHS e PCR elevados, TSH baixo, T4/T3 aumentados; cintilografia com captação baixa",
+      "Plaquetopenia e leucopenia; ultra-som com área isoecogênica única",
+      "Anticorpo anti-TPO positivo; Doppler com hipervascularização difusa",
+      "Tireoglobulina indetectável; captação focal intensa na cintilografia",
+      "TSH muito elevado, T4/T3 diminuídos; ultra-som com nódulos hipoecogênicos múltiplos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tireoidite subaguda é caracterizada por marcadores inflamatórios elevados (VHS, PCR), TSH baixo, T4/T3 aumentados na fase de tireotoxicose e CAPTAÇÃO BAIXA na cintilografia. O quadro é transitório e não costuma cursar com anticorpos anti-TPO elevados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Com relação ao uso de betabloqueadores no hipertireoidismo, qual é a principal indicação e qual a principal contraindicação?",
+    "options": [
+      "Controle sintomático dos sintomas adrenérgicos (taquicardia, tremor, ansiedade); contraindicação: insuficiência cardíaca descompensada e asma grave",
+      "Redução direta do tamanho do bócio volumoso; contraindicação: hipotensão arterial sistêmica",
+      "Prevenção da conversão periférica de T4 em T3; contraindicação: diabetes mellitus descompensado",
+      "Ação anti-inflamatória na oftalmopatia associada; contraindicação: insuficiência renal crônica",
+      "Supressão autoimune da produção hormonal; contraindicação: anemia hemolítica autoimune"
+    ],
+    "correctIndex": 0,
+    "explanation": "Betabloqueadores são indicados para controle de sintomas adrenérgicos (palpitação, tremores, ansiedade) no hipertireoidismo. Estão contraindicados nos casos de insuficiência cardíaca descompensada, asma grave e bradicardia importante.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No uso das tionamidas, quais as reações adversas graves que levam à suspensão imediata do medicamento?",
+    "options": [
+      "Rash maculopapular autolimitado, prurido e febre baixa",
+      "Agranulocitose, hepatite grave, leucopenia profunda, trombocitopenia; paciente não deve ser retratado com outra tionamida",
+      "Leve elevação de transaminases e eosinofilia, sem sintomas sistêmicos",
+      "Edema de membros inferiores e alteração leve do perfil lipídico",
+      "Prurido moderado e dispepsia leve, controlados apenas com anti-histamínicos"
+    ],
+    "correctIndex": 1,
+    "explanation": "As reações graves das tionamidas incluem agranulocitose (neutrófilos <500/mm³), hepatite grave, leucopenia profunda e trombocitopenia. Frente a essas complicações, a medicação deve ser SUSPENSA de imediato e não deve ser repetida com outra tionamida, pois há risco de reação cruzada e recidiva da reação adversa grave.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com as principais diretrizes, qual contraindicação absoluta para ablação com iodo radioativo no hipertireoidismo?",
+    "options": [
+      "Hipotireoidismo subclínico refratário após uso de tionamidas",
+      "Gestação e lactação, devendo-se aguardar 6 meses após tratamento para tentar engravidar",
+      "Tabagismo ativo e história de oftalmopatia de Graves",
+      "Microcarcinoma papilífero da tireoide coexistente",
+      "Idade avançada acima de 80 anos, independentemente da comorbidade"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gestação e lactação são contraindicações ABSOLUTAS para tratamento com iodo radioativo, dado o risco de ablação fetal e exposição do lactente. Mulheres devem evitar engravidar por pelo menos 6 meses após a radioiodoterapia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em paciente com Graves e oftalmopatia ativa, qual abordagem deve ser evitada devido ao risco de piora da doença ocular?",
+    "options": [
+      "Metimazol deve ser suspenso durante a piora ocular aguda",
+      "Betabloqueadores são contraindicados após diagnóstico de exoftalmia",
+      "Cirurgia imediata é sempre indicada mesmo em oftalmopatia ativa",
+      "Prednisona aumentaria o risco de agranulocitose se associada a antitireoidianos",
+      "Ablação com iodo radioativo (I-131) pode agravar a oftalmopatia, principalmente em tabagistas"
+    ],
+    "correctIndex": 4,
+    "explanation": "A ablação com iodo radioativo está associada a piora da oftalmopatia, especialmente em pacientes tabagistas e/ou com doença ativa. Nestes casos, o preferível é tratar clinicamente ou considerar cirurgia, reservando a radioiodoterapia para casos controlados ou inativos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em tireoidites destrutivas como subaguda ou silenciosa, qual é o tratamento da fase tireotóxica?",
+    "options": [
+      "Sintomático com betabloqueadores, AINEs ou corticosteroide em casos dolorosos, evitando tionamidas",
+      "Tionamidas em dose plena até remissão e reposição hormonal precoce com levotiroxina",
+      "Radioiodoterapia preventiva para evitar recidivas",
+      "Reposição obrigatória de iodo com Lugol durante toda a evolução",
+      "Cirurgia de resgate do tecido tireoidiano infectado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na fase tireotóxica das tireoidites, o tratamento deve ser apenas sintomático, com BETABLOQUEADORES para sintomas adrenérgicos e AINEs ou corticosteroides (se dor importante, como na subaguda). As TIONAMIDAS NÃO têm efeito, pois não há hiperprodução, mas liberação dos estoques hormonais por destruição glandular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Ao diferenciar tireotoxicose factícia da doença de Graves, qual marcador laboratorial ajuda no diagnóstico?",
+    "options": [
+      "TSH elevado em tireotoxicose factícia e Graves",
+      "Tireoglobulina: baixa na tireotoxicose factícia, elevada na Graves",
+      "TRAb positivo em ambas as condições",
+      "Captação de iodo aumentada na factícia e baixa na Graves",
+      "Anticorpo anti-TPO positivo apenas na ingestão exógena de hormônio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na tireotoxicose factícia, a tireoglobulina está BAIXA, pois não há destruição de tecido nem produção aumentada; já na Doença de Graves, a tireoglobulina está ELEVADA pelo hiperfuncionamento glandular. Além disso, na factícia a captação de iodo é baixa e TRAb negativo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher jovem, hipertireoidismo, deseja engravidar. Qual sequência terapêutica mais apropriada e por quê?",
+    "options": [
+      "Indicação direta de propiltiouracil durante toda gestação sem reavaliação periódica de função tireoidiana",
+      "Uso de betabloqueador isolado durante todo pré-natal, sem antitireoidianos ou cirurgia",
+      "Primeiro, metimazol fora do 1º trimestre/puerpério. Se indicado iodo radioativo, aguardar 6 meses antes de tentar gestação. Se necessário cirurgia, preferir preparo com tionamidas e iodeto antes do procedimento.",
+      "Iodoterapia radioativa como tratamento de eleição antes da gestação, liberando gestação logo após dose terapêutica",
+      "Realizar tireoidectomia sem necessidade de preparo pré-operatório para tireotoxicose"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mulheres em idade fértil devem evitar iodo radioativo nos meses prévios à gestação (aguardar 6 meses). Metimazol está contraindicado no 1º trimestre pela teratogenicidade, preferindo propiltiouracil nesse período. Em caso de cirurgia, o preparo é feito com tionamidas e iodeto. Betabloqueadores são adjuvantes, não curativos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 68 anos, insuficiência cardíaca nova, quadro apático, fibrilação atrial, TSH quase zero, T4 total discretamente elevado. Qual hipótese sindrômica descreve melhor o quadro?",
+    "options": [
+      "Tireotoxicose apática, comum em idosos com sintomas atípicos predominantemente cardiovasculares",
+      "Grave crise tireotóxica com sintomas intensamente adrenérgicos e neuromusculares",
+      "Hipotireoidismo subclínico avançado, padrão típico de idosos masculinos",
+      "Tireoide nodular benigna com hipervolemia transitória por medicação antihipertensiva",
+      "Crise adrenal associada à insuficiência cardíaca congestiva provocando queda de TSH"
+    ],
+    "correctIndex": 0,
+    "explanation": "Idosos frequentemente apresentam TIREOTOXICOSE APÁTICA: sintomas clássicos ausentes, predominam sintomas CARDÍACOS (fibrilação atrial, ICC, apatia, depressão). O diagnóstico exige alta suspeição clínica e avaliações laboratoriais mesmo sem sinais típicos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com TSH baixo, T4 livre elevado, cintilografia com captação suprimida, tireoglobulina baixa. Qual etiologia mais provável?",
+    "options": [
+      "Tireoidite subaguda por destruição folicular",
+      "Doença de Graves, agente autoimune",
+      "Tireotoxicose factícia por ingestão exógena de hormônio tireoidiano",
+      "Adenoma tóxico produtor de T4",
+      "Bócio multinodular tóxico"
+    ],
+    "correctIndex": 2,
+    "explanation": "A tireotoxicose factícia cursa com TSH baixo, T4 livre elevado, tireoglobulina BAIXA e cintilografia com CAPTAÇÃO SUPRIMIDA (a glândula não está ativa). Isso sugere ingestão de hormônios, diferente das causas produtoras onde tireoglobulina está elevada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com hipertireoidismo e lesão hepática em início de tratamento. Qual antitireoidiano deve ser evitado e qual alternativa?",
+    "options": [
+      "Propiltiouracil deve ser evitado por maior risco de hepatite; metimazol é preferido com monitoramento",
+      "Propiltiouracil e metimazol podem ser usados sem restrição pois hepatotoxicidade é rara e reversível",
+      "Betabloqueadores em monoterapia controlam função hepática e sintomas tireotóxicos",
+      "Metimazol deve ser evitado por hepatotoxicidade; propiltiouracil é seguro e isento de efeitos hepáticos",
+      "Ambos antitireoidianos estão absolutamente contraindicados; única opção é radioiodoterapia ou cirurgia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Propiltiouracil está associado a maior risco de HEPATITE GRAVE, sobretudo em adultos, devendo ser evitado em sintomas ou exames hepáticos alterados. Metimazol é preferido nesse caso, mas mantendo monitoramento regular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher, 34 anos, tireotoxicose dolorosa após IVAS recente; TSH baixo, T4 livre aumentado, VHS elevado, cintilografia com captação baixa. Qual diagnóstico e conduta?",
+    "options": [
+      "Doença de Graves; iniciar metimazol em dose plena e encaminhar para oftalmo",
+      "Tireoidite subaguda de De Quervain; tratar com betabloqueadores e uso de AINEs para dor",
+      "Tireoidite silenciosa; tratar com cirurgia",
+      "Tireotoxicose factícia; suspender ingestão e apoiar somente hidratação e vigília",
+      "Adenoma tóxico; tratar com radioiodoterapia assim que possível"
+    ],
+    "correctIndex": 1,
+    "explanation": "O quadro doloroso pós-IVAS, associado a marcadores inflamatórios elevados, cintilografia com captação baixa e tireotoxicose hormonal, caracteriza TIREOIDITE SUBAGUDA DE DE QUERVAIN, que não responde a tionamidas (não usar). O tratamento é sintomático: betabloqueadores e AINEs para dor (podendo usar corticosteróide em dor refratária).",
+    "type": "raciocínio"
+  }
+]

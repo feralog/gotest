@@ -1,0 +1,886 @@
+[
+    {
+    "question": "O que caracteriza o conceito de 'Heart Team' na abordagem das valvopatias e qual sua importância na decisão terapêutica?",
+    "options": [
+      "Equipe cirúrgica especializada que define técnica operatória e escolha da prótese valvar mais adequada",
+      "Discussão multidisciplinar entre cardiologista, cirurgião e intervencionista para definir estratégia terapêutica individualizada",
+      "Comitê administrativo que avalia viabilidade financeira e autoriza realização de procedimentos cardiológicos complexos",
+      "Equipe de emergência cardiológica disponível 24h para atendimento de complicações agudas valvares",
+      "Grupo de enfermagem especializada em cuidados pós-operatórios de cirurgia cardíaca e reabilitação cardiovascular"
+    ],
+    "correctIndex": 1,
+    "explanation": "O HEART TEAM é uma discussão MULTIDISCIPLINAR (cardiologista clínico + cirurgião cardíaco + cardiologista intervencionista + anestesista) para definir a melhor estratégia terapêutica INDIVIDUALIZADA para cada paciente. Considera: gravidade da valvopatia, sintomas, comorbidades, risco cirúrgico, anatomia valvar, preferências do paciente. Melhora resultados e qualidade das decisões terapêuticas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o papel do tratamento clínico (medicamentoso) nas valvopatias em relação ao tratamento intervencionista quando este está indicado?",
+    "options": [
+      "Apresenta resultados equivalentes ao intervencionista em longo prazo para valvopatias importantes sintomáticas",
+      "Substitui o tratamento intervencionista quando há melhora sintomática significativa com medicações otimizadas",
+      "Não substitui o intervencionista quando indicado; serve como ponte ou alívio sintomático temporário",
+      "É sempre preferível ao intervencionista devido ao menor risco de complicações e melhor qualidade de vida",
+      "Deve ser iniciado apenas após falha documentada ou contraindicação formal ao tratamento intervencionista"
+    ],
+    "correctIndex": 2,
+    "explanation": "IMPORTANTE: o tratamento clínico NÃO SUBSTITUI o tratamento INTERVENCIONISTA quando este está indicado. Pode servir como PONTE até cirurgia (filas demoradas), ALÍVIO SINTOMÁTICO ou tratamento de comorbidades, MAS a MELHORA DOS SINTOMAS NÃO CANCELA o procedimento definitivo. Nas valvopatias funcionais (IM/IT secundárias), o tratamento clínico tem papel mais relevante pois a doença é do miocárdio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Nas valvopatias funcionais (como insuficiência mitral ou tricúspide secundárias), qual é o foco principal do tratamento e por quê?",
+    "options": [
+      "Intervenção valvar precoce com reparo ou troca para prevenir progressão da regurgitação",
+      "Tratamento clínico otimizado para insuficiência cardíaca, pois a doença primária é do miocárdio",
+      "Cardioversão elétrica e controle de ritmo para restaurar função atrial e melhorar coaptação valvar",
+      "Restrição hídrica rigorosa com diuréticos de alça em altas doses para reduzir sobrecarga volêmica",
+      "Anticoagulação plena para prevenir eventos tromboembólicos associados à estase sanguínea atrial"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nas valvopatias FUNCIONAIS (IM/IT secundárias a miocardiopatia), a DOENÇA É DO MIOCÁRDIO (não há lesão estrutural primária da válvula). O tratamento deve FOCAR na OTIMIZAÇÃO da terapia para IC (IECA/BRA, betabloqueador, espironolactona, SGLT2i, diurético). A regurgitação pode MELHORAR com remodelamento reverso do VE. Intervir apenas na válvula não resolve o problema de base.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais tipos de próteses valvares utilizados nas intervenções cirúrgicas e suas características gerais?",
+    "options": [
+      "Próteses autólogas derivadas de tecido do próprio paciente e heterólogas de doador humano compatível",
+      "Biopróteses com durabilidade limitada sem anticoagulação crônica e mecânicas com durabilidade indefinida requerendo anticoagulação",
+      "Próteses de primeira geração obsoletas e de nova geração com nanotecnologia e biocompatibilidade otimizada",
+      "Próteses valvares completas e anéis de anuloplastia para remodelamento e suporte do anel valvar",
+      "Próteses absorvíveis que degradam progressivamente e permanentes que mantêm estrutura por tempo indefinido"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os principais tipos são: BIOPRÓTESES (tecido biológico - porcino ou bovino; durabilidade LIMITADA ~10-15 anos; NÃO requer anticoagulação crônica) e MECÂNICAS (metal/carbono; durabilidade INDEFINIDA; REQUER anticoagulação com varfarina para INR 2-3). Escolha considera: idade, risco hemorrágico, desejo de gravidez, adesão à anticoagulação. Geralmente: bioprótese >65 anos, mecânica <50-60 anos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo o estadiamento clínico (A-D), em qual estágio a valvopatia importante sintomática está classificada e qual a indicação terapêutica?",
+    "options": [
+      "Estágio E com valvopatia importante sintomática pós-procedimento necessitando reintervenção urgente",
+      "Estágio C com valvopatia importante sintomática necessitando otimização clínica prévia antes de considerar intervenção",
+      "Estágio D com valvopatia importante sintomática sendo candidata à intervenção cirúrgica ou percutânea",
+      "Estágio B com valvopatia importante sintomática permitindo acompanhamento clínico se fração de ejeção preservada",
+      "Estágio A com valvopatia importante sintomática requerendo intervenção imediata conforme indicações classe I"
+    ],
+    "correctIndex": 2,
+    "explanation": "ESTÁGIO D = valvopatia IMPORTANTE SINTOMÁTICA. É CANDIDATO À INTERVENÇÃO (cirurgia convencional, reparo valvar ou procedimento percutâneo - ex: TAVI para EA). A presença de sintomas relacionados à valvopatia importante constitui indicação classe I para procedimento (exceto contraindicações). O Heart Team define a melhor modalidade de intervenção baseado em risco cirúrgico e anatomia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 78 anos com estenose aórtica importante sintomática (dispneia NYHA III), FE 50%. STS score 8% (alto risco cirúrgico). Como o Heart Team deve abordar esse caso?",
+    "options": [
+      "Avaliar TAVI como alternativa menos invasiva para paciente de alto risco cirúrgico",
+      "Recusar intervenção devido ao alto risco cirúrgico e manter apenas tratamento clínico paliativo",
+      "Realizar valvoplastia aórtica por balão como tratamento definitivo devido ao alto risco",
+      "Indicar cirurgia convencional obrigatoriamente pois é o único tratamento definitivo para EA importante",
+      "Aguardar melhora do risco com reabilitação cardíaca e otimização clínica antes de procedimento"
+    ],
+    "correctIndex": 0,
+    "explanation": "EA importante sintomática + ALTO RISCO cirúrgico (STS >8%) = CANDIDATO A TAVI (implante percutâneo de válvula aórtica transcateter). O Heart Team deve avaliar: anatomia aórtica e valvar (TC), acesso vascular, comorbidades, fragilidade, expectativa de vida. TAVI demonstrou resultados superiores ou não-inferiores à cirurgia em pacientes de alto e intermediário risco. Valvoplastia por balão tem resultado transitório (paliativo).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 55 anos com insuficiência mitral importante por prolapso (Barlow), assintomático, FE 62%, DSVE 38mm. Ecocardiograma mostra anatomia favorável para reparo. Qual a conduta do Heart Team?",
+    "options": [
+      "IM primária importante com anatomia favorável para reparo permite considerar cirurgia precoce pela baixa morbimortalidade",
+      "IM importante assintomática deve aguardar desenvolvimento de critérios complicadores para então indicar intervenção valvar",
+      "IM importante deve iniciar tratamento clínico com IECA e betabloqueador para reavaliar função em 1 ano",
+      "IM importante assintomática requer apenas seguimento semestral sem indicação cirúrgica em pacientes assintomáticos",
+      "IM por prolapso tem indicação de reparo somente se FE <60% ou sintomas limitantes classe III-IV"
+    ],
+    "correctIndex": 0,
+    "explanation": "IM PRIMÁRIA (degenerativa/Barlow) importante, ASSINTOMÁTICO, anatomia FAVORÁVEL ao REPARO: considerar CIRURGIA PRECOCE (classe IIa). Vantagens: morbimortalidade cirúrgica baixa (~1-2%), resultados duráveis, preservação de FE (cirurgia ANTES da disfunção de VE). Aguardar desenvolvimento de disfunção pode ser tarde demais (remodelamento irreversível). Heart Team pondera risco-benefício individual. Diferente da IM FUNCIONAL (tratar IC otimizada primeiro).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 42 anos com insuficiência mitral importante secundária a miocardiopatia dilatada, FE 28%, NYHA II, em uso de carvedilol, enalapril e furosemida. Qual a melhor abordagem inicial?",
+    "options": [
+      "Transplante cardíaco prioritário pela grave disfunção ventricular e regurgitação mitral severa",
+      "Otimização do tratamento da IC com espironolactona e SGLT2i antes de considerar intervenção valvar",
+      "Cardioversão elétrica e amiodarona para restaurar ritmo sinusal e melhorar função ventricular",
+      "MitraClip percutâneo de urgência para reduzir regurgitação e melhorar classe funcional rapidamente",
+      "Cirurgia de troca valvar mitral imediata para interromper progressão da disfunção ventricular"
+    ],
+    "correctIndex": 1,
+    "explanation": "IM FUNCIONAL (secundária a miocardiopatia) em paciente com IC e FE reduzida: OTIMIZAR tratamento clínico PRIMEIRO. Adicionar: espironolactona (se K+ e função renal OK) + SGLT2i (dapagliflozina/empagliflozina - classe I para ICFEr). Avaliar resposta em 3-6 meses: se remodelamento reverso, IM pode melhorar. Intervenção valvar (MitraClip ou cirurgia) fica reservada para pacientes que permanecem sintomáticos APESAR de tratamento otimizado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com insuficiência mitral crônica apresenta dilatação do ventrículo esquerdo ao ecocardiograma. Qual o tipo de sobrecarga hemodinâmica e mecanismo fisiopatológico envolvido?",
+    "options": [
+      "Sobrecarga atrial isolada com aumento da pressão de enchimento, sem repercussão ventricular significativa",
+      "Sobrecarga volêmica com aumento da pré-carga, levando à dilatação ventricular para acomodar o volume regurgitante",
+      "Sobrecarga pressórica com aumento da pós-carga, levando à hipertrofia concêntrica para vencer resistência aumentada",
+      "Sobrecarga diastólica com redução da complacência ventricular, levando à dilatação com disfunção sistólica",
+      "Sobrecarga mista com aumento simultâneo de pré e pós-carga, levando à hipertrofia excêntrica compensatória"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na insuficiência mitral, há sobrecarga VOLÊMICA (aumento da pré-carga), pois parte do volume sistólico retorna ao átrio esquerdo, aumentando o volume diastólico final do VE. Isso leva à DILATAÇÃO ventricular (hipertrofia excêntrica) para acomodar o volume aumentado. A sobrecarga pressórica (pós-carga) ocorre nas estenoses valvares e leva à hipertrofia CONCÊNTRICA.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na estenose aórtica, o ventrículo esquerdo desenvolve hipertrofia concêntrica como mecanismo compensatório. Qual o conceito hemodinâmico que explica essa adaptação?",
+    "options": [
+      "Aumento do retorno venoso sistêmico com necessidade de maior capacidade de armazenamento diastólico",
+      "Redução da complacência atrial com necessidade de maior pressão de enchimento para compensar o déficit de fluxo",
+      "Aumento da pré-carga ventricular com necessidade de maior volume diastólico final para manter débito cardíaco adequado",
+      "Redução da contratilidade miocárdica com necessidade de maior massa muscular para compensar disfunção sistólica",
+      "Aumento da pós-carga ventricular com necessidade de maior força contrátil para vencer resistência valvar aumentada"
+    ],
+    "correctIndex": 4,
+    "explanation": "Na estenose aórtica, há sobrecarga PRESSÓRICA com aumento da PÓS-CARGA, pois o VE precisa gerar maior pressão sistólica para vencer a resistência da válvula estenótica. Isso leva à hipertrofia CONCÊNTRICA (espessamento das paredes sem dilatação significativa da cavidade) para aumentar a força contrátil. A pós-carga do VE refere-se à pressão que o ventrículo precisa vencer durante a ejeção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A fração de ejeção (FE) é um importante parâmetro na avaliação de valvopatias. Qual a fórmula correta para cálculo da FE e sua interpretação?",
+    "options": [
+      "FE = (VDF − VSF) / VDF, representa a porcentagem de volume ejetado em relação ao volume diastólico final",
+      "FE = (VSF − VDF) / VDF, representa a porcentagem de volume que permanece no ventrículo após a sístole",
+      "FE = (VDF + VSF) / 2, representa o volume médio de ejeção do ventrículo durante o ciclo cardíaco",
+      "FE = (VDF − VSF) / VSF, representa a porcentagem de volume ejetado em relação ao volume sistólico final",
+      "FE = VSF / VDF, representa a razão entre o volume sistólico final e o volume diastólico final"
+    ],
+    "correctIndex": 0,
+    "explanation": "A fórmula correta da fração de ejeção é FE = (VDF − VSF) / VDF, onde VDF é o volume diastólico final e VSF é o volume sistólico final. A FE representa a porcentagem do volume diastólico que é ejetado durante a sístole. Valores normais estão entre 55-70%. A queda da FE é um importante complicador evolutivo nas valvopatias, indicando disfunção ventricular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais complicadores da evolução das valvopatias que indicam pior prognóstico e necessidade de intervenção mais precoce?",
+    "options": [
+      "Aumento da frequência cardíaca, hipertensão arterial sistêmica, dislipidemia, diabetes mellitus e obesidade",
+      "Elevação de troponina, aumento de BNP, disfunção renal, anemia e hipoalbuminemia",
+      "Queda da fração de ejeção, dilatação de cavidades, fibrilação atrial, strain miocárdico alterado e hipertensão pulmonar",
+      "Taquicardia sinusal persistente, extrassístoles ventriculares, bloqueio de ramo, ondas Q patológicas e inversão de onda T",
+      "Sopro cardíaco de alta intensidade, terceira bulha audível, estalido de abertura, click mesossistólico e galope"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os principais complicadores evolutivos das valvopatias são: queda da FE (disfunção ventricular), dilatação de cavidades, fibrilação atrial (FA), strain miocárdico alterado (disfunção subclínica) e hipertensão pulmonar. Esses achados indicam progressão da doença, pior prognóstico e podem antecipar a indicação de intervenção, mesmo em pacientes assintomáticos ou oligossintomáticos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a diferença fundamental entre sintoma e sinal na avaliação clínica de pacientes com valvopatias?",
+    "options": [
+      "Sintoma refere-se apenas a queixas cardiovasculares; sinal inclui manifestações extracardíacas da doença valvar",
+      "Sintoma é a avaliação subjetiva relatada pelo paciente; sinal é a avaliação objetiva comprovada no exame físico",
+      "Sintoma é quantificável por escalas validadas; sinal é uma impressão qualitativa do examinador durante a consulta",
+      "Sintoma é a avaliação objetiva documentada no exame físico; sinal é o relato subjetivo do paciente sobre suas queixas",
+      "Sintoma é a manifestação aguda da doença; sinal é a manifestação crônica detectável no exame físico"
+    ],
+    "correctIndex": 1,
+    "explanation": "SINTOMA é a avaliação SUBJETIVA, relatada pelo paciente (ex: dispneia, dor torácica, palpitações). SINAL é a avaliação OBJETIVA, comprovada no exame físico ou exames complementares (ex: sopro cardíaco, taquicardia, febre). 'Se pode ser comprovado pelo exame físico, é sinal.' Essa diferenciação é fundamental na avaliação sistemática de valvopatias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 55 anos com estenose aórtica importante apresenta FE de 45% em ecocardiograma recente, após anos com FE preservada. Qual a interpretação fisiopatológica desse achado e sua implicação clínica?",
+    "options": [
+      "A queda da FE representa disfunção ventricular sistólica, complicador evolutivo que pode antecipar indicação de intervenção valvar",
+      "A queda da FE indica adaptação ventricular adequada à sobrecarga, sugerindo bom prognóstico e manutenção do tratamento clínico",
+      "A queda da FE representa fenômeno transitório relacionado à variabilidade do método ecocardiográfico, devendo ser reavaliada em 12 meses",
+      "A queda da FE indica necessidade de otimização medicamentosa com betabloqueador e IECA para recuperação da função ventricular",
+      "A queda da FE é esperada na evolução natural da EA e não modifica a estratégia terapêutica em pacientes assintomáticos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A queda da FE em paciente com EA importante representa DISFUNÇÃO VENTRICULAR SISTÓLICA, um importante complicador evolutivo que indica falência do mecanismo compensatório (hipertrofia concêntrica). Esse achado pode antecipar a indicação de intervenção valvar, mesmo em pacientes assintomáticos (estágio C), pois a disfunção ventricular pode ser irreversível se a intervenção for postergada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com insuficiência mitral funcional secundária a miocardiopatia dilatada apresenta dilatação do ventrículo esquerdo. Qual o mecanismo fisiopatológico principal e a abordagem terapêutica mais adequada?",
+    "options": [
+      "Sobrecarga volêmica isolada por insuficiência valvar; tratamento focado em diuréticos e restrição hídrica rigorosa",
+      "Disfunção diastólica primária com regurgitação secundária; tratamento focado em betabloqueadores e vasodilatadores",
+      "Sobrecarga pressórica primária da válvula mitral; tratamento focado na correção cirúrgica da valvopatia estrutural",
+      "Fibrose valvar progressiva com restrição da mobilidade dos folhetos; tratamento focado na troca valvar precoce",
+      "Doença primária do miocárdio com dilatação do anel mitral; tratamento focado na otimização da terapia para insuficiência cardíaca"
+    ],
+    "correctIndex": 4,
+    "explanation": "Na insuficiência mitral FUNCIONAL, a doença primária é do MIOCÁRDIO (miocardiopatia dilatada), e a insuficiência valvar é secundária à dilatação do anel mitral e deslocamento dos músculos papilares. O tratamento deve focar na OTIMIZAÇÃO DA TERAPIA PARA INSUFICIÊNCIA CARDÍACA (IECA, betabloqueador, espironolactona), pois tratar apenas a válvula não resolve o problema de base.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Na avaliação de um paciente com valvopatia, identifica-se VDF de 200 mL e VSF de 80 mL. Calcule a fração de ejeção e interprete o resultado no contexto de valvopatia com sobrecarga volêmica.",
+    "options": [
+      "FE = 120%, resultado tecnicamente impossível que sugere erro na medida dos volumes ventriculares pelo ecocardiograma",
+      "FE = 80%, indicando hipercontratilidade ventricular compensatória típica de sobrecarga volêmica sem disfunção miocárdica",
+      "FE = 20%, indicando disfunção ventricular grave terminal que requer transplante cardíaco como única opção terapêutica",
+      "FE = 40%, indicando disfunção ventricular importante que contraindica cirurgia valvar devido ao alto risco operatório",
+      "FE = 60%, considerada normal e indicando boa reserva contrátil, mesmo com volumes ventriculares aumentados pela sobrecarga volêmica"
+    ],
+    "correctIndex": 4,
+    "explanation": "FE = (VDF − VSF) / VDF = (200 − 80) / 200 = 120 / 200 = 0,60 = 60%. FE de 60% é NORMAL (55-70%) e indica boa reserva contrátil, mesmo com volumes aumentados. Em valvopatias com sobrecarga volêmica (insuficiências), o VE dilata para acomodar o volume aumentado, mas pode manter FE preservada por anos. A queda da FE é um complicador evolutivo tardio.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com estenose mitral reumática desenvolve fibrilação atrial e piora clínica progressiva. Qual a explicação fisiopatológica para essa associação e sua relevância prognóstica?",
+    "options": [
+      "A FA resulta de isquemia miocárdica subendocárdica crônica, indicando necessidade de revascularização coronariana precoce",
+      "A FA é consequência da sobrecarga pressórica ventricular, indicando progressão para disfunção sistólica biventricular",
+      "A FA indica doença miocárdica primária associada, requerendo mudança do foco terapêutico para tratamento da cardiomiopatia",
+      "A FA resulta da sobrecarga e dilatação atrial esquerda pela obstrução ao fluxo mitral, sendo complicador que piora sintomas",
+      "A FA é uma arritmia benigna e autolimitada na EM, sem impacto na evolução ou na estratégia terapêutica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na estenose mitral, a obstrução ao fluxo através da válvula causa SOBRECARGA E DILATAÇÃO DO ÁTRIO ESQUERDO, predispondo à fibrilação atrial. A FA é um importante COMPLICADOR EVOLUTIVO que piora os sintomas (perda do 'chute atrial', controle inadequado da frequência cardíaca) e aumenta risco de fenômenos tromboembólicos, impactando negativamente o prognóstico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Comparando estenose aórtica e insuficiência aórtica, qual a principal diferença nos mecanismos de adaptação ventricular e suas implicações clínicas?",
+    "options": [
+      "EA: disfunção sistólica precoce; IA: função sistólica preservada indefinidamente; EA requer intervenção mais precoce",
+      "EA: sobrecarga volêmica com dilatação; IA: sobrecarga pressórica com hipertrofia; ambas cursam com disfunção diastólica precoce",
+      "EA: adaptação ventricular inadequada; IA: adaptação ventricular eficiente; ambas têm evolução clínica similar",
+      "EA: sobrecarga pressórica com hipertrofia concêntrica; IA: sobrecarga volêmica com dilatação; EA tem sintomas mais precoces",
+      "EA: hipertrofia excêntrica com dilatação; IA: hipertrofia concêntrica sem dilatação; IA tem pior prognóstico a longo prazo"
+    ],
+    "correctIndex": 3,
+    "explanation": "EA (estenose aórtica) causa sobrecarga PRESSÓRICA (↑pós-carga) → hipertrofia CONCÊNTRICA. IA (insuficiência aórtica) causa sobrecarga VOLÊMICA (↑pré-carga) → DILATAÇÃO ventricular. A EA tende a apresentar sintomas mais precoces devido à obstrução ao fluxo de saída, enquanto a IA pode permanecer assintomática por períodos prolongados apesar da dilatação progressiva.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a tríade sintomática obrigatória que deve ser sistematicamente pesquisada na anamnese de todo paciente com suspeita de valvopatia?",
+    "options": [
+      "Dispneia, dor torácica e síncope, representando as principais manifestações de repercussão hemodinâmica valvar",
+      "Tontura, lipotimia e tremores, representando manifestações neurológicas de baixo débito cardíaco crônico",
+      "Palpitações, edema de membros inferiores e astenia, indicando descompensação cardíaca aguda da valvopatia",
+      "Febre, perda ponderal e sudorese noturna, sugerindo endocardite infecciosa como etiologia da valvopatia",
+      "Tosse, hemoptise e ortopneia, sugerindo congestão pulmonar por estenose mitral ou insuficiência cardíaca"
+    ],
+    "correctIndex": 0,
+    "explanation": "A TRÍADE OBRIGATÓRIA na anamnese de valvopatias é: DISPNEIA + DOR TORÁCICA + SÍNCOPE. Esses três sintomas representam as principais manifestações de repercussão hemodinâmica das doenças valvares e devem ser sistematicamente pesquisados, caracterizando sua evolução temporal, fatores desencadeantes e características específicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características típicas da dispneia relacionada a valvopatias que devem ser investigadas na anamnese?",
+    "options": [
+      "Súbita, tipo \"fome de ar\", sem relação postural, melhora com broncodilatadores e sazonal",
+      "Aguda, em repouso, sem relação com esforço, melhora em decúbito e associada a sibilância",
+      "Psicogênica, relacionada a ansiedade, sem limitação funcional objetiva e com hiperventilação",
+      "Intermitente, sem padrão definido, melhora com exercício, piora com alimentação e noturna",
+      "Crônica, piora ao esforço, melhora no repouso, piora em decúbito e progressiva ao longo do tempo"
+    ],
+    "correctIndex": 4,
+    "explanation": "A dispneia nas valvopatias tem evolução CRÔNICA, com PIORA AO ESFORÇO (redução progressiva da capacidade funcional), MELHORA NO REPOUSO, PIORA EM DECÚBITO (ortopneia/dispneia paroxística noturna) e caráter progressivo. Essas características ajudam a diferenciar dispneia cardiogênica de outras causas (pulmonar, anemia, descondicionamento).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na investigação de dor torácica em pacientes com valvopatia, quais características sugerem evento agudo e requerem investigação imediata para síndrome coronariana?",
+    "options": [
+      "Dor crônica, ventilatório-dependente, tipo pontada, sem irradiação, duração de segundos, melhora com analgésicos simples",
+      "Dor aguda, opressiva, com irradiação, duração em minutos, relação com esforço ou repouso, não alivia totalmente",
+      "Dor posicional, tipo pleurítica, piora com inspiração profunda, sem irradiação, duração prolongada em horas",
+      "Dor tipo queimação retroesternal, relação com alimentação, piora em decúbito, alívio com antiácidos",
+      "Dor muscular, à palpação da parede torácica, sem irradiação, duração variável, melhora com repouso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dor torácica de características AGUDAS, OPRESSIVA, com IRRADIAÇÃO típica, duração em MINUTOS, com ou sem relação com esforço, sugere SÍNDROME CORONARIANA AGUDA (IAM ou angina instável) e requer investigação IMEDIATA. Em valvopatias, especialmente EA, pode haver angina por desbalanço oferta/demanda de O2, mas evento agudo deve sempre ser excluído.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais características da síncope devem ser investigadas para diferenciar causas cardiogênicas de causas vasovagais ou neurológicas?",
+    "options": [
+      "Síncope com aura sensorial, movimentos tonicoclônicos, confusão mental pós-ictal e mordedura de língua",
+      "Síncope tipo \"liga-desliga\" sem pródromos, ocorrência ao esforço, ausência de sinais neurológicos focais pós-evento",
+      "Síncope com pródromos prolongados, náuseas, palidez cutaneomucosa, sudorese fria e recuperação lenta",
+      "Síncope postural, ao levantar rapidamente, com tontura, escurecimento visual e recuperação ao deitar",
+      "Síncope situacional, durante micção, defecação ou tosse, com fatores desencadeantes identificáveis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Síncope cardiogênica típica é tipo \"LIGA-DESLIGA\" (perda abrupta de consciência sem pródromos vasovagais), pode ocorrer AO ESFORÇO (especialmente EA, cardiomiopatia hipertrófica) e NÃO apresenta sinais neurológicos focais. Pródromos vaso-vagais (náuseas, sudorese, palidez) e sinais neurológicos devem ser investigados para diagnóstico diferencial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o fluxo propedêutico racional e custo-efetivo para investigação inicial de pacientes com suspeita de valvopatia na atenção primária?",
+    "options": [
+      "Eletrocardiograma de esforço, Holter de 24 horas e MAPA para estratificação de risco inicial",
+      "Solicitação imediata de ecocardiograma transesofágico, tomografia cardíaca e ressonância magnética para diagnóstico definitivo",
+      "Anamnese e exame físico detalhados, seguidos de radiografia de tórax, eletrocardiograma e ecocardiograma transtorácico",
+      "Cateterismo cardíaco diagnóstico, ventriculografia e avaliação hemodinâmica invasiva para todos os casos",
+      "Biomarcadores cardíacos (troponina, BNP), função renal, eletrólitos e ecocardiograma sob estresse farmacológico"
+    ],
+    "correctIndex": 2,
+    "explanation": "O fluxo propedêutico RACIONAL e CUSTO-EFETIVO é: 1º) ANAMNESE + EXAME FÍSICO detalhados; 2º) exames básicos: RADIOGRAFIA DE TÓRAX + ELETROCARDIOGRAMA + ECOCARDIOGRAMA TRANSTORÁCICO; 3º) exames COMPLEMENTARES individualizados (TC, RM, ergometria, hemodinâmica, ETE) conforme necessidade. Essa sequência otimiza recursos e diagnóstico na APS.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 62 anos, hipertensa, relata dispneia aos médios esforços há 6 meses, com piora progressiva. Nega dor torácica ou síncope. Ao exame: sopro sistólico em foco mitral. Qual a conduta mais adequada na APS?",
+    "options": [
+      "Prescrever diurético e IECA, orientar restrição hídrica e reavaliar em 3 meses para verificar resposta terapêutica",
+      "Solicitar apenas ecocardiograma transesofágico para diagnóstico definitivo antes de qualquer outra conduta",
+      "Orientar mudanças de estilo de vida, perda de peso e atividade física, com retorno em 6 meses",
+      "Encaminhar imediatamente para emergência cardiológica devido ao risco de complicação aguda da valvopatia",
+      "Solicitar RX tórax, ECG e ecocardiograma para confirmar valvopatia, estratificar gravidade e planejar seguimento"
+    ],
+    "correctIndex": 4,
+    "explanation": "Frente à suspeita clínica de valvopatia (dispneia progressiva + sopro), a conduta na APS é INVESTIGAR seguindo o fluxo propedêutico: RX TÓRAX + ECG + ECOCARDIOGRAMA para confirmar diagnóstico, definir gravidade e complicadores, permitindo planejamento adequado do seguimento ou referenciamento. Não se inicia tratamento empírico sem diagnóstico definitivo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 45 anos com estenose aórtica moderada conhecida procura a UBS relatando episódio de dor torácica opressiva intensa há 1 hora, com sudorese e náuseas. Qual a conduta imediata?",
+    "options": [
+      "Prescrever nitrato sublingual e orientar repouso domiciliar com reavaliação em 48 horas na UBS",
+      "Aguardar resolução espontânea dos sintomas e referenciar para cardiologia para ajuste medicamentoso",
+      "Solicitar ecocardiograma de controle ambulatorial para reavaliar gravidade da estenose aórtica",
+      "Tranquilizar o paciente, prescrever ansiolítico e orientar retorno se sintomas persistirem por mais de 24 horas",
+      "Encaminhar imediatamente para serviço de emergência para investigação de síndrome coronariana aguda"
+    ],
+    "correctIndex": 4,
+    "explanation": "Dor torácica AGUDA, opressiva, com sintomas neurovegetativos (sudorese, náuseas) configura EVENTO AGUDO sugestivo de SÍNDROME CORONARIANA e requer ENCAMINHAMENTO IMEDIATO À EMERGÊNCIA, independentemente de valvopatia prévia. Pacientes com EA têm risco aumentado de isquemia miocárdica. Nitrato é contraindicado em EA importante. Tempo é músculo!",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 58 anos com insuficiência mitral discreta em acompanhamento ambulatorial relata síncope ao esforço há 2 semanas. Exame físico estável. Qual a interpretação e conduta?",
+    "options": [
+      "Síncope ao esforço indica necessidade de iniciar betabloqueador imediatamente para prevenir novos episódios",
+      "Síncope ao esforço é típica de insuficiência mitral discreta e não modifica seguimento ambulatorial programado",
+      "Síncope ao esforço é sinal de alarme que requer investigação urgente, pois pode indicar progressão da valvopatia ou arritmia",
+      "Síncope ao esforço em contexto de valvopatia é achado benigno, orientar hidratação adequada e retorno de rotina",
+      "Síncope ao esforço sugere hipotensão postural, orientar uso de meias elásticas e aumento de ingesta de sal"
+    ],
+    "correctIndex": 2,
+    "explanation": "SÍNCOPE AO ESFORÇO em paciente com valvopatia é SINAL DE ALARME que requer INVESTIGAÇÃO URGENTE, mesmo em valvopatia previamente classificada como discreta. Pode indicar progressão da doença valvar, arritmias graves ou outras causas cardiogênicas. Avaliar com ECG, Holter, ecocardiograma de controle e considerar teste ergométrico ou referenciamento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente relata dispneia crônica há anos, estável aos grandes esforços, sem outras queixas. Exame físico com sopro sistólico discreto. Qual a estratégia de investigação mais adequada?",
+    "options": [
+      "Seguir fluxo propedêutico racional: RX, ECG, eco para confirmar valvopatia, classificar gravidade e programar seguimento",
+      "Encaminhar diretamente para cardiologia para definição diagnóstica e terapêutica sem investigação prévia",
+      "Nenhuma investigação adicional necessária, pois dispneia estável e sopro discreto não indicam valvopatia relevante",
+      "Investigação completa imediata com todos os exames disponíveis devido à presença de sopro cardíaco ao exame",
+      "Solicitar apenas biomarcadores (BNP, troponina) para estratificação inicial antes de exames de imagem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mesmo em sintomas estáveis, a presença de SOPRO CARDÍACO requer INVESTIGAÇÃO seguindo o FLUXO PROPEDÊUTICO RACIONAL (RX + ECG + ECO) para: 1) confirmar presença de valvopatia; 2) classificar gravidade; 3) identificar complicadores; 4) programar seguimento adequado ou referenciamento. A APS tem papel fundamental no reconhecimento precoce.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 35 anos com sopro diastólico recém-diagnosticado, assintomática. Solicitados RX, ECG e eco. Quais são os objetivos principais dessa propedêutica inicial?",
+    "options": [
+      "Descartar outras causas de sopro cardíaco e tranquilizar a paciente sobre a benignidade do achado",
+      "Confirmar diagnóstico de valvopatia, identificar etiologia, classificar gravidade, detectar complicadores e planejar seguimento",
+      "Definir exclusivamente a indicação cirúrgica imediata baseada na intensidade do sopro e repercussão hemodinâmica",
+      "Realizar triagem para encaminhamento direto ao cirurgião cardíaco para programação de procedimento intervencionista",
+      "Documentar achado para fins legais e médico-periciais sem impacto na condução clínica do caso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os objetivos da propedêutica inicial são: 1) CONFIRMAR diagnóstico anatômico de valvopatia; 2) IDENTIFICAR etiologia; 3) CLASSIFICAR gravidade (discreta/moderada/importante); 4) DETECTAR complicadores evolutivos (disfunção VE, dilatação, FA, HP); 5) PLANEJAR seguimento adequado (periodicidade de exames, critérios de referenciamento). Essa abordagem racional orienta decisões na APS.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual o padrão auscultatório típico da estenose aórtica no ciclo cardíaco e suas características acústicas?",
+    "options": [
+      "Sopro holossistólico, em banda, melhor audível em foco mitral com irradiação para axila esquerda",
+      "Sopro contínuo em maquinaria, sistodiastólico, melhor audível em região subclávia esquerda e dorso",
+      "Sopro sistólico ejetivo, crescendo-decrescendo, melhor audível em foco aórtico com irradiação para carótidas",
+      "Rumor diastólico roufenho, com reforço pré-sistólico, melhor audível em foco mitral com paciente em decúbito lateral esquerdo",
+      "Sopro diastólico aspirativo, decrescente, melhor audível em foco aórtico com paciente em decúbito lateral esquerdo"
+    ],
+    "correctIndex": 2,
+    "explanation": "A estenose aórtica (EA) apresenta SOPRO SISTÓLICO EJETIVO (mesossistólico), com padrão crescendo-decrescendo (diamante), melhor audível em FOCO AÓRTICO (2º EIC direito) com IRRADIAÇÃO para CARÓTIDAS. A intensidade aumenta com a progressão da estenose até certo ponto (EA muito grave pode ter sopro mais suave devido à redução do débito).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o padrão auscultatório típico da insuficiência mitral e sua característica temporal no ciclo cardíaco?",
+    "options": [
+      "Sopro protossistólico isolado, tipo click, seguido de sopro crescente até final da sístole",
+      "Sopro holossistólico, em banda, em foco mitral com irradiação para axila esquerda e região dorsal",
+      "Sopro diastólico decrescente, aspirativo, em foco aórtico acessório com irradiação para borda esternal esquerda",
+      "Rumor diastólico roufenho, com reforço pré-sistólico, em foco mitral com ausculta em decúbito lateral esquerdo",
+      "Sopro sistólico ejetivo, crescendo-decrescendo, em foco aórtico com irradiação para carótidas e região cervical"
+    ],
+    "correctIndex": 1,
+    "explanation": "A insuficiência mitral (IM) apresenta SOPRO HOLOSSISTÓLICO (pangissistólico, em banda), ocupando TODA a sístole desde B1 até B2, melhor audível em FOCO MITRAL (ápice) com IRRADIAÇÃO para AXILA ESQUERDA. O sopro é causado pelo refluxo de sangue do VE para o AE durante toda a sístole.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o padrão auscultatório característico da estenose mitral e suas particularidades acústicas?",
+    "options": [
+      "Rumor diastólico roufenho, de baixa frequência, com reforço pré-sistólico, melhor audível em foco mitral",
+      "Sopro contínuo tipo sopro de Gibson, em foco pulmonar com irradiação para região interescapular",
+      "Sopro sistólico ejetivo, rude, tipo 'grasnido', melhor audível em foco aórtico com irradiação difusa",
+      "Sopro diastólico aspirativo, decrescente, melhor audível em foco pulmonar com paciente sentado inclinado para frente",
+      "Sopro holossistólico musical, de alta frequência, em foco tricúspide com aumento durante inspiração"
+    ],
+    "correctIndex": 0,
+    "explanation": "A estenose mitral (EM) apresenta RUMOR DIASTÓLICO ROUFENHO (baixa frequência, audível com campânula), com REFORÇO PRÉ-SISTÓLICO (em ritmo sinusal, pela contração atrial), melhor audível em FOCO MITRAL com paciente em DECÚBITO LATERAL ESQUERDO. Pode haver estalido de abertura mitral após B2.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o padrão auscultatório típico da insuficiência aórtica e suas características semiológicas?",
+    "options": [
+      "Sopro sistólico ejetivo, intenso, com frêmito palpável e irradiação para toda a região precordial",
+      "Sopro diastólico aspirativo, decrescente, melhor audível em foco aórtico acessório com paciente sentado inclinado para frente",
+      "Sopro holossistólico, em banda, com irradiação para região cervical e carótidas bilateralmente",
+      "Sopro protodiastólico isolado, de curta duração, sem irradiação específica e intensidade variável",
+      "Rumor mesodiastólico de baixa frequência, com reforço pré-sistólico e estalido de abertura"
+    ],
+    "correctIndex": 1,
+    "explanation": "A insuficiência aórtica (IA) apresenta SOPRO DIASTÓLICO (protodiastólico), ASPIRATIVO (alta frequência), DECRESCENTE, melhor audível em FOCO AÓRTICO ACESSÓRIO (3º-4º EIC esquerdo, borda esternal) com paciente SENTADO INCLINADO PARA FRENTE em expiração forçada. A IA crônica pode ter sopro sistólico de fluxo associado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os sinais periféricos clássicos da insuficiência aórtica que devem ser pesquisados no exame físico?",
+    "options": [
+      "Sinal de Kussmaul (aumento da pressão jugular na inspiração), pulso paradoxal e sopro de Hamman",
+      "Sinal de Corrigan (pulso em martelo d'água), Sinal de Becker (pulsação capilar em retina) e Sinal de Landolfi (pupilas pulsáteis)",
+      "Sinal de Jaccoud (artrite migratória), nódulos de Osler e manchas de Janeway nas extremidades",
+      "Sinal de Musset (balanço cefálico), sinal de Rosenbach (pulsação hepática) e sinal de Traube (pistol shot)",
+      "Sinal de Ortner (rouquidão por compressão do nervo laríngeo), cianose diferencial e baqueteamento digital"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os sinais periféricos CLÁSSICOS da insuficiência aórtica são: SINAL DE CORRIGAN (pulso em martelo d'água, célere e amplo); SINAL DE BECKER (pulsação capilar visível em retina ao exame de fundo de olho); SINAL DE LANDOLFI (pupilas pulsáteis, miose/midríase rítmicas). Esses sinais refletem a pressão de pulso alargada característica da IA.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 70 anos apresenta sopro sistólico crescendo-decrescendo em foco aórtico com irradiação para carótidas. Pulsos carotídeos de ascensão lenta (parvus et tardus). Qual a valvopatia mais provável e o que explica os achados?",
+    "options": [
+      "Estenose aórtica; sopro ejetivo e pulsos de ascensão lenta (parvus et tardus) são típicos da obstrução valvar",
+      "Comunicação interventricular; sopro sistólico por shunt esquerda-direita e pulsos alterados por hipertensão pulmonar",
+      "Estenose mitral; sopro sistólico por fechamento valvar e pulsos alterados por fibrilação atrial",
+      "Insuficiência mitral; pulsos carotídeos alterados por baixo débito cardíaco associado à valvopatia mitral",
+      "Insuficiência aórtica; sopro sistólico de fluxo aumentado e pulsos amplos tipo Corrigan"
+    ],
+    "correctIndex": 0,
+    "explanation": "O quadro é típico de ESTENOSE AÓRTICA: sopro sistólico EJETIVO (crescendo-decrescendo) em foco aórtico com irradiação para carótidas + pulsos carotídeos de ASCENSÃO LENTA (parvus et tardus). Esses achados refletem a obstrução ao fluxo de saída do VE pela válvula estenótica, resultando em menor velocidade e amplitude do pulso arterial.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 55 anos com sopro holossistólico em ápice com irradiação para axila. Exame mostra B1 hiperfonética e estalido mesossistólico. Qual a hipótese diagnóstica mais provável?",
+    "options": [
+      "Comunicação interventricular com sopro holossistólico e estalido por vibração do septo",
+      "Estenose aórtica com sopro ejetivo irradiado e estalido de ejeção por válvula calcificada",
+      "Insuficiência aórtica crônica com sopro sistólico de fluxo aumentado e desdobramento de B1",
+      "Estenose mitral com fibrilação atrial, sopro sistólico funcional e estalido de abertura mitral",
+      "Insuficiência mitral por prolapso valvar mitral, com estalido (click) seguido de sopro sistólico tardio"
+    ],
+    "correctIndex": 4,
+    "explanation": "Sopro HOLOSSISTÓLICO em ápice com irradiação para axila + ESTALIDO MESOSSISTÓLICO (click) sugere INSUFICIÊNCIA MITRAL por PROLAPSO VALVAR MITRAL. O click corresponde ao tensionamento súbito do aparelho valvar prolapsado, seguido do sopro de regurgitação. É uma causa comum de IM em mulheres jovens/meia-idade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com insuficiência aórtica importante apresenta pulso arterial amplo e célere, com pressão arterial de 160/40 mmHg. Qual o mecanismo fisiopatológico e o sinal correspondente?",
+    "options": [
+      "Pressão de pulso alargada por refluxo aórtico diastólico; Sinal de Corrigan (pulso em martelo d'água)",
+      "Aumento da pré-carga ventricular por sobrecarga volêmica; Sinal de Kussmaul",
+      "Vasoconstrição periférica compensatória por baixo débito; pulso filiforme e irregular",
+      "Obstrução ao fluxo de saída do VE por estenose valvar; pulso parvus et tardus",
+      "Hipercontratilidade ventricular por disfunção diastólica; pulso bisferiens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na IA importante, o refluxo diastólico causa PRESSÃO DE PULSO ALARGADA (diferença aumentada entre sistólica e diastólica: 160-40=120 mmHg). O pulso amplo e célere é o SINAL DE CORRIGAN (pulso em martelo d'água), característico da IA. A pressão diastólica baixa reflete o refluxo para o VE durante a diástole.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Ao auscultar paciente com dispneia, identifica-se rumor diastólico roufenho em foco mitral, com reforço pré-sistólico. Qual a valvopatia e o que explica o reforço pré-sistólico?",
+    "options": [
+      "Estenose mitral com fibrilação atrial; reforço pré-sistólico por contração atrial desorganizada",
+      "Insuficiência aórtica; reforço pré-sistólico por vibração do folheto mitral anterior (sopro de Austin-Flint)",
+      "Insuficiência mitral; reforço pré-sistólico por contração atrial tentando vencer a regurgitação valvar",
+      "Estenose mitral em ritmo sinusal; reforço pré-sistólico pela contração atrial empurrando sangue através da válvula estenótica",
+      "Estenose tricúspide; reforço pré-sistólico por sobrecarga do átrio direito com ingurgitamento jugular"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rumor diastólico roufenho em foco mitral = ESTENOSE MITRAL. O REFORÇO PRÉ-SISTÓLICO ocorre pela CONTRAÇÃO ATRIAL (final da diástole) empurrando sangue através da válvula estenótica, aumentando turbulência e intensidade do sopro. Esse reforço está PRESENTE em ritmo sinusal e AUSENTE na fibrilação atrial (sem contração atrial efetiva).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente apresenta sopro diastólico aspirativo em foco aórtico acessório e, à verificação da PA, nota-se PA de 150/60 mmHg. Adicionalmente, observa-se pulsação visível nas unhas (capilar). Como integrar esses achados?",
+    "options": [
+      "Coarctação de aorta com hipertensão de membros superiores; pulsação capilar por circulação colateral",
+      "Insuficiência mitral com hipertensão arterial descontrolada; pulsação capilar por vasodilatação periférica",
+      "Insuficiência aórtica com pressão de pulso alargada; pulsação capilar corresponde ao Sinal de Becker",
+      "Estenose aórtica com hipertensão sistólica isolada do idoso; pulsação capilar é artefato de exame",
+      "Comunicação interventricular com sobrecarga volume; pulsação capilar por hiperdebito circulatório"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sopro diastólico aspirativo em foco aórtico acessório + PA 150/60 (pressão de pulso alargada) = INSUFICIÊNCIA AÓRTICA. A pulsação capilar visível (pode ser testada comprimindo levemente a unha e observando pulsação rítmica) corresponde ao SINAL DE BECKER, um dos sinais periféricos clássicos da IA, reflexo da pressão de pulso aumentada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Na radiografia de tórax em projeção póstero-anterior (PA) de um paciente com estenose mitral, qual achado radiológico é caracterizado pelo deslocamento superior do brônquio-fonte esquerdo?",
+    "options": [
+      "Abaulamento do 4º arco cardíaco esquerdo, refletindo dilatação do ventrículo esquerdo por sobrecarga",
+      "Linhas B de Kerley na base pulmonar, indicando congestão venosa e edema intersticial crônico",
+      "Sinal da bailarina, causado pela elevação do brônquio-fonte esquerdo por dilatação do átrio esquerdo",
+      "Duplo contorno na silhueta direita do coração, indicando dilatação do átrio esquerdo posterior",
+      "Inversão do padrão vascular pulmonar, com redistribuição de fluxo para os ápices por hipertensão pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "O SINAL DA BAILARINA é caracterizado pelo deslocamento SUPERIOR do brônquio-fonte esquerdo, causado pela dilatação do átrio esquerdo na estenose mitral. Esse achado é visualizado na radiografia de tórax PA e é um dos sinais radiológicos clássicos da EM, juntamente com o duplo contorno direito e o abaulamento do 4º arco esquerdo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado radiológico na projeção PA do tórax representa especificamente a dilatação do átrio esquerdo na estenose mitral e aparece na silhueta direita do coração?",
+    "options": [
+      "Abaulamento do 3º arco cardíaco direito, indicando dilatação da aorta ascendente por hipertensão sistólica",
+      "Retificação do arco médio esquerdo, indicando dilatação do tronco da artéria pulmonar por hipertensão pulmonar",
+      "Deslocamento lateral da silhueta cardíaca direita por derrame pericárdico associado à valvopatia",
+      "Duplo contorno na silhueta direita do coração, com linha mais medial representando a parede posterior do átrio esquerdo",
+      "Aumento da área cardíaca global com índice cardiotorácico maior que 0,5 por dilatação biventricular"
+    ],
+    "correctIndex": 3,
+    "explanation": "O DUPLO CONTORNO na silhueta DIREITA do coração representa a dilatação do átrio esquerdo, cuja parede posterior (linha mais medial) se torna visível através do átrio direito. Esse é um achado radiológico clássico da estenose mitral na projeção PA, refletindo a dilatação atrial causada pela obstrução ao fluxo através da válvula mitral estenótica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na radiografia de tórax em perfil de um paciente com estenose mitral, qual achado específico pode ser observado quando utilizado contraste esofágico?",
+    "options": [
+      "Compressão lateral do esôfago por dilatação da aorta descendente torácica",
+      "Deslocamento posterior do esôfago contrastado por dilatação do átrio esquerdo aumentado",
+      "Deslocamento anterior do esôfago por dilatação do ventrículo direito hipertrofiado",
+      "Deslocamento inferior do esôfago por elevação do diafragma causada por congestão pulmonar",
+      "Não há deslocamento esofágico na EM, pois essa valvopatia poupa as câmaras posteriores do coração"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na radiografia de tórax em PERFIL com contraste esofágico, observa-se DESLOCAMENTO POSTERIOR do esôfago pela dilatação do átrio esquerdo. Como o átrio esquerdo é a câmara cardíaca mais posterior, sua dilatação na EM desloca posteriormente o esôfago, que tem trajeto imediatamente posterior ao coração. Esse é um achado específico para avaliação do AE.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais achados pulmonares na radiografia de tórax são típicos da estenose mitral com congestão venosa pulmonar e hipertensão pulmonar?",
+    "options": [
+      "Hipotransparência em vidro fosco, espessamento peribrônquico e infiltrado perihilar em asa de borboleta",
+      "Consolidação alveolar bilateral, broncograma aéreo e derrame pleural livre nas bases pulmonares",
+      "Padrão reticular difuso, faveolamento pulmonar e espessamento septal inter e intralobular bilateral",
+      "Atelectasia subsegmentar, enfisema bolhoso apical e retificação das cúpulas diafragmáticas",
+      "Inversão do padrão vascular, Linhas B de Kerley e edema intersticial sem cardiomegalia importante"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os achados pulmonares típicos da EM são: INVERSÃO DO PADRÃO VASCULAR (redistribuição para ápices por hipertensão venocapilar), LINHAS B DE KERLEY (septos interlobulares espessados na base), e EDEMA INTERSTICIAL. Importante: a área cardíaca pode estar NORMAL ou levemente aumentada, pois a EM classicamente poupa o VE.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No eletrocardiograma de um paciente com estenose mitral em ritmo sinusal, qual alteração da onda P é característica da sobrecarga atrial esquerda?",
+    "options": [
+      "Onda P negativa em DI e aVL, indicando ritmo atrial ectópico baixo ou ritmo juncional",
+      "Onda P larga e bífida em DII (P mitrale), com duração maior que 120 ms, indicando sobrecarga atrial esquerda",
+      "Onda P estreita e pontiaguda em todas as derivações, indicando hiperatividade simpática crônica",
+      "Onda P ausente com atividade atrial caótica, caracterizando fibrilação atrial paroxística",
+      "Onda P apiculada e de grande amplitude em DII, DIII e aVF, indicando sobrecarga atrial direita pura"
+    ],
+    "correctIndex": 1,
+    "explanation": "A sobrecarga atrial esquerda (SAE) no ECG manifesta-se como ONDA P LARGA E BÍFIDA em DII (P MITRALE), com duração MAIOR QUE 120 ms (3 quadradinhos pequenos ou 0,12 s). O padrão bífido reflete a ativação atrial sequencial, com atraso na despolarização do átrio esquerdo dilatado. Esse achado é característico da estenose mitral em ritmo sinusal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 52 anos com história de febre reumática na infância apresenta dispneia progressiva. RX tórax PA mostra duplo contorno direito, sinal da bailarina e abaulamento do 4º arco esquerdo. Qual a interpretação integrada desses achados?",
+    "options": [
+      "Estenose mitral com dilatação significativa do átrio esquerdo e sinais de repercussão hemodinâmica pulmonar",
+      "Miocardiopatia dilatada com insuficiência mitral funcional e área cardíaca global aumentada",
+      "Insuficiência aórtica crônica com dilatação do ventrículo esquerdo e sobrecarga de volume progressiva",
+      "Cardiopatia isquêmica com dilatação ventricular pós-infarto e remodelamento ventricular adverso",
+      "Insuficiência mitral importante com dilatação biventricular e congestão pulmonar por sobrecarga volêmica"
+    ],
+    "correctIndex": 0,
+    "explanation": "História de febre reumática + duplo contorno direito (dilatação AE) + sinal da bailarina (elevação brônquio esquerdo) + 4º arco E abaulado (apêndice atrial E/tronco pulmonar) = ESTENOSE MITRAL com importante dilatação do átrio esquerdo e repercussão hemodinâmica. A EM é a principal sequela valvar da doença reumática e esses achados radiológicos são clássicos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com estenose mitral apresenta ECG com onda P larga e bífida em DII e, em V1, porção negativa da onda P com área maior que 1 mm² (1 quadradinho pequeno). Como interpretar esses achados?",
+    "options": [
+      "Sobrecarga atrial direita isolada em DII com pseudo-normalização em V1 por compensação hemodinâmica",
+      "P mitrale em DII e Índice de Morris positivo em V1, ambos indicando sobrecarga atrial esquerda pela EM",
+      "Ritmo atrial ectópico com origem em átrio esquerdo, requerendo Holter para avaliar arritmias supraventriculares",
+      "Bloqueio interatrial em DII e padrão de sobrecarga ventricular direita em V1 por hipertensão pulmonar",
+      "Padrão normal de variação da onda P sem significado patológico, não correlacionado à estenose mitral"
+    ],
+    "correctIndex": 1,
+    "explanation": "P MITRALE em DII (P larga e bífida, >120ms) + ÍNDICE DE MORRIS POSITIVO em V1 (porção negativa da P com área >1mm²) = SOBRECARGA ATRIAL ESQUERDA. Ambos os achados refletem a dilatação e sobrecarga do AE causada pela obstrução mitral. O Índice de Morris tem melhor sensibilidade que o critério isolado de duração aumentada da onda P.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com estenose mitral avançada desenvolve sobrecarga de ventrículo direito. Quais alterações eletrocardiográficas são esperadas nessa fase evolutiva?",
+    "options": [
+      "Desvio do eixo para esquerda, ondas R amplas em V5-V6 e ondas S profundas em V1-V2 por hipertrofia do VE",
+      "Bloqueio de ramo esquerdo completo com QRS alargado e padrão QS nas derivações precordiais esquerdas",
+      "Desvio do eixo para direita, ondas S amplas em V5-V6 e ondas R amplas em V1-V2 por hipertrofia do VD",
+      "Ondas Q patológicas em parede inferior com supradesnivelamento de ST sugerindo infarto pregresso",
+      "Padrão de strain lateral com infradesnivelamento de ST e inversão de T em DI, aVL, V5 e V6"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em casos AVANÇADOS de EM com hipertensão pulmonar secundária, desenvolve-se SOBRECARGA DE VD com: DESVIO DO EIXO para DIREITA, ONDAS S AMPLAS em V5-V6 (câmaras esquerdas) e ONDAS R AMPLAS em V1-V2 (câmaras direitas). Isso reflete hipertrofia e sobrecarga do VD secundárias à hipertensão pulmonar causada pela obstrução mitral crônica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 48 anos com EM apresenta ECG mostrando ausência de ondas P identificáveis, com linha de base irregular. RX tórax confirma dilatação atrial esquerda. Qual a interpretação e implicação desse achado?",
+    "options": [
+      "Ritmo sinusal normal com artefato técnico na linha de base; repetir ECG para adequada avaliação",
+      "Bloqueio sinoatrial de segundo grau com pausas prolongadas, indicar marcapasso definitivo",
+      "Fibrilação atrial, complicador evolutivo da EM que piora sintomas e aumenta risco tromboembólico",
+      "Taquicardia atrial multifocal por distúrbio eletrolítico associado, corrigir com reposição de potássio",
+      "Flutter atrial com condução variável, realizar cardioversão elétrica para restaurar ritmo sinusal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ausência de ondas P + linha de base irregular = FIBRILAÇÃO ATRIAL. Na EM, a FA é um importante COMPLICADOR EVOLUTIVO causado pela dilatação e sobrecarga crônica do AE. A FA PIORA os sintomas (perda do 'chute atrial', controle inadequado da FC) e AUMENTA RISCO TROMBOEMBÓLICO (formação de trombos no AE dilatado), requerendo anticoagulação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com estenose mitral apresenta RX tórax com Linhas B de Kerley proeminentes nas bases pulmonares e inversão do padrão vascular. ECG mostra P mitrale. Como integrar os achados para estratificação de gravidade?",
+    "options": [
+      "Achados sugerem doença pulmonar primária não relacionada à valvopatia; investigar com tomografia de tórax",
+      "Achados indicam EM com repercussão hemodinâmica importante: SAE ao ECG + congestão pulmonar ao RX; investigar com eco",
+      "Achados indicam EM leve com hipertensão pulmonar isolada; tratar com vasodilatadores pulmonares específicos",
+      "Achados sugerem EM discreta sem repercussão significativa; seguimento ambulatorial anual com ecocardiograma",
+      "Achados são inespecíficos e não permitem inferir gravidade; solicitar cateterismo cardíaco direito para avaliação hemodinâmica"
+    ],
+    "correctIndex": 1,
+    "explanation": "P mitrale (SAE ao ECG) + Linhas B de Kerley (edema intersticial) + inversão padrão vascular (hipertensão venocapilar) = EM com REPERCUSSÃO HEMODINÂMICA IMPORTANTE. A integração dos achados radiológicos e eletrocardiográficos indica obstrução mitral significativa com congestão pulmonar e sobrecarga atrial. O próximo passo é ECOCARDIOGRAMA para quantificação anatômica e hemodinâmica.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os critérios ecocardiográficos que definem estenose aórtica como IMPORTANTE segundo os parâmetros de velocidade máxima, gradiente sistólico e área valvar?",
+    "options": [
+      "EA importante: Vmáx >2,9 m/s; GS >20 mmHg; AV <2,0 cm²",
+      "EA importante: Vmáx >3,5 m/s; GS >35 mmHg; AV <1,2 cm²",
+      "EA importante: Vmáx >4,0 m/s; GS >40 mmHg; AV <1,0 cm²",
+      "EA importante: Vmáx >4,5 m/s; GS >50 mmHg; AV <0,75 cm²",
+      "EA importante: Vmáx >3,0 m/s; GS >30 mmHg; AV <1,5 cm²"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os critérios ecocardiográficos para EA IMPORTANTE são: Velocidade máxima (Vmáx) >4,0 m/s; Gradiente sistólico médio (GS) >40 mmHg; Área valvar (AV) <1,0 cm². Esses três parâmetros devem ser avaliados conjuntamente para classificação adequada da gravidade. EA muito importante: Vmáx >4,5 m/s, GS >50 mmHg, AV <0,75 cm².",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a classificação ecocardiográfica de uma estenose aórtica com velocidade máxima de 3,5 m/s, gradiente sistólico de 35 mmHg e área valvar de 1,2 cm²?",
+    "options": [
+      "EA moderada: Vmáx entre 2,9-3,9 m/s; GS entre 20-40 mmHg; AV entre 1,0-1,5 cm²",
+      "EA borderline: parâmetros discordantes que requerem avaliação adicional com TC ou RM cardíaca",
+      "EA muito importante: Vmáx >4,5 m/s; GS >50 mmHg; AV <0,75 cm²",
+      "EA discreta: Vmáx <2,9 m/s; GS <20 mmHg; AV >1,5 cm²",
+      "EA importante: Vmáx >4,0 m/s; GS >40 mmHg; AV <1,0 cm²"
+    ],
+    "correctIndex": 0,
+    "explanation": "Com Vmáx=3,5 m/s (entre 2,9-3,9), GS=35 mmHg (entre 20-40) e AV=1,2 cm² (entre 1,0-1,5), trata-se de EA MODERADA. É importante avaliar os TRÊS parâmetros, pois podem haver discordâncias. EA discreta: V<2,9, GS<20, AV>1,5. EA importante: V>4,0, GS>40, AV<1,0.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as etiologias PRIMÁRIAS das valvopatias que envolvem lesão estrutural direta da válvula e devem ser diferenciadas das causas funcionais/secundárias?",
+    "options": [
+      "Miocardiopatia dilatada, cardiomiopatia isquêmica, fibrilação atrial com dilatação de anel mitral",
+      "Reumática, degenerativa, mixomatosa, calcífica, traumática, congênita, colagenose, endocardite infecciosa",
+      "Hipertensão arterial sistêmica, doença arterial coronariana, hipertensão pulmonar primária",
+      "Diabetes mellitus, síndrome metabólica, doença renal crônica, doenças autoimunes sistêmicas",
+      "Insuficiência cardíaca de qualquer etiologia, infarto do miocárdio prévio, cardiomiopatia periparto"
+    ],
+    "correctIndex": 1,
+    "explanation": "As etiologias valvares PRIMÁRIAS (lesão estrutural da válvula) incluem: REUMÁTICA, DEGENERATIVA, MIXOMATOSA, CALCÍFICA, TRAUMÁTICA, CONGÊNITA, COLAGENOSE e ENDOCARDITE INFECCIOSA. Diferenciam-se das valvopatias FUNCIONAIS/SECUNDÁRIAS (miocardiopatia dilatada, isquêmica, FA com dilatação de anel), onde a doença primária é do MIOCÁRDIO e a valvopatia é consequência.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No estadiamento clínico das valvopatias (classificação A-D), qual estágio representa um paciente com valvopatia importante assintomática?",
+    "options": [
+      "Estágio B: valvopatia estrutural discreta a moderada, sem sintomas limitantes ou repercussão hemodinâmica",
+      "Estágio C: valvopatia importante assintomática, necessita seguimento rigoroso e avaliação de complicadores",
+      "Estágio A: paciente com fatores de risco para valvopatia, sem alteração valvar estrutural detectável",
+      "Estágio E: valvopatia pós-intervenção (reparo ou troca valvar), requer seguimento específico de prótese",
+      "Estágio D: valvopatia importante sintomática, candidato à intervenção valvar conforme indicações estabelecidas"
+    ],
+    "correctIndex": 1,
+    "explanation": "O ESTÁGIO C representa valvopatia IMPORTANTE ASSINTOMÁTICA. Requer seguimento rigoroso, avaliação seriada de complicadores (queda FE, dilatação, FA, strain alterado, hipertensão pulmonar) e pode ter indicação de intervenção precoce conforme diretrizes. Estágio A: fatores de risco. Estágio B: discreta/moderada. Estágio D: importante sintomática (indicação clara de intervenção).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os exemplos de valvopatias FUNCIONAIS/SECUNDÁRIAS, onde a doença primária é do miocárdio e a valvopatia é consequência?",
+    "options": [
+      "Insuficiência mitral por miocardiopatia dilatada, insuficiência tricúspide por hipertensão pulmonar, IM por isquemia",
+      "Prolapso valvar mitral tipo Barlow, válvula aórtica bicúspide congênita, calcificação do anel mitral (MAC)",
+      "Ruptura de cordoalha por trauma torácico, perfuração de folheto por endocardite, estenose aórtica reumática",
+      "Insuficiência aórtica por dissecção aórtica aguda, valvopatia por síndrome carcinoide, esclerodermia valvar",
+      "Estenose aórtica degenerativa calcífica, estenose mitral reumática, endocardite infecciosa de valva nativa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Valvopatias FUNCIONAIS/SECUNDÁRIAS: IM por MIOCARDIOPATIA DILATADA (dilatação VE → dilatação anel mitral), IM ISQUÊMICA (disfunção de músculos papilares), IT por hipertensão pulmonar, FA com dilatação de anel. Nesses casos, a DOENÇA É DO MIOCÁRDIO e o tratamento deve focar a otimização da terapia para insuficiência cardíaca, não apenas a válvula.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 72 anos, hipertenso, assintomático. Ecocardiograma: EA com Vmáx 4,3 m/s, GS 46 mmHg, AV 0,85 cm², FE 65%, sem dilatação de VE. Qual o estadiamento clínico e a conduta mais apropriada?",
+    "options": [
+      "Estágio A (em risco): otimizar controle pressórico, estatina, seguimento anual com ecocardiograma de rotina",
+      "Estágio C (importante assintomática): seguimento semestral rigoroso, considerar teste ergométrico, avaliar complicadores",
+      "Estágio D (sintomática): indicação de intervenção imediata com troca valvar aórtica cirúrgica ou TAVI",
+      "Estágio B (moderada): seguimento anual, sem necessidade de intervenção ou exames adicionais neste momento",
+      "EA discreta: sem necessidade de seguimento cardiológico especializado, retorno à atenção primária"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vmáx 4,3 (>4,0), GS 46 (>40), AV 0,85 (<1,0) = EA IMPORTANTE. Paciente ASSINTOMÁTICO com FE preservada = ESTÁGIO C. Conduta: seguimento RIGOROSO (semestral ou menor), TESTE ERGOMÉTRICO para detectar sintomas ocultos, avaliar COMPLICADORES evolutivos. Considerar intervenção SE: desenvolvimento de sintomas, queda de FE ou complicadores significativos. Não é indicação de cirurgia imediata em assintomático.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 65 anos com insuficiência mitral. Ecocardiograma mostra dilatação importante do VE, FE 35%, sem evidência de lesão estrutural da válvula mitral. Qual a etiologia mais provável e a abordagem terapêutica?",
+    "options": [
+      "IM isquêmica aguda por ruptura de músculo papilar; encaminhar para cirurgia de emergência",
+      "IM reumática; iniciar profilaxia secundária de febre reumática e avaliar valvoplastia percutânea",
+      "IM funcional secundária a miocardiopatia dilatada; otimizar tratamento da insuficiência cardíaca como prioridade",
+      "IM por prolapso valvar; avaliar critérios para reparo cirúrgico com preservação do aparelho subvalvar",
+      "IM primária degenerativa; indicação de reparo ou troca valvar mitral para correção da regurgitação"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dilatação VE + FE reduzida + SEM lesão estrutural valvar = IM FUNCIONAL/SECUNDÁRIA a miocardiopatia dilatada. A DOENÇA É DO MIOCÁRDIO (não da válvula). O tratamento deve FOCAR na OTIMIZAÇÃO da terapia para IC (IECA, betabloqueador, espironolactona, diurético), pois tratar apenas a válvula não resolve o problema de base. A IM pode melhorar com remodelamento reverso do VE.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 58 anos com estenose aórtica importante (Vmáx 4,6 m/s). Apresenta dispneia NYHA III e angina aos esforços. FE 58%. Qual o estadiamento e a conduta indicada?",
+    "options": [
+      "Estágio C com indicação de tratamento clínico exclusivo até piora da função ventricular",
+      "Estágio B (moderada): tratamento clínico com betabloqueador e nitrato para controle de angina",
+      "Estágio D (sintomática): indicação de intervenção valvar (cirúrgica ou TAVI), avaliar risco cirúrgico pelo Heart Team",
+      "Estágio C (assintomática): seguimento ambulatorial semestral, otimizar controle de fatores de risco cardiovascular",
+      "EA discreta sintomática: investigar outras causas de dispneia e angina, pois EA não justifica sintomas"
+    ],
+    "correctIndex": 2,
+    "explanation": "EA IMPORTANTE (V>4,0) + SINTOMAS (dispneia NYHA III, angina) = ESTÁGIO D. INDICAÇÃO de INTERVENÇÃO VALVAR (troca valvar cirúrgica ou TAVI). A presença de sintomas relacionados à valvopatia importante é indicação classe I para procedimento. O Heart Team deve avaliar: idade, comorbidades, risco cirúrgico (STS, EuroScore) e preferência do paciente para escolha do método.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com insuficiência mitral importante primária (prolapso), assintomático, apresenta ao ecocardiograma: FE 55%, DSVE 42 mm, PSAP 55 mmHg. Como classificar e conduzir?",
+    "options": [
+      "IM discreta: alta do seguimento cardiológico, retornar apenas se desenvolvimento de sintomas limitantes",
+      "Estágio C com complicadores (DSVE ≥40mm, PSAP ≥50mmHg): considerar indicação de intervenção mesmo assintomático",
+      "Estágio B (moderada): seguimento anual, não há necessidade de avaliação mais frequente neste momento",
+      "Estágio C sem complicadores: seguimento semestral, sem indicação de intervenção até surgimento de sintomas",
+      "Estágio D: indicação de intervenção imediata independentemente de sintomas devido aos complicadores presentes"
+    ],
+    "correctIndex": 1,
+    "explanation": "IM importante primária + assintomático = Estágio C, MAS presença de COMPLICADORES: DSVE ≥40mm (dilatação VE) e PSAP ≥50mmHg (hipertensão pulmonar) pode ANTECIPAR indicação de intervenção mesmo em assintomático, pois indica repercussão hemodinâmica significativa. Outros complicadores: FE<60%, FA de início recente. A cirurgia precoce pode prevenir disfunção ventricular irreversível.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com EA moderada por critérios anatômicos (AV 1,1 cm²), mas com Vmáx 4,1 m/s e GS 42 mmHg. FE 40%, baixo fluxo. Como interpretar essa discordância de parâmetros?",
+    "options": [
+      "EA discreta com disfunção ventricular associada; foco no tratamento da insuficiência cardíaca",
+      "EA importante verdadeira apesar da área valvar; baixo fluxo/baixo gradiente com FE reduzida requer avaliação adicional (eco dobutamina)",
+      "Erro de medida ecocardiográfica; solicitar novo exame em centro de referência para reavaliação",
+      "EA moderada definitiva; os gradientes elevados são secundários à disfunção ventricular, não à estenose",
+      "EA funcional por calcificação anular sem estenose verdadeira; seguimento conservador"
+    ],
+    "correctIndex": 1,
+    "explanation": "Discordância de parâmetros (AV >1,0 mas V e GS de EA importante) + FE reduzida = suspeita de EA importante VERDADEIRA com BAIXO FLUXO/BAIXO GRADIENTE. A disfunção VE reduz o fluxo através da válvula, subestimando gradientes. Requer avaliação adicional: ECO COM DOBUTAMINA (para diferenciar EA verdadeira de pseudo-estenose) ou TC para quantificação do cálcio valvar (score de Agatston).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O que caracteriza o conceito de 'Heart Team' na abordagem das valvopatias e qual sua importância na decisão terapêutica?",
+    "options": [
+      "Discussão multidisciplinar individualizada (cardiologista clínico, cirurgião, intervencionista) para definir melhor estratégia terapêutica",
+      "Equipe exclusivamente cirúrgica que define técnica operatória e tipo de prótese valvar a ser utilizada",
+      "Grupo de enfermeiros especializados em cuidados pós-operatórios de cirurgia cardíaca e reabilitação",
+      "Equipe de emergência cardiológica disponível 24h para atendimento de complicações agudas de valvopatias",
+      "Comitê administrativo hospitalar que avalia viabilidade financeira e autoriza procedimentos cardiológicos complexos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O HEART TEAM é uma discussão MULTIDISCIPLINAR (cardiologista clínico + cirurgião cardíaco + cardiologista intervencionista + anestesista) para definir a melhor estratégia terapêutica INDIVIDUALIZADA para cada paciente. Considera: gravidade da valvopatia, sintomas, comorbidades, risco cirúrgico, anatomia valvar, preferências do paciente. Melhora resultados e qualidade das decisões terapêuticas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o papel do tratamento clínico (medicamentoso) nas valvopatias em relação ao tratamento intervencionista quando este está indicado?",
+    "options": [
+      "O tratamento clínico NÃO substitui o intervencionista quando indicado; pode ser ponte ou alívio sintomático, mas melhora não cancela procedimento",
+      "O tratamento clínico só deve ser iniciado após falha ou contraindicação do tratamento intervencionista",
+      "O tratamento clínico é sempre preferível ao intervencionista devido ao menor risco e melhor qualidade de vida",
+      "O tratamento clínico substitui o tratamento intervencionista quando há melhora sintomática significativa",
+      "O tratamento clínico e intervencionista têm resultados equivalentes em longo prazo para valvopatias importantes"
+    ],
+    "correctIndex": 0,
+    "explanation": "IMPORTANTE: o tratamento clínico NÃO SUBSTITUI o tratamento INTERVENCIONISTA quando este está indicado. Pode servir como PONTE até cirurgia (filas demoradas), ALÍVIO SINTOMÁTICO ou tratamento de comorbidades, MAS a MELHORA DOS SINTOMAS NÃO CANCELA o procedimento definitivo. Nas valvopatias funcionais (IM/IT secundárias), o tratamento clínico tem papel mais relevante pois a doença é do miocárdio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Nas valvopatias funcionais (como insuficiência mitral ou tricúspide secundárias), qual é o foco principal do tratamento e por quê?",
+    "options": [
+      "Cardioversão elétrica e controle de ritmo para restaurar função atrial e melhorar competência valvar",
+      "Intervenção valvar precoce (reparo ou troca), pois a progressão da regurgitação leva à disfunção irreversível",
+      "Anticoagulação plena para prevenir tromboembolismo associado à estase sanguínea nas câmaras dilatadas",
+      "Tratamento clínico otimizado para insuficiência cardíaca, pois a doença primária é do MIOCÁRDIO e não da válvula",
+      "Restrição hídrica rigorosa e diuréticos de alça em altas doses para controlar sobrecarga volêmica"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nas valvopatias FUNCIONAIS (IM/IT secundárias a miocardiopatia), a DOENÇA É DO MIOCÁRDIO (não há lesão estrutural primária da válvula). O tratamento deve FOCAR na OTIMIZAÇÃO da terapia para IC (IECA/BRA, betabloqueador, espironolactona, SGLT2i, diurético). A regurgitação pode MELHORAR com remodelamento reverso do VE. Intervir apenas na válvula não resolve o problema de base.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais tipos de próteses valvares utilizados nas intervenções cirúrgicas e suas características gerais?",
+    "options": [
+      "Próteses absorvíveis (degradam com o tempo) e permanentes (mantêm estrutura indefinidamente)",
+      "Próteses autólogas (tecido do próprio paciente) e heterólogas (tecido de doador humano compatível)",
+      "Próteses de primeira geração (obsoletas) e de nova geração (nanotecnologia com biocompatibilidade perfeita)",
+      "Próteses valvares e anuloplastias com anéis protéticos para remodelamento do anel valvar",
+      "Biopróteses (tecido biológico, durabilidade limitada, não requer anticoagulação crônica) e mecânicas (metal, durabilidade indefinida, requer anticoagulação)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os principais tipos são: BIOPRÓTESES (tecido biológico - porcino ou bovino; durabilidade LIMITADA ~10-15 anos; NÃO requer anticoagulação crônica) e MECÂNICAS (metal/carbono; durabilidade INDEFINIDA; REQUER anticoagulação com varfarina para INR 2-3). Escolha considera: idade, risco hemorrágico, desejo de gravidez, adesão à anticoagulação. Geralmente: bioprótese >65 anos, mecânica <50-60 anos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo o estadiamento clínico (A-D), em qual estágio a valvopatia importante sintomática está classificada e qual a indicação terapêutica?",
+    "options": [
+      "Estágio E: valvopatia importante sintomática pós-procedimento requer reintervenção urgente",
+      "Estágio C: valvopatia importante sintomática requer otimização clínica antes de considerar intervenção",
+      "Estágio B: valvopatia importante sintomática pode ser acompanhada clinicamente se FE preservada",
+      "Estágio A: valvopatia importante sintomática requer intervenção imediata conforme indicações de classe I",
+      "Estágio D: valvopatia importante sintomática é candidata à intervenção (cirúrgica ou percutânea) conforme indicações"
+    ],
+    "correctIndex": 4,
+    "explanation": "ESTÁGIO D = valvopatia IMPORTANTE SINTOMÁTICA. É CANDIDATO À INTERVENÇÃO (cirurgia convencional, reparo valvar ou procedimento percutâneo - ex: TAVI para EA). A presença de sintomas relacionados à valvopatia importante constitui indicação classe I para procedimento (exceto contraindicações). O Heart Team define a melhor modalidade de intervenção baseado em risco cirúrgico e anatomia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 78 anos com estenose aórtica importante sintomática (dispneia NYHA III), FE 50%. STS score 8% (alto risco cirúrgico). Como o Heart Team deve abordar esse caso?",
+    "options": [
+      "Recusar intervenção devido ao alto risco; manter apenas tratamento clínico paliativo até fase terminal",
+      "Avaliar TAVI (implante percutâneo de válvula aórtica) como alternativa menos invasiva para paciente de alto risco cirúrgico",
+      "Indicar cirurgia convencional obrigatoriamente, pois é o único tratamento definitivo comprovado para EA importante",
+      "Realizar valvoplastia aórtica por balão como tratamento definitivo devido ao alto risco cirúrgico do paciente",
+      "Aguardar melhora do risco cirúrgico com reabilitação cardíaca e otimização clínica antes de qualquer procedimento"
+    ],
+    "correctIndex": 1,
+    "explanation": "EA importante sintomática + ALTO RISCO cirúrgico (STS >8%) = CANDIDATO A TAVI (implante percutâneo de válvula aórtica transcateter). O Heart Team deve avaliar: anatomia aórtica e valvar (TC), acesso vascular, comorbidades, fragilidade, expectativa de vida. TAVI demonstrou resultados superiores ou não-inferiores à cirurgia em pacientes de alto e intermediário risco. Valvoplastia por balão tem resultado transitório (paliativo).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Homem de 55 anos com insuficiência mitral importante por prolapso (Barlow), assintomático, FE 62%, DSVE 38mm. Ecocardiograma mostra anatomia favorável para reparo. Qual a conduta do Heart Team?",
+    "options": [
+      "IM importante: iniciar tratamento clínico com IECA e betabloqueador e reavaliar em 1 ano",
+      "IM importante: aguardar desenvolvimento de complicadores para então indicar intervenção valvar",
+      "IM primária importante com anatomia favorável para reparo: considerar cirurgia precoce devido à baixa morbimortalidade e preservação de função",
+      "IM por prolapso: reparo só está indicado se FE <60% ou desenvolvimento de sintomas limitantes",
+      "IM importante assintomática: seguimento semestral, não há indicação de cirurgia em assintomático"
+    ],
+    "correctIndex": 2,
+    "explanation": "IM PRIMÁRIA importante (prolapso/Barlow) + assintomático + anatomia FAVORÁVEL para REPARO: pode-se CONSIDERAR CIRURGIA PRECOCE (classe IIa), especialmente em centros experientes, pois: 1) reparo mitral tem baixa morbimortalidade; 2) preserva função ventricular; 3) evita complicadores (FA, HP, disfunção VE); 4) reparo tem durabilidade superior à troca. Diferente de troca valvar, reparo não exige anticoagulação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 48 anos com estenose mitral reumática importante sintomática (NYHA II-III). Escore de Wilkins 7, ausência de trombos no AE, regurgitação mitral ausente. Qual a modalidade terapêutica mais adequada?",
+    "options": [
+      "Tratamento clínico exclusivo com diuréticos e controle de frequência cardíaca para alívio sintomático",
+      "Transplante cardíaco devido à etiologia reumática e possibilidade de acometimento multivalvar progressivo",
+      "Valvoplastia mitral percutânea por balão, pois anatomia é favorável (Wilkins ≤8) e não há contraindicações",
+      "Cirurgia de comissurotomia mitral aberta devido à etiologia reumática e risco de reestenose percutânea",
+      "Cirurgia de troca valvar mitral com prótese mecânica, pois é o tratamento definitivo de maior durabilidade"
+    ],
+    "correctIndex": 2,
+    "explanation": "EM reumática importante sintomática + Escore de Wilkins ≤8 (anatomia FAVORÁVEL) + ausência de trombos no AE + IM ausente/discreta = INDICAÇÃO de VALVOPLASTIA MITRAL PERCUTÂNEA por balão. É procedimento MENOS INVASIVO que cirurgia, com bons resultados em anatomias favoráveis. Contraindicações: Wilkins >8, trombo no AE, IM ≥moderada. Valvoplastia é preferível à cirurgia quando anatomia é adequada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 70 anos com insuficiência mitral funcional importante por miocardiopatia dilatada isquêmica, FE 25%, sintomas NYHA III apesar de terapia otimizada para IC. Como abordar?",
+    "options": [
+      "Cardioversão elétrica e amiodarona para controle de ritmo como estratégia principal para melhorar função valvar",
+      "Indicação de reparo ou troca mitral cirúrgica para corrigir regurgitação e melhorar classe funcional",
+      "Intervenção coronariana percutânea para revascularização miocárdica como tratamento primário da IM funcional",
+      "Contraindicação absoluta de qualquer intervenção valvar devido à FE muito reduzida e alto risco cirúrgico",
+      "Abordagem individualizada pelo Heart Team: avaliar terapia de ressincronização, clipe mitral percutâneo, considerar transplante se elegível"
+    ],
+    "correctIndex": 4,
+    "explanation": "IM funcional importante + miocardiopatia dilatada + FE muito reduzida + sintomas refratários: HEART TEAM deve avaliar: 1) Otimização máxima de terapia IC; 2) TRC (se QRS largo e critérios); 3) CLIPE MITRAL PERCUTÂNEO (MitraClip) - menos invasivo, pode melhorar sintomas; 4) Avaliar ELEGIBILIDADE para TRANSPLANTE. Cirurgia convencional tem alto risco em FE muito baixa. Abordagem deve ser INDIVIDUALIZADA.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com estenose aórtica importante desenvolve melhora sintomática após otimização de tratamento clínico (diurético, controle pressórico). O médico considera cancelar a cirurgia programada. Essa conduta está correta?",
+    "options": [
+      "Sim, em pacientes idosos a melhora clínica é suficiente e evita riscos cirúrgicos desnecessários",
+      "Sim, deve-se sempre priorizar tratamento clínico e só operar se houver piora apesar de terapia otimizada",
+      "Não, mas pode-se postergar a cirurgia por 6-12 meses para reavaliar se a melhora é sustentada",
+      "Sim, a melhora clínica indica que a valvopatia não é a causa dos sintomas, portanto não há indicação cirúrgica",
+      "Não, a melhora sintomática com tratamento clínico NÃO cancela o procedimento definitivo quando há indicação estabelecida"
+    ],
+    "correctIndex": 4,
+    "explanation": "IMPORTANTE: a MELHORA SINTOMÁTICA com tratamento clínico NÃO CANCELA o procedimento definitivo quando há INDICAÇÃO ESTABELECIDA. O tratamento clínico pode proporcionar alívio temporário ou servir como ponte até cirurgia, mas não resolve a obstrução valvar. EA importante sintomática tem indicação classe I de intervenção. Postergar procedimento pode levar a deterioração ventricular irreversível e morte súbita.",
+    "type": "raciocínio"
+  }
+]

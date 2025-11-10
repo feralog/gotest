@@ -1,0 +1,444 @@
+[
+  {
+    "question": "Qual é a prevalência estimada de litíase urinária na população adulta e qual a faixa etária de maior incidência?",
+    "options": [
+      "Prevalência de até 8% dos adultos com maior incidência em mulheres afrodescendentes entre 35-50 anos",
+      "Prevalência de até 12% dos adultos com maior incidência em homens caucasianos entre 45-64 anos",
+      "Prevalência de até 18% dos adultos com maior incidência em homens asiáticos entre 55-75 anos",
+      "Prevalência de até 5% dos adultos com maior incidência em mulheres caucasianas entre 25-40 anos",
+      "Prevalência de até 15% dos adultos com maior incidência em homens hispânicos entre 30-45 anos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Até 12% dos adultos podem apresentar litíase urinária, com maior incidência em homens, caucasianos, e entre 45 e 64 anos de idade. No entanto, o maior e mais rápido aumento da incidência de litíase tem ocorrido entre mulheres e crianças, especialmente adolescentes, nos últimos anos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as taxas de recorrência de cálculos urinários sintomáticos ao longo do tempo sem tratamento profilático?",
+    "options": [
+      "20% aos 2 anos, 40% aos 5 anos, 70% aos 10 anos e 85-90% ao longo da vida",
+      "15% aos 2 anos, 35% aos 5 anos, 60% aos 10 anos e 70-75% ao longo da vida",
+      "5% aos 2 anos, 15% aos 5 anos, 30% aos 10 anos e 40-50% ao longo da vida",
+      "8% aos 2 anos, 18% aos 5 anos, 35% aos 10 anos e 45-55% ao longo da vida",
+      "11% aos 2 anos, 26% aos 5 anos, 50% aos 10 anos e 60-80% ao longo da vida"
+    ],
+    "correctIndex": 4,
+    "explanation": "As taxas de recorrência de cálculos sintomáticos são estimadas em 11% aos 2 anos, 26% aos 5 anos, 50% aos 10 anos e 60% a 80% ao longo da vida, a menos que sejam utilizados tratamentos profiláticos a longo prazo. Essas taxas elevadas justificam a importância da prevenção secundária em formadores de cálculos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os três principais fatores de risco crescentes para litíase urinária na população geral?",
+    "options": [
+      "Alcoolismo, insuficiência renal crônica e uso de diuréticos tiazídicos",
+      "Desidratação crônica, hiperuricemia e história familiar de nefrolitíase",
+      "Obesidade, diabetes mellitus e uso de suplementação de cálcio",
+      "Sedentarismo, dislipidemia e ingestão inadequada de líquidos",
+      "Tabagismo, hipertensão arterial e consumo excessivo de proteína animal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os três importantes fatores de risco para litíase urinária que aumentaram na população geral são: obesidade, diabetes mellitus e uso de suplementação de cálcio. Esses fatores têm contribuído para o aumento constante de casos de litíase urinária atendidos nos serviços de emergência nos últimos anos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os fatores gerais que classificam um paciente como formador de cálculo de alto risco?",
+    "options": [
+      "História de três episódios prévios, cálculos bilaterais simultâneos, hiperparatireoidismo e uso de diuréticos",
+      "Idade avançada acima de 70 anos, hipertensão arterial descontrolada, cálculos de oxalato e rim policístico",
+      "Gênero masculino, etnia caucasiana, cálculos radiolucentes múltiplos e nefropatia diabética estabelecida",
+      "Obesidade mórbida com IMC >40, diabetes tipo 2 descompensado, cálculos de cistina e transplante renal",
+      "Início precoce (crianças/adolescentes), incidência familiar, cálculos de brushite/ácido úrico/infecciosos e rim único"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os formadores de cálculo de alto risco apresentam: início precoce da urolitíase (especialmente crianças/adolescentes), incidência familiar de cálculos, cálculos que contêm brushite (CaHPO₄·2H₂O), cálculos de ácido úrico e que contêm urato, cálculos infecciosos, e rim único (onde a prevenção de recidiva tem maior importância). Esses pacientes requerem avaliação metabólica completa e tratamento profilático agressivo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando a epidemiologia global, qual afirmação melhor representa a distribuição geográfica e as taxas de recorrência da litíase urinária?",
+    "options": [
+      "Distribuição homogênea mundial sem variação geográfica significativa e recorrência de 70% em 10 anos",
+      "Maior aumento na Oceania/Antártida com \"cinturão de pedras\" em latitudes temperadas e recorrência de 40% em 10 anos",
+      "Maior aumento na Europa/América do Norte com \"cinturão de pedras\" em latitudes frias e recorrência de 30% em 10 anos",
+      "Maior aumento no Caribe/Ásia Central/África com \"cinturão de pedras\" em latitudes quentes e recorrência de 50% em 10 anos",
+      "Concentração exclusiva em países desenvolvidos sem relação com latitude e recorrência de 20% em 10 anos"
+    ],
+    "correctIndex": 3,
+    "explanation": "A maior taxa de aumento de litíase ocorre no Caribe, seguida pela Ásia Central e África (especialmente Congo, Eswatini, Gabão e Granada). O \"cinturão de pedras\" nas latitudes mais quentes apresenta taxas mais elevadas de nefrolitíase. A recorrência atinge 50% aos 10 anos sem profilaxia, enfatizando a necessidade de prevenção em áreas de maior risco.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as doenças associadas à formação de cálculos que aumentam o risco de litíase recorrente?",
+    "options": [
+      "Hiperparatireoidismo, nefrocalcinose, distúrbios gastrointestinais (bypass jejuno-ileal, ressecção ileal, Crohn) e sarcoidose",
+      "Hipotireoidismo, pielonefrite de repetição, doença celíaca não tratada e artrite reumatoide",
+      "Tireoidite autoimune, síndrome nefrótica, diverticulose colônica e síndrome de Sjögren",
+      "Hipertireoidismo, glomerulonefrite crônica, síndrome do intestino irritável e lúpus eritematoso sistêmico",
+      "Hipoparatireoidismo, nefrite intersticial, colite ulcerativa e esclerodermia sistêmica progressiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "As doenças associadas à formação de cálculos incluem: hiperparatireoidismo (hipercalciúria), nefrocalcinose, doenças e distúrbios gastrointestinais como bypass jejuno-ileal, ressecção ileal, doença de Crohn e síndromes de má absorção (hiperoxalúria entérica), e sarcoidose (hipercalciúria por aumento da produção de vitamina D). Essas condições requerem manejo específico além do tratamento da litíase.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as condições genéticas determinantes para formação de cálculos?",
+    "options": [
+      "Hipofosfatemia ligada ao X, raquitismo hipofosfatêmico, síndrome de Fanconi e glicogenose tipo I",
+      "Cistinúria (tipos A/B/AB), hiperoxalúria primária, acidose tubular renal tipo I, xantinúria e síndrome de Lesh-Nyhan",
+      "Doença de Wilson, hemocromatose hereditária, deficiência de alfa-1-antitripsina e síndrome de Alport",
+      "Síndrome de Bartter, síndrome de Gitelman, doença policística renal autossômica dominante e síndrome nefrótica congênita",
+      "Anemia falciforme, talassemia maior, deficiência de G6PD e esferocitose hereditária"
+    ],
+    "correctIndex": 1,
+    "explanation": "As condições genéticas determinantes de formação de cálculos incluem: cistinúria (tipos A, B, AB) - cálculos de cistina, hiperoxalúria primária (HP) - cálculos de oxalato, acidose tubular renal tipo I - cálculos de fosfato de cálcio, 2,8-dihidroxiadenina, xantinúria, síndrome de Lesh-Nyhan (hiperuricosúria) e fibrose cística. Essas condições requerem diagnóstico precoce e tratamento específico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais anomalias anatômicas estão associadas à formação recorrente de cálculos urinários?",
+    "options": [
+      "Cisto renal simples solitário, divertículo vesical único, estenose de meato uretral e fimose",
+      "Malformação arteriovenosa renal, aneurisma da artéria renal, estenose da veia renal e fístula arteriovenosa",
+      "Agenesia renal unilateral, hipoplasia renal bilateral, ectopia renal cruzada e duplicação ureteral completa",
+      "Ptose renal bilateral, megacálices congênitos, válvula de uretra posterior e extrofia vesical",
+      "Rim espongiomedular, obstrução JUP, rins em ferradura, ureterocele e refluxo vésico-uretero-renal"
+    ],
+    "correctIndex": 4,
+    "explanation": "As anomalias anatômicas associadas incluem: rim espongiomedular (ectasia tubular), obstrução de junção ureteropélvica (JUP), divertículo calicial, estenose ureteral, refluxo vésico-uretero-renal, rins em ferradura, ureterocele, derivação urinária (via hiperoxalúria entérica) e disfunção neurogênica da bexiga. Essas condições promovem estase urinária e formação de cálculos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como os cálculos urinários são classificados segundo suas características radiográficas?",
+    "options": [
+      "Radiopacos (ácido úrico, urato de amônia), pouco radiopacos (oxalato de cálcio) e radiolucentes (fosfatos de cálcio)",
+      "Radiopacos (oxalato de cálcio, fosfatos de cálcio), pouco radiopacos (magnésio, amônia, apatita, cistina) e radiolucentes (ácido úrico, xantina)",
+      "Radiopacos (urato de amônia, apatita), pouco radiopacos (xantina, cistina) e radiolucentes (fosfato amoníaco magnesiano)",
+      "Radiopacos (cistina, xantina), pouco radiopacos (ácido úrico, 2,8-dihidroxiadenina) e radiolucentes (oxalato de cálcio)",
+      "Radiopacos (magnésio, amônia), pouco radiopacos (fosfatos de cálcio, estruvita) e radiolucentes (oxalato de cálcio dihidratado)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Classificação radiográfica: RADIOPACOS - oxalato de cálcio (di e monohidratado) e fosfatos de cálcio; POUCO RADIOPACOS - magnésio, amônia, fosfato, apatita e cistina; RADIOLUCENTES - ácido úrico, urato de amônia, xantina, 2,8-dihidroxiadenina e cálculos de drogas. Esta classificação é importante para escolha do método diagnóstico por imagem.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a composição mais comum dos cálculos urinários e suas respectivas prevalências?",
+    "options": [
+      "Oxalato de cálcio 70-75%, fosfato de cálcio 10%, ácido úrico 10%, estruvita 7-8%, cistina 1-2%",
+      "Ácido úrico 70-75%, oxalato de cálcio 10%, fosfato de cálcio 10%, estruvita 7-8%, cistina 1-2%",
+      "Estruvita 70-75%, oxalato de cálcio 10%, fosfato de cálcio 10%, ácido úrico 7-8%, cistina 1-2%",
+      "Fosfato de cálcio 70-75%, ácido úrico 10%, oxalato de cálcio 10%, estruvita 7-8%, cistina 1-2%",
+      "Cistina 70-75%, oxalato de cálcio 10%, fosfato de cálcio 10%, ácido úrico 7-8%, estruvita 1-2%"
+    ],
+    "correctIndex": 0,
+    "explanation": "A maioria dos cálculos urinários é composta por sais de cálcio: oxalato de cálcio é o mais comum (70-75%), seguido de fosfato de cálcio (cerca de 10%), ácido úrico (cerca de 10%), estruvita ou fosfato amônio magnesiano (7-8%) e cistina (1-2%). Esta distribuição é importante para planejamento terapêutico e profilático.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 28 anos, história familiar de litíase (pai e irmão), terceiro episódio de cólica renal em 18 meses, análise revela cálculo de brushite. Qual a classificação de risco e conduta apropriada?",
+    "options": [
+      "Formador de risco intermediário por número de episódios, indicando seguimento anual sem investigação metabólica",
+      "Formador de alto risco por início precoce, incidência familiar e cálculo de brushite, indicando avaliação metabólica com urina 24h",
+      "Formador de risco moderado por recorrência precoce, indicando apenas orientação dietética sem exames adicionais",
+      "Formador de baixo risco por composição de cálculo benigno, indicando tratamento sintomático isolado",
+      "Formador de baixo risco por idade jovem e ausência de comorbidades, indicando apenas hidratação e analgesia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paciente apresenta múltiplos fatores de alto risco: (1) início relativamente precoce (28 anos), (2) incidência familiar clara, (3) cálculo de brushite (CaHPO₄·2H₂O) - especificamente listado como alto risco. A presença de qualquer desses fatores já classificaria como alto risco; este paciente tem três. Recorrência de 50% em 10 anos sem profilaxia reforça necessidade de análise de urina 24h para guiar tratamento preventivo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a probabilidade de eliminação espontânea de cálculos ureterais segundo seu tamanho?",
+    "options": [
+      "Cálculos ≤10mm tendem a eliminação espontânea, ≥12mm geralmente requerem intervenção urológica, >20mm raramente eliminados",
+      "Cálculos ≤5mm tendem a eliminação espontânea, ≥7mm geralmente requerem intervenção urológica, >10mm raramente eliminados",
+      "Cálculos ≤3mm tendem a eliminação espontânea, ≥5mm geralmente requerem intervenção urológica, >7mm raramente eliminados",
+      "Cálculos ≤2mm tendem a eliminação espontânea, ≥4mm geralmente requerem intervenção urológica, >6mm raramente eliminados",
+      "Cálculos ≤8mm tendem a eliminação espontânea, ≥10mm geralmente requerem intervenção urológica, >15mm raramente eliminados"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os cálculos ureterais de 5mm ou inferiores tendem a ser eliminados espontaneamente. Cálculos com diâmetro de 7mm ou mais são geralmente eliminados apenas com intervenção urológica, raramente se o diâmetro for >10mm. Variações anatômicas individuais podem fazer com que alguns pacientes eliminem cálculos maiores enquanto outros sentem dor com cálculos de apenas 2-3mm.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os três principais pontos anatômicos de estreitamento do ureter onde os cálculos tendem a impactar?",
+    "options": [
+      "Origem do ureter na pelve renal, cruzamento com artéria ilíaca e entrada na bexiga",
+      "Porção lombar alta, porção lombar baixa e porção pélvica intramural",
+      "Junção ureteropélvica (JUP), borda pélvica na bifurcação ilíaca e junção ureterovesical (JUV)",
+      "Terço proximal do ureter, terço médio abdominal e terço distal pré-vesical",
+      "Segmento justapiélico, segmento retrocaval e segmento justa vesical"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os cálculos são mais propensos a impactar onde os ureteres se estreitam: JUP (junção ureteropélvica - onde ureter se une à pelve renal), borda pélvica na bifurcação ilíaca (onde ureter faz curva posterior acentuada), e JUV (junção ureterovesical - segmento mais estreito, onde ureter entra na bexiga em ângulo oblíquo rodeado pela musculatura detrusora).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo fisiopatológico da dor na cólica renal aguda?",
+    "options": [
+      "Isquemia do parênquima renal por compressão vascular, necrose tubular aguda e liberação de mediadores inflamatórios",
+      "Contração tetânica sustentada da musculatura ureteral lisa, acidose metabólica localizada e edema intersticial",
+      "Dilatação do ureter proximal, espasmos ureterais, inflamação regional, aumento do rim e estiramento da cápsula renal",
+      "Trombose venosa renal secundária, congestão vascular maciça e hemorragia capsular por ruptura",
+      "Irritação direta do nervo ciático pelo cálculo impactado, compressão de raízes nervosas e reflexo visceral"
+    ],
+    "correctIndex": 2,
+    "explanation": "A dor da ureterolitíase aguda é causada por combinação de: dilatação do ureter proximal, espasmos ureterais, respostas inflamatórias regionais, aumento do rim afetado esticando sua cápsula. A estimulação dos receptores de dor e estiramento no ureter, rim, pelve renal e cápsula são responsáveis pela dor. A intensidade é influenciada pelo grau de obstrução, não pelo tamanho do cálculo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as consequências fisiopatológicas da obstrução ureteral aguda sobre a função renal?",
+    "options": [
+      "Redução da TFG bilateral simétrica, insuficiência renal aguda dialítica e necrose cortical bilateral progressiva",
+      "Aumento compensatório da TFG bilateral, hipertrofia renal contralateral e recuperação completa sem danos permanentes",
+      "Redução da TFG no rim afetado, aumento da excreção contralateral, risco de rotura calicial e dano irreversível em 1-2 semanas",
+      "Aumento paradoxal da TFG no rim obstruído, poliúria compensatória e risco de hipocalemia grave",
+      "Manutenção da TFG normal por mecanismos autoregulatórios, sem alterações funcionais significativas ou riscos"
+    ],
+    "correctIndex": 2,
+    "explanation": "A obstrução ureteral aguda diminui a taxa de filtração glomerular da unidade renal afetada, enquanto a excreção urinária no rim contralateral aumenta compensatoriamente. O refluxo pielolinfático e pielovenoso tem capacidade limitada de compensar a elevada pressão. A obstrução total pode provocar rotura do cálice com formação de urinoma e levar à perda da função renal, com danos irreversíveis iniciando-se em 1-2 semanas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a apresentação clínica típica da cólica renal aguda por cálculo ureteral?",
+    "options": [
+      "Dor constante moderada em queimação epigástrica irradiando para dorso, associada a refluxo gastroesofágico",
+      "Dor súbita unilateral intensa em cólica no flanco irradiando para virilha/testículo, atingindo pico em 1-2 horas",
+      "Dor insidiosa bilateral progressiva em peso na região lombar irradiando para coxas, piorando gradualmente",
+      "Dor crônica unilateral leve em fisgada na fossa ilíaca irradiando para joelho, piorando com movimentação",
+      "Dor paroxística bilateral em pontada no hipogástrio irradiando para períneo, alternando intensidade rapidamente"
+    ],
+    "correctIndex": 1,
+    "explanation": "A ureterolitíase apresenta-se geralmente com cólica renal aguda: dor súbita, unilateral, extremamente intensa, em cólica, no flanco, irradiando anterior e inferiormente em direção à virilha, abdômen inferior medial ou testículo. A dor é frequentemente descrita como excruciante, atingindo o pico aproximadamente 1-2 horas após o início. Pacientes tipicamente não conseguem ficar parados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com cólica renal, febre 38,5°C, calafrios e leucocitose de 18.000/μL. TC mostra cálculo ureteral de 8mm com hidronefrose. Qual a interpretação e conduta?",
+    "options": [
+      "Apendicite retrocecal com cálculo incidental - indicação de apendicectomia de urgência e manejo urológico eletivo",
+      "Infecção urinária baixa com cálculo obstrutivo - hidratação venosa vigorosa e alfa-bloqueador para expulsão",
+      "Diverticulite aguda com litíase concomitante - antibioticoterapia intravenosa e dieta zero até resolução",
+      "Pielonefrite obstrutiva/pionefrose - emergência urológica requerendo drenagem cirúrgica urgente além de antibioticoterapia",
+      "Cólica renal não complicada com infecção urinária simples - tratamento ambulatorial com antibiótico oral e analgesia"
+    ],
+    "correctIndex": 3,
+    "explanation": "A combinação de infecção do trato urinário (febre, calafrios, leucocitose >15.000/μL) e obstrução do cálculo ureteral constitui pielonefrite obstrutiva ou pionefrose - condição potencialmente fatal que requer drenagem cirúrgica urgente (cateter ureteral ou nefrostomia percutânea) além de antibioticoterapia. Não é possível tratamento ambulatorial ou conservador nesta situação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os achados típicos do exame físico em paciente com cólica renal aguda?",
+    "options": [
+      "Paciente inquieto sem posição de alívio, sensibilidade costovertebral (Giordano positivo), taquicardia, normalmente afebril e normotenso",
+      "Paciente prostrado em decúbito dorsal obrigatório, distensão abdominal maciça, hipertensão e febre alta persistente",
+      "Paciente deambulando normalmente, abdome flácido indolor, pulso regular e pressão arterial elevada por dor",
+      "Paciente em ortopneia obrigatória, cianose de extremidades, taquipneia importante e sinal de Blumberg presente",
+      "Paciente imóvel em posição antálgica, abdome em tábua com defesa, bradicardia reflexa e hipotensão ortostática"
+    ],
+    "correctIndex": 0,
+    "explanation": "O exame físico típico demonstra paciente inquieto que não consegue estar parado (característica marcante). Podem estar taquicárdicos mas afebris e normotensos (a menos que sépticos). Achados abdominais podem ser normais ou demonstrar sensibilidade ligeira. A sensibilidade no ângulo costovertebral (sinal de Giordano) está geralmente presente na lateral do cálculo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o significado clínico da presença ou ausência de hematúria na avaliação de suspeita de ureterolitíase?",
+    "options": [
+      "Nenhum paciente apresenta hematúria pois cálculo não lesiona mucosa, sendo presença indicativa de neoplasia",
+      "100% apresentam hematúria macroscópica obrigatória, sendo ausência critério de exclusão diagnóstica",
+      "85% apresentam hematúria macro ou microscópica, mas ausência NÃO afasta diagnóstico de ureterolitíase",
+      "50% apresentam hematúria microscópica, sendo ausência altamente sugestiva de diagnóstico alternativo",
+      "95% apresentam hematúria microscópica persistente, sendo ausência indicativa de obstrução completa"
+    ],
+    "correctIndex": 2,
+    "explanation": "A análise da urina mostra geralmente algum grau de hematúria, uma vez que 85% dos pacientes com ureterolitíase apresentam sangue macroscópico ou microscópico ao exame. Entretanto, a ausência de hematúria NÃO afasta o diagnóstico de ureterolitíase. A cristalúria pode ou não estar presente mas pode sugerir a composição química do cálculo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a importância do pH urinário na avaliação da composição dos cálculos?",
+    "options": [
+      "pH ácido favorece estruvita/fosfato de cálcio, pH alcalino favorece oxalato de cálcio/cistina/ácido úrico",
+      "pH ácido impede formação de cálculos, pH alcalino é único fator determinante de litogênese",
+      "pH ácido favorece oxalato de cálcio/cistina/ácido úrico, pH alcalino favorece estruvita/fosfato de cálcio",
+      "pH neutro obrigatório para formação de qualquer cálculo, variações impedem cristalização",
+      "pH não tem relação com composição dos cálculos sendo irrelevante para avaliação metabólica"
+    ],
+    "correctIndex": 2,
+    "explanation": "O pH urinário é importante para predizer composição: oxalato de cálcio, cistina e ácido úrico tendem a formar-se em urina mais ácida, enquanto estruvita (fosfato amônio magnesiano) e fosfato de cálcio requerem soluções alcalinas. Este conhecimento orienta tanto o diagnóstico quanto o tratamento preventivo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o exame de imagem padrão-ouro para diagnóstico de ureterolitíase e quais suas características?",
+    "options": [
+      "Ressonância magnética contrastada com sensibilidade 90%, especificidade 92%, VPN 88%, superior para cálculos <3mm",
+      "Radiografia simples de abdome com sensibilidade 50%, especificidade 70%, VPN 60%, detectando apenas cálculos radiopacos",
+      "TC abdominopélvica sem contraste com sensibilidade 98%, especificidade 100%, VPN 97%, identificando tamanho/número/localização",
+      "Urografia excretora com sensibilidade 65%, especificidade 75%, VPN 70%, método histórico obsoleto atualmente",
+      "Ultrassonografia com Doppler com sensibilidade 75%, especificidade 85%, VPN 80%, melhor para cálculos >5mm"
+    ],
+    "correctIndex": 2,
+    "explanation": "A tomografia computadorizada (TC) abdominopélvica sem contraste é o padrão-ouro para diagnosticar ureterolitíase. Identifica com precisão tamanho, número e localização dos cálculos (exceto alguns raros cálculos medicamentosos). Sensibilidade 98%, especificidade 100%, valor preditivo negativo 97%. Oferece alta precisão diagnóstica mesmo em pacientes obesos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os componentes essenciais do tratamento inicial da ureterolitíase aguda sintomática?",
+    "options": [
+      "Anti-inflamatórios tópicos, relaxantes musculares centrais, benzodiazepínicos e hidratação oral forçada",
+      "Analgesia (cetorolaco/opióides), fluidos intravenosos, antieméticos (ondansetrona), jejum até exclusão de cirurgia",
+      "Bloqueadores de canal de cálcio, betabloqueadores, inibidores da ECA e restrição hídrica rigorosa",
+      "Antibioticoterapia empírica imediata, corticosteroides sistêmicos, diuréticos de alça e dieta hipossódica",
+      "Alcalinização urinária imediata, quelantes de cálcio, alopurinol e dieta hipoproteica estrita"
+    ],
+    "correctIndex": 1,
+    "explanation": "O tratamento inicial inclui: analgesia (cetorolaco IV, opióides como morfina, ou paracetamol; alguns se beneficiam de lidocaína IV), antieméticos (ondansetrona é o mais eficaz), fluidos intravenosos (prevenir desidratação por vômitos e falta de ingestão oral). Pacientes devem permanecer em jejum, especialmente se hospitalizados, até que cirurgia seja considerada desnecessária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é terapia médica expulsiva e quais são seus agentes e indicações principais?",
+    "options": [
+      "Alfa-bloqueadores (silodosina/alfuzosina/tansulosina) reduzindo tensão muscular ureteral distal, especialmente para cálculos distais",
+      "Anticolinérgicos (escopolamina/hioscina) bloqueando espasmo ureteral, especialmente para cálculos múltiplos",
+      "Inibidores de fosfodiesterase (sildenafila/vardenafila) aumentando fluxo sanguíneo ureteral, para cálculos médios",
+      "Bloqueadores de canal de cálcio (nifedipina/anlodipina) dilatando ureter proximal, especialmente para cálculos JUP",
+      "Beta-agonistas (salbutamol/terbutalina) provocando relaxamento muscular liso ureteral, para qualquer localização de cálculo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Terapia médica expulsiva é tratamento ambulatorial onde alfa-bloqueadores (silodosina, alfuzosina, tansulosina) reduzem a tensão muscular no ureter distal (onde se concentram receptores adrenérgicos α-1) e facilitam expulsão espontânea de cálculos. A maioria dos estudos indica que é útil, especialmente para cálculos ureterais distais. Tadalafil pode ser usado com tansulosina/silodosina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com cálculo ureteral de 4mm no terço distal, dor controlada com analgesia oral, sem sinais de infecção. Qual a melhor abordagem terapêutica inicial?",
+    "options": [
+      "Internação hospitalar imediata para litotripsia extracorpórea por ondas de choque eletiva programada",
+      "Ureteroscopia de urgência nas próximas 24h para remoção do cálculo e prevenção de complicações",
+      "Nefrostomia percutânea profilática para prevenir obstrução mesmo sem sinais atuais de comprometimento",
+      "Manejo conservador ambulatorial com alfa-bloqueador (terapia expulsiva), hidratação, analgesia e reavaliação em 2-4 semanas",
+      "Observação domiciliar sem medicação aguardando eliminação espontânea com retorno apenas se piora"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cálculo de 4mm no terço distal tem alta probabilidade de eliminação espontânea (≤5mm). Com sintomas controlados e sem infecção, o manejo conservador ambulatorial é apropriado: alfa-bloqueador (terapia médica expulsiva), hidratação, analgesia conforme necessário, orientações e reavaliação em 2-4 semanas. Intervenção cirúrgica seria indicada se: obstrução com infecção, dor incontrolável, insuficiência renal ou falha de eliminação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as indicações para intervenção cirúrgica em paciente com ureterolitíase?",
+    "options": [
+      "Infecção com obstrução, dor incontrolável, insuficiência renal, cálculo >10mm, falha de passagem espontânea",
+      "Qualquer cálculo visualizado em TC independente de tamanho, localização ou sintomatologia",
+      "Apenas cálculos com mais de 20mm ou múltiplos cálculos bilaterais simultâneos",
+      "Hematúria macroscópica persistente ou leucocitose acima de 12.000/μL isoladamente",
+      "Somente na presença de anúria completa por mais de 48h com uremia grave"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indicações para cirurgia incluem: infecção associada à obstrução (pielonefrite obstrutiva/pionefrose - urgência), dor incontrolável apesar de analgesia adequada, insuficiência renal por obstrução, cálculos maiores que 10mm (baixa probabilidade de passagem), e falha de eliminação espontânea no período de observação. Quanto maior e mais proximal o cálculo, maior probabilidade de necessitar procedimento cirúrgico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição de pielonefrite complicada e sua importância clínica?",
+    "options": [
+      "Cistite aguda com bacteriúria assintomática persistente apesar de tratamento adequado com múltiplos esquemas",
+      "Prostatite crônica com dor pélvica persistente e cultura negativa requerendo terapia anti-inflamatória prolongada",
+      "Infecção urinária baixa recorrente com mais de três episódios anuais requerendo antibioticoprofilaxia contínua",
+      "Uretrite gonocócica resistente com complicações locais como estenose e necessidade de dilatação uretral",
+      "Infecção renal grave com alterações funcionais/estruturais do trato geniturinário, responsável por 10% dos choques sépticos em UTI"
+    ],
+    "correctIndex": 4,
+    "explanation": "Pielonefrite complicada é infecção renal sintomática grave, frequentemente associada a alterações funcionais e/ou estruturais do trato geniturinário, responsáveis pelo aumento do risco de infecção ou falha do tratamento. Caracteriza-se por amplo espectro de apresentações clínicas e de complexidade variável. É responsável por cerca de 10% dos pacientes com choque séptico internados em UTI.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais fatores predisponentes para pielonefrite complicada?",
+    "options": [
+      "Patologias crônicas (diabetes/IRC/transplante/imunodeficiências), urológicas (litíase/tumores/HPB/estenoses/refluxo) e cateter crônico",
+      "Apenas idade avançada acima de 80 anos, gênero feminino e história prévia de ITU recorrente",
+      "Exclusivamente uso de imunossupressores, quimioterapia ativa e radioterapia pélvica recente",
+      "Unicamente gravidez atual, uso de contraceptivos orais e atividade sexual frequente",
+      "Somente anomalias congênitas do trato urinário sem relação com doenças adquiridas ou instrumentação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fatores predisponentes incluem: PATOLOGIAS CRÔNICAS (diabetes, IRC, transplante renal, imunodeficiências), UROLÓGICAS (litíase, tumores, HPB, estenoses ureter/uretra, estenose JUP/JUV, refluxo vésico-ureteral, anomalias congênitas, divertículos vesicais, cistos renais, bexiga neurogênica, rins policísticos, nefrocalcinose, rim espongiomedular), e OUTROS (cateter crônico, instrumentação frequente, ampliação vesical, derivações urinárias).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais agentes etiológicos da pielonefrite complicada?",
+    "options": [
+      "Somente fungos como Aspergillus, Mucor e Candida sem participação de bactérias",
+      "Unicamente Mycobacterium tuberculosis e micobactérias atípicas em formas crônicas",
+      "E. coli (principal), Klebsiella, Enterobacter, Proteus, Pseudomonas, estreptococos B, Enterococcus e Cândida (diabéticos/imunossuprimidos)",
+      "Exclusivamente vírus como adenovírus, poliomavírus BK e citomegalovírus em imunossuprimidos",
+      "Apenas Staphylococcus aureus meticilino-resistente e Enterococcus resistente à vancomicina"
+    ],
+    "correctIndex": 2,
+    "explanation": "GRAM-NEGATIVOS: E. coli (principal), Klebsiella, Enterobacter, Citrobacter, Serratia, Proteus mirabilis, Morganella morganii, Providencia stuartii, Pseudomonas aeruginosa, maltophilia e Acinetobacter. GRAM-POSITIVOS: estreptococos grupo B, Enterococcus, Staphylococcus coagulase-negativo. CÂNDIDA: comum em diabéticos, imunossuprimidos, usuários crônicos de cateteres ou recebendo antibioticoterapia de amplo espectro.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o papel da tomografia computadorizada na avaliação da pielonefrite complicada?",
+    "options": [
+      "Reservada exclusivamente para planejamento de nefrectomia em casos de pionefroserefratária",
+      "Contraindicada formalmente pois radiação agrava quadro infeccioso e piora prognóstico renal",
+      "Fundamental para diagnóstico, identificação de fatores predisponentes e reconhecimento de complicações como abscessos",
+      "Indicada apenas em casos de falha terapêutica após 72h sem utilidade diagnóstica inicial",
+      "Útil somente para estadiamento de neoplasias renais concomitantes sem papel na infecção"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os exames de imagem, particularmente a tomografia computadorizada, são fundamentais para o diagnóstico de pielonefrite complicada, identificação dos fatores predisponentes e reconhecimento de complicações como pionefrose, abscessos renais/perirrenais, pielonefrite enfisematosa e xantogranulomatosa. A TC orienta decisões terapêuticas incluindo necessidade de drenagem ou intervenção cirúrgica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é pionefrose e qual seu tratamento adequado?",
+    "options": [
+      "Infecção renal superficial sem comprometimento estrutural, tratada apenas com antibioticoterapia oral ambulatorial",
+      "Abscesso perirrenal pequeno <1cm sem comunicação com sistema coletor, tratado conservadoramente",
+      "Hidronefrose infectada com destruição supurativa do parênquima e perda função renal, tratada com ATB + drenagem (cateter ureteral/nefrostomia)",
+      "Pielonefrite aguda não complicada com febre alta, tratada com hidratação venosa e antitérmicos",
+      "Nefrolitíase assintomática com bacteriúria, tratada com litotripsia eletiva e antibioticoprofilaxia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pionefrose é hidronefrose infectada associada à destruição supurativa do parênquima renal com perda parcial ou total da função renal. Tratamento: ATB + drenagem da pelve infectada com cateter ureteral (primeiro método); em caso de insucesso, nefrostomia percutânea. O diagnóstico rápido e tratamento imediato evitam dano permanente à função renal e sepse.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta no manejo de abscessos renais e perirrenais segundo seu tamanho?",
+    "options": [
+      "Abscessos 1-3cm respondem a ATB sem drenagem, abscessos >3cm geralmente requerem drenagem, falha indica via aberta/nefrectomia",
+      "Todos abscessos renais são contraindicação absoluta de drenagem devendo-se realizar nefrectomia",
+      "Abscessos <5cm sempre tratados conservadoramente, abscessos >5cm sempre nefrectomia imediata sem tentativa de drenagem",
+      "Abscessos <1cm requerem nefrectomia profilática, abscessos >1cm tratados apenas clinicamente com ATB",
+      "Qualquer abscesso independente de tamanho requer drenagem percutânea nas primeiras 24h obrigatoriamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "O manejo de abscessos inclui diagnóstico precoce, antibioticoterapia eficaz e drenagem (terapêutica e diagnóstica). Cultura do fluido identifica agente e orienta escolha do antibiótico. Abscessos pequenos (1-3cm de diâmetro) frequentemente respondem à terapia antimicrobiana sem drenagem. Para abscessos maiores que 3cm, a drenagem é geralmente necessária. Se drenagem for ineficaz/malsucedida, converter para via aberta ou considerar nefrectomia nos casos mais graves.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza a pielonefrite xantogranulomatosa e qual seu tratamento?",
+    "options": [
+      "Pielonefrite crônica com fibrose intersticial progressiva, tratamento: corticosteroides sistêmicos prolongados",
+      "Formação de cistos renais múltiplos infectados, tratamento: punção aspirativa percutânea seriada",
+      "Glomerulonefrite pós-infecciosa com depósitos granulares, tratamento: imunossupressão e plasmaférese",
+      "Processo supurativo grave (1-8%) com destruição/substituição do parênquima por tecido granulomatoso, tratamento: nefrectomia",
+      "Infecção viral benigna autolimitada com granulomas microscópicos, tratamento: observação clínica sem intervenção"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pielonefrite xantogranulomatosa: processo supurativo grave, pouco frequente (1%-8%), caracterizado pela destruição e substituição do parênquima renal por tecido granulomatoso histiocitário contendo células espumosas. O tratamento clássico é a nefrectomia, sendo que a terapia antimicrobiana tem apenas papel secundário. É uma complicação grave que geralmente resulta em perda do rim afetado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza a pielonefrite enfisematosa, quais pacientes são mais afetados e quais as taxas de mortalidade segundo o tratamento?",
+    "options": [
+      "Infecção com pneumomediastino ascendente, comum em DPOC, mortalidade: drenagem 13,5%, clínico 25%, nefrectomia 50%",
+      "Infecção com enfisema subcutâneo lombar, comum em cirróticos, mortalidade: drenagem 25%, clínico 13,5%, nefrectomia 50%",
+      "Infecção com pneumoperitônio secundário, comum em transplantados, mortalidade: drenagem 50%, clínico 13,5%, nefrectomia 25%",
+      "Infecção com pneumotórax por fístula, comum em HIV, mortalidade: drenagem 50%, clínico 25%, nefrectomia 13,5%",
+      "Infecção com gás no sistema coletor, comum em diabéticos descompensados, mortalidade: drenagem 13,5%, clínico 50%, nefrectomia 25%"
+    ],
+    "correctIndex": 4,
+    "explanation": "Pielonefrite enfisematosa: infecção grave com presença de gás no sistema coletor que geralmente poupa o parênquima renal. Pacientes afetados são frequentemente diabéticos com controle glicêmico ruim; obstrução é outro fator predisponente comum. Atualmente, drenagem percutânea é abordagem inicial recomendada: mortalidade 13,5% (drenagem) vs 50% (tratamento clínico isolado) vs 25% (nefrectomia de emergência).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente diabética descompensada, 62 anos, febre 39,5°C, dor em flanco direito, leucocitose 22.000/μL. TC mostra rim direito aumentado com gás no sistema coletor e cálculo obstrutivo. Qual diagnóstico e conduta?",
+    "options": [
+      "Abscesso renal simples - antibioticoterapia oral ambulatorial e reavaliação em 7 dias",
+      "Infecção urinária baixa - tratamento com nitrofurantoína oral por 7 dias em regime ambulatorial",
+      "Pielonefrite xantogranulomatosa - nefrectomia eletiva programada após compensação clínica em 2-3 semanas",
+      "Pielonefrite enfisematosa - iniciar ATB imediatamente e drenagem percutânea urgente (mortalidade 13,5% vs 50% clínico isolado)",
+      "Pionerose não complicada - hidratação venosa e analgesia aguardando eliminação espontânea do cálculo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Quadro típico de pielonefrite enfisematosa: diabética descompensada, infecção grave (febre alta, leucocitose marcada), TC mostrando gás no sistema coletor, obstrução por cálculo. CONDUTA: ATB + drenagem percutânea URGENTE (abordagem inicial recomendada com mortalidade 13,5%) versus tratamento clínico isolado (mortalidade 50%) ou nefrectomia emergência (25%). É emergência urológica com risco de sepse e óbito se não tratada adequadamente.",
+    "type": "raciocínio"
+  }
+]

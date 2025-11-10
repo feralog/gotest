@@ -1,0 +1,678 @@
+[
+  {
+    "question": "Qual é o período compreendido pelos primeiros 1.000 dias de vida, conforme destacado na consulta pediátrica pré-natal?",
+    "options": [
+      "Do nascimento até os dois anos de idade",
+      "Desde a concepção até os dois anos de idade",
+      "Desde a concepção até o primeiro ano de vida",
+      "Desde o nascimento até os três anos de vida",
+      "Do primeiro trimestre de gestação até o primeiro ano de vida"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os primeiros 1.000 dias referem-se ao período desde a concepção até os dois anos de idade, sendo crucial para a definição da saúde da criança e do futuro adulto, com intervenções adequadas podendo reduzir a morbimortalidade infantil.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os três pilares da tríade para redução da morbimortalidade neonatal, conforme a consulta pediátrica pré-natal?",
+    "options": [
+      "Prevenção de doenças infecciosas, via de parto vaginal e suplementação de vitaminas",
+      "Triagem neonatal, cuidados com o coto umbilical e posição supina para dormir",
+      "Acompanhamento da gestante, exames de imagem e histórico familiar",
+      "Consulta pré-natal pediátrica, assistência ao RN em sala de parto e consulta pós-natal na primeira semana",
+      "Pré-natal obstétrico, vacinação da gestante e aleitamento materno"
+    ],
+    "correctIndex": 3,
+    "explanation": "A tríade consiste na consulta pediátrica pré-natal no terceiro trimestre, assistência ao recém-nascido em sala de parto e consulta pós-natal dentro da primeira semana de vida, atuando de forma integrada para reduzir morbimortalidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como a consulta pediátrica pré-natal impacta positivamente a amamentação?",
+    "options": [
+      "Recomendando aleitamento cruzado com outras nutrizes",
+      "Indicando fórmula infantil para casos de dificuldade inicial",
+      "Enfatizando o uso de chupetas e mamadeiras para acalmar o bebê",
+      "Orientando sobre pega adequada, exclusividade até 6 meses e manutenção até 2 anos",
+      "Adiando o início da amamentação para após a alta hospitalar"
+    ],
+    "correctIndex": 3,
+    "explanation": "A consulta pré-natal é um valioso instrumento para otimizar a amamentação, com orientações sobre cuidado das mamas, início precoce, pega adequada para prevenir fissuras, e manutenção exclusiva até 6 meses e complementada até 2 anos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é um dos principais objetivos da consulta pediátrica pré-natal em relação aos pais?",
+    "options": [
+      "Realizar exames físicos detalhados da gestante",
+      "Prescrever medicamentos para intercorrências na gestação",
+      "Transformar os pais em cuidadores eficientes dos seus filhos",
+      "Substituir a função do obstetra no acompanhamento gestacional",
+      "Fornecer diagnóstico preciso de malformações fetais"
+    ],
+    "correctIndex": 2,
+    "explanation": "A consulta visa transformar os pais em cuidadores eficientes, antecipando informações e estratégias para enfrentar situações do cotidiano do bebê, reduzindo medos e ansiedades e fortalecendo o vínculo precoce.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma gestante no terceiro trimestre busca a consulta pediátrica pré-natal com dúvidas sobre cuidados pós-parto e aleitamento. Considerando a justificativa da consulta, qual é a expectativa principal do pediatra?",
+    "options": [
+      "Construir vínculo precoce e fornecer orientações antecipadas para reduzir ansiedades",
+      "Encaminhar imediatamente para avaliação obstétrica de emergência",
+      "Agendar a primeira consulta pós-natal apenas após o parto",
+      "Solicitar exames complementares para avaliar a saúde fetal",
+      "Prescrever suplementos vitamínicos para o recém-nascido"
+    ],
+    "correctIndex": 0,
+    "explanation": "A consulta pré-natal pediátrica foca na construção de vínculo precoce e na antecipação de orientações sobre cuidados pós-parto e amamentação, reduzindo medos e ansiedades da família e preparando-os para a chegada do bebê.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o tempo recomendado para a consulta pediátrica pré-natal, conforme as orientações do manual?",
+    "options": [
+      "Duas horas, incluindo exames físicos detalhados",
+      "Quinze minutos, focando apenas em orientações básicas",
+      "Uma hora ou mais, de acordo com as demandas da família",
+      "Trinta minutos, para otimização do tempo do pediatra",
+      "Tempo variável, sem duração mínima estabelecida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Deve-se reservar uma hora para a consulta, podendo ser necessário um tempo maior conforme as demandas de cada família, garantindo acolhimento adequado e discussão completa dos temas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais documentos a gestante deve levar para a consulta pediátrica pré-natal?",
+    "options": [
+      "Documentos de identidade pessoal da gestante e do companheiro acompanhante",
+      "Comprovante de residência atualizado e relatórios médicos de consultas anteriores",
+      "Nenhum documento específico, pois a consulta é orientação conversacional sem registro formal",
+      "Apenas cartão de pré-natal obstétrico e ultrassonografias morfológicas recentes disponíveis",
+      "Cartão de pré-natal completo, cartão de vacinação, exames complementares e prescrições atuais"
+    ],
+    "correctIndex": 4,
+    "explanation": "É importante solicitar que a gestante leve cartão de pré-natal, cartão de vacinação, resultados de exames complementares (laboratoriais e de imagem) e prescrições de fármacos em uso para uma avaliação integral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como o prontuário da consulta pediátrica pré-natal deve ser registrado?",
+    "options": [
+      "Com o nome da criança desde o início, mesmo antes do parto",
+      "Apenas com o nome do pai, para confidencialidade",
+      "Com o nome provisório do bebê, alterado após o nascimento",
+      "Sem registro formal, para evitar burocracia",
+      "Com o nome da gestante, substituído posteriormente pelo nome da criança na primeira consulta pós-natal"
+    ],
+    "correctIndex": 4,
+    "explanation": "O prontuário é registrado com o nome da gestante e posteriormente substituído pelo nome da criança na primeira consulta pós-natal, dentro da primeira semana de vida, integrando os antecedentes gestacionais ao prontuário do RN.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante a consulta pré-natal, qual abordagem é recomendada para intercorrências como diagnóstico de malformações fetais?",
+    "options": [
+      "Encaminhar imediatamente para cirurgia fetal intrauterina",
+      "Criticar a equipe obstétrica pelo diagnóstico tardio",
+      "Adiar discussões até após o nascimento para evitar ansiedade",
+      "Orientar, apoiar e envolver a família nos cuidados, respeitando suas dificuldades",
+      "Limitar informações para não sobrecarregar os pais"
+    ],
+    "correctIndex": 3,
+    "explanation": "O pediatra deve agir como facilitador para a aceitação do filho, orientar sobre cuidados necessários e respeitar as dificuldades e negação da família, amenizando o impacto da notícia de anomalias fetais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o impacto da cesariana no risco de doenças alérgicas no recém-nascido, conforme evidências recentes?",
+    "options": [
+      "Não influencia significativamente no desenvolvimento de doenças alérgicas respiratórias ou cutâneas",
+      "Elimina completamente o risco de dermatite atópica e eczema por ausência de contato vaginal",
+      "Reduz em 21% o risco de doenças alérgicas comparado ao parto vaginal por menor exposição",
+      "Aumenta em 21% o risco de rinite/asma comparado ao parto vaginal por alteração de microbiota",
+      "Dobra o risco de infecções respiratórias graves e sibilância recorrente na primeira infância"
+    ],
+    "correctIndex": 3,
+    "explanation": "Estudos mostram que a cesariana pode aumentar em 21% o risco de rinite/asma devido à alteração na colonização bacteriana intestinal, pois o RN não entra em contato com a microbiota materna do canal de parto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais ações do pediatra em sala de parto são essenciais para um nascimento seguro?",
+    "options": [
+      "Realização de testes de triagem neonatal imediatos (teste do pezinho e oximetria)",
+      "Aplicação da primeira dose de vacina BCG e hepatite B conforme protocolo ministerial",
+      "Uso de vitamina K intramuscular e colírio profilático para prevenção de conjuntivite infecciosa",
+      "Verificação do tipo sanguíneo do recém-nascido e teste de Coombs direto se indicado",
+      "Orientação sobre amamentação na primeira hora de vida e técnica de pega adequada"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em sala de parto, o pediatra deve administrar vitamina K IM para prevenir doença hemorrágica e colírio para prevenção de conjuntivite infecciosa, além de outras ações para garantir segurança ao RN.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Durante a consulta pediátrica pré-natal, quais orientações preventivas devem ser fornecidas à família para o período neonatal?",
+    "options": [
+      "Indicação de medicamentos preventivos para cólicas intestinais e desconforto abdominal do lactente",
+      "Enfatizar a posição prona para dormir visando maior conforto térmico e digestivo",
+      "Identificação de sinais de alerta, posição supina para dormir e medidas de segurança no transporte",
+      "Recomendar o uso de andadores para estimulação precoce do desenvolvimento motor grosseiro",
+      "Adiar discussões sobre medidas de segurança domiciliar para consultas pós-parto subsequentes"
+    ],
+    "correctIndex": 2,
+    "explanation": "A consulta inclui orientações para identificar sinais de alerta no RN (vômitos, diarreia, febre, distensão abdominal, letargia, ganho de peso insuficiente) e adotar medidas de segurança em casa e no transporte.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma gestante relata histórico de aborto espontâneo anterior e possui diabetes gestacional. Qual a conduta do pediatra na consulta pré-natal?",
+    "options": [
+      "Ignorar o histórico, pois a gestação atual é de baixo risco",
+      "Reforçar a importância da consulta devido aos fatores de risco e orientar sobre cuidados específicos",
+      "Solicitar exames genéticos adicionais imediatamente",
+      "Encaminhar apenas para o obstetra, sem intervenções pediátricas",
+      "Adiar a consulta para após o parto, focando no pós-natal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Histórico de aborto e diabetes gestacional são indicações para consulta pré-natal pediátrica, necessitando de orientações específicas sobre riscos fetais e neonatais, além de apoio à família.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais situações tornam imprescindível a realização da consulta pediátrica pré-natal?",
+    "options": [
+      "Apenas para gestantes com plano de saúde privado e acesso facilitado a consultas especializadas",
+      "Apenas gestações de alto risco com malformações fetais confirmadas por ultrassonografia morfológica",
+      "Gestantes sem qualquer intercorrência ou histórico familiar de doenças genéticas ou hereditárias",
+      "Somente quando solicitado expressamente pela família ou pelo obstetra assistente da gestante",
+      "Gestação em idade precoce (<16 anos) ou tardia (>35 anos), gemelaridade e risco de prematuridade"
+    ],
+    "correctIndex": 4,
+    "explanation": "A consulta é indicada para todas as gestantes, mas situações como idade <16 ou >35 anos, gemelaridade, risco de prematuridade, histórico de aborto/óbito, malformações e doenças maternas aumentam a necessidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação sobre a primeira consulta de puericultura pós-natal?",
+    "options": [
+      "Deve ser agendada somente se houver intercorrências",
+      "É opcional e depende da disponibilidade dos pais",
+      "Pode ser substituída pela consulta pré-natal",
+      "Deve ocorrer apenas após o primeiro mês de vida",
+      "Deverá ser realizada dentro da primeira semana de vida"
+    ],
+    "correctIndex": 4,
+    "explanation": "A primeira consulta pós-natal deve ocorrer dentro da primeira semana de vida, resgatando a puericultura e garantindo acompanhamento pediátrico preventivo contínuo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na anamnese da consulta pré-natal, qual informação é crucial sobre a história obstétrica?",
+    "options": [
+      "Situação financeira e profissional dos pais",
+      "Histórico vacinal exclusivo da gestante",
+      "Data da última menstruação, idade gestacional e histórico de gestações anteriores",
+      "Apenas o número de gestações sem detalhes adicionais",
+      "Preferências pessoais sobre nomes do bebê"
+    ],
+    "correctIndex": 2,
+    "explanation": "A história obstétrica deve incluir data da última menstruação, idade gestacional atual, planejamento da gestação, número de gestações anteriores, vias de parto, abortamentos e intercorrências, para predizer riscos e antecipar condutas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais aspectos do exame físico da gestante são relevantes para a consulta pediátrica pré-natal?",
+    "options": [
+      "Apenas altura uterina e ausculta de batimentos cardíacos fetais para avaliação de vitalidade",
+      "Exame neurológico completo da gestante com avaliação de reflexos tendinosos profundos",
+      "Peso (com IMC), pressão arterial, edema periférico e exame das mamas (mamilos e colostro)",
+      "Testes de função pulmonar com espirometria e medida de capacidade vital forçada",
+      "Avaliação dermatológica completa para identificação de manchas pigmentares e erupções cutâneas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dados importantes incluem peso (com cálculo do IMC), pressão arterial, edema periférico e exame das mamas (avaliação de mamilos e presença de colostro), fornecendo insights sobre condições que podem afetar o feto e o RN.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma gestante apresenta edema periférico significativo e pressão arterial elevada. Como o pediatra deve correlacionar esses achados na consulta pré-natal?",
+    "options": [
+      "Atribuir apenas ao ganho de peso excessivo",
+      "Encaminhar para nutricionista sem outras ações",
+      "Suspeitar de pré-eclâmpsia e orientar sobre riscos fetais como RCIU",
+      "Ignorar, pois são alterações normais da gestação",
+      "Considerar como indicativo de diabetes gestacional"
+    ],
+    "correctIndex": 2,
+    "explanation": "Edema e hipertension podem indicar pré-eclâmpsia, aumentando riscos de restrição de crescimento intrauterino (RCIU) e outras complicações fetais, necessitando de orientações específicas e encaminhamento adequado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual lei brasileira estabelece os direitos e a proteção integral para crianças e adolescentes, promulgada em 1990?",
+    "options": [
+      "Lei 9.394/96 (Lei de Diretrizes e Bases da Educação Nacional)",
+      "Lei 8.069/90 (Proteção integral e direitos fundamentais)",
+      "Lei 12.015/09 (Crimes contra dignidade sexual de crianças)",
+      "Lei 13.431/2017 (Sistema de garantia de direitos da criança vítima)",
+      "Lei 11.340/06 (Lei Maria da Penha - Violência doméstica)"
+    ],
+    "correctIndex": 1,
+    "explanation": "O ECA foi instituído pela Lei 8.069/90 em 13 de julho de 1990, estabelecendo direitos e proteção integral para crianças e adolescentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo o ECA, qual é a definição de criança?",
+    "options": [
+      "Até 10 anos completos",
+      "De 0 a 14 anos incompletos",
+      "Até 12 anos incompletos",
+      "De 0 a 6 anos completos",
+      "Até 18 anos incompletos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Conforme o Art. 2º do ECA, criança é a pessoa até 12 anos incompletos, e adolescente aquela entre 12 e 18 anos de idade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo o ECA, qual princípio garante que crianças e adolescentes devem ter precedência no recebimento de proteção, atendimento e formulação de políticas públicas?",
+    "options": [
+      "Princípio da proteção integral",
+      "Princípio da dignidade da pessoa humana",
+      "Princípio do melhor interesse da criança",
+      "Princípio da igualdade substantiva",
+      "Princípio da primazia ou precedência"
+    ],
+    "correctIndex": 4,
+    "explanation": "O princípio da prioridade absoluta, baseado no Art. 4º do ECA e Art. 227 da CF, garante que crianças e adolescentes tenham precedência em atendimento e recursos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Art. 13 do ECA trata principalmente de qual dever?",
+    "options": [
+      "Dever de fornecer assistência médica gratuita",
+      "Dever de notificação em casos de suspeita de maus-tratos",
+      "Dever de garantir educação de qualidade",
+      "Dever de assegurar alimentação adequada",
+      "Dever de proteger contra discriminação"
+    ],
+    "correctIndex": 1,
+    "explanation": "O Art. 13 do ECA estabelece a obrigatoriedade de comunicação ao Conselho Tutelar em casos de suspeita ou confirmação de maus-tratos contra criança ou adolescente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual artigo do ECA assegura que a criança e o adolescente tenham proteção desde o nascimento mediante políticas públicas que permitam desenvolvimento sadio?",
+    "options": [
+      "Art. 17 (proteção da integridade física e psíquica)",
+      "Art. 70 (prevenção de agravos à saúde)",
+      "Art. 11 (atendimento integral no SUS)",
+      "Art. 7º (proteção vital desde o nascimento)",
+      "Art. 98 (medidas específicas de proteção)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Art. 7º do ECA assegura à criança e ao adolescente o direito à proteção da vida e da saúde, mediante políticas públicas que permitam nascimento e desenvolvimento sadio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um médico pediatra identifica sinais de negligência em uma criança de 3 anos. Com base no ECA, qual deve ser sua primeira ação?",
+    "options": [
+      "Orientar os pais e agendar retorno em uma semana",
+      "Documentar no prontuário sem tomar outras providências",
+      "Notificar imediatamente ao Conselho Tutelar",
+      "Aguardar confirmação diagnóstica por exames",
+      "Encaminhar para avaliação psicológica sem notificação"
+    ],
+    "correctIndex": 2,
+    "explanation": "Conforme Art. 13 do ECA, a notificação ao Conselho Tutelar é obrigatória mesmo em casos de suspeita, não sendo necessário aguardar confirmação, para proteger a criança de possíveis violências.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual artigo do ECA assegura acesso integral às ações e serviços de saúde do SUS?",
+    "options": [
+      "Art. 7º",
+      "Art. 70",
+      "Art. 13",
+      "Art. 11",
+      "Art. 18"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Art. 11 do ECA garante o acesso integral às ações e serviços de saúde do Sistema Único de Saúde (SUS) para crianças e adolescentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Art. 17 do ECA trata do direito à:",
+    "options": [
+      "Educação de qualidade e acesso à escola",
+      "Assistência jurídica gratuita",
+      "Proteção contra exploração no trabalho",
+      "Dignidade e inviolabilidade da integridade física, psíquica e moral",
+      "Participação em atividades culturais"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Art. 17 estabelece o direito ao respeito, consistindo na inviolabilidade da integridade física, psíquica e moral da criança e do adolescente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a atribuição do Conselho Tutelar conforme o Art. 136 do ECA?",
+    "options": [
+      "Fornecer atendimento médico direto às crianças",
+      "Aplicar penalidades criminais a agressores",
+      "Substituir a função dos pais em todos os casos",
+      "Coordernar políticas públicas em nível nacional",
+      "Receber notificações e tomar providências para garantir direitos violados"
+    ],
+    "correctIndex": 4,
+    "explanation": "O Art. 136 define que o Conselho Tutelar é o órgão responsável por receber notificações e adotar medidas de proteção imediatas quando direitos da criança/adolescente são ameaçados ou violados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em caso de recusa vacinal pelos pais, qual artigo do ECA pode ser invocado para proteger a criança?",
+    "options": [
+      "Art. 13, que exige notificação por maus-tratos",
+      "Art. 70, que previne violências",
+      "Art. 7º, que garante direito à vida e à saúde",
+      "Art. 98, que estabelece medidas de proteção",
+      "Art. 17, que assegura dignidade"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Art. 7º garante o direito à saúde, e a recusa vacinal pode configurar violação desse direito, exigindo notificação e medidas de proteção para assegurar o melhor interesse da criança.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual dispositivo da Constituição Federal reforça a prioridade absoluta para crianças e adolescentes?",
+    "options": [
+      "Art. 227",
+      "Art. 230",
+      "Art. 196",
+      "Art. 208",
+      "Art. 5º"
+    ],
+    "correctIndex": 0,
+    "explanation": "O Art. 227 da CF/88 estabelece que é dever da família, sociedade e Estado assegurar à criança e ao adolescente, com absoluta prioridade, os direitos à vida, saúde, educação, entre outros.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo o Código de Ética Médica, em que situação o sigilo profissional pode ser rompido?",
+    "options": [
+      "Somente em casos de doenças infectocontagiosas",
+      "Em defesa da criança, quando há suspeita de maus-tratos",
+      "Apenas por ordem judicial direta",
+      "Nunca, sob nenhuma circunstância",
+      "Apenas com autorização expressa dos pais"
+    ],
+    "correctIndex": 1,
+    "explanation": "O Código de Ética Médica (Art. 73 e 77) permite quebrar o sigilo em situações que envolvam proteção de pacientes vulneráveis, como crianças em risco de violência, notificando autoridades competentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo a SBP, qual é o critério para o pediatra acionar o Conselho Tutelar em casos de violência infantil?",
+    "options": [
+      "Presença de indícios ou suspeição clínica, sem necessidade de confirmação diagnóstica prévia",
+      "Aguardar confirmação diagnóstica por múltiplos profissionais de saúde",
+      "Acionar somente em casos de violência física grave com lesões evidentes",
+      "Acionar apenas se os pais ou responsáveis legais consentirem expressamente",
+      "Encaminhar para avaliação psicológica antes de fazer qualquer notificação externa"
+    ],
+    "correctIndex": 0,
+    "explanation": "A SBP recomenda a notificação imediata ao Conselho Tutelar ou outros órgãos em casos de suspeita de maus-tratos, alinhada ao Art. 13 do ECA, para proteção integral da criança.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um adolescente de 14 anos recusa tratamento médico essencial. Qual a conduta ética do pediatra?",
+    "options": [
+      "Ignorar a recusa e proceder com o tratamento",
+      "Respeitar a autonomia absoluta do adolescente",
+      "Impor tratamento sem discussão com a família",
+      "Adiar decisões até a maioridade legal",
+      "Avaliar capacidade decisional e acionar Conselho Tutelar se necessário"
+    ],
+    "correctIndex": 4,
+    "explanation": "Deve-se avaliar a capacidade de discernimento do adolescente e, se o tratamento for essencial à vida/ saúde, acionar o Conselho Tutelar para medidas de proteção, balancing autonomia e melhor interesse.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Ao identificar maus-tratos contra uma criança, quais instâncias devem ser acionadas pelo médico para garantir a proteção integral?",
+    "options": [
+      "Apenas Conselho Regional de Medicina para registro ético",
+      "Apenas diretoria administrativa do estabelecimento de saúde",
+      "Nenhuma instância externa, apenas orientação familiar",
+      "Somente os pais ou responsáveis legais pela criança",
+      "Rede de proteção incluindo órgãos tutelares, judiciários e vigilância epidemiológica"
+    ],
+    "correctIndex": 4,
+    "explanation": "A notificação deve ser feita ao Conselho Tutelar, Ministério Público, Delegacia da Infância e Juventude, e registrada no SINAN, conforme ECA e diretrizes nacionais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual sistema de informação em saúde deve ser utilizado para registrar casos suspeitos ou confirmados de agressões contra crianças e adolescentes?",
+    "options": [
+      "SINAN - Sistema de Informação de Agravos de Notificação",
+      "SINAIM - Serviço de Internação e Atendimento ao Menor",
+      "SISVAN - Sistema de Vigilância Alimentar e Nutricional",
+      "SINASC - Sistema de Informações sobre Nascidos Vivos",
+      "SISREG - Sistema de Regulação ambulatorial e hospitalar"
+    ],
+    "correctIndex": 0,
+    "explanation": "O SINAN (Sistema de Informação de Agravos de Notificação) inclui a Ficha de Notificação de Violência Interpessoal e Autoprovocada, sendo ferramenta essencial para vigilância e proteção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a conduta do pediatra ao identificar sinais de abuso sexual em uma criança de 7 anos?",
+    "options": [
+      "Aguardar relato espontâneo da criança para confirmar",
+      "Conversar apenas com os pais para evitar constrangimentos",
+      "Notificar imediatamente ao Conselho Tutelar e registrar no SINAN",
+      "Encaminhar para psiquiatra sem notificação prévia",
+      "Documentar e aguardar evolução clínica"
+    ],
+    "correctIndex": 2,
+    "explanation": "Conforme ECA Art. 13 e diretrizes éticas, a notificação é obrigatória mesmo na suspeita, protegendo a criança de further danos e acionando a rede de proteção.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o prazo recomendado para a primeira consulta pós-natal pediátrica?",
+    "options": [
+      "Na alta da maternidade, se possível",
+      "Dentro da primeira semana de vida",
+      "Dentro dos primeiros 15 dias de vida",
+      "Apenas quando houver intercorrências",
+      "Após o primeiro mês de vida"
+    ],
+    "correctIndex": 1,
+    "explanation": "A primeira consulta pós-natal deve ocorrer dentro da primeira semana de vida, conforme orientações do manual, para continuidade do cuidado iniciado na consulta pré-natal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que deve ser abordado na consulta pediátrica pré-natal sobre testes de triagem neonatal?",
+    "options": [
+      "Ignorar, pois são de responsabilidade do obstetra",
+      "Conscientizar sobre importância de realizá-los e mostrar resultados ao pediatra precocemente",
+      "Orientar que são opcionais e dependem da vontade dos pais",
+      "Adiar discussões para após o nascimento",
+      "Focar apenas no teste do pezinho básico"
+    ],
+    "correctIndex": 1,
+    "explanation": "A consulta pré-natal deve incluir orientações sobre a importância dos testes de triagem neonatal (como teste do pezinho), a necessidade de realizá-los e a mostrar os resultados ao pediatra o mais cedo possível.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual medida de segurança do sono reduz significativamente o risco de eventos respiratórios obstrutivos e síndrome de morte súbita no lactente?",
+    "options": [
+      "Permitir que o lactente escolha naturalmente a posição mais confortável durante o sono",
+      "Colocar o lactente com a face voltada para cima em superfície firme sem travesseiros",
+      "Utilizar travesseiros e protetores de berço para evitar movimentos bruscos noturnos",
+      "Posicionar o lactente lateralmente com suporte de rolos para estabilização corporal",
+      "Deitar o lactente com a face voltada para baixo para facilitar drenagem de secreções"
+    ],
+    "correctIndex": 1,
+    "explanation": "A posição supina (barriga para cima) em superfície firme é recomendada para reduzir o risco de morte súbita infantil e obstrução de vias aéreas, sendo uma orientação crucial na consulta pré-natal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual abordagem durante a consulta pediátrica pré-natal demonstra maior impacto na tomada de decisão materna sobre a via de parto?",
+    "options": [
+      "Ressaltar exclusivamente aspectos positivos de procedimentos cirúrgicos programados",
+      "Propor agendamento eletivo de cirurgia para todas as primigestas sem contraindicações",
+      "Transferir toda responsabilidade decisória para a equipe obstétrica sem orientação adicional",
+      "Apresentar evidências científicas comparativas sobre desfechos neonatais e permitir autonomia informada",
+      "Evitar discussões sobre mecanismos de nascimento para preservar neutralidade profissional"
+    ],
+    "correctIndex": 3,
+    "explanation": "A discussão baseada em evidências sobre vias de parto, incluindo benefícios do parto vaginal para microbiota e riscos aumentados de alergias na cesariana, permite escolhas informadas e pode reduzir cesarianas desnecessárias.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os benefícios do parto vaginal para a microbiota intestinal do RN?",
+    "options": [
+      "Elimina completamente bactérias patogênicas",
+      "Aumenta o risco de infecções neonatais",
+      "Favorece colonização por microbiota materna, reduzindo risco de alergias",
+      "Não há diferenças significativas na colonização",
+      "Reduz a diversidade bacteriana intestinal"
+    ],
+    "correctIndex": 2,
+    "explanation": "O parto vaginal permite contato do RN com a microbiota do canal de parto, promovendo colonização adequada e reduzindo risco de doenças alérgicas, diferentemente da cesariana.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação sobre aleitamento materno exclusivo?",
+    "options": [
+      "Até os 6 meses de vida",
+      "Até os 4 meses de vida",
+      "Não há duração fixa estabelecida",
+      "Até os 12 meses de vida",
+      "Apenas no primeiro mês de vida"
+    ],
+    "correctIndex": 0,
+    "explanation": "O aleitamento materno exclusivo é recomendado até os 6 meses, seguido de complementação até 2 anos ou mais, conforme diretrizes nacionais e internacionais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que inclui a avaliação fetal indireta na consulta pré-natal?",
+    "options": [
+      "Testes de estresse fetal invasivos",
+      "Apenas ausculta dos batimentos cardíacos fetais",
+      "Ultrassonografia com estimativa de medidas e detecção de malformações",
+      "Exames de sangue materno para sorologias",
+      "Avaliação de movimentos fetais pela gestante"
+    ],
+    "correctIndex": 2,
+    "explanation": "A avaliação fetal indireta é feita por USG obstétrica e morfológica, fornecendo dados sobre crescimento, RCIU, malformações e síndromes genéticas, essenciais para predizer riscos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o objetivo de orientar sobre a perda fisiológica de peso na primeira semana?",
+    "options": [
+      "Tranquilizar os pais sobre a normalidade dessa perda, desde que dentro de limites",
+      "Indicar suplementação com fórmula infantil precoce",
+      "Alertar para risco imediato de desidratação grave",
+      "Enfatizar a necessidade de pesagem diária rigorosa",
+      "Ignorar, pois é um evento raro e sem importância"
+    ],
+    "correctIndex": 0,
+    "explanation": "A perda de até 10% do peso nas primeiras 24-48 horas é fisiológica, e orientar sobre isso reduz ansiedade dos pais, desde que o RN esteja mamando bem e sem outros sinais de alerta.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Como o pediatra deve abordar a história familiar na consulta pré-natal?",
+    "options": [
+      "Focar exclusivamente em dados obstétricos recentes",
+      "Limitar-se a informações sobre a gestação atual",
+      "Investigar consanguinidade, malformações, DM, HAS e doenças infectocontagiosas",
+      "Apenas questionar sobre hobbies e preferências dos pais",
+      "Ignorar, pois não influencia na saúde fetal"
+    ],
+    "correctIndex": 2,
+    "explanation": "A história familiar inclui consanguinidade, idade do casal, histórico de malformações, diabetes, hipertensão e doenças infectocontagiosas, ajudando a identificar riscos genéticos e ambientais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a importância de avaliar as mamas e mamilos na gestante?",
+    "options": [
+      "Diagnosticar câncer de mama precocemente",
+      "Ignorar, pois não relacionado ao cuidado fetal",
+      "Orientar sobre prevenção de fissuras e técnicas de amamentação",
+      "Avaliar apenas estética para cirurgias futuras",
+      "Verificar presença de infecções bacterianas"
+    ],
+    "correctIndex": 2,
+    "explanation": "A avaliação das mamas e mamilos (planos, invertidos ou protusos) permite orientações sobre pega adequada, ordenha manual e prevenção de fissuras, otimizando a amamentação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que é programação metabólica e seu impacto nos primeiros 1.000 dias?",
+    "options": [
+      "Conceito sem evidências científicas comprovadas",
+      "Apenas o ganho de peso gestacional da mãe",
+      "Programação genética imutável desde a concepção",
+      "Foco exclusivo na nutrição pós-natal",
+      "Influência de fatores ambientais na saúde futura, com modificações epigenéticas"
+    ],
+    "correctIndex": 4,
+    "explanation": "A programação metabólica refere-se à influência de fatores como nutrição, estresse e infecções nos primeiros 1.000 dias, podendo afetar até 80% dos genes via epigenética, impactando saúde adulta.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a conduta do pediatra ao identificar uso de drogas ilícitas pela gestante?",
+    "options": [
+      "Orientar sobre riscos fetais e notificar se houver suspeita de negligência",
+      "Criticar a gestante sem oferecer apoio",
+      "Ignorar para manter sigilo absoluto",
+      "Encaminhar apenas para obstetra sem ações pediátricas",
+      "Adiar discussões para o pós-parto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Deve-se orientar sobre riscos (como RCIU e síndrome de abstinência) e, se houver suspeita de negligência ou risco à criança, notificar ao Conselho Tutelar, alinhado ao ECA.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os órgãos da rede de proteção para notificação de violência?",
+    "options": [
+      "Somente delegacias comuns",
+      "Nenhum, a família deve resolver internamente",
+      "Apenas hospitais e unidades de saúde",
+      "Apenas escolas e instituições educacionais",
+      "Conselho Tutelar, CREAS, CRAS, Ministério Público"
+    ],
+    "correctIndex": 4,
+    "explanation": "A rede inclui Conselho Tutelar, CREAS (Centro de Referência Especializado de Assistência Social), CRAS (Centro de Referência de Assistência Social), MP e Delegacia da Infância, atuando de forma integrada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a diferença entre criança e adolescente segundo o ECA?",
+    "options": [
+      "Criança até 6 anos, adolescente de 6 a 18 anos",
+      "Não há diferença, são termos sinônimos",
+      "Criança até 12 anos incompletos, adolescente de 12 a 18 anos",
+      "Criança até 10 anos, adolescente de 10 a 18 anos",
+      "Criança até 14 anos, adolescente de 14 a 21 anos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Conforme Art. 2º do ECA, criança é a pessoa até 12 anos incompletos, e adolescente é aquela entre 12 e 18 anos de idade, com direitos específicos para cada faixa etária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que deve constar no relatório da consulta pré-natal para o obstetra?",
+    "options": [
+      "Criticas à conduta obstétrica anterior",
+      "Resultados de exames laboratoriais detalhados",
+      "Nenhum relatório é necessário",
+      "Apenas dados demográficos da gestante",
+      "Presença/ausência de riscos à saúde fetal e orientações fornecidas"
+    ],
+    "correctIndex": 4,
+    "explanation": "O relatório deve informar sobre riscos fetais identificados e orientações dadas à família, facilitando a comunicação entre pediatra, obstetra e neonatologista.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a recomendação sobre a posição para dormir do RN para prevenir morte súbita?",
+    "options": [
+      "Posição elevada com travesseiro antirrefluxo",
+      "Posição prona (barriga para baixo) com apoio",
+      "Posição lateral com cobertas macias",
+      "Qualquer posição, desde que o bebê durma profundamente",
+      "Posição supina (barriga para cima) em superfície firme"
+    ],
+    "correctIndex": 4,
+    "explanation": "A posição supina em superfície firme reduz o risco de morte súbita infantil, sendo orientação padrão na consulta pré-natal e pós-natal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como a consulta pré-natal pediátrica contribui para a revitalização da puericultura?",
+    "options": [
+      "Eliminando a necessidade de consultas pós-natais",
+      "Substituindo todas as consultas obstétricas",
+      "Focando apenas em emergências neonatais",
+      "Estabelecendo vínculo precoce e incentivando acompanhamento preventivo contínuo",
+      "Restringindo-se a gestações de alto risco"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ao construir vínculo e orientar sobre a importância do acompanhamento, a consulta pré-natal estimula a adesão à puericultura, com consultas regulares para prevenção e promoção da saúde.",
+    "type": "raciocínio"
+  }
+]

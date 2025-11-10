@@ -1,0 +1,262 @@
+[
+  {
+    "question": "A Síndrome Coronariana Aguda (SCA) geralmente começa com um evento fisiopatológico central, que é a principal diferença em relação à Doença Arterial Coronariana (DAC) estável. Qual é este evento e qual sua consequência imediata?",
+    "options": [
+      "Aumento da demanda de oxigênio pelo miocárdio devido ao estresse físico ou emocional, o que resulta em isquemia subendocárdica reversível.",
+      "Diminuição da contratilidade miocárdica e queda da Fração de Ejeção (FEVE), levando ao choque cardiogênico e subsequente formação de trombo.",
+      "Destruição do nó AV devido à isquemia da Artéria Descendente Anterior Esquerda (DAA), precipitando bradicardia profunda e bloqueios de terceiro grau.",
+      "Oclusão total do vaso coronário causada por vasoespasmo, o que leva à elevação do segmento ST no ECG, mas com troponina negativa.",
+      "Ruptura da placa aterosclerótica, expondo material altamente trombogênico, o que resulta na adesão plaquetária e formação de um trombo sobre a lesão."
+    ],
+    "correctIndex": 4,
+    "explanation": "No cenário de SCA, a placa aterosclerótica decide romper, expondo material altamente trombogênico. Ocorre a adesão das plaquetas e a formação de um trombo sobre a placa [1, 2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A classificação da SCA é crucial para o manejo. Qual é a principal distinção que diferencia o Infarto Agudo do Miocárdio sem Supradesnivelamento do ST (NSTEMI) da Angina Instável (AI), em termos de dano tecidual e biomarcadores?",
+    "options": [
+      "NSTEMI é definido por elevação do segmento ST no ECG e troponina positiva, enquanto AI apresenta apenas depressão do segmento ST e troponina negativa.",
+      "AI apresenta supradesnivelamento do segmento ST (STEMI equivalente) com troponina negativa, e NSTEMI apresenta inversão da onda T com troponina positiva.",
+      "NSTEMI é caracterizado por oclusão total da artéria coronária, enquanto AI é oclusão subtotal, ambos apresentando supradesnivelamento do segmento ST no ECG.",
+      "NSTEMI é um infarto subendocárdico (morte de tecido), resultando em Troponina Positiva (vazamento), enquanto AI é apenas isquemia subendocárdica (sem morte de tecido), resultando em Troponina Negativa [3, 4].",
+      "AI envolve infarto transmural de toda a parede ventricular, enquanto NSTEMI envolve apenas isquemia subendocárdica, e ambos cursam com troponina negativa."
+    ],
+    "correctIndex": 3,
+    "explanation": "NSTEMI envolve infarto subendocárdico (morte de tecido) com troponina positiva, geralmente apresentando depressão do ST ou inversão de onda T. A Angina Instável envolve isquemia subendocárdica (sem morte de tecido) com troponina negativa [3, 4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente apresenta dor no peito anginosa. O primeiro exame diagnóstico a ser realizado é o ECG de 12 derivações. Qual alteração eletrocardiográfica é patognomônica de um Infarto Agudo do Miocárdio com Supradesnivelamento do ST (STEMI)?",
+    "options": [
+      "Bloqueio de Ramo Esquerdo (BRE) novo ou presumivelmente novo, que exige a realização imediata de teste de estresse farmacológico.",
+      "Ondas Q patológicas novas, que indicam dano transmural, mas que não são a alteração inicial mais precoce do STEMI.",
+      "Supradesnivelamento do segmento ST em duas derivações contíguas, indicando oclusão coronária total e infarto transmural [5, 6].",
+      "Inversões da Onda T simétricas e profundas nas derivações V1 a V3, sugerindo isquemia subendocárdica.",
+      "Depressão do segmento ST em D2, D3 e aVF, com troponina positiva, que caracteriza um NSTEMI de localização inferior."
+    ],
+    "correctIndex": 2,
+    "explanation": "O Infarto Agudo do Miocárdio com Supradesnivelamento do ST (STEMI) é definido pela oclusão total do vaso, que leva a um infarto transmural, manifestando-se no ECG como supradesnivelamento do segmento ST [4, 6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes achados clínicos ou 'equivalentes anginosos' é considerado uma apresentação atípica de dor torácica que deve levantar a suspeita de SCA em pacientes de alto risco?",
+    "options": [
+      "Dor abdominal epigástrica associada a náuseas e diaforese (sudorese fria), mas sem o clássico aperto no peito [7].",
+      "Dor pleurítica (piora ao respirar), que irradia para o ombro e melhora ao inclinar-se para frente, sugerindo pericardite.",
+      "Dor aguda e lacinante, que irradia para o dorso e é associada a pulsos periféricos assimétricos, sugerindo dissecção aórtica.",
+      "Dor no peito subesternal, tipo aperto ou sufocamento, que irradia para o pescoço esquerdo, face esquerda e braço esquerdo [7].",
+      "Dor tipo queimação retroesternal, que piora após a ingestão de alimentos e melhora com antiácidos, sugerindo esofagite por refluxo."
+    ],
+    "correctIndex": 0,
+    "explanation": "Embora a angina clássica seja subesternal e tipo aperto, achados atípicos ou equivalentes anginosos incluem dor abdominal epigástrica, náusea e diaforese [7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Infarto Agudo do Miocárdio (IM) Inferior é geralmente diagnosticado pela elevação do ST nas derivações D2, D3 e aVF. Qual artéria coronária é a mais comumente ocluída neste tipo de IM e qual complicação arrítmica é frequentemente associada?",
+    "options": [
+      "Artéria Coronária Direita (ACD); a ACD supre o nó AV, e a oclusão pode levar a bloqueios AV (2º ou 3º grau) e bradicardia profunda [8-10].",
+      "Artéria Circunflexa Esquerda (ACX); complicações comuns incluem taquicardia ventricular e morte súbita cardíaca.",
+      "Artéria Descendente Anterior Esquerda (DAA); complicações comuns incluem Defeito do Septo Ventricular (DSV) e choque cardiogênico.",
+      "Artéria Descendente Posterior (ADP); complicações comuns incluem pericardite fibrinosa e tamponamento cardíaco.",
+      "Artéria Marginal Obtusa (AMO); complicações comuns incluem dilatação do átrio esquerdo e edema pulmonar agudo por insuficiência para trás."
+    ],
+    "correctIndex": 0,
+    "explanation": "O IM Inferior (D2, D3, aVF) sugere oclusão da Artéria Coronária Direita (ACD). Como a ACD supre o nó AV, sua oclusão pode levar à destruição do nó AV, resultando em bloqueios AV e bradicardia profunda [9, 10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em pacientes com Angina Instável ou NSTEMI, qual é o tratamento farmacológico inicial de 'carregamento' obrigatório que deve ser iniciado para prevenir a propagação do trombo, mesmo antes da decisão de revascularização?",
+    "options": [
+      "Terapia tripla, incluindo IECA (Inibidor da ECA), Estatinas de alta intensidade e Bloqueadores de Canal de Cálcio, para prevenir o remodelamento ventricular [11].",
+      "Uso de Metildopa e Hidralazina para controle estrito da pressão arterial, evitando-se o uso de Betabloqueadores devido ao risco de choque cardiogênico .",
+      "Apenas Nitratos de ação curta (Nitroglicerina sublingual) e Betabloqueadores, para reduzir a demanda de oxigênio miocárdico .",
+      "Fibrinólise com TPA (Ativador de Plasminogênio Tecidual) intravenoso, seguida de transporte imediato para cateterismo cardíaco [12].",
+      "Terapia Antiplaquetária Dupla (DAPT) e Anticoagulação, que consiste em Aspirina (325 mg), Clopidogrel ou Ticagrelor e Heparina [10]."
+    ],
+    "correctIndex": 4,
+    "explanation": "O paciente com Angina Instável ou NSTEMI é carregado com Terapia Antiplaquetária Dupla (Aspirina mais Clopidogrel ou Ticagrelor) mais Anticoagulação (Heparina) para prevenir a propagação do trombo [10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Pericardite é uma complicação inflamatória do Infarto do Miocárdio (IM). Qual é a diferença temporal e etiológica entre a Pericardite Fibrinosa e a Síndrome de Dressler, de acordo com o curso clínico pós-IM?",
+    "options": [
+      "Pericardite Fibrinosa ocorre muito cedo (um a três dias após o evento cardíaco), e a Síndrome de Dressler ocorre mais tardiamente (cerca de 14 dias/duas semanas após o IM) .",
+      "Pericardite Fibrinosa ocorre tardiamente (após 14 dias), sendo causada por reação autoimune, enquanto a Síndrome de Dressler ocorre precocemente (1 a 3 dias), sendo causada por inflamação direta do pericárdio.",
+      "Síndrome de Dressler é sempre acompanhada pela Tríade de Beck (hipotensão, distensão jugular), enquanto a Pericardite Fibrinosa é sempre assintomática.",
+      "A Pericardite Fibrinosa ocorre apenas no IAMCSST, e a Síndrome de Dressler, apenas no IAM sem supra ST (NSTEMI).",
+      "Ambas ocorrem precocemente (nas primeiras 24 horas), mas a Pericardite Fibrinosa é causada por ruptura do septo, e a Síndrome de Dressler, por ruptura do músculo papilar."
+    ],
+    "correctIndex": 0,
+    "explanation": "A Pericardite Fibrinosa ocorre geralmente muito cedo (um a três dias após o evento cardíaco). A Síndrome de Dressler é uma pericardite mais tardia, ocorrendo cerca de 14 dias/duas semanas após um IM .",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em pacientes submetidos à Intervenção Coronária Percutânea (ICP) com colocação de *stent*, qual é o regime de Terapia Antiplaquetária Dupla (DAPT) recomendado, e qual o seu propósito primário?",
+    "options": [
+      "Aspirina mais Clopidogrel ou Ticagrelor, por pelo menos um ano, para prevenir a trombose do *stent* [13].",
+      "Heparina em infusão contínua por 48 horas, seguida por Rivaroxabana (DOAC), para prevenir a formação de trombo na artéria coronária tratada.",
+      "Aspirina e um Inibidor da Glicoproteína IIb/IIIa, por 6 meses, para prevenir a trombose tardia do *stent* e o remodelamento ventricular esquerdo.",
+      "Ezetimiba e Estatina de alta intensidade, por pelo menos 10 anos, para estabilizar a placa e reduzir os níveis de colesterol não-HDL.",
+      "Aspirina e um Betabloqueador seletivo (Carvedilol ou Metoprolol), por tempo indeterminado, para reduzir a frequência cardíaca e a pós-carga arterial."
+    ],
+    "correctIndex": 0,
+    "explanation": "Após a colocação do *stent* (ICP), a Terapia Antiplaquetária Dupla (DAPT) é essencial, consistindo em Aspirina mais Clopidogrel ou Ticagrelor, por pelo menos um ano, para prevenir a trombose do *stent* [13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A oclusão maciça da Artéria Descendente Anterior Esquerda (DAA) é considerada particularmente perigosa. Qual a razão anatômica para isso e qual complicação hemodinâmica é frequentemente associada?",
+    "options": [
+      "A DAA é responsável pela irrigação da Artéria Coronária Direita (ACD), o que leva ao infarto inferior e regurgitação mitral aguda por ruptura do músculo papilar [14].",
+      "A DAA é a principal supridora da Artéria Circunflexa Esquerda (ACX), e sua oclusão leva a um infarto de parede posterior e pseudoaneurisma ventricular [14].",
+      "A DAA supre primariamente a porção posterior do coração e o nó AV, levando a bloqueios cardíacos e bradicardia profunda [9, 14].",
+      "A DAA está associada a infartos que causam pericardite fibrinosa e síndrome de Dressler, devido à inflamação miocárdica que se estende ao pericárdio [3].",
+      "A DAA supre a parede lateral do ventrículo esquerdo (VE) e o septo, e sua oclusão maciça diminui a contratilidade do VE, podendo levar ao choque cardiogênico [2, 11, 14]."
+    ],
+    "correctIndex": 4,
+    "explanation": "A DAA supre o septo e a parede anterior do VE [14]. Um infarto maciço nessa área diminui a contratilidade ventricular esquerda e a fração de ejeção, levando à queda no débito cardíaco, hipotensão e potencial choque cardiogênico [2, 11].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os fatores de risco para Doença Arterial Coronariana (DAC) estimulam a formação de placas ateroscleróticas. Quais são os seis fatores de risco clássicos que compõem o mnemônico 'SAD CHF', conforme apresentado?",
+    "options": [
+      "Tabagismo (Smoking), Idade avançada (Advanced age, > 45 H / > 55 M), Diabetes (D), Colesterol alto (C), Hipertensão (H) e Histórico familiar (F) [15].",
+      "Estresse (Stress), Angina (A), Dieta (D), Cirurgia (C), Hipotensão (H) e Febre (F).",
+      "Sopro (Sistólico), Aneurisma (Aórtico), Dissecção (D), Cardíacos (biomarcadores), Hérnia (H) e Fibrilação (Fibrilação Ventricular).",
+      "Sexo (masculino), Absorção (de colesterol), Disfunção (endotelial), Cirurgia (cardíaca prévia), Hipertensão Pulmonar e Falência (renal).",
+      "Sistêmica (inflamação), Avançada (idade), Dislipidemia (HDL alto), Choque (cardiogênico), Hipóxia (aguda) e Fibrose (miocárdica)."
+    ],
+    "correctIndex": 0,
+    "explanation": "Os fatores de risco para DAC são representados pelo mnemônico 'SAD CHF': Tabagismo (S), Idade avançada (A), Diabetes (D), Colesterol alto (C), Hipertensão (H) e Histórico familiar (F) [15, 16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Após um IM (NSTEMI ou STEMI), se a pressão arterial do paciente permitir, qual classe de medicamento deve ser introduzida para prevenir o remodelamento ventricular e melhorar o prognóstico a longo prazo?",
+    "options": [
+      "Nitratos de ação prolongada (Dinitrato de Isossorbida), pois reduzem a pré-carga e dilatam os vasos coronários, sem afetar o remodelamento .",
+      "Bloqueadores dos Canais de Cálcio (BCC), devido à sua eficácia em tratar a angina vasoespástica e reduzir a pós-carga, mesmo em baixa FEVE .",
+      "Inibidores da ECA ou Bloqueadores dos Receptores de Angiotensina (BRAs), pois seu uso demonstrou ser benéfico na prevenção do remodelamento ventricular .",
+      "Antiagregantes plaquetários de dupla ação (Clopidogrel ou Ticagrelor) em monoterapia, para evitar o risco de sangramento com a adição de outras classes [13].",
+      "Agentes fibrinolíticos (TPA), pois previnem a recorrência do trombo e o remodelamento ventricular, especialmente após a ICP ."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para prevenir o remodelamento ventricular após o IM, o uso de inibidores da ECA ou BRAs (se a pressão arterial permitir) mostrou-se benéfico .",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Angina Estável é distinguida da SCA por suas características clínicas. Qual é a principal característica da angina estável que reflete o descompasso entre suprimento e demanda em um vaso parcialmente obstruído?",
+    "options": [
+      "A dor pode ocorrer em repouso e é de intensidade crescente, exigindo o uso de Nitroglicerina em infusão intravenosa.",
+      "A angina ocorre quando o paciente começa a se exercitar e aumenta sua demanda de oxigênio, e melhora com o repouso ou Nitroglicerina sublingual [1, 5, 8, 17].",
+      "A dor é persistente, não responsiva a Nitroglicerina e acompanhada de Troponina Positiva e ondas Q no ECG, indicando infarto estabelecido.",
+      "É uma dor aguda, lacinante, de início súbito, associada a tontura e síncope, sugerindo oclusão total do vaso coronário.",
+      "A dor é posicional (melhora ao inclinar-se para frente) e irradia para o músculo trapézio, sugerindo inflamação pericárdica."
+    ],
+    "correctIndex": 1,
+    "explanation": "Em pacientes com DAC estável, a angina ocorre quando eles se exercitam e aumentam sua demanda de oxigênio (descompasso suprimento/demanda). Ela melhora com o repouso ou Nitroglicerina [1, 5, 8, 17].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na abordagem diagnóstica da dor torácica, o ECG e a troponina são essenciais. Quais são os achados característicos que definem a Angina Instável em relação à Angina Estável e ao NSTEMI?",
+    "options": [
+      "Elevação do segmento ST, acompanhada de troponina positiva (infarto transmural).",
+      "Bloqueio de Ramo Esquerdo (BRE) novo, associado a enzimas hepáticas elevadas (AST/ALT).",
+      "Depressão do segmento ST ou inversões da onda T (isquemia subendocárdica), mas com Troponina Negativa [4, 18].",
+      "Inversões de onda T, acompanhadas de troponina positiva (infarto subendocárdico) [4].",
+      "ECG normal e troponina negativa, com dor que só ocorre ao esforço físico (isquemia induzida por demanda) ."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Angina Instável é caracterizada por isquemia (inversões de onda T, depressões de ST) no ECG, mas com Troponina Negativa, indicando ausência de morte celular (infarto) [4, 18].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O infarto do miocárdio maciço pode levar à Insuficiência Cardíaca Aguda. Qual o mecanismo fisiopatológico que resulta em Edema Pulmonar neste contexto, conhecido como 'Insuficiência para Trás'?",
+    "options": [
+      "Oclusão do nó AV pela Artéria Coronária Direita (ACD), resultando em bradicardia e subsequente insuficiência do ventrículo direito.",
+      "Ruptura do músculo papilar, o que causa Regurgitação Mitral Aguda e Tamponamento Cardíaco, impedindo o enchimento ventricular.",
+      "O sangue não pode avançar para fora do Ventrículo Esquerdo (VE) devido à baixa contratilidade, voltando para o átrio esquerdo e circulação pulmonar, o que inunda os pulmões com fluido .",
+      "Defeito do Septo Ventricular (DSV) por ruptura do septo, que causa um shunt da esquerda para a direita, sobrecarregando o ventrículo direito e o átrio direito .",
+      "Aumento da Resistência Vascular Sistêmica (RVS) devido à liberação de catecolaminas, o que aumenta a pós-carga e o débito cardíaco simultaneamente [1]."
+    ],
+    "correctIndex": 2,
+    "explanation": "A insuficiência cardíaca após IM pode levar o sangue a 'voltar' (insuficiência para trás) do VE para a circulação pulmonar, enchendo os pulmões com fluido devido ao aumento da pressão hidrostática, resultando em edema pulmonar .",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes achados eletrocardiográficos (elevação do ST) é sugestivo de oclusão da Artéria Circunflexa Esquerda (ACX)?",
+    "options": [
+      "Depressão do ST em V1-V3 (Infarto Posterior) .",
+      "Elevação do ST nas derivações D1, aVL, V5 e V6 (Infarto Lateral) .",
+      "Elevação do ST nas derivações V1 a V4 (Infarto Anterior) .",
+      "Elevação do ST difusa em quase todas as derivações, com depressão do PR (Pericardite Fibrinosa) .",
+      "Elevação do ST nas derivações D2, D3 e aVF (Infarto Inferior) ."
+    ],
+    "correctIndex": 1,
+    "explanation": "A oclusão da Artéria Circunflexa Esquerda (ACX) é tipicamente vista no ECG com elevação do ST nas derivações D1, aVL, V5 e V6 (Infarto Lateral) .",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente de 55 anos apresenta dor torácica clássica há 30 minutos e o ECG revela supradesnivelamento do segmento ST em V1-V4. O hospital de atendimento não possui laboratório de cateterismo cardíaco disponível. Qual é a estratégia de reperfusão imediata e o passo subsequente, de acordo com as diretrizes?",
+    "options": [
+      "Iniciar estatinas de alta intensidade e Betabloqueadores intravenosos, e transportar o paciente de forma eletiva, pois o benefício da fibrinólise é baixo .",
+      "Administrar TPA (Ativador de Plasminogênio Tecidual), Heparina e Aspirina (carregamento completo), e transportar o paciente o mais rápido possível para uma unidade com capacidade de Intervenção Coronária Percutânea (ICP) .",
+      "Administrar Nitroglicerina intravenosa, Aspirina e Heparina, mas aguardar 6 horas para reavaliação dos biomarcadores cardíacos [10].",
+      "Apenas iniciar Terapia Antiplaquetária Dupla (Aspirina + Ticagrelor) e aguardar 12 horas, pois o STEMI Anterior não está associado a alto risco de mortalidade .",
+      "Realizar teste de estresse farmacológico com Dobutamina para confirmar a isquemia antes de qualquer intervenção, já que o ECG não é conclusivo ."
+    ],
+    "correctIndex": 1,
+    "explanation": "Se o hospital não possui ICP, deve-se administrar TPA (Ativador de Plasminogênio Tecidual) e transportar o paciente rapidamente para uma instalação capaz de ICP, sendo o paciente carregado com Aspirina, Clopidogrel/Ticagrelor e Heparina [12].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com NSTEMI (Troponina positiva, Depressão do ST) é estratificado e apresenta Angina Refratária (sintomático apesar da terapia médica máxima) e um escore de risco TIMI > 3. Qual é a conduta em relação à estratégia de revascularização?",
+    "options": [
+      "Suspender a terapia antiplaquetária dupla e anticoagulação devido ao risco de sangramento, e iniciar apenas Betabloqueadores e Nitratos (Dinitrato de isossorbida) .",
+      "Deve-se manter a terapia médica máxima (DAPT + Heparina) por 1 ano, e agendar um teste de estresse farmacológico para confirmar a extensão da isquemia residual [7].",
+      "Devido à estabilidade elétrica e hemodinâmica (NSTEMI), o cateterismo cardíaco deve ser realizado de forma eletiva após 72 horas (estratégia conservadora tardia) .",
+      "O paciente deve ser transportado para a realização de Cirurgia de Revascularização do Miocárdio (CRM), pois a ICP é contraindicada em pacientes com TIMI > 3 .",
+      "A Angina Refratária e o Escore TIMI > 3 são indicações de Muito Alto Risco, exigindo uma Estratégia Invasiva Imediata (Cateterismo Cardíaco precoce) [10]."
+    ],
+    "correctIndex": 4,
+    "explanation": "As indicações para revascularização (cateterismo precoce) na SCA sem supra de ST incluem: escore TIMI maior que três, angina refratária (sintomático apesar da terapia médica) e instabilidade hemodinâmica ou elétrica [10].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com STEMI Inferior (oclusão da ACD) desenvolve repentinamente Hipotensão e um sopro holossistólico novo e intenso que irradia para a axila, acompanhado de Edema Pulmonar Agudo. Qual complicação mecânica aguda é mais provável?",
+    "options": [
+      "Regurgitação Mitral Aguda por Ruptura do Músculo Papilar, complicação associada ao infarto inferior/ACD, manifestada por sopro holossistólico novo e insuficiência cardíaca .",
+      "Pericardite Fibrinosa aguda, causando dor pleurítica e atrito pericárdico audível .",
+      "Pseudoaneurisma ventricular, que causa estase sanguínea e aumenta o risco de complicações tromboembólicas, mas não leva ao colapso hemodinâmico súbito .",
+      "Ruptura da Parede Livre do Ventrículo Esquerdo, levando a Hemopericárdio e Tamponamento Cardíaco (Tríade de Beck) .",
+      "Defeito do Septo Ventricular (DSV) por ruptura do septo, que causaria um sopro holossistólico, mas é mais comum na oclusão da DAA ."
+    ],
+    "correctIndex": 0,
+    "explanation": "A Ruptura do Músculo Papilar é geralmente associada à isquemia inferior ou oclusão da ACD. Isso causa Regurgitação Mitral Aguda durante a sístole, manifestando-se como um sopro holossistólico e insuficiência cardíaca .",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente é diagnosticado com Doença Arterial Coronariana (DAC) estável. A Angiografia Coronária revela lesão significativa no Tronco da Coronária Esquerda (TCE) e três vasos com placas ateroscleróticas. Além disso, a Fração de Ejeção do Ventrículo Esquerdo (FEVE) está reduzida. Qual é a estratégia de revascularização preferida neste cenário complexo?",
+    "options": [
+      "Cirurgia de Revascularização do Miocárdio (CRM), pois é a indicação preferida em casos de lesão do tronco da coronária esquerda, doença de três ou mais vasos e Fração de Ejeção ventricular esquerda ruim .",
+      "Tratamento Médico Máximo (MMT), incluindo Betabloqueadores e IECA, reavaliando o teste de estresse em 6 meses, pois a FEVE ruim contraindica a cirurgia .",
+      "Intervenção Coronária Percutânea (ICP) com *stent* (angioplastia), pois é menos invasiva, e a lesão de TCE não é uma contraindicação absoluta .",
+      "Combinação de ICP para a lesão do TCE e CRM para as lesões de três vasos, maximizando a revascularização total do miocárdio .",
+      "Uso de Adenosina ou Dipiridamol para realizar um teste de estresse farmacológico, visando a síndrome do roubo coronário e avaliando a área de isquemia antes da decisão final ."
+    ],
+    "correctIndex": 0,
+    "explanation": "A Cirurgia de Revascularização do Miocárdio (CRM) é o método preferido quando há lesão do Tronco da Coronária Esquerda (TCE), doença de três ou mais vasos com placas ou Fração de Ejeção ventricular esquerda ruim .",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Em um paciente com STEMI que está hemodinamicamente instável e desenvolvendo choque cardiogênico (diminuição da perfusão tecidual por queda do débito cardíaco), qual é a principal razão pela qual os Betabloqueadores devem ser usados com extrema cautela ou evitados no manejo inicial?",
+    "options": [
+      "Betabloqueadores inibem o efeito benéfico dos Inibidores da ECA/BRAs na prevenção do remodelamento ventricular esquerdo pós-infarto .",
+      "Betabloqueadores podem reduzir a contratilidade miocárdica e a frequência cardíaca (diminuindo o débito cardíaco), o que pode exacerbar a hipotensão e o choque cardiogênico [11].",
+      "Betabloqueadores causam isquemia vasoespástica (Angina de Prinzmetal), o que pode levar ao supradesnivelamento do ST intermitente no ECG .",
+      "Betabloqueadores aumentam a pressão arterial (Pós-carga) e a frequência cardíaca, o que aumenta drasticamente a demanda de oxigênio miocárdico [1].",
+      "Betabloqueadores interagem perigosamente com a Terapia Antiplaquetária Dupla (DAPT), aumentando o risco de sangramento gastrointestinal [13]."
+    ],
+    "correctIndex": 1,
+    "explanation": "O choque cardiogênico é causado pela baixa contratilidade ventricular esquerda e baixa fração de ejeção, levando à queda do débito cardíaco [11]. Betabloqueadores, ao diminuir a contratilidade e a frequência cardíaca, podem aprofundar a queda do débito cardíaco, exacerbando a hipotensão e o choque [1].",
+    "type": "raciocínio"
+  }
+]

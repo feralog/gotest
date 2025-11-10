@@ -1,0 +1,522 @@
+[
+  {
+    "question": "Qual é a taxa de incidência de ulceração do pé ao longo da vida em pacientes diabéticos e qual sua incidência anual?",
+    "options": [
+      "Taxa de incidência ao longo da vida de 10-15% com taxa de incidência anual de 5%",
+      "Taxa de incidência ao longo da vida de 40-50% com taxa de incidência anual de 8%",
+      "Taxa de incidência ao longo da vida de 60-75% com taxa de incidência anual de 10%",
+      "Taxa de incidência ao longo da vida de 5-10% com taxa de incidência anual de 1%",
+      "Taxa de incidência ao longo da vida de 19-34% com taxa de incidência anual de 2%"
+    ],
+    "correctIndex": 4,
+    "explanation": "A taxa de incidência de ulceração do pé ao longo da vida em pacientes diabéticos é de 19-34%, com taxa de incidência anual de 2%. Após cura bem-sucedida, a taxa de recorrência é de 40% em 1 ano e 65% em 3 anos, demonstrando a alta recidiva dessas lesões.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a prevalência de feridas nos pés em pacientes com diagnóstico de diabetes mellitus há mais de 10 anos?",
+    "options": [
+      "15,3% dos usuários com diagnóstico de DM há mais de 10 anos apresentam feridas nos pés",
+      "0,7% dos usuários com diagnóstico de DM há mais de 10 anos apresentam feridas nos pés",
+      "2,4% dos usuários com diagnóstico de DM há mais de 10 anos apresentam feridas nos pés",
+      "10,5% dos usuários com diagnóstico de DM há mais de 10 anos apresentam feridas nos pés",
+      "5,8% dos usuários com diagnóstico de DM há mais de 10 anos apresentam feridas nos pés"
+    ],
+    "correctIndex": 4,
+    "explanation": "Segundo dados epidemiológicos brasileiros, 5,8% dos usuários com diagnóstico de DM há mais de 10 anos apresentam feridas nos pés, comparado com 5% naqueles com diagnóstico há menos de 10 anos. A amputação de membros ocorre em 2,4% dos usuários com DM há mais de 10 anos versus 0,7% naqueles com menos de 10 anos de doença.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a estatística global relacionada à amputação de membros inferiores em pacientes diabéticos?",
+    "options": [
+      "Acredita-se que a cada 30 segundos ocorre uma amputação de membro inferior no mundo",
+      "Acredita-se que a cada 5 minutos ocorre uma amputação de membro inferior no mundo",
+      "Acredita-se que a cada 2 horas ocorre uma amputação de membro inferior no mundo",
+      "Acredita-se que a cada 24 horas ocorre uma amputação de membro inferior no mundo",
+      "Acredita-se que a cada 15 minutos ocorre uma amputação de membro inferior no mundo"
+    ],
+    "correctIndex": 0,
+    "explanation": "O pé diabético é a principal causa de hospitalizações quando comparado a outras complicações do diabetes. Estima-se que a cada 30 segundos ocorra uma amputação de membro inferior no mundo relacionada ao diabetes, demonstrando a gravidade e o impacto global desta complicação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o percentual de usuários diabéticos que recebem assistência médica em Unidades Básicas de Saúde no Brasil?",
+    "options": [
+      "68% dos usuários diabéticos referem ter recebido assistência médica em UBS nos últimos 12 meses",
+      "82% dos usuários diabéticos referem ter recebido assistência médica em UBS nos últimos 12 meses",
+      "47% dos usuários diabéticos referem ter recebido assistência médica em UBS nos últimos 12 meses",
+      "29% dos usuários diabéticos referem ter recebido assistência médica em UBS nos últimos 12 meses",
+      "15% dos usuários diabéticos referem ter recebido assistência médica em UBS nos últimos 12 meses"
+    ],
+    "correctIndex": 2,
+    "explanation": "Segundo dados brasileiros, 47% dos usuários diabéticos referem ter recebido assistência médica em Unidades Básicas de Saúde (UBS) nos últimos 12 meses, e 29% em consultórios particulares ou clínicas privadas. Entretanto, o acesso aos serviços de saúde não necessariamente garante atenção de qualidade suficiente para prevenção de complicações do DM.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando os dados epidemiológicos, qual afirmação melhor representa o impacto do tempo de diagnóstico de diabetes mellitus nas complicações do pé?",
+    "options": [
+      "Tempo de diagnóstico acima de 10 anos aumenta feridas (5% para 15%) e amputações (0,7% para 8%)",
+      "Tempo de diagnóstico acima de 10 anos aumenta feridas (5% para 5,8%) e amputações (0,7% para 2,4%)",
+      "Tempo de diagnóstico não tem correlação com frequência de feridas e amputações dos pés",
+      "Tempo de diagnóstico acima de 10 anos reduz feridas (5,8% para 5%) e amputações (2,4% para 0,7%)",
+      "Tempo de diagnóstico acima de 10 anos mantém feridas (5%) e amputações (0,7%) estáveis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os dados epidemiológicos demonstram clara correlação entre tempo de doença e complicações: usuários com DM há menos de 10 anos apresentam 5% de feridas nos pés e 0,7% de amputações, enquanto aqueles com mais de 10 anos apresentam 5,8% de feridas e 2,4% de amputações. O aumento de 3,4 vezes na taxa de amputação (0,7% → 2,4%) é especialmente significativo, considerando a amputação uma complicação irreversível.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a definição completa de pé diabético segundo sua caracterização fisiopatológica?",
+    "options": [
+      "Úlcera plantar em paciente diabético com perda de sensibilidade protetora e deformidade do pé",
+      "Lesão isquêmica em membros inferiores de diabéticos causada exclusivamente por insuficiência arterial periférica",
+      "Diversas alterações nos pés de diabéticos caracterizadas por presença de alterações neurológicas, ortopédicas, vasculares e infecciosas",
+      "Infecção de tecidos moles do pé em paciente diabético com descontrole glicêmico grave",
+      "Complicação neuropática pura do diabetes com alteração motora e sensitiva nos membros inferiores"
+    ],
+    "correctIndex": 2,
+    "explanation": "O termo pé diabético é empregado para nomear as diversas alterações e complicações ocorridas, isoladamente ou em conjunto, nos pés e membros inferiores dos diabéticos. Sua característica se dá pela presença de pelo menos uma das seguintes alterações: neurológicas, ortopédicas, vasculares e infecciosas, que podem ocorrer no pé do paciente portador de diabetes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os três principais fatores de risco para ulceração do pé diabético?",
+    "options": [
+      "Hiperglicemia descontrolada, nefropatia diabética e retinopatia diabética avançada",
+      "Uso de calçados inadequados, traumatismos repetidos e infecções fúngicas recorrentes",
+      "Obesidade mórbida, sedentarismo e tabagismo ativo em uso crônico",
+      "Perda de sensibilidade protetora (LOPS), doença arterial periférica (DAP) e deformidade do pé",
+      "Hipertensão arterial não controlada, dislipidemia e síndrome metabólica completa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os principais fatores de risco para ulceração do pé diabético são: perda de sensibilidade protetora (LOPS - Loss of Protective Sensation), doença arterial periférica (DAP) e deformidade do pé. Pessoas com diabetes sem nenhum desses fatores de risco não parecem ter risco aumentado de ulceração do pé em comparação com pessoas sem diabetes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a classificação etiopatogênica do pé diabético segundo suas manifestações fisiopatológicas?",
+    "options": [
+      "Neuropático (perda de sensibilidade), vascular/isquêmico (insuficiência arterial) e misto (neuroisquêmico)",
+      "Infeccioso (contaminação bacteriana), traumático (lesão mecânica) e metabólico (hiperglicemia descontrolada)",
+      "Agudo (início súbito), subagudo (evolução intermediária) e crônico (longa duração)",
+      "Superficial (epiderme e derme), profundo (músculo e tendão) e osteomielítico (comprometimento ósseo)",
+      "Grau I (úlcera superficial), Grau II (úlcera profunda) e Grau III (gangrena estabelecida)"
+    ],
+    "correctIndex": 0,
+    "explanation": "O pé diabético pode ser classificado, segundo sua etiopatogenia, em: neuropático (perda da sensibilidade, presente em 90% dos casos), vascular ou isquêmico (podendo causar lesões nos tecidos profundos dos pés) e misto, também chamado neurovascular ou neuroisquêmico (combinação de ambos os componentes).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual percentual das úlceras no pé diabético é decorrente do componente neuropático?",
+    "options": [
+      "Cerca de 25% das úlceras no pé diabético são decorrentes da neuropatia",
+      "Cerca de 55% das úlceras no pé diabético são decorrentes da neuropatia",
+      "Cerca de 75% das úlceras no pé diabético são decorrentes da neuropatia",
+      "Cerca de 10% das úlceras no pé diabético são decorrentes da neuropatia",
+      "Cerca de 90% das úlceras no pé diabético são decorrentes da neuropatia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cerca de 55% das úlceras no pé diabético são decorrentes da neuropatia. As úlceras neuropáticas resultam de fatores extrínsecos ao pé insensível (como uso de calçados inadequados) associados a fatores intrínsecos (como pressão plantar aumentada). A neuropatia está presente em cerca de 90% dos pacientes que apresentam lesão, atuando de forma permissiva.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o risco de um paciente diabético desenvolver úlcera de pé ao longo da vida?",
+    "options": [
+      "O risco de um diabético desenvolver úlcera de pé ao longo da vida chega a atingir 5%",
+      "O risco de um diabético desenvolver úlcera de pé ao longo da vida chega a atingir 10%",
+      "O risco de um diabético desenvolver úlcera de pé ao longo da vida chega a atingir 25%",
+      "O risco de um diabético desenvolver úlcera de pé ao longo da vida chega a atingir 50%",
+      "O risco de um diabético desenvolver úlcera de pé ao longo da vida chega a atingir 75%"
+    ],
+    "correctIndex": 2,
+    "explanation": "O risco de um diabético desenvolver úlcera de pé ao longo da vida chega a atingir 25%. As lesões do pé diabético são a principal causa de admissões nos hospitais quando comparadas a qualquer outras complicações a longo prazo do diabetes, resultando também em aumento da morbidade e mortalidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente diabético tipo 2 há 12 anos apresenta úlcera plantar em região de cabeça do 1º metatarso, indolor, com calosidade periférica, pé quente, pulsos palpáveis e ausência de sensibilidade ao monofilamento. Qual classificação fisiopatológica?",
+    "options": [
+      "Pé diabético isquêmico puro com úlcera em área de baixa perfusão arterial",
+      "Pé diabético infectado com celulite e comprometimento de tecidos profundos adjacentes",
+      "Pé Charcot agudo com artropatia neuropática e destruição óssea progressiva",
+      "Pé diabético misto neuroisquêmico com predominância do componente vascular grave",
+      "Pé diabético neuropático puro com úlcera em área de hiperpressão plantar característica"
+    ],
+    "correctIndex": 4,
+    "explanation": "O quadro é característico de pé diabético neuropático: úlcera plantar em área de hiperpressão (cabeça do metatarso), indolor (perda de sensibilidade protetora), calosidade periférica (hiperpressão crônica), pé quente (vasodilatação por neuropatia autonômica), pulsos palpáveis (sem componente isquêmico) e ausência de sensibilidade ao monofilamento (confirmando neuropatia). A localização plantar e o anel queratótico periulcerativo são típicos de úlcera neuropática.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Em quais pacientes deve-se realizar rastreamento para pé diabético nas consultas de rotina?",
+    "options": [
+      "Deve-se efetuar rastreamento apenas em pacientes com DM tipo 1 com mais de 20 anos de doença",
+      "Deve-se efetuar rastreamento apenas em pacientes com HbA1c acima de 9% persistentemente",
+      "Deve-se efetuar rastreamento em todos os pacientes com DM tipo 2 nas consultas de rotina",
+      "Deve-se efetuar rastreamento apenas em pacientes com neuropatia periférica sintomática estabelecida",
+      "Deve-se efetuar rastreamento apenas em pacientes com úlcera prévia ou amputação documentada"
+    ],
+    "correctIndex": 2,
+    "explanation": "Segundo a Sociedade Brasileira de Diabetes, deve-se efetuar nas consultas de rotina, em todos os pacientes com DM tipo 2, um exame detalhado e pesquisar fatores de risco sobre os pés. A periodicidade deve ser anual quando avaliação anterior não demonstrar alterações, e mais frequente em caso de alteração.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo a Sociedade Brasileira de Diabetes (2008), quais são os principais fatores de risco para rastreamento do pé diabético?",
+    "options": [
+      "História de úlcera/amputação prévia, longa duração DM, pobre controle glicêmico, visão deficiente, deformidades, anormalidades não-ulcerativas, nefropatia DM e tabagismo",
+      "HbA1c acima de 8%, glicemia de jejum persistentemente elevada, hipoglicemias frequentes, cetoacidose prévia, resistência insulínica grave e obesidade central",
+      "Idade acima de 65 anos, sexo masculino, etnia negra, baixa escolaridade, uso de calçados inadequados, trabalho em pé e história de quedas",
+      "Neuropatia autonômica cardiovascular, gastroparesia diabética, disfunção erétil, bexiga neurogênica, sudorese anormal e hipotensão postural recorrente",
+      "Hipertensão arterial sistêmica, dislipidemia, obesidade mórbida, sedentarismo, história familiar de amputação, uso de insulina, retinopatia diabética e microalbuminúria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Segundo a SBD (2008), o rastreamento é constituído pelas seguintes constatações: história de úlcera prévia, história de amputação prévia, longa duração do DM, pobre controle glicêmico, visão deficiente, deformidades (proeminências, dedos em martelo, limitação de mobilidade articular, valgismo, pés cavos), anormalidades não-ulcerativas (calosidades, pele seca, micose e fissuras), nefropatia DM e tabagismo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a periodicidade recomendada para reavaliação do pé diabético quando a avaliação anterior não demonstra alterações?",
+    "options": [
+      "A periodicidade deve ser anual quando avaliação anterior dos pés não demonstrar alterações",
+      "A periodicidade deve ser trimestral quando avaliação anterior dos pés não demonstrar alterações",
+      "A periodicidade deve ser semestral quando avaliação anterior dos pés não demonstrar alterações",
+      "A periodicidade deve ser bienal quando avaliação anterior dos pés não demonstrar alterações",
+      "A periodicidade deve ser mensal quando avaliação anterior dos pés não demonstrar alterações"
+    ],
+    "correctIndex": 0,
+    "explanation": "A periodicidade para avaliação do pé diabético deverá ser anual quando avaliação anterior dos pés não demonstrar alterações. Em caso de alteração identificada, a reavaliação deve ser mais frequente, conforme a gravidade dos achados e a classificação de risco do paciente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais deformidades do pé são consideradas fatores de risco para ulceração segundo a SBD?",
+    "options": [
+      "Joanetes bilaterais, esporão de calcâneo, fascite plantar, tendinite aquiliana e metatarsalgia",
+      "Pé plano adquirido, coalização tarsal, navicular acessório, hálux rígido e neuroma de Morton",
+      "Proeminências ósseas, dedos em martelo, limitação de mobilidade articular, valgismo e pés cavos",
+      "Artrite reumatoide do pé, gota tofácea crônica, artropatia psoriásica, bursite retrocalcânea e sinovite",
+      "Síndrome do túnel do tarso, tendinopatia peroneal, instabilidade lateral, entorse recorrente e fratura prévia"
+    ],
+    "correctIndex": 2,
+    "explanation": "As deformidades consideradas fatores de risco para ulceração do pé diabético segundo a SBD incluem: proeminências ósseas, dedos em martelo, limitação de mobilidade articular, valgismo e pés cavos. Essas deformidades criam áreas de hiperpressão plantar que, associadas à perda de sensibilidade protetora, predispõem à formação de úlceras.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente diabético tipo 2 há 8 anos, HbA1c 7,2%, sem histórico de úlcera, com calosidades plantares e micose ungueal, reflexo Aquileu presente bilateralmente e sensibilidade preservada ao monofilamento. Qual a conduta de seguimento?",
+    "options": [
+      "Reavaliação semestral com podólogo especializado pois apresenta deformidades estruturais graves",
+      "Encaminhamento urgente para ortopedista pois necessita correção cirúrgica das alterações identificadas",
+      "Internação hospitalar para controle glicêmico rigoroso pois HbA1c indica descompensação metabólica",
+      "Reavaliação imediata com cirurgião vascular pois apresenta fatores de alto risco para ulceração",
+      "Reavaliação anual pois apresenta apenas anormalidades não-ulcerativas sem perda de sensibilidade protetora"
+    ],
+    "correctIndex": 4,
+    "explanation": "O paciente apresenta anormalidades não-ulcerativas (calosidades plantares e micose ungueal) mas tem sensibilidade protetora preservada (reflexo Aquileu presente e monofilamento normal), sem história de úlcera ou amputação prévia. Apesar de apresentar um fator de risco (anormalidades não-ulcerativas), a ausência de perda de sensibilidade protetora, DAP ou deformidades permite seguimento anual, com orientações de autocuidado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o objetivo principal da avaliação neurológica do pé diabético?",
+    "options": [
+      "Estabelecer o grau de comprometimento da via sensitiva através de ressonância magnética da coluna lombossacra",
+      "Identificar a perda da sensibilidade protetora dos pés para classificação de risco e prevenção de complicações",
+      "Diagnosticar polineuropatia diabética difusa através de eletroneuromiografia de membros inferiores bilateralmente",
+      "Avaliar a função motora dos músculos intrínsecos do pé para prevenir deformidades estruturais progressivas",
+      "Detectar neuropatia autonômica periférica através da análise da sudorese plantar e temperatura cutânea"
+    ],
+    "correctIndex": 1,
+    "explanation": "A avaliação neurológica do pé diabético tem como objetivo principal a identificação da perda da sensibilidade protetora dos pés, para classificação de risco e prevenção de complicações. Compreende a avaliação da sensibilidade (tátil, dolorosa-térmica e vibratória), avaliação de reflexos tendíneos e avaliação da função motora.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o instrumento e o peso utilizados no teste de sensibilidade tátil para avaliação do pé diabético?",
+    "options": [
+      "Monofilamento de Semmes-Weinstein de 5g aplicado em pontos específicos da planta do pé",
+      "Monofilamento de Semmes-Weinstein de 2g aplicado em pontos específicos da planta do pé",
+      "Monofilamento de Semmes-Weinstein de 10g aplicado em pontos específicos da planta do pé",
+      "Monofilamento de Semmes-Weinstein de 15g aplicado em pontos específicos da planta do pé",
+      "Monofilamento de Semmes-Weinstein de 20g aplicado em pontos específicos da planta do pé"
+    ],
+    "correctIndex": 2,
+    "explanation": "O teste de sensibilidade tátil utiliza o monofilamento de Semmes-Weinstein de 10g. A percepção da sensibilidade protetora está ausente se duas respostas forem incorretas das três aplicações em cada ponto testado (hálux, 1ª, 3ª e 5ª cabeças metatarsais e dorso do pé).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual instrumento é utilizado no teste de sensibilidade vibratória do pé diabético e qual seu ponto de aplicação?",
+    "options": [
+      "Diapasão de 64 Hz aplicado na superfície dorsal da articulação do hálux (dedão do pé)",
+      "Diapasão de 1024 Hz aplicado na superfície dorsal da articulação do hálux (dedão do pé)",
+      "Diapasão de 256 Hz aplicado na superfície dorsal da articulação do hálux (dedão do pé)",
+      "Diapasão de 512 Hz aplicado na superfície dorsal da articulação do hálux (dedão do pé)",
+      "Diapasão de 128 Hz aplicado na superfície dorsal da articulação do hálux (dedão do pé)"
+    ],
+    "correctIndex": 4,
+    "explanation": "O teste de sensibilidade vibratória utiliza diapasão de 128 Hz aplicado na superfície dorsal da articulação do hálux (dedão do pé). O teste é considerado anormal quando a pessoa perde a sensação da vibração enquanto o examinador ainda percebe o diapasão vibrando.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a importância da avaliação do reflexo Aquileu no contexto do pé diabético?",
+    "options": [
+      "A presença exacerbada do reflexo Aquileu constitui importante sinal preditivo de processos ulcerativos nos pés",
+      "O reflexo Aquileu deve ser testado apenas em pacientes com queixas de dor neuropática estabelecida",
+      "O reflexo Aquileu preservado indica necessariamente ausência de neuropatia periférica clinicamente significativa",
+      "O reflexo Aquileu tem valor limitado pois não se correlaciona com risco de ulceração dos pés",
+      "A ausência total ou parcial do reflexo Aquileu constitui importante sinal preditivo de processos ulcerativos nos pés"
+    ],
+    "correctIndex": 4,
+    "explanation": "A ausência total ou parcial do reflexo Aquileu constitui um importante sinal preditivo de processos ulcerativos nos pés e deve ser periodicamente avaliado. O reflexo é considerado normal quando o pé se flexiona plantarmente após percussão no tendão de Aquiles.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as alterações cutâneas características do pé diabético neuropático?",
+    "options": [
+      "Eritema intenso, calor local e edema flutuante por processo inflamatório bacteriano agudo",
+      "Hiperhidrose plantar excessiva, hiperqueratose ungueal e hiperpigmentação difusa por neuropatia autonômica",
+      "Cianose distal permanente, livedo reticular e ulceração espontânea por vasculopatia isquêmica grave",
+      "Ressecamento da pele, pilificação reduzida (perda de pelos) e unhas quebradiças por alteração microcirculatória",
+      "Descamação ictiosiforme, fissuras profundas e maceração interdigital por infecção fúngica crônica"
+    ],
+    "correctIndex": 3,
+    "explanation": "As alterações cutâneas características do pé diabético neuropático incluem ressecamento da pele, pilificação reduzida (perda de pelos) e unhas quebradiças. Essas alterações não são causadas por micose, mas ocorrem por alteração da microcirculação e neuropatia autonômica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente diabético apresenta insensibilidade ao monofilamento de 10g em 3 dos 4 pontos testados no pé direito, com sensibilidade vibratória ausente ao diapasão e reflexo Aquileu abolido. Qual a interpretação integrada?",
+    "options": [
+      "Perda da sensibilidade protetora confirmada por múltiplos testes indicando alto risco para ulceração do pé",
+      "Sensibilidade protetora preservada pois um ponto mantém resposta adequada ao monofilamento de 10g",
+      "Neuropatia periférica leve sem significado clínico pois paciente não refere sintomas sensitivos",
+      "Artefato técnico de exame mal realizado devendo-se repetir todos os testes em nova consulta",
+      "Indicação de eletroneuromiografia urgente pois testes clínicos não são suficientes para diagnóstico definitivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "A convergência de três testes anormais (monofilamento insensível em 3/4 pontos, sensibilidade vibratória ausente e reflexo Aquileu abolido) confirma perda da sensibilidade protetora, classificando o paciente como alto risco para ulceração. A ausência de sensibilidade protetora se confirma quando duas ou mais respostas são incorretas no teste com monofilamento, o que está amplamente superado neste caso.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o critério para considerar ausente a percepção da sensibilidade protetora no teste com monofilamento de Semmes-Weinstein?",
+    "options": [
+      "A percepção da sensibilidade protetora está ausente se três respostas forem incorretas das três aplicações em cada ponto",
+      "A percepção da sensibilidade protetora está ausente se duas respostas forem incorretas das três aplicações em cada ponto",
+      "A percepção da sensibilidade protetora está ausente se todas as respostas forem incorretas em todos os pontos testados",
+      "A percepção da sensibilidade protetora está ausente se uma resposta for incorreta das três aplicações em cada ponto",
+      "A percepção da sensibilidade protetora está ausente se houver demora maior que 5 segundos para resposta"
+    ],
+    "correctIndex": 1,
+    "explanation": "A percepção da sensibilidade protetora está ausente se duas respostas forem incorretas das três aplicações em cada ponto testado. O teste é realizado aplicando-se o monofilamento em pontos específicos (hálux, 1ª, 3ª e 5ª cabeças metatarsais e dorso do pé), com três aplicações por ponto.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os dois pulsos periféricos que devem ser palpados no mínimo durante a avaliação vascular do pé diabético?",
+    "options": [
+      "Pulsos pediosos dorsais e tibiais posteriores devem ser palpados bilateralmente no exame vascular",
+      "Pulsos braquiais e cubitais devem ser palpados bilateralmente no exame vascular",
+      "Pulsos femorais e poplíteos devem ser palpados bilateralmente no exame vascular",
+      "Pulsos carotídeos e radiais devem ser palpados bilateralmente no exame vascular",
+      "Pulsos temporais e faciais devem ser palpados bilateralmente no exame vascular"
+    ],
+    "correctIndex": 0,
+    "explanation": "O exame físico do componente vascular deve contemplar, no mínimo, a palpação dos pulsos pediosos dorsais e tibiais posteriores. Caso o exame clínico levante suspeita de vasculopatia (pulsos diminuídos ou não palpáveis) e não consiga palpar os pulsos, deve-se encaminhar o paciente para avaliação vascular complementar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é calculado o Índice Tornozelo-Braquial (ITB) para avaliação vascular do membro inferior?",
+    "options": [
+      "ITB é calculado dividindo a maior pressão do tornozelo (pedioso ou tibial posterior) pela maior pressão em MMSS",
+      "ITB é calculado dividindo a diferença de pressão entre tornozelo e braço pela pressão arterial média",
+      "ITB é calculado dividindo a pressão sistólica do tornozelo pela pressão diastólica do braço ipsilateral",
+      "ITB é calculado dividindo a pressão média do tornozelo pela pressão média em MMSS bilateralmente",
+      "ITB é calculado dividindo a maior pressão em MMSS pela maior pressão do tornozelo (pedioso ou tibial posterior)"
+    ],
+    "correctIndex": 0,
+    "explanation": "O ITB (Índice Tornozelo-Braquial) é calculado dividindo-se a maior pressão sistólica do tornozelo (pedioso dorsal ou tibial posterior) pela maior pressão sistólica em membros superiores (direito ou esquerdo). O cálculo é feito separadamente para cada membro inferior.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a interpretação de um Índice Tornozelo-Braquial (ITB) entre 0,41 e 0,90?",
+    "options": [
+      "ITB entre 0,41-0,90 indica artérias não compressíveis por calcificação da média vascular",
+      "ITB entre 0,41-0,90 indica doença arterial obstrutiva periférica (DAOP) grave com isquemia crítica",
+      "ITB entre 0,41-0,90 indica perfusão arterial normal dos membros inferiores bilateralmente",
+      "ITB entre 0,41-0,90 indica doença arterial obstrutiva periférica (DAOP) leve a moderada",
+      "ITB entre 0,41-0,90 indica hiperfluxo arterial compensatório por vasodilatação neuropática autonômica"
+    ],
+    "correctIndex": 3,
+    "explanation": "A interpretação do ITB é: >1,3 = não compressível (calcificação arterial); 0,91-1,29 = normal; 0,41-0,90 = DAOP leve a moderada; 0-0,4 = DAOP grave. Valores entre 0,41-0,90 indicam comprometimento arterial leve a moderado necessitando avaliação vascular complementar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a interpretação de um Índice Tornozelo-Braquial (ITB) acima de 1,3?",
+    "options": [
+      "ITB acima de 1,3 indica erro de técnica devendo-se repetir o exame com aparelho calibrado",
+      "ITB acima de 1,3 indica ausência de doença arterial com prognóstico vascular excelente",
+      "ITB acima de 1,3 indica hiperfluxo arterial por fístula arteriovenosa traumática ou congênita",
+      "ITB acima de 1,3 indica perfusão arterial normal com excelente circulação colateral estabelecida",
+      "ITB acima de 1,3 indica artérias não compressíveis por calcificação da camada média arterial"
+    ],
+    "correctIndex": 4,
+    "explanation": "ITB acima de 1,3 indica artérias não compressíveis, geralmente por calcificação da camada média arterial (esclerose de Mönckeberg), comum em diabéticos. Nestes casos, o ITB não é confiável para avaliação de isquemia e outros métodos devem ser utilizados (índice dedo-braço, TcPO2 ou avaliação por imagem).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o exame padrão-ouro para avaliação da anatomia vascular em pacientes com suspeita de doença arterial periférica?",
+    "options": [
+      "Índice Tornozelo-Braquial é o exame padrão-ouro para avaliação anatômica da doença arterial periférica",
+      "Arteriografia é o exame padrão-ouro para avaliação anatômica da doença arterial periférica",
+      "Ressonância magnética é o exame padrão-ouro para avaliação anatômica da doença arterial periférica",
+      "Angiotomografia é o exame padrão-ouro para avaliação anatômica da doença arterial periférica",
+      "Doppler arterial é o exame padrão-ouro para avaliação anatômica da doença arterial periférica"
+    ],
+    "correctIndex": 1,
+    "explanation": "A arteriografia é o exame padrão-ouro para avaliação anatômica da doença arterial periférica, permitindo visualização detalhada do sistema arterial e planejamento de revascularização. A angiotomografia surge como alternativa não invasiva com boa acurácia diagnóstica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente diabético apresenta ITB direito 0,65 e ITB esquerdo 1,18. Pulsos pediosos palpáveis bilateralmente, sem claudicação. Qual a interpretação e conduta adequada?",
+    "options": [
+      "Artérias não compressíveis bilateralmente, solicitar índice dedo-braço e TcPO2 para avaliação alternativa",
+      "DAOP leve a moderada em MID e perfusão normal em MIE, encaminhar para avaliação vascular complementar",
+      "DAOP grave bilateral com isquemia crítica iminente, encaminhar urgentemente para cirurgião vascular",
+      "Erro técnico de medida em MID, repetir ITB imediatamente pois pulsos palpáveis contradizem resultado",
+      "Perfusão arterial normal bilateral, manter seguimento anual de rotina sem necessidade de exames adicionais"
+    ],
+    "correctIndex": 1,
+    "explanation": "ITB 0,65 no MID indica DAOP leve a moderada (faixa 0,41-0,90), enquanto ITB 1,18 no MIE está na faixa normal (0,91-1,29). Apesar dos pulsos palpáveis e ausência de claudicação (doença assintomática), o ITB anormal indica necessidade de avaliação vascular complementar para melhor caracterização anatômica e funcional da doença arterial, planejamento terapêutico e prevenção de progressão.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente diabético com ITB bilateral de 1,45 e história de claudicação aos 100 metros. Qual a melhor explicação e próximo passo diagnóstico?",
+    "options": [
+      "Artérias não compressíveis por calcificação da média mascarando DAOP, solicitar índice dedo-braço ou TcPO2",
+      "Erro grosseiro de técnica de medida, repetir ITB com outro examinador para confirmação",
+      "Hiperfluxo compensatório por neuropatia autonômica, manter seguimento clínico sem exames adicionais",
+      "Resultado normal variante indicando ausência de doença arterial, investigar causa neurológica da claudicação",
+      "Perfusão arterial excelente com sintomas não relacionados a isquemia, encaminhar para ortopedia"
+    ],
+    "correctIndex": 0,
+    "explanation": "ITB >1,3 (neste caso 1,45) indica artérias não compressíveis por calcificação da camada média (esclerose de Mönckeberg), comum em diabéticos. Isso mascara a presença de DAOP real. A claudicação sugere fortemente isquemia verdadeira que o ITB não conseguiu detectar. Nestes casos, devem-se solicitar métodos alternativos: índice dedo-braço (as artérias digitais são menos calcificadas), TcPO2 ou avaliação por imagem (angiotomografia/arteriografia).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Por que a cultura de secreção coletada por swab superficial não é adequada para orientar antibioticoterapia no pé diabético infectado?",
+    "options": [
+      "Cultura por swab superficial não é adequada pois a sensibilidade aos antibióticos não pode ser testada neste material",
+      "Cultura por swab superficial não é adequada pois o método de coloração de Gram é impossível neste tipo de amostra",
+      "Cultura por swab superficial não é adequada pois bactérias anaeróbias não crescem em amostras coletadas superficialmente",
+      "Cultura por swab superficial não é adequada pois contaminação com flora cutânea normal invalida completamente o resultado",
+      "Cultura por swab superficial não é adequada pois lesões não infectadas frequentemente estão colonizadas com flora polimicrobiana"
+    ],
+    "correctIndex": 4,
+    "explanation": "Cultura de secreção coletada por swab superficial não é adequada, pois mesmo lesões não infectadas frequentemente se encontram colonizadas. A colonização não representa infecção verdadeira e pode levar a antibioticoterapia inadequada. Os métodos adequados são raspagem da base da úlcera, biópsia ou aspiração de pus/fluido com técnica asséptica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os métodos adequados para coleta de cultura em úlcera do pé diabético com suspeita de infecção?",
+    "options": [
+      "Punção aspirativa por agulha grossa, lavado da úlcera com soro fisiológico e análise do líquido de irrigação",
+      "Impressão com lâmina de vidro estéril, esfregaço direto do leito da ferida e coleta de crostas superficiais",
+      "Coleta de material da borda da lesão, fragmento de tecido desvitalizado e raspado superficial da pele perilesional",
+      "Raspagem da base da úlcera com bisturi ou cureta, biópsia da lesão ou osso, ou aspiração de pus com agulha fina",
+      "Swab superficial da secreção purulenta, coleta de exsudato espontâneo e cultura de fragmento de curativo usado"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os métodos adequados para coleta de cultura são: raspagem da base da úlcera com bisturi ou cureta, biópsia da lesão ou do osso, ou aspiração de pus/fluido por agulha fina com técnica asséptica. Antes de coletar, deve-se limpar a lesão com gaze estéril e soro fisiológico. Os exames solicitados são gram e culturas aeróbia e anaeróbia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a sensibilidade da radiografia simples para detecção de osteomielite no pé diabético?",
+    "options": [
+      "A radiografia simples tem sensibilidade excelente sendo superior à ressonância magnética para este diagnóstico",
+      "A radiografia simples tem sensibilidade moderada detectando cerca de 70% dos casos de osteomielite",
+      "A radiografia simples tem sensibilidade alta detectando osteomielite em estágios iniciais precocemente",
+      "A radiografia simples tem sensibilidade baixa pois alterações radiológicas aparecem tardiamente na evolução da doença",
+      "A radiografia simples tem sensibilidade perfeita sendo o único exame necessário para confirmar osteomielite"
+    ],
+    "correctIndex": 3,
+    "explanation": "A radiografia simples pode identificar deformidades estruturais do pé e detectar osteomielite, entretanto sua sensibilidade é baixa, uma vez que alterações radiológicas costumam aparecer tardiamente na evolução da doença. Um resultado negativo não é suficiente para excluir o diagnóstico de osteomielite.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Úlcera plantar profunda com 3 semanas de evolução, sem resposta a antibiótico oral há 7 dias, com secreção purulenta e odor fétido. Qual a melhor estratégia diagnóstica para cultura?",
+    "options": [
+      "Coletar fragmento de curativo usado para cultura pois contém microrganismos causadores da infecção",
+      "Solicitar apenas hemoculturas pois cultura local não tem valor em infecções de tecidos moles",
+      "Realizar desbridamento, limpar com soro fisiológico, coletar por raspagem da base ou biópsia para cultura aeróbia e anaeróbia",
+      "Coletar imediatamente swab superficial da secreção purulenta e iniciar antibiótico de amplo espectro empírico",
+      "Aguardar mais 7 dias de antibioticoterapia antes de coletar cultura pois tempo insuficiente para resposta"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ausência de resposta à antibioticoterapia sugere infecção moderada a grave ou resistência bacteriana, indicando necessidade de cultura para orientar tratamento. Deve-se realizar desbridamento, limpeza com gaze estéril e soro fisiológico, e coletar material por raspagem da base ou biópsia (não swab superficial). Solicitar gram e culturas aeróbia e anaeróbia. A presença de odor fétido sugere participação anaeróbia.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a definição correta de isquemia crítica dos membros inferiores?",
+    "options": [
+      "Doença arterial periférica assintomática detectada apenas por exames complementares com ITB abaixo de 0,90",
+      "Presença de úlcera isquêmica superficial em extremidades sem sinais de necrose ou gangrena estabelecida",
+      "Redução moderada da perfusão arterial com sintomas apenas aos grandes esforços físicos e preservação da funcionalidade",
+      "Manifestação clínica mais grave da DAP caracterizada por diminuição súbita da perfusão ou agravamento de doença crônica ameaçando o membro",
+      "Claudicação intermitente incapacitante aos esforços mínimos com necessidade de parar a cada 50 metros de caminhada"
+    ],
+    "correctIndex": 3,
+    "explanation": "A isquemia crítica dos membros inferiores é a manifestação clínica mais grave da doença arterial periférica, caracterizada por uma diminuição súbita da perfusão dos membros ou agravamento dos sinais pré-existentes de uma doença crônica, que podem ameaçar o membro afetado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais sintomas e sinais que fazem suspeitar de isquemia crítica de membro?",
+    "options": [
+      "Dor aos esforços que alivia com repouso, pele íntegra, coloração normal, crescimento piloso preservado e função mantida",
+      "Parestesias noturnas, queimação plantar, alodinia ao toque, sensibilidade exacerbada e sintomas que melhoram com repouso",
+      "Dor em repouso, gangrena, úlceras que não cicatrizam, atrofia muscular, rubor dependente, palidez à elevação, perda de pelos e unhas espessadas",
+      "Edema bilateral simétrico, varizes tronculares, hiperpigmentação ocre, dermatolipoesclerose e úlcera maleolar medial típica",
+      "Claudicação aos grandes esforços, pulsos diminuídos, temperatura normal, sensibilidade preservada e ausência de alterações tróficas significativas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Deve-se suspeitar de isquemia crítica com os seguintes sintomas e sinais: dor na perna em repouso, gangrena, feridas/úlceras que não cicatrizam no pé, atrofia muscular, rubor dependente, palidez quando a perna é elevada, perda de pelos sobre o dorso do pé, unhas do hálux espessadas e pele brilhante/descamativa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o risco aumentado de pacientes diabéticos desenvolverem doença arterial periférica e gangrena?",
+    "options": [
+      "Diabéticos têm 5 vezes mais chance de desenvolver DAP e risco de gangrena 20 a 50 vezes maior",
+      "Diabéticos têm 3 vezes mais chance de desenvolver DAP e risco de gangrena 15 vezes maior",
+      "Diabéticos têm 10 vezes mais chance de desenvolver DAP e risco de gangrena 100 vezes maior",
+      "Diabéticos têm risco equivalente ao da população geral para DAP e gangrena",
+      "Diabéticos têm 2 vezes mais chance de desenvolver DAP e risco de gangrena 5 a 10 vezes maior"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os pacientes diabéticos têm cinco vezes mais chance de desenvolver doença arterial periférica (DAP), com um risco de ocorrência de gangrena entre 20 a 50 vezes maior que a população não diabética. Isso justifica a importância da avaliação vascular sistemática.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente diabético, 68 anos, apresenta dor intensa no pé direito em repouso há 5 dias, que piora à noite e melhora com perna pendente. Ao exame: pé frio, pálido à elevação, rubor dependente, pulsos ausentes. Qual a conduta?",
+    "options": [
+      "Orientar repouso domiciliar com perna elevada e retorno se houver piora dos sintomas",
+      "Iniciar anticoagulação oral domiciliar e agendar consulta com cirurgião vascular em 30 dias",
+      "Encaminhar IMEDIATAMENTE para internação hospitalar e avaliação pelo cirurgião vascular por isquemia crítica",
+      "Prescrever analgésicos potentes e reavaliar em 7 dias no ambulatório de especialidades médicas",
+      "Solicitar doppler arterial ambulatorial e aguardar resultado para definir necessidade de internação posterior"
+    ],
+    "correctIndex": 2,
+    "explanation": "O quadro é diagnóstico de isquemia crítica: dor em repouso (sintoma cardinal), sinais de isquemia grave (pé frio, pálido à elevação, rubor dependente) e ausência de pulsos. CONDUTA: TODO PACIENTE COM ISQUEMIA CRÍTICA DEVERÁ SER ENCAMINHADO IMEDIATAMENTE PARA INTERNAÇÃO HOSPITALAR E AVALIAÇÃO DO CIRURGIÃO VASCULAR. Trata-se de emergência vascular com risco iminente de perda do membro.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual deve ser a temperatura máxima da água para higiene dos pés em pacientes diabéticos?",
+    "options": [
+      "A água deve estar sempre inferior a 25°C para evitar o risco de queimadura em pés com neuropatia",
+      "A água deve estar sempre inferior a 37°C para evitar o risco de queimadura em pés com neuropatia",
+      "A água deve estar sempre inferior a 30°C para evitar o risco de queimadura em pés com neuropatia",
+      "A água deve estar sempre inferior a 45°C para evitar o risco de queimadura em pés com neuropatia",
+      "A água deve estar sempre inferior a 50°C para evitar o risco de queimadura em pés com neuropatia"
+    ],
+    "correctIndex": 1,
+    "explanation": "A água para higiene dos pés deve estar sempre inferior a 37°C para evitar o risco de queimadura. Pacientes com neuropatia periférica têm perda da sensibilidade protetora térmica e podem não perceber temperaturas lesivas, resultando em queimaduras graves inadvertidas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente diabético relata que anda descalço em casa, usa água quente para banho dos pés, corta unhas em curva e remove calos com lâmina. Quais orientações de autocuidado são prioritárias?",
+    "options": [
+      "Usar chinelos em casa, água morna sem termômetro, unhas cortadas por podólogo apenas e calos tratados em clínica",
+      "Sempre usar meias grossas, água fria obrigatoriamente, não cortar unhas em casa e deixar calos para proteção",
+      "Evitar andar descalço fora de casa, água quente permitida, unhas em curva para prevenir encravamento e calos com lixa",
+      "Pode andar descalço em casa, água confortável ao toque, cortar unhas conforme preferência e remover calos cuidadosamente",
+      "Nunca andar descalço, água <37°C, cortar unhas em linha reta e não usar lâminas para calos"
+    ],
+    "correctIndex": 4,
+    "explanation": "As orientações corretas de autocuidado são: nunca andar descalço (seja em ambientes fechados ou ao ar livre), água sempre inferior a 37°C (paciente não percebe temperatura excessiva por neuropatia), cortar unhas em linha reta (corte em curva predispõe a encravamento) e NÃO usar agentes químicos ou lâminas para remover calos (risco de lesão - calos devem ser avaliados pela equipe de saúde). Todas as práticas relatadas pelo paciente são inadequadas e aumentam risco de ulceração.",
+    "type": "raciocínio"
+  }
+]

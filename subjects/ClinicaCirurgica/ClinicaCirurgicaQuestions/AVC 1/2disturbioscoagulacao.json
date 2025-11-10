@@ -1,0 +1,522 @@
+[
+  {
+    "question": "Qual é a definição correta de hemostasia e qual seu objetivo fisiológico principal?",
+    "options": [
+      "Série de eventos autoimunes que ocorre em resposta à inflamação vascular para prevenir infecções",
+      "Série complexa de fenômenos biológicos em resposta à lesão vascular para deter hemorragia",
+      "Cascata enzimática que mantém a fluidez sanguínea impedindo formação de coágulos",
+      "Mecanismo de defesa imunológico que responde a patógenos circulantes no sistema vascular",
+      "Processo inflamatório crônico que ocorre após ruptura vascular para restaurar a estrutura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hemostasia é uma série complexa de fenômenos biológicos que ocorre em resposta imediata à lesão de um vaso sanguíneo com o objetivo de deter a hemorragia. É composta por três mecanismos: hemostasia primária, coagulação e fibrinólise.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os três mecanismos que compõem o sistema hemostático completo?",
+    "options": [
+      "Adesão leucocitária, ativação do complemento e formação de imunocomplexos",
+      "Vasoconstrição, agregação eritrocitária e dissolução do coágulo por proteólise hepática",
+      "Inflamação vascular, produção de citocinas e remodelamento endotelial",
+      "Hemostasia primária, cascata de coagulação e sistema fibrinolítico",
+      "Ativação plaquetária, síntese de fatores hepáticos e metabolização renal"
+    ],
+    "correctIndex": 3,
+    "explanation": "O mecanismo hemostático completo é composto por três componentes integrados: hemostasia primária (formação do tampão plaquetário), coagulação (formação do coágulo de fibrina) e fibrinólise (remoção do coágulo após reparação vascular).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal evento inicial da hemostasia primária após lesão vascular?",
+    "options": [
+      "Vasoconstrição local e adesão plaquetária mediada pelo fator von Willebrand",
+      "Ativação do sistema fibrinolítico com liberação de plasminogênio tecidual",
+      "Conversão de fibrinogênio em fibrina pela ação direta da trombina plasmática",
+      "Formação de imunocomplexos antígeno-anticorpo na superfície endotelial lesada",
+      "Ativação da cascata de complemento com liberação de anafilatoxinas pró-inflamatórias"
+    ],
+    "correctIndex": 0,
+    "explanation": "A hemostasia primária inicia com vasoconstrição local, seguida pela exposição do colágeno subendotelial e fator von Willebrand (vWF), promovendo adesão e ativação plaquetária. Este é o processo inicial antes da cascata de coagulação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a função específica do fator von Willebrand (VIII:vWF) na hemostasia primária?",
+    "options": [
+      "Inibir a antitrombina III para permitir propagação da cascata de coagulação",
+      "Ativar a via intrínseca da coagulação através da fosforilação do fator XII",
+      "Converter fibrinogênio em fibrina para estabilização mecânica do tampão plaquetário",
+      "Clivar o plasminogênio em plasmina para iniciar o processo fibrinolítico",
+      "Mediar a adesão plaquetária ao colágeno subendotelial exposto pela lesão vascular"
+    ],
+    "correctIndex": 4,
+    "explanation": "O fator von Willebrand (VIII:vWF) funciona como mediador essencial da adesão plaquetária ao colágeno subendotelial exposto quando há lesão do endotélio vascular. Sem o vWF, as plaquetas não conseguem aderir adequadamente ao local da lesão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais substâncias são liberadas pelos grânulos citoplasmáticos das plaquetas ativadas?",
+    "options": [
+      "Interleucinas, fator de necrose tumoral e interferon-gama para resposta inflamatória",
+      "Proteínas C e S, antitrombina III e inibidor da via do fator tecidual",
+      "Plasminogênio, ativador tecidual do plasminogênio e alfa-2-antiplasmina",
+      "Fatores de crescimento endotelial, fibronectina e laminina para reparação vascular",
+      "Adenosina-difosfato (ADP), serotonina e tromboxano A2 (TXA2) para agregação plaquetária"
+    ],
+    "correctIndex": 4,
+    "explanation": "As plaquetas ativadas liberam grânulos contendo adenosina-difosfato (ADP), serotonina e tromboxano A2 (TXA2). Essas substâncias amplificam a ativação plaquetária e promovem agregação de mais plaquetas, formando o tampão plaquetário primário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente sofre laceração cutânea profunda. Qual a sequência correta de eventos hemostáticos até formação do tampão plaquetário?",
+    "options": [
+      "Lesão vascular → ativação do complemento → quimiotaxia leucocitária → formação de pus → cicatrização",
+      "Lesão vascular → vasoconstrição → exposição colágeno/vWF → adesão plaquetária → agregação plaquetária",
+      "Lesão vascular → fibrinólise → dissolução de coágulos prévios → reepitelização → formação de cicatriz",
+      "Lesão vascular → ativação linfocitária → produção de anticorpos → opsonização → fagocitose",
+      "Lesão vascular → liberação de histamina → vasodilatação → extravasamento plasmático → edema inflamatório"
+    ],
+    "correctIndex": 1,
+    "explanation": "A sequência correta é: lesão vascular → vasoconstrição local → exposição do colágeno subendotelial e fator von Willebrand → adesão plaquetária mediada pelo vWF → ativação plaquetária com liberação de grânulos → agregação plaquetária formando o tampão hemostático primário.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com sangramento prolongado após extração dentária apresenta contagem plaquetária normal, mas tempo de sangramento prolongado. Qual mecanismo da hemostasia primária está mais provavelmente comprometido?",
+    "options": [
+      "Excesso de fibrinólise por aumento de ativadores de plasminogênio tecidual",
+      "Deficiência na síntese hepática de fibrinogênio afetando polimerização da fibrina",
+      "Disfunção na adesão ou agregação plaquetária mediada por vWF ou receptores plaquetários",
+      "Deficiência de fatores da via intrínseca impedindo ativação do fator X",
+      "Deficiência de vitamina K impedindo carboxilação dos fatores II, VII, IX e X"
+    ],
+    "correctIndex": 2,
+    "explanation": "Com plaquetas em número normal mas sangramento prolongado e tempo de sangramento aumentado, o problema está na função plaquetária, não na quantidade. Isso sugere disfunção da adesão (deficiência de vWF como na doença de von Willebrand) ou agregação plaquetária (disfunção de receptores glicoproteicos).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o evento central da coagulação sanguínea que marca a transição da fase líquida para sólida?",
+    "options": [
+      "Ligação da antitrombina III aos fatores IXa e Xa para interrupção da cascata",
+      "Clivagem do plasminogênio em plasmina pelos ativadores teciduais e uroquinase",
+      "Ativação da proteína C pela trombomodulina endotelial para inibição dos fatores Va e VIIIa",
+      "Conversão de fibrinogênio solúvel em polímero insolúvel de fibrina pela ação da trombina",
+      "Fosforilação do fator plaquetário 3 criando superfície catalítica para reações enzimáticas"
+    ],
+    "correctIndex": 3,
+    "explanation": "O evento central da coagulação é a conversão do fibrinogênio (proteína solúvel do plasma) em fibrina (polímero insolúvel) pela ação da enzima trombina. A fibrina forma uma rede de fibras elásticas que consolida o tampão plaquetário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais fatores da coagulação compõem especificamente a via intrínseca e qual sua característica principal?",
+    "options": [
+      "Fatores I, II, V e X, formando a via comum após convergência das vias",
+      "Fatores III e VII, necessitando lesão tecidual para exposição do fator tecidual",
+      "Fatores II, V, VII e X, requerendo fator tecidual subendotelial para ativação",
+      "Fatores XIII e IV (cálcio), responsáveis pela estabilização final da rede de fibrina",
+      "Fatores XII, XI, IX e VIII, com todos os componentes presentes no sangue circulante"
+    ],
+    "correctIndex": 4,
+    "explanation": "A via intrínseca é composta pelos fatores XII, XI, IX e VIII. Sua característica distintiva é que todos os componentes estão presentes no sangue circulante, não requerendo fator tecidual externo. É avaliada pelo tempo de tromboplastina parcial ativada (TTPa).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais fatores da coagulação compõem a via extrínseca e qual proteína é essencial para sua ativação?",
+    "options": [
+      "Fatores XIII e IV, responsáveis pela estabilização e polimerização da fibrina",
+      "Fatores XII, XI, IX e VIII, ativados por contato com superfície de carga negativa",
+      "Fatores VIII e IX, dependentes de vitamina K para carboxilação pós-traducional",
+      "Fatores X, V, II e I, convergindo na via comum após ativação enzimática sequencial",
+      "Fatores III (fator tecidual) e VII, requerendo proteína subendotelial para ativação"
+    ],
+    "correctIndex": 4,
+    "explanation": "A via extrínseca é composta pelo fator III (fator tecidual ou TF) e fator VII. Requer a presença da proteína da membrana celular subendotelial (fator tecidual) exposta pela lesão. É a via mais rápida e é avaliada pelo tempo de protrombina (TP).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que o fator VI não aparece na cascata de coagulação atual?",
+    "options": [
+      "Fator VI era produto intermediário da tromboplastina mas não possui mais designação específica",
+      "Fator VI foi renomeado como fator tecidual (TF) nas classificações internacionais atuais",
+      "Fator VI corresponde ao cálcio ionizado necessário para várias reações da cascata",
+      "Fator VI foi posteriormente identificado como uma subunidade do fator VIII complexado",
+      "Fator VI representa a antitrombina III que regula negativamente a cascata enzimática"
+    ],
+    "correctIndex": 0,
+    "explanation": "O fator VI foi utilizado para designar um produto intermediário na formação da tromboplastina, mas não possui mais qualquer designação atual. Foi descontinuado da nomenclatura dos fatores de coagulação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o nome atual do fator III e qual sua função na cascata de coagulação?",
+    "options": [
+      "Fator estabilizador da fibrina, responsável por criar ligações cruzadas na rede de fibrina",
+      "Fator tecidual (TF), proteína subendotelial que inicia a via extrínseca da coagulação",
+      "Protrombina, precursora da trombina que converte fibrinogênio em fibrina na via comum",
+      "Fator plaquetário 3, fosfolipídio que fornece superfície catalítica para reações enzimáticas",
+      "Cálcio ionizado, cofator essencial para múltiplas reações de ativação dos fatores"
+    ],
+    "correctIndex": 1,
+    "explanation": "O fator III era anteriormente chamado de tromboplastina tecidual, mas atualmente é denominado fator tecidual ou tissular (TF). É a proteína da membrana celular subendotelial que, ao ser exposta pela lesão vascular, inicia a via extrínseca.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal anticoagulante natural e quais fatores da coagulação ele inibe?",
+    "options": [
+      "Antitrombina III inibindo trombina, fator IXa e fator Xa da cascata",
+      "Trombomodulina endotelial neutralizando diretamente a atividade da trombina",
+      "Inibidor da via do fator tecidual (TFPI) bloqueando exclusivamente fator VIIa",
+      "Proteína S como cofator para inativação de fatores II e VII dependentes",
+      "Proteína C ativada inibindo cofatores Va e VIIIa da via comum"
+    ],
+    "correctIndex": 0,
+    "explanation": "A antitrombina III (AT-III) é o maior anticoagulante natural e principal inibidor dos fatores de coagulação, incluindo trombina, fator IXa e fator Xa. Sua ação é potencializada pela heparina, base do mecanismo de ação desse anticoagulante.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os fatores de coagulação que compõem a via comum final da cascata?",
+    "options": [
+      "Fatores C, S e antitrombina III regulando negativamente a cascata enzimática",
+      "Fatores X, V, II (protrombina), I (fibrinogênio) e XIII após convergência das vias",
+      "Fatores XII, XI, IX e VIII convergindo para formação do complexo tenase",
+      "Fatores III (TF) e VII formando o complexo que ativa a via extrínseca",
+      "Fatores von Willebrand e plaquetário 3 fornecendo superfície para reações"
+    ],
+    "correctIndex": 1,
+    "explanation": "A via comum, onde convergem as vias intrínseca e extrínseca, é composta pelos fatores X, V, II (protrombina que vira trombina), I (fibrinogênio que vira fibrina) e XIII (que estabiliza a fibrina). Alterações nesta via afetam tanto TP quanto TTPa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente apresenta TTPa prolongado (60 segundos, VR: 25-35s) e TP normal (12 segundos, VR: 10-14s). Qual via da coagulação está alterada e quais fatores podem estar deficientes?",
+    "options": [
+      "Via comum alterada com possível deficiência dos fatores X, V, II ou I",
+      "Via plaquetária comprometida com deficiência de fator von Willebrand",
+      "Via extrínseca alterada com possível deficiência dos fatores III ou VII",
+      "Via intrínseca alterada com possível deficiência dos fatores XII, XI, IX ou VIII",
+      "Via fibrinolítica acelerada com excesso de plasmina degradando fibrina"
+    ],
+    "correctIndex": 3,
+    "explanation": "TTPa prolongado isolado (com TP normal) indica alteração específica da via intrínseca. Os fatores que podem estar deficientes são XII, XI, IX ou VIII. Hemofilia A (fator VIII) e hemofilia B (fator IX) são as causas mais comuns desse padrão.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente em uso de varfarina apresenta TP prolongado (22 segundos, VR: 10-14s) e TTPa normal. Qual o mecanismo de ação da varfarina e quais fatores estão afetados?",
+    "options": [
+      "Antagonismo da vitamina K impedindo carboxilação dos fatores II, VII, IX e X",
+      "Inibição direta da trombina impedindo conversão de fibrinogênio em fibrina",
+      "Inibição da antitrombina III reduzindo neutralização dos fatores IXa e Xa",
+      "Bloqueio da conversão de plasminogênio em plasmina acelerando fibrinólise",
+      "Bloqueio da adesão plaquetária por antagonismo do fator von Willebrand"
+    ],
+    "correctIndex": 0,
+    "explanation": "Varfarina (cumarínico) antagoniza a vitamina K, impedindo a carboxilação pós-traducional dos fatores II, VII, IX e X. O fator VII (via extrínseca) tem meia-vida mais curta, sendo afetado primeiro, prolongando o TP inicialmente. Com o tempo, fatores da via intrínseca também são afetados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a relação fisiológica normal entre coagulação e fibrinólise no sistema hemostático?",
+    "options": [
+      "Coagulação dominante durante o dia e fibrinólise predominante durante o sono noturno",
+      "Equilíbrio dinâmico simultâneo interrompendo hemorragia e removendo excesso de fibrina",
+      "Processos antagônicos que ocorrem em momentos distintos sem sobreposição temporal",
+      "Fibrinólise sempre precede a coagulação para preparar o ambiente vascular lesado",
+      "Sistemas independentes regulados separadamente por hormônios e citocinas diferentes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Em condições normais, coagulação e fibrinólise encontram-se em equilíbrio dinâmico simultâneo. Enquanto a coagulação interrompe a perda sanguínea formando o coágulo, a fibrinólise remove a fibrina formada em excesso, permitindo que o sangue volte a fluir normalmente após reparação vascular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a enzima responsável pela dissolução da fibrina e como ela é formada?",
+    "options": [
+      "Proteína C ativada pela ligação da trombina com trombomodulina endotelial",
+      "Plasmina formada pela clivagem do plasminogênio pelos ativadores teciduais",
+      "Antitrombina III ativada pela ligação com heparina endotelial vascular",
+      "Trombina formada pela clivagem da protrombina pelo complexo protrombinase",
+      "Fator XIIIa formado pela ativação do fator XIII pela trombina e cálcio"
+    ],
+    "correctIndex": 1,
+    "explanation": "A plasmina é a enzima responsável pela dissolução da fibrina. É formada pela clivagem do plasminogênio (forma inativa) pelos ativadores de plasminogênio (t-PA, u-PA, fator XIIa) que se ligam à fibrina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais ativadores do plasminogênio no sistema fibrinolítico fisiológico?",
+    "options": [
+      "Ativador tecidual do plasminogênio (t-PA), uroquinase (u-PA) e fator XIIa ativado",
+      "Trombina, fator Xa e fator IXa da via comum da cascata de coagulação",
+      "Inibidor da via do fator tecidual (TFPI) e trombomodulina endotelial",
+      "Antitrombina III, proteína C e proteína S regulando a cascata de coagulação",
+      "Fator von Willebrand, fator plaquetário 3 e tromboxano A2 plaquetários"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os principais ativadores fisiológicos do plasminogênio são: ativador tecidual do plasminogênio (t-PA), ativador tipo uroquinase (u-PA) e fator XIIa ativado. Eles clivam o plasminogênio em plasmina, iniciando a fibrinólise.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais inibidores do sistema fibrinolítico que previnem lise excessiva do coágulo?",
+    "options": [
+      "Alfa-2-antiplasmina, inibidores do ativador de plasminogênio (PAI-1, PAI-2) e TAFI",
+      "Fibrinogênio e fator XIII estabilizando mecanicamente a rede de fibrina",
+      "Fator tecidual e fator VII formando complexo inibitório da via extrínseca",
+      "Antitrombina III, proteína C e proteína S da regulação da coagulação",
+      "Fatores VIII e IX da via intrínseca impedindo ativação prematura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os principais inibidores da fibrinólise são: α2-antiplasmina (inibe plasmina diretamente), inibidores do ativador de plasminogênio tipos 1 e 2 (PAI-1 e PAI-2) e inibidor da fibrinólise ativável por trombina (TAFI). Eles previnem lise excessiva do coágulo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com sangramento recorrente apresenta exames mostrando produtos de degradação da fibrina (PDF) muito elevados. Qual a consequência fisiopatológica mais provável desse achado?",
+    "options": [
+      "Excesso de anticoagulantes naturais bloqueando múltiplas etapas da cascata enzimática",
+      "Fibrinólise acelerada com taxa de formação de fibrina excedendo capacidade de clareamento",
+      "Deficiência de fatores da coagulação impedindo formação adequada do coágulo inicial",
+      "Disfunção plaquetária com comprometimento da hemostasia primária e tampão frágil",
+      "Hipofibrinólise com formação excessiva de coágulos e risco trombótico aumentado"
+    ],
+    "correctIndex": 1,
+    "explanation": "Níveis muito elevados de produtos de degradação da fibrina (PDFs) sugerem que a taxa de formação de fibrina excede a capacidade de clareamento do organismo, indicando fibrinólise acelerada ou patológica, como ocorre na CIVD ou uso de fibrinolíticos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o valor normal do Tempo de Protrombina (TP) e qual via da coagulação ele avalia?",
+    "options": [
+      "TP normal 9-12 segundos avaliando conversão de fibrinogênio em fibrina",
+      "TP normal 25-35 segundos avaliando via intrínseca (fatores XII, XI, IX, VIII)",
+      "TP normal 90-120 segundos avaliando efeito da heparina na antitrombina III",
+      "TP normal 10-14 segundos avaliando via extrínseca (fatores II, V, VII, X)",
+      "TP normal 60-110 segundos avaliando via comum (fatores X, V, II, I)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Tempo de Protrombina (TP) tem valor normal entre 10 e 14 segundos. Avalia a via extrínseca (fator VII) e a via comum (fatores II, V, X). É utilizado no acompanhamento de cumarínicos (varfarina) e na avaliação de função hepática.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o valor normal do Tempo de Tromboplastina Parcial Ativada (TTPa) e qual sua principal utilidade clínica?",
+    "options": [
+      "TTPa normal 25-35 segundos útil no acompanhamento de heparina e hemofilias",
+      "TTPa normal 60-110 segundos útil na monitorização de anticoagulantes orais diretos",
+      "TTPa normal 10-14 segundos útil no acompanhamento de varfarina e função hepática",
+      "TTPa normal 90-120 segundos útil na avaliação de fibrinólise e produtos de degradação",
+      "TTPa normal 200-450 mg/L útil na quantificação de fibrinogênio plasmático"
+    ],
+    "correctIndex": 0,
+    "explanation": "O TTPa normal é 25-35 segundos (pode variar 25-39s). Avalia a via intrínseca (fatores XII, XI, IX, VIII) e via comum. É particularmente útil no acompanhamento dos efeitos da heparina e na determinação de deficiências dos fatores IX (hemofilia B) e VIII (hemofilia A).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o valor normal do fibrinogênio plasmático e em quais situações clínicas ele está elevado?",
+    "options": [
+      "Fibrinogênio normal 25-35 segundos elevado em uso de heparina não fracionada",
+      "Fibrinogênio normal 10-14 segundos elevado em deficiências da via extrínseca",
+      "Fibrinogênio normal 240.000/mm³ elevado em estados pró-trombóticos primários",
+      "Fibrinogênio normal 200-450 mg/L elevado em inflamação, infecção e neoplasias",
+      "Fibrinogênio normal 0,8-1,2 elevado em uso de anticoagulantes orais antagonistas vitamina K"
+    ],
+    "correctIndex": 3,
+    "explanation": "O valor normal do fibrinogênio é 200-450 mg/L. Os níveis estão aumentados nas doenças inflamatórias, neoplásicas, infecções, gravidez e pós-operatório, funcionando como reagente de fase aguda. Valores baixos sugerem CIVD, hepatopatia ou hipofibrinogenemia congênita.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as fases avaliadas no Tromboelastograma (TEG) e o que cada uma representa?",
+    "options": [
+      "Fases I, II, III avaliando vias intrínseca, extrínseca e comum da cascata",
+      "Fases TP, TTPa, INR avaliando tempos de protrombina e tromboplastina normalizados",
+      "Fases A, B, C avaliando hemostasia primária, secundária e terciária respectivamente",
+      "Fases PDF, D-dímero avaliando produtos de degradação e marcadores de fibrinólise",
+      "Fases R, K, α, MA, LY avaliando tempo coagulação, cinética, força e lise do coágulo"
+    ],
+    "correctIndex": 4,
+    "explanation": "O TEG avalia: R (tempo de coagulação/fase enzimática), K e α (cinética do coágulo/fibrinogênio), MA (amplitude máxima/força do coágulo/plaquetas) e LY (lise do coágulo/fibrinólise). Permite visualização completa de todas as fases da coagulação em tempo real.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente apresenta TP 28 segundos (VR: 10-14s) e TTPa 70 segundos (VR: 25-35s). Qual a interpretação mais provável desses resultados?",
+    "options": [
+      "Deficiência da via comum sugerindo alteração dos fatores X, V, II ou I",
+      "Função hemostática normal com variação laboratorial dentro dos limites",
+      "Deficiência isolada da via extrínseca sugerindo deficiência de fator VII",
+      "Deficiência isolada da via intrínseca sugerindo hemofilia A ou B",
+      "Excesso de anticoagulante lúpico com teste falso-positivo sem sangramento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ambos TP e TTPa prolongados indicam alteração da via comum (fatores X, V, II - protrombina, ou I - fibrinogênio). Causas incluem: deficiências congênitas desses fatores, CIVD, hepatopatia grave, hipofibrinogenemia ou uso de anticoagulantes que afetam múltiplas vias.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente politraumatizado apresenta TEG com tempo R prolongado, amplitude máxima (MA) muito reduzida e lise (LY) acelerada. Qual interpretação fisiopatológica é mais compatível com esse padrão?",
+    "options": [
+      "Função hemostática preservada com padrão normal para paciente traumatizado",
+      "Deficiência isolada de fator VIII sugerindo hemofilia A não diagnosticada previamente",
+      "Hipercoagulabilidade por resposta inflamatória sistêmica ao trauma grave",
+      "Disfunção plaquetária primária por uso de antiagregante como aspirina pré-trauma",
+      "Coagulopatia por consumo tipo CIVD com deficiência de fatores e plaquetas"
+    ],
+    "correctIndex": 4,
+    "explanation": "Tempo R prolongado (deficiência de fatores), MA muito reduzida (plaquetopenia/disfunção) e LY acelerada (fibrinólise aumentada) formam a tríade característica de coagulopatia por consumo como CIVD ou coagulopatia do trauma. Indica necessidade de reposição agressiva de fatores e plaquetas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a diferença fundamental entre hemofilia A e hemofilia B em termos de deficiência de fator?",
+    "options": [
+      "Hemofilia A por deficiência do fator VIII e hemofilia B por deficiência do fator IX",
+      "Hemofilia A por deficiência do fator von Willebrand e hemofilia B por deficiência do fator VIII",
+      "Hemofilia A por deficiência do fator II (protrombina) e hemofilia B por deficiência do fator X",
+      "Hemofilia A por deficiência do fator XII e hemofilia B por deficiência do fator XI",
+      "Hemofilia A por deficiência do fator VII e hemofilia B por deficiência do fator IX"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hemofilia A é causada por deficiência do fator VIII da coagulação, enquanto hemofilia B é causada por deficiência do fator IX. Ambas afetam a via intrínseca e têm herança ligada ao cromossomo X. Hemofilia A é mais comum (85% dos casos).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a hemofilia afeta predominantemente indivíduos do sexo masculino?",
+    "options": [
+      "Porque mulheres produzem mais antitrombina III compensando a deficiência dos fatores",
+      "Porque herança é ligada ao cromossomo X e homens têm apenas uma cópia",
+      "Porque cromossomo Y possui gene supressor que inibe manifestação em mulheres",
+      "Porque testosterona masculina inibe síntese dos fatores VIII e IX no fígado",
+      "Porque estrógeno feminino ativa vias alternativas de coagulação compensatórias"
+    ],
+    "correctIndex": 1,
+    "explanation": "A hemofilia tem herança ligada ao cromossomo X. Homens possuem apenas um cromossomo X (XY), então uma mutação resulta em doença. Mulheres têm dois cromossomos X (XX), então precisariam de mutação em ambos para manifestar a doença, sendo geralmente apenas portadoras.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as manifestações clínicas características das hemofilias?",
+    "options": [
+      "Trombose venosa profunda, embolia pulmonar e eventos tromboembólicos arteriais",
+      "Petéquias, equimoses superficiais e sangramento de mucosas por plaquetopenia",
+      "Anemia hemolítica microangiopática, plaquetopenia e insuficiência renal aguda",
+      "Sangramentos cutâneos petequiais, epistaxes leves e menorragias em mulheres",
+      "Hemartroses recorrentes, hematomas profundos e sangramentos prolongados pós-trauma"
+    ],
+    "correctIndex": 4,
+    "explanation": "As hemofilias manifestam-se com hemartroses (sangramentos articulares) recorrentes especialmente em joelhos e cotovelos, hematomas profundos em músculos, sangramentos prolongados após traumas ou cirurgias. Diferem de plaquetopenia que causa sangramento superficial (petéquias).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a porcentagem de pacientes com hemofilia que não apresentam história familiar e como o diagnóstico é estabelecido?",
+    "options": [
+      "20-30% sem história familiar diagnosticados por dosagem dos fatores VIII e IX no plasma",
+      "60-70% sem história familiar diagnosticados por tempo de protrombina (TP) prolongado",
+      "5-10% sem história familiar diagnosticados por sequenciamento genético de nova geração",
+      "40-50% sem história familiar diagnosticados por tempo de sangramento de Duke prolongado",
+      "80-90% sem história familiar diagnosticados por contagem de plaquetas reduzida"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cerca de 20-30% dos pacientes com hemofilia não apresentam história familiar (mutações de novo). O diagnóstico é feito dosando-se a atividade dos fatores VIII (hemofilia A) e IX (hemofilia B) no plasma. Avaliação de sequências de DNA pode identificar o tipo específico de mutação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em qual situação uma mulher pode apresentar hemofilia manifesta ao invés de ser apenas portadora?",
+    "options": [
+      "Quando ocorre união de homem hemofílico com mulher portadora do gene afetado",
+      "Quando há deficiência nutricional grave de vitamina K durante a gestação materna",
+      "Quando há uso de medicamentos anticoagulantes pela mãe durante o período gestacional",
+      "Quando há exposição intrauterina a teratógenos que danificam genes da coagulação",
+      "Quando ocorre infecção viral que destrói hepatócitos produtores de fatores de coagulação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Apesar de muito raro, hemofilia pode ocorrer em mulher quando há união de homem com hemofilia (XhY) com mulher portadora (XHXh), resultando em filha XhXh homozigota para a mutação. Hemofilia adquirida (autoanticorpos) também pode afetar mulheres.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 4 anos, sexo masculino, apresenta hemartroses recorrentes em joelhos desde que começou a andar. Tio materno teve quadro similar. Exames: TP 12s (normal), TTPa 68s (VR: 25-35s), plaquetas 280.000/mm³. Qual diagnóstico é mais provável?",
+    "options": [
+      "Doença de von Willebrand por deficiência do fator vWF com herança autossômica",
+      "Púrpura trombocitopênica imune por autoanticorpos antiplaquetários com plaquetopenia",
+      "Hemofilia A ou B por deficiência dos fatores VIII ou IX com herança ligada ao X",
+      "CIVD secundária a infecção oculta com consumo de fatores e plaquetas",
+      "Deficiência de vitamina K por má absorção intestinal afetando fatores dependentes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quadro clínico de hemartroses desde infância em menino, história familiar materna (tio materno), TTPa prolongado isolado com TP e plaquetas normais é diagnóstico de hemofilia (A ou B). História familiar pelo lado materno confirma herança ligada ao X. Dosagem de fatores VIII e IX diferenciará entre hemofilia A e B.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o padrão de herança da doença de von Willebrand e como isso difere das hemofilias?",
+    "options": [
+      "Herança ligada ao Y transmitida apenas de pais para filhos do sexo masculino",
+      "Herança ligada ao X recessiva similar às hemofilias afetando principalmente homens",
+      "Herança mitocondrial transmitida exclusivamente pela linhagem materna aos descendentes",
+      "Herança autossômica dominante afetando ambos os sexos diferente das hemofilias ligadas ao X",
+      "Herança autossômica recessiva requerendo ambos alelos afetados para manifestação clínica"
+    ],
+    "correctIndex": 3,
+    "explanation": "A doença de von Willebrand tem herança autossômica dominante, afetando igualmente ambos os sexos. Isso difere das hemofilias A e B que têm herança ligada ao cromossomo X, afetando predominantemente homens.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como a deficiência do fator von Willebrand afeta simultaneamente a hemostasia primária e secundária?",
+    "options": [
+      "Inibe antitrombina III permitindo ativação excessiva de trombina e fatores IXa/Xa",
+      "Bloqueia ativação da via extrínseca e impede conversão de fibrinogênio em fibrina",
+      "Compromete adesão plaquetária e regula produção/liberação do fator VIII:C da via intrínseca",
+      "Reduz síntese hepática de fibrinogênio e impede formação adequada da rede de fibrina",
+      "Acelera fibrinólise por aumento de ativadores de plasminogênio tecidual e uroquinase"
+    ],
+    "correctIndex": 2,
+    "explanation": "O fator von Willebrand (vWF) tem dupla função: (1) mediador da adesividade plaquetária ao colágeno subendotelial (hemostasia primária) e (2) regulador da produção/liberação do fator VIII:C que participa da via intrínseca (hemostasia secundária). Sua deficiência afeta ambos os processos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente feminina, 22 anos, queixa sangramento prolongado pós-extração dentária e menorragias. Mãe e avó materna com história similar. Exames: TTPa levemente prolongado, TP normal, tempo de sangramento prolongado. Qual diagnóstico diferencia melhor de hemofilia?",
+    "options": [
+      "Plaquetopenia imune primária por destruição autoimune de plaquetas circulantes",
+      "Doença de von Willebrand por herança autossômica afetando mulheres igualmente",
+      "Hemofilia A adquirida por autoanticorpos anti-fator VIII em mulher jovem",
+      "Hemofilia B carrier com manifestações clínicas por lionização desfavorável do cromossomo X",
+      "Deficiência de fator VII isolada por mutação na via extrínseca da coagulação"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mulher afetada com história familiar em várias gerações de mulheres sugere herança autossômica dominante (von Willebrand), não ligada ao X (hemofilias). Tempo de sangramento prolongado indica defeito na hemostasia primária (adesão plaquetária), característico de deficiência de vWF, não visto nas hemofilias puras.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o mecanismo da coagulopatia induzida por politransfusão em pacientes politraumatizados?",
+    "options": [
+      "Desenvolvimento de autoanticorpos contra fatores VIII e IX por aloimunização transfusional",
+      "Trombocitose reacional ao trauma com hiperagregabilidade plaquetária e risco trombótico",
+      "Hiperfibrinólise primária por liberação de ativadores de plasminogênio do endotélio traumatizado",
+      "Ativação excessiva da cascata de coagulação por liberação de fator tecidual dos tecidos lesados",
+      "Diluição de fatores de coagulação e plaquetas por transfusão de sangue estocado deficiente"
+    ],
+    "correctIndex": 4,
+    "explanation": "A necessidade de administrar grandes volumes de sangue estocado para corrigir hipovolemia termina por produzir distúrbios da coagulação por diluição de fatores de coagulação e plaquetas. Sangue estocado também é deficiente em fatores lábeis (V, VIII) e plaquetas funcionais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo de ação da heparina como anticoagulante?",
+    "options": [
+      "Bloqueia receptores de glicoproteína IIb/IIIa impedindo agregação plaquetária final",
+      "Ativa proteína C que inativa cofatores Va e VIIIa da via comum da coagulação",
+      "Inibe diretamente a trombina bloqueando conversão de fibrinogênio em fibrina estável",
+      "Form a complexo com antitrombina III aumentando velocidade de inibição da trombina e fatores IXa/Xa",
+      "Antagoniza vitamina K impedindo carboxilação dos fatores II, VII, IX e X dependentes"
+    ],
+    "correctIndex": 3,
+    "explanation": "A heparina forma complexo com a antitrombina III (AT-III), aumentando em até 1000 vezes a velocidade de formação do complexo AT-III-trombina, interrompendo o processo de coagulação. Também acelera a inibição dos fatores IXa e Xa. O TTPa é usado para monitorização.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características fisiopatológicas da Coagulação Intravascular Disseminada (CIVD)?",
+    "options": [
+      "Trombose localizada em veias profundas com risco de embolia pulmonar fatal",
+      "Conversão de fibrinogênio, consumo de fatores V e VIII, plaquetopenia e fibrinólise ativada",
+      "Produção de autoanticorpos contra fosfolipídios causando tromboses recorrentes",
+      "Deficiência hereditária de anticoagulantes naturais (proteína C, S e antitrombina III)",
+      "Hipercoagulabilidade primária por mutação do fator V de Leiden e protrombina"
+    ],
+    "correctIndex": 1,
+    "explanation": "CIVD é distúrbio secundário caracterizado por: conversão difusa de fibrinogênio em fibrina, consumo dos fatores V e VIII, desenvolvimento de plaquetopenia (consumo) e ativação do sistema fibrinolítico. Resulta em sangramento paradoxal apesar da coagulação difusa. Exames: ↓plaquetas, ↓fibrinogênio, ↑PDF, ↑D-dímero, TP/TTPa prolongados.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente cirrótico apresenta equimoses frequentes e epistaxes. Exames: plaquetas 60.000/mm³, TP 22s (VR: 10-14s), TTPa 48s (VR: 25-35s), fibrinogênio 120 mg/L (VR: 200-450 mg/L). Qual o mecanismo fisiopatológico da coagulopatia?",
+    "options": [
+      "Disfunção plaquetária primária por uremia e acúmulo de toxinas metabólicas",
+      "Deficiência de síntese hepática de fatores, plaquetopenia por sequestro esplênico e fibrinólise",
+      "Hemofilia adquirida por autoanticorpos contra fator VIII associada a doença autoimune",
+      "Consumo de fatores por CIVD secundária a sepse de origem biliar",
+      "Deficiência de vitamina K por má absorção intestinal em colestase crônica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hepatopatia causa coagulopatia por múltiplos mecanismos: (1) diminuição da síntese de fatores de coagulação proporcional à destruição dos hepatócitos (TP/TTPa ↑, fibrinogênio ↓), (2) plaquetopenia por sequestro no hiperesplenismo portal, (3) fibrinólise por redução da síntese de inibidores. Diferencia-se de deficiência de vitamina K por não responder à sua reposição.",
+    "type": "raciocínio"
+  }
+]

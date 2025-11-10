@@ -1,0 +1,457 @@
+[
+  {
+    "question": "Qual é a definição completa de parto conforme os critérios obstétricos estabelecidos?",
+    "options": [
+      "Processo medicamentoso de obtenção de feto >750g ou >24 semanas, apenas vivo, por indução medicamentosa",
+      "Processo fisiológico de obtenção de feto >500g ou >22 semanas, vivo ou morto, por vias naturais",
+      "Processo cirúrgico de obtenção de feto >1000g ou >28 semanas, necessariamente vivo, por cesariana",
+      "Processo hormonal de obtenção de feto >600g ou >26 semanas, apenas vivo, por via vaginal",
+      "Processo mecânico de obtenção de feto >400g ou >20 semanas, vivo ou morto, por instrumentação"
+    ],
+    "correctIndex": 1,
+    "explanation": "O parto é definido como processo fisiológico de obtenção de feto com peso superior a 500g ou idade gestacional acima de 22 semanas, podendo ser vivo ou morto, através das vias naturais (vaginal), incluindo partos espontâneos ou operatórios com fórceps ou vácuo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os tipos de parto classificados como operatórios?",
+    "options": [
+      "Parto natural espontâneo e parto com analgesia",
+      "Parto domiciliar e parto hospitalar",
+      "Parto vertical e parto de cócoras",
+      "Parto com fórceps e parto com vácuo-extrator",
+      "Parto em água e parto humanizado"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os partos operatórios são aqueles que necessitam de instrumentação obstétrica para sua conclusão, incluindo o parto com fórceps e o parto com vácuo-extrator, diferenciando-se do parto natural espontâneo que ocorre sem auxílio instrumental.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a sequência correta das fases do trabalho de parto?",
+    "options": [
+      "Período expulsivo → Dequitação → Dilatação/apagamento → Puerpério",
+      "Dequitação → Período expulsivo → Dilatação/apagamento → Puerpério",
+      "Dilatação/apagamento → Período expulsivo → Dequitação → Puerpério",
+      "Puerpério → Dilatação/apagamento → Período expulsivo → Dequitação",
+      "Dilatação/apagamento → Dequitação → Período expulsivo → Puerpério"
+    ],
+    "correctIndex": 2,
+    "explanation": "A sequência fisiológica do trabalho de parto inicia com a fase de dilatação e apagamento cervical, seguida pelo período expulsivo (nascimento do feto), depois a dequitação (expulsão placentária) e finalmente o puerpério (período pós-parto).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual foi o principal achado do estudo de Zhang (2002) em comparação com Friedman sobre a progressão do trabalho de parto?",
+    "options": [
+      "Aceleração da dilatação ocorre aos 6cm e período expulsivo mais longo que Friedman",
+      "Aceleração da dilatação ocorre aos 8cm e período expulsivo igual a Friedman",
+      "Aceleração da dilatação ocorre aos 3cm e período expulsivo mais curto que Friedman",
+      "Aceleração da dilatação ocorre aos 5cm e período expulsivo independente de paridade",
+      "Aceleração da dilatação ocorre aos 4cm e período expulsivo variável conforme analgesia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zhang demonstrou que a aceleração da dilatação cervical ocorre mais tardiamente (por volta de 6cm) comparado a Friedman (3-4cm), e que o período expulsivo é mais longo (3,6h com analgesia e 2,8h sem analgesia em primíparas) que os limites de Friedman (2,5h para primíparas).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características da fase latente do trabalho de parto segundo Friedman?",
+    "options": [
+      "Duração 6-8h em primigestas, dilatação até 7cm, contrações irregulares e leves",
+      "Duração >8h em primigestas, dilatação até 3-4cm, contrações irregulares e fracas a moderadas",
+      "Duração 1-2h em primigestas, dilatação até 2cm, contrações frequentes e dolorosas",
+      "Duração 4-6h em primigestas, dilatação até 5cm, contrações rítmicas e fortes",
+      "Duração 2-4h em primigestas, dilatação até 6cm, contrações regulares e intensas"
+    ],
+    "correctIndex": 1,
+    "explanation": "A fase latente conforme Friedman caracteriza-se por ser a fase mais longa (>8h em primigestas), com dilatação progressiva até 3-4cm, contrações uterinas irregulares, fracas a moderadas, permitindo que a mulher permaneça em ambiente domiciliar com relativo conforto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a velocidade média de dilatação cervical na fase ativa do trabalho de parto segundo Friedman?",
+    "options": [
+      "Progressão de aproximadamente 2cm por hora a partir de 5cm de dilatação",
+      "Progressão de aproximadamente 1cm por hora a partir de 3-4cm de dilatação",
+      "Progressão de aproximadamente 0,5cm por hora a partir de 2cm de dilatação",
+      "Progressão de aproximadamente 1,5cm por hora a partir de 6cm de dilatação",
+      "Progressão de aproximadamente 0,8cm por hora a partir de 4cm de dilatação"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na fase ativa descrita por Friedman, a dilatação cervical progride a uma velocidade média de 1cm por hora, iniciando-se a partir de 3-4cm de dilatação, com contrações tornando-se mais intensas, frequentes e regulares.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os limites de duração do período expulsivo estabelecidos por Friedman?",
+    "options": [
+      "Primíparas 3 horas e multíparas 2 horas",
+      "Primíparas 2,5 horas e multíparas 1 hora",
+      "Primíparas 4 horas e multíparas 3 horas",
+      "Primíparas 2 horas e multíparas 1,5 horas",
+      "Primíparas 1 hora e multíparas 0,5 horas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Friedman estabeleceu como limites fisiológicos para o período expulsivo 2,5 horas para primíparas e 1 hora para multíparas, considerando-se desde a dilatação completa (10cm) até o nascimento fetal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição correta de dequitação no trabalho de parto?",
+    "options": [
+      "Período intermediário com estabilização hemodinâmica em até 15 minutos e sangramento de 200-300ml",
+      "Primeiro período do parto com dilatação cervical completa em até 2 horas e sangramento mínimo",
+      "Terceiro período do parto com expulsão placentária em até 30 minutos e sangramento de 300-500ml",
+      "Quarto período do parto com involução uterina em até 4 horas e sangramento de 500-700ml",
+      "Segundo período do parto com expulsão fetal em até 1 hora e sangramento de 100-200ml"
+    ],
+    "correctIndex": 2,
+    "explanation": "A dequitação corresponde ao terceiro período do parto, iniciando após o nascimento fetal e terminando com a expulsão da placenta e membranas, com duração máxima de 30 minutos e perda sanguínea fisiológica de 300-500ml.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os mecanismos de dequitação placentária descritos por Baudelocque?",
+    "options": [
+      "Mecanismo de Hodge (lateral, margens uterinas) e Simpson (medial, centro placentário)",
+      "Mecanismo de Leopold (anterior, dorso fetal) e De Lee (posterior, face materna)",
+      "Mecanismo de Schultze (central, face fetal primeiro) e Duncan (pela borda, face materna primeiro)",
+      "Mecanismo de Rezende (completo, inteiro) e Bracht (parcial, fragmentado)",
+      "Mecanismo de Friedman (superior, polo cefálico) e Zhang (inferior, polo pélvico)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Baudelocque descreveu dois mecanismos de dequitação: Schultze (mais frequente, com descolamento central e expulsão da placenta com a face fetal voltada para fora) e Duncan (descolamento pela borda e expulsão com a face materna aparecendo primeiro).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os quatro principais ossos que compõem a pelve óssea?",
+    "options": [
+      "Sacro, ílio, ísquio e púbis formam a estrutura óssea da pelve",
+      "Fêmur, tíbia, fíbula e patela formam a estrutura óssea da pelve",
+      "Vértebras, crânio, mandíbula e maxila formam a estrutura óssea da pelve",
+      "Costelas, esterno, clavícula e escápula formam a estrutura óssea da pelve",
+      "Úmero, rádio, ulna e carpais formam a estrutura óssea da pelve"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pelve óssea é composta por quatro ossos principais: o sacro (posteriormente), e os dois ossos do quadril (direito e esquerdo), cada um formado pela fusão de ílio, ísquio e púbis, unidos anteriormente pela sínfise púbica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a distribuição percentual correta dos tipos de pelve na população feminina?",
+    "options": [
+      "Ginecóide 40%, Antropóide 30%, Andróide 20%, Platipelóide 10%",
+      "Ginecóide 50%, Antropóide 25%, Andróide 20%, Platipelóide 5%",
+      "Ginecóide 55%, Antropóide 20%, Andróide 15%, Platipelóide 10%",
+      "Ginecóide 60%, Antropóide 20%, Andróide 15%, Platipelóide 5%",
+      "Ginecóide 45%, Antropóide 25%, Andróide 25%, Platipelóide 5%"
+    ],
+    "correctIndex": 1,
+    "explanation": "A distribuição dos tipos de pelve na população feminina é: Ginecóide 50% (melhor prognóstico para parto vaginal), Antropóide 25%, Andróide 20% e Platipelóide 5%, sendo esta distribuição importante para avaliação das possibilidades de parto vaginal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características da pelve ginecóide?",
+    "options": [
+      "Estreito superior arredondado, espinhas ciáticas rómbicas, sacro largo e côncavo, ângulo subpúbico médio",
+      "Estreito superior elíptico alongado, espinhas ciáticas apagadas, sacro estreito e longo, ângulo subpúbico levemente estreitado",
+      "Estreito superior triangular, espinhas ciáticas proeminentes, sacro estreito e inclinado, ângulo subpúbico estreito",
+      "Estreito superior ovalado achatado, espinhas ciáticas proeminentes, sacro largo e curto, ângulo subpúbico amplo",
+      "Estreito superior quadrado, espinhas ciáticas assimétricas, sacro irregular e curvo, ângulo subpúbico variável"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pelve ginecóide apresenta estreito superior arredondado, espinhas ciáticas rómbicas (não muito proeminentes), sacro largo e côncavo, ângulo subpúbico médio, constituindo o tipo com melhor prognóstico para parto vaginal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza o movimento de nutação da pelve durante o parto?",
+    "options": [
+      "Sacro desloca-se posteriormente e ílio anteriormente, diminuindo estreito superior",
+      "Promontório afasta-se da sínfise púbica e cóccix aproxima-se, diminuindo diâmetro do estreito inferior",
+      "Promontório aproxima-se do púbis e cóccix afasta-se, aumentando diâmetro do estreito inferior",
+      "Púbis desloca-se inferiormente e cóccix superiormente, mantendo dimensões pélvicas",
+      "Espinhas ciáticas afastam-se e sínfise púbica desloca-se superiormente, aumentando plano médio"
+    ],
+    "correctIndex": 2,
+    "explanation": "A nutação é o movimento pélvico onde o promontório sacral aproxima-se da sínfise púbica e o cóccix afasta-se, resultando no aumento do diâmetro do estreito inferior da pelve, favorecendo a passagem fetal durante o parto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o conceito do tríplice gradiente descendente na dinâmica uterina?",
+    "options": [
+      "Contrações com origem no fundo uterino, maior intensidade e duração no fundo que diminuem em direção ao colo",
+      "Contrações com origem no colo uterino, maior intensidade e duração no colo que diminuem em direção ao fundo",
+      "Contrações simultâneas em todo útero com igual intensidade e duração em todas as regiões",
+      "Contrações segmentares com focos múltiplos e padrão irregular de intensidade e duração",
+      "Contrações alternadas entre fundo e colo com intensidade variável conforme posição fetal"
+    ],
+    "correctIndex": 0,
+    "explanation": "O tríplice gradiente descendente descreve o padrão das contrações uterinas que se originam no fundo uterino, apresentam maior intensidade e duração nesta região, e diminuem progressivamente em direção ao colo, garantindo eficiência no empurramento fetal para o canal de parto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a função da prensa abdominal durante o período expulsivo do trabalho de parto?",
+    "options": [
+      "Equalização da pressão intra-abdominal através de manobras específicas para prevenir complicações",
+      "Redirecionamento da pressão intra-abdominal através de mudanças posturais para otimizar trajetória fetal",
+      "Estabilização da pressão intra-abdominal através da respiração controlada para regular o ritmo expulsivo",
+      "Diminuição da pressão intra-abdominal através do relaxamento muscular para facilitar a descida fetal",
+      "Aumento da pressão intra-abdominal através da contração muscular para auxiliar na expulsão fetal"
+    ],
+    "correctIndex": 4,
+    "explanation": "A prensa abdominal consiste na contração ativa da musculatura abdominal e torácica pela parturiente, resultando em aumento significativo da pressão intra-abdominal que se soma às contrações uterinas, auxiliando decisivamente na expulsão fetal durante o período expulsivo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o diâmetro biparietal da cabeça fetal e sua importância no parto?",
+    "options": [
+      "Diâmetro de 11cm entre occipital e frontal, determinante para o mecanismo de deflexão",
+      "Diâmetro de 7,5cm entre as têmporas, importante para a moldagem craniana durante o parto",
+      "Diâmetro de 13cm entre occipital e mento, relevante para apresentações defletidas",
+      "Diâmetro de 10,5cm entre suboccipital e frontal, significativo para rotações internas",
+      "Diâmetro de 9,5cm entre as eminências parietais, crucial para a passagem pelo estreito superior"
+    ],
+    "correctIndex": 4,
+    "explanation": "O diâmetro biparietal mede aproximadamente 9,5cm entre as duas eminências parietais do crânio fetal e representa um dos diâmetros mais importantes para a passagem fetal pelo estreito superior da pelve, especialmente na apresentação de vértice fletida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as três situações fetais em relação ao eixo uterino?",
+    "options": [
+      "Cefálica, pélvica e córmica conforme polo fetal predominante",
+      "Anterior, posterior e lateral conforme posição do dorso fetal",
+      "Longitudinal, transversal/córmica e oblíqua conforme relação eixo fetal-uterino",
+      "Fletida, defletida e intermediária conforme atitude da cabeça fetal",
+      "Direita, esquerda e central conforme lateralidade na pelve materna"
+    ],
+    "correctIndex": 2,
+    "explanation": "A situação fetal refere-se à relação entre o eixo longitudinal fetal e o eixo longitudinal uterino, podendo ser: longitudinal (paralelos, 95% dos casos), transversal/córmica (perpendiculares) ou oblíqua (ângulo de 45 graus).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a apresentação fetal mais frequente no termo gestacional?",
+    "options": [
+      "Apresentação cefálica ocorre em aproximadamente 95% dos partos a termo",
+      "Apresentação córmica ocorre em aproximadamente 70% dos partos a termo",
+      "Apresentação transversa ocorre em aproximadamente 50% dos partos a termo",
+      "Apresentação pélvica ocorre em aproximadamente 80% dos partos a termo",
+      "Apresentação de face ocorre em aproximadamente 60% dos partos a termo"
+    ],
+    "correctIndex": 0,
+    "explanation": "A apresentação cefálica é a mais frequente, ocorrendo em aproximadamente 95% dos partos a termo, sendo considerada a apresentação fisiológica e de melhor prognóstico para parto vaginal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o objetivo da primeira manobra de Leopold na avaliação obstétrica?",
+    "options": [
+      "Palpar a sínfise púbica para determinar a insinuação fetal (estação e grau de engajamento)",
+      "Palpar os flancos uterinos para determinar a posição fetal (dorso direito ou esquerdo)",
+      "Palpar o fundo uterino para determinar a situação fetal (longitudinal, transversal ou oblíqua)",
+      "Palpar as partes fetais para determinar a atitude fetal (fletida ou defletida)",
+      "Palpar o polo inferior para determinar a apresentação fetal (cefálica ou pélvica)"
+    ],
+    "correctIndex": 2,
+    "explanation": "A primeira manobra de Leopold tem como objetivo palpar o fundo uterino para determinar a situação fetal, identificando se o feto está em situação longitudinal, transversal ou oblíqua em relação ao eixo uterino.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual diâmetro cefálico é apresentado na variedade de vértice (cefálica fletida)?",
+    "options": [
+      "Diâmetro submentobregmático de 9,5cm na apresentação de face defletida",
+      "Diâmetro occipitofrontal de 11-12cm na apresentação bregmática defletida",
+      "Diâmetro occipitomentoniano de 13cm na apresentação frontal defletida",
+      "Diâmetro suboccipitobregmático de 9,5cm na apresentação cefálica fletida de vértice",
+      "Diâmetro bitemporal de 7,5cm na apresentação transversa defletida"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na apresentação cefálica fletida (vértice), a cabeça fetal está em flexão máxima, apresentando o diâmetro suboccipitobregmático de 9,5cm, que é o menor diâmetro cefálico, favorecendo a passagem pelo canal de parto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as variedades de apresentação pélvica classificadas pela posição dos membros inferiores?",
+    "options": [
+      "Primária (primeiro grau), Secundária (segundo grau) e Terciária (terceiro grau)",
+      "Frank (nádegas com pernas estendidas), Complete (sentado) e Incomplete/Footling (pés)",
+      "Fletida (cabeça fletida), Defletida (cabeça extendida) e Intermediária (semi-fletida)",
+      "Anterior (dorso anterior), Posterior (dorso posterior) e Transversa (dorso lateral)",
+      "Direita (sacrodireita), Esquerda (sacreesquerda) e Média (sacromediana)"
+    ],
+    "correctIndex": 1,
+    "explanation": "As apresentações pélvicas classificam-se em: Frank (coxofemorais fletidos e joelhos estendidos), Complete (coxofemorais e joelhos fletidos) e Incomplete/Footling (um ou ambos os pés apresentando-se abaixo das nádegas).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o diâmetro apresentado na variedade de face com mento anterior?",
+    "options": [
+      "Diâmetro suboccipitofrontal de 10,5cm com dificuldade para parto vaginal em mento anterior",
+      "Diâmetro occipitomentoniano de 13cm incompatível com parto vaginal em qualquer posição",
+      "Diâmetro biparietal de 9,5cm com indicação absoluta de cesariana em mento anterior",
+      "Diâmetro submentobregmático de 9,5cm compatível com parto vaginal em mento anterior",
+      "Diâmetro occipitofrontal de 11-12cm com possibilidade limitada de parto vaginal em mento anterior"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na apresentação de face com mento anterior, o diâmetro apresentado é o submentobregmático de 9,5cm, que pode permitir parto vaginal, enquanto o mento posterior apresenta diâmetro maior (submento-vertical de 11,5-12cm) geralmente incompatível com parto vaginal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que significa a estação fetal -1 nos planos de De Lee?",
+    "options": [
+      "Ponto de referência fetal está 3cm abaixo do plano das espinhas ciáticas (estação +3)",
+      "Ponto de referência fetal está 2cm acima do plano das espinhas ciáticas (estação -2)",
+      "Ponto de referência fetal está no nível do plano das espinhas ciáticas (estação zero)",
+      "Ponto de referência fetal está 1cm abaixo do plano das espinhas ciáticas (estação zero)",
+      "Ponto de referência fetal está 1cm acima do plano das espinhas ciáticas (estação zero)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Na estação fetal pelos planos de De Lee, o zero corresponde ao nível das espinhas ciáticas (plano III de Hodge). Estação -1 indica que o ponto de referência fetal está 1cm acima deste plano, -2 acima 2cm, +1 abaixo 1cm, até +3 na vulva.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza o sinclitismo na estática fetal?",
+    "options": [
+      "Sutura sagital próxima à sínfise púbica, assinclitismo anterior com dificuldade de progressão",
+      "Sutura sagital oblíqua com rotação forçada, posição intermediária de transição",
+      "Sutura sagital equidistante entre sínfise púbica e sacro, posição ideal para engajamento",
+      "Sutura sagital próxima ao sacro, assinclitismo posterior com maior facilidade de descida",
+      "Sutura sagital vertical com flexão lateral, posição variável conforme contrações"
+    ],
+    "correctIndex": 2,
+    "explanation": "O sinclitismo caracteriza-se pela posição em que a sutura sagital fetal encontra-se equidistante entre a sínfise púbica anterior e o sacro posterior, representando a posição ideal para o engajamento e progressão fetal no canal de parto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a sequência correta dos movimentos cardinais do parto na apresentação cefálica de vértice?",
+    "options": [
+      "Encaixamento → Rotação interna → Flexão → Descenso → Extensão → Rotação externa → Acomodação → Desprendimento",
+      "Acomodação → Flexão → Descenso e encaixamento → Rotação interna → Extensão e desprendimento → Rotação externa → Desprendimento dos ombros e expulsão",
+      "Extensão → Rotação externa → Descenso → Flexão → Rotação interna → Desprendimento → Acomodação → Expulsão",
+      "Descenso → Acomodação → Rotação externa → Flexão → Extensão → Rotação interna → Desprendimento → Expulsão",
+      "Flexão → Rotação interna → Descenso → Extensão → Acomodação → Rotação externa → Desprendimento → Expulsão"
+    ],
+    "correctIndex": 1,
+    "explanation": "Os movimentos cardinais do parto na apresentação cefálica seguem a sequência: 1) Acomodação, 2) Flexão, 3) Descenso e encaixamento, 4) Rotação interna, 5) Extensão e desprendimento da cabeça, 6) Rotação externa (restituição), 7) Desprendimento dos ombros e expulsão do corpo fetal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Gestante primigesta, 28 anos, em trabalho de parto há 10 horas. Ao toque vaginal: colo 5cm dilatado, 70% apagado, bolsa rota, apresentação cefálica em OEA, estação -2. Contrações 3-4/10min, 50-60 segundos. Baseado na curva de Zhang, qual a conduta mais adequada?",
+    "options": [
+      "Indicação imediata de cesariana por parada de progressão do trabalho de parto",
+      "Manutenção da observação pois dilatação de 5cm ainda está na fase de aceleração progressiva",
+      "Realização de amniotomia se bolsa ainda estivesse íntegra para acelerar dilatação",
+      "Uso de ocitocina para aumentar frequência e intensidade das contrações",
+      "Preparo para parto operatório por suspeita de desproporção cefalopélvica"
+    ],
+    "correctIndex": 1,
+    "explanation": "Segundo Zhang, a aceleração significativa da dilatação ocorre a partir de 6cm. Com 5cm de dilatação, a paciente ainda está na fase de aceleração progressiva, não caracterizando parada de progressão, sendo adequada a manutenção da observação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Multípara, 32 anos, terceiro trimestre, em trabalho de parto ativo. Ao exame obstétrico: situação longitudinal, apresentação cefálica, dorso à esquerda, pequenas partes à direita, polo cefálico móvel. Qual a variedade de posição fetal?",
+    "options": [
+      "Occípito-anterior esquerda (OEA) pela localização do dorso fetal no hemiabdome esquerdo",
+      "Occípito-transversa esquerda (OTE) pela mobilidade do polo cefálico na pelve materna",
+      "Occípito-transversa direita (OTD) pela ausência de engajamento na pelve óssea",
+      "Occípito-anterior direita (OAD) pela relação com a sínfise púbica anterior",
+      "Occípito-posterior direita (OPD) pela palpação das pequenas partes no hemiabdome direito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Com situação longitudinal, apresentação cefálica, dorso à esquerda e pequenas partes à direita, a variedade de posição é occípito-anterior esquerda (OEA), sendo esta uma posição favorável para o parto vaginal.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Primigesta, 25 anos, 39 semanas, em trabalho de parto. Manobras de Leopold: fundo uterino com partes consistentes (polo cefálico), flancos com dorso à direita e pequenas partes à esquerda, polo inferior móvel e ballotável. Qual a apresentação e posição fetal?",
+    "options": [
+      "Apresentação pélvica com variedade sacro-posterior esquerda (SPE) pelo ballotamento",
+      "Apresentação pélvica com variedade sacro-anterior direita (SAD) pela mobilidade do polo",
+      "Apresentação transversa com variedade dorso-anterior direita (DAD) pela consistência do fundo",
+      "Apresentação cefálica com variedade occípito-posterior esquerda (OPE) pelas pequenas partes",
+      "Apresentação cefálica com variedade occípito-anterior direita (OAD) pela palpação do dorso"
+    ],
+    "correctIndex": 4,
+    "explanation": "Pelos achados das manobras de Leopold: partes consistentes no fundo (nádegas), dorso à direita, pequenas partes à esquerda e polo inferior móvel (cabeça), configura-se apresentação cefálica com variedade occípito-anterior direita (OAD).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante, 30 anos, segundo gesta, em trabalho de parto ativo. Ao toque vaginal: colo 8cm, apagamento completo, apresentação cefálica, estação 0, sutura sagital oblíqua mais próxima do sacro. Qual o diagnóstico e conduta?",
+    "options": [
+      "Apresentação defletida com diâmetro aumentado, indicação de parto operatório",
+      "Posição transversa com rotação inadequada, necessidade de rotação manual instrumental",
+      "Assinclitismo posterior com sutura próxima ao púbis, indicação de cesariana por distocia",
+      "Assinclitismo anterior com sutura próxima ao sacro, conduta expectante pois pode corrigir espontaneamente",
+      "Sinclitismo ideal com sutura equidistante, conduta de parto imediato por dilatação avançada"
+    ],
+    "correctIndex": 3,
+    "explanation": "Com sutura sagital oblíqua mais próxima do sacro, caracteriza-se assinclitismo anterior (de Naegele). Na estação 0 com 8cm de dilatação, a conduta é expectante pois frequentemente corrige-se espontaneamente com a progressão do trabalho de parto.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Multípara, 35 anos, em período expulsivo há 1h30min. Bolsa rota há 4 horas, líquido amniótico claro. Contrações 4/10min, 60 segundos. Ao toque: colo completamente dilatado, apresentação cefálica OEA, estação +2, caput succedaneum +++. Qual a conduta mais adequada?",
+    "options": [
+      "Manutenção do trabalho de parto por mais 30 minutos pois é multípara",
+      "Indicação imediata de cesariana por suspeita de sofrimento fetal agudo",
+      "Administração de ocitocina em bomba de infusão para intensificar contrações",
+      "Realização de episiotomia ampla e manobra de Kristeller para acelerar expulsão",
+      "Avaliação criteriosa para parto vaginal operatório (vácuo ou fórceps) por estação +2 e caput avançado"
+    ],
+    "correctIndex": 4,
+    "explanation": "Com estação +2, caput succedaneum avançado (+++) e período expulsivo de 1h30min em multípara, indica-se avaliação para parto vaginal operatório (vácuo ou fórceps) para completar o parto, evitando prolongamento excessivo do período expulsivo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Primigesta, 22 anos, 40 semanas, em trabalho de parto há 12 horas. Curva de dilatação: 0-3cm em 8 horas, 3-5cm em 2 horas, mantém 5cm há 2 horas com contrações adequadas. Qual o diagnóstico e conduta?",
+    "options": [
+      "Parada secundária da dilatação na fase ativa, indicação de avaliação para cesariana",
+      "Fase de transição latente-ativa, uso de analgesia para facilitar progressão",
+      "Período de desaceleração fisiológica, preparo para período expulsivo iminente",
+      "Trabalho de parto adequado segundo Zhang, continuação da observação por mais 2 horas",
+      "Fase latente prolongada mas dentro da normalidade, manutenção da observação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Caracteriza-se parada secundária da dilatação (2 horas sem progressão na fase ativa) com contrações adequadas, indicando avaliação para desproporção cefalopélvica ou distocia, com possível indicação de cesariana.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante, 28 anos, primigesta, 38 semanas. Avaliação pelvimétrica: estreito superior triangular, espinhas ciáticas proeminentes, sacro estreito e inclinado para frente, ângulo subpúbico estreito. Qual o tipo de pelve e suas implicações?",
+    "options": [
+      "Pelve ginecóide com diâmetro transverso centralizado e excelente prognóstico para parto vaginal",
+      "Pelve braquipelóide com diâmetro transverso reduzido e indicação absoluta de cesariana",
+      "Pelve platipelóide com diâmetro transverso aumentado e prognóstico variável para parto vaginal",
+      "Pelve antropóide com diâmetro transverso próximo ao púbis e bom prognóstico para parto vaginal",
+      "Pelve andróide com diâmetro transverso máximo próximo ao sacro e prognóstico reservado para parto vaginal"
+    ],
+    "correctIndex": 4,
+    "explanation": "As características descritas (estreito superior triangular, espinhas ciáticas proeminentes, sacro estreito e inclinado, ângulo subpúbico estreito) definem pelve andróide, com diâmetro transverso máximo próximo ao sacro e prognóstico reservado para parto vaginal devido a dificuldades progressivas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Multípara, 33 anos, terceiro trimestre. Apresentação pélvica tipo frank (nádegas com pernas estendidas). Diâmetro bitrocantérico de 9,5cm. Qual a principal preocupação no mecanismo de parto?",
+    "options": [
+      "Dificuldade de expulsão das nádegas pelo diâmetro bitrocantérico de 9,5cm ser insuficiente",
+      "Risco de prolapso de cordão umbilical durante a fase de dilatação cervical inicial",
+      "Desproporção cefalopélvica após nascimento do corpo, pois a cabeça é a parte maior do feto",
+      "Dificuldade de rotação interna dos ombros pela posição pélvica do feto",
+      "Possibilidade de extensão completa da cabeça fetal aumentando diâmetro occipitomentoniano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na apresentação pélvica, a principal preocupação é a desproporção cefalopélvica após o nascimento do corpo, pois a cabeça fetal (com diâmetros de 9,5-13cm) é a parte maior e pode ficar retida, mesmo com o diâmetro bitrocantérico de 9,5cm das nádegas ter passado adequadamente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Primigesta, 26 anos, em trabalho de parto ativo. Ao toque vaginal: colo 7cm, apresentação cefálica, variedade occípito-posterior direita (OPD), estação -1. Qual a conduta mais adequada para favorecer a rotação anterior?",
+    "options": [
+      "Indicar cesariana imediata por posição desfavorável e risco de parada de progressão",
+      "Estimular deambulação e posições como quadruplicia e laterais para favorecer rotação espontânea",
+      "Realizar rotação manual forçada no toque vaginal para posição occípito-anterior",
+      "Administrar ocitocina em altas doses para aumentar intensidade das contrações",
+      "Realizar amniotomia se bolsa íntegra para acelerar engajamento independente da posição"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na variedade occípito-posterior, a conduta inicial é conservadora, estimulando deambulação e posições como quadruplicia e decúbitos laterais que favorecem a rotação espontânea para anterior, evitando intervenções prematuras.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante, 31 anos, em período expulsivo. Apresentação de face com mento posterior confirmada. Qual a conduta obstétrica mais adequada?",
+    "options": [
+      "Tentativa de parto vaginal com manobras para converter para mento anterior durante expulsão",
+      "Indicação de cesariana por incompatibilidade do diâmetro submento-vertical (11,5-12cm) com o canal de parto",
+      "Manutenção do trabalho de parto por mais 2 horas para tentativa de rotação espontânea",
+      "Realização de parto vaginal operatório com vácuo-extrator na apresentação de face",
+      "Realização de episiotomia ampla e manobra de Kristeller para forçar expulsão"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na apresentação de face com mento posterior, o diâmetro apresentado (submento-vertical de 11,5-12cm) é incompatível com o canal de parto, não havendo possibilidade de parto vaginal, sendo a cesariana a conduta indicada.",
+    "type": "raciocínio"
+  }
+]

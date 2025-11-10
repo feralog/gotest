@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Qual é a definição anatomopatológica específica do Enfisema Pulmonar que o diferencia da Bronquite Crônica, de acordo com os materiais fornecidos?",
+    "options": [
+      "Destruição dos septos alveolares, levando ao aumento anormal e permanente dos espaços aéreos distais aos bronquíolos terminais, na ausência de fibrose óbvia.",
+      "Espessamento das paredes das artérias pulmonares e perda do leito capilar, levando à hipertensão pulmonar e Cor Pulmonale sem dano alveolar primário.",
+      "Restrição grave e permanente da Capacidade Vital Forçada (CVF), mantendo a relação VEF1/CVF normal ou aumentada, indicando fibrose intersticial.",
+      "Doença obstrutiva reversível, caracterizada por hiper-responsividade brônquica e recrutamento predominante de eosinófilos e mastócitos.",
+      "Inflamação persistente e estreitamento das vias aéreas com produção excessiva de muco e hiperplasia das glândulas submucosas, sem destruição alveolar óbvia."
+    ],
+    "correctIndex": 0,
+    "explanation": "O Enfisema Pulmonar é definido anatomicamente como a destruição dos septos alveolares, levando ao aumento anormal e permanente dos espaços aéreos distais aos bronquíolos terminais, sem fibrose óbvia [1, 2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo fisiopatológico central que, quando desregulado, leva à destruição do parênquima pulmonar característica do Enfisema, resultando na lise das paredes alveolares?",
+    "options": [
+      "A ativação anômala dos receptores colinérgicos muscarínicos (M3), o que induz a broncoconstrição e fibrose das pequenas vias aéreas e brônquios.",
+      "O Desequilíbrio Protease-Antiprotease, no qual a predominância de proteases (como elastase de neutrófilos) sobre antiproteases (como alfa-1 antitripsina) destrói o tecido pulmonar elástico.",
+      "O aumento maciço da produção de óxido nítrico e endotelina, que causam vasodilatação sistêmica, resultando em Insuficiência Cardíaca de Alto Débito.",
+      "O recrutamento excessivo de eosinófilos e linfócitos B, que liberam IgE e mediadores inflamatórios, levando ao aumento do espaço retroesternal.",
+      "A formação de bolhas (bullae) subpleurais, que se rompem e causam pneumotórax espontâneo, impedindo a expansão pulmonar inspiratória."
+    ],
+    "correctIndex": 1,
+    "explanation": "O mecanismo central da DPOC (Enfisema) envolve o Desequilíbrio Protease-Antiprotease, onde proteases (elastase de neutrófilos) superam antiproteases (alfa-1 antitripsina), levando à destruição do parênquima [3, 4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Deficiência de Alfa-1 Antitripsina (AAT) é um fator genético raro, mas importante na etiologia da DPOC. Qual classificação anatômica do enfisema está classicamente associada a essa deficiência?",
+    "options": [
+      "Enfisema Panlobular (Panacinar), que afeta lobos inferiores no centro e na periferia, sendo associado à deficiência de Alfa-1 Antitripsina.",
+      "Enfisema Bolhoso (Bullae), caracterizado pela formação de espaços aéreos maiores que 1 cm, que se formam dentro do parênquima pulmonar.",
+      "Enfisema Obstrutivo Localizado, que se manifesta por hiperplasia das glândulas mucosas e hipersecreção de muco nas vias aéreas centrais.",
+      "Enfisema Parasseptal, que afeta a periferia dos pulmões e está associado principalmente à ruptura de bolhas e pneumotórax (PNTX).",
+      "Enfisema Centrolobular (Centroacinar), que afeta a região central do lóbulos e predomina nos lobos superiores, sendo mais comum em fumantes."
+    ],
+    "correctIndex": 0,
+    "explanation": "O Enfisema Panlobular (Panacinar) afeta lobos inferiores no centro e na periferia e está associado à deficiência de alfa-1-antitripsina [5, 6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a alteração da mecânica respiratória que resulta da destruição alveolar no enfisema e que leva diretamente à limitação do fluxo aéreo, especialmente durante a expiração?",
+    "options": [
+      "Perda da elasticidade pulmonar e o colapso das pequenas vias aéreas durante a expiração, resultando em aprisionamento aéreo e VEF1/CVF < 0,70.",
+      "Espessamento das paredes brônquicas e hipersecreção de muco, o que impede a entrada de ar nas vias aéreas centrais e a tosse eficaz.",
+      "Aumento da pressão arterial pulmonar e da resistência vascular pulmonar, o que sobrecarrega o Ventrículo Direito e leva ao Cor Pulmonale.",
+      "Retificação do diafragma, o que aumenta a eficácia da contração dos músculos intercostais durante a respiração de esforço.",
+      "Aumento da complacência torácica, o que facilita a inspiração forçada e o enchimento alveolar total do paciente."
+    ],
+    "correctIndex": 0,
+    "explanation": "A perda da elasticidade pulmonar e o colapso das pequenas vias aéreas durante a expiração resultam em aprisionamento aéreo e limitação do fluxo [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fenótipo clínico 'Pink Puffer' (Soprador Róseo), associado ao enfisema, é caracterizado por qual conjunto de manifestações clínicas, em contraste com a Bronquite Crônica?",
+    "options": [
+      "Sibilância e opressão torácica persistentes, melhora com o uso de Corticoides Inalatórios e eosinofilia sanguínea (> 300 células/μl).",
+      "Sintomas de insuficiência cardíaca direita (estase jugular, hepatomegalia) e hipotensão, devido à diminuição do débito cardíaco.",
+      "Cianose proeminente, tosse produtiva precoce, obesidade e edema periférico (Cor Pulmonale), com policitemia secundária.",
+      "Tosse e expectoração mínimas ou tardias, dispneia intensa e precoce, caquexia (perda de peso), pele rósea e tórax em barril (Hiperinsuflação).",
+      "Infecções virais recorrentes, mas com exacerbações agudas raras e VEF1/CVF mantido em níveis normais (acima de 0,70)."
+    ],
+    "correctIndex": 3,
+    "explanation": "O 'Pink Puffer' é caracterizado por dispneia intensa e precoce, pouca tosse e tardia, pele rósea, caquexia e tórax em barril (hiperinsuflação). O nome Soprador Róseo reflete a capacidade de manter a PaO2 por mais tempo [7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado radiológico no RX de tórax é característico da hiperinsuflação pulmonar causada pelo Enfisema?",
+    "options": [
+      "Ondas P apiculadas nas derivações inferiores do ECG, que indicam sobrecarga atrial esquerda e hipertensão sistêmica.",
+      "Retificação do diafragma (ficando mais achatado), aumento do espaço retroesternal e pulmões com áreas mais escuras (oligoemia) que o normal.",
+      "Opacidades difusas em 'vidro fosco' na periferia pulmonar, indicando fibrose intersticial.",
+      "Presença de bolhas (bullae e blebs) subpleurais, que são sempre normais em idosos e não indicam enfisema avançado.",
+      "Aumento da área cardíaca às custas do átrio e ventrículo direitos (Cor Pulmonale), com índice cárdio-torácico aumentado."
+    ],
+    "correctIndex": 1,
+    "explanation": "Achados radiológicos de hiperinsuflação incluem retificação do diafragma, aumento do espaço retroesternal e pulmões com áreas mais escuras indicando excesso de ar (oligoemia) [8-10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "No Enfisema, a destruição do parênquima pulmonar leva à atenuação da trama vascular periférica no RX de tórax. Qual é o termo utilizado para descrever esta redução da vascularização?",
+    "options": [
+      "Oligoemia, que se refere à redução da vascularização pulmonar periférica, tornando as áreas pulmonares mais radiotransparentes.",
+      "Cardiomegalia, que é o aumento do tamanho do coração, visto na TC de tórax.",
+      "Poliglobulia (ou Policitemia), que é a resposta hematológica compensatória à hipoxemia crônica.",
+      "Hipercapnia, que é o excesso de dióxido de carbono no sangue arterial, confirmado pela gasometria.",
+      "Aumento do hilo pulmonar, que reflete a hipertensão pulmonar e o aumento do calibre da artéria pulmonar central."
+    ],
+    "correctIndex": 0,
+    "explanation": "A oligoemia refere-se à redução da vascularização pulmonar periférica, um achado radiológico típico do enfisema [8, 9].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Enfisema Bolhoso é caracterizado pela formação de 'Bolhas' (*bullae*). Qual é o critério de tamanho que define uma 'bullae' (bolha) e qual é a sua localização típica?",
+    "options": [
+      "Espaços aéreos maiores que 1 cm, que se formam dentro do parênquima pulmonar, com uma parede fina e contendo resquícios do tecido pulmonar danificado.",
+      "Lesões menores, geralmente com até 2 cm, localizadas adjacentes à pleura (blebs) e que nunca causam pneumotórax.",
+      "Áreas escuras (hipodensas) no centro dos lóbulos pulmonares secundários, com paredes pouco visíveis ou ausentes, medindo menos de 0,5 cm.",
+      "Áreas de aprisionamento aéreo, visíveis apenas em exames de tomografia computadorizada realizados durante a fase de expiração forçada.",
+      "Cistos aéreos de paredes espessas localizados na região central dos pulmões, indicando infecção ativa por *Pneumocystis jiroveci*."
+    ],
+    "correctIndex": 0,
+    "explanation": "Bullae (Bolhas) são espaços aéreos maiores que 1 cm, que se formam dentro do parênquima pulmonar com uma parede fina e contêm resquícios do tecido pulmonar danificado [11, 12].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Enfisema Parasseptal é frequentemente associado a qual complicação grave do sistema respiratório, devido à sua localização subpleural?",
+    "options": [
+      "Anemia ferropriva e trombocitopenia, devido à inflamação sistêmica crônica e má absorção de nutrientes no trato gastrointestinal.",
+      "Hipersecreção de muco e bronquiolite obstrutiva, que causam tosse crônica produtiva precoce e cianose central.",
+      "Insuficiência Cardíaca Direita (Cor Pulmonale), devido à sobrecarga de pressão no lado direito do coração e hipertensão pulmonar.",
+      "Aumento do risco de infecções bacterianas graves (ex: *Pseudomonas spp*), devido ao uso crônico de corticoides inalatórios.",
+      "Pneumotórax Espontâneo, pois o Enfisema Parasseptal e suas bolhas subpleurais (blebs) podem se romper e liberar ar no espaço pleural."
+    ],
+    "correctIndex": 4,
+    "explanation": "O Enfisema Parasseptal é associado a bolhas subpleurais, que podem levar a Pneumotórax (PNTX) [6, 12].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição do Enfisema Centrolobular (Centroacinar) e em que tipo de paciente essa forma de enfisema é mais comum?",
+    "options": [
+      "Destruição uniforme de todo o ácino pulmonar, afetando principalmente os lobos inferiores, sendo a forma típica da deficiência de Alfa-1 Antitripsina.",
+      "Fibrose extensa do parênquima pulmonar, levando à redução da Capacidade Pulmonar Total (CPT) e padrão restritivo na espirometria.",
+      "Áreas escuras (hipodensas) no centro dos lóbulos pulmonares secundários, mais comuns em fumantes e predominando nos lobos superiores.",
+      "Aumento maciço do diâmetro anteroposterior do tórax, causado pelo remodelamento ventricular e fibrose das pequenas vias aéreas.",
+      "Áreas escuras (hipodensas) na periferia dos pulmões, adjacentes aos septos interlobulares e à pleura, associadas a pacientes não fumantes."
+    ],
+    "correctIndex": 2,
+    "explanation": "O Enfisema Centrolobular (centroacinar) é caracterizado por áreas escuras no centro dos lóbulos pulmonares secundários, mais comuns em fumantes e predominando nos lobos superiores [5, 6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O fenótipo 'Pink Puffer' é tipicamente emagrecido. Qual é o mecanismo que justifica a perda de peso significativa (caquexia) neste tipo de paciente?",
+    "options": [
+      "O aumento da atividade dos macrófagos e linfócitos B, que causa a quebra de lipídios e músculos periféricos, resultando em caquexia por inflamação sistêmica.",
+      "A policitemia secundária e a hipoxemia crônica, que aumentam a viscosidade do sangue e reduzem a perfusão do trato gastrointestinal.",
+      "Hipersecreção de muco e infecções precoces, que levam à má absorção intestinal e diarreia crônica.",
+      "O uso crônico de Corticoides Inalatórios, que causam atrofia muscular e perda de peso como efeito colateral sistêmico conhecido.",
+      "O elevado trabalho respiratório, que consome muita energia (calorias) para manter a ventilação, e a dispneia, que dificulta a ingestão alimentar."
+    ],
+    "correctIndex": 4,
+    "explanation": "A perda de peso é uma complicação do Enfisema/Soprador Róseo, justificada pelo alto trabalho respiratório (o paciente gasta muita energia para respirar) e pela dispneia que dificulta a alimentação [7, 13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Tomografia de Tórax (TC) não é rotina, mas pode ser utilizada. Qual é a utilidade da TC no diagnóstico da DPOC, além da confirmação do tipo e extensão do enfisema?",
+    "options": [
+      "Confirmar o diagnóstico de Cor Pulmonale e a sobrecarga de ventrículo direito através do critério de Cornell para SVD no ECG.",
+      "É o exame essencial para confirmar o diagnóstico e determinar a gravidade (GOLD 1 a 4) através da razão VEF1/CVF, após o uso de broncodilatador.",
+      "Avaliar a força dos músculos inspiratórios (PImáx) e expiratórios (PEmáx) e monitorar a progressão da fraqueza muscular nos pacientes refratários.",
+      "Rastrear a deficiência de Alfa-1 Antitripsina em jovens (antes dos 40 anos) que nunca fumaram, sendo um método substituto da análise genética.",
+      "Quantificar o enfisema e o aprisionamento aéreo (retenção de ar visível em expiração), que pode ser usado para avaliar o risco de mortalidade por câncer de pulmão."
+    ],
+    "correctIndex": 4,
+    "explanation": "A TC não é rotina, mas a quantificação do enfisema e do aprisionamento aéreo é usada para avaliar o risco de mortalidade, inclusive por câncer de pulmão [10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O Enfisema Centrolobular (Centroacinar) é o tipo mais comum, associado ao tabagismo. Qual é a descrição anatomopatológica desse tipo de enfisema?",
+    "options": [
+      "A destruição está concentrada na região central dos lóbulos pulmonares secundários, onde estão os bronquíolos respiratórios, predominando nos lobos superiores.",
+      "A destruição é uniforme em todo o ácino (centro e periferia), com predomínio nos lobos inferiores e forte associação com a deficiência de AAT.",
+      "A alteração é reversível com o uso de broncodilatadores, não havendo destruição permanente de septos alveolares e perda de elasticidade.",
+      "A inflamação e a fibrose engrossam as paredes brônquicas, estreitando a passagem do ar, em conjunto com o aumento da hipersecreção de muco, causando obstrução.",
+      "A destruição afeta seletivamente a periferia dos pulmões, adjacente aos septos interlobulares e à pleura, sendo tipicamente associado à ruptura e Pneumotórax."
+    ],
+    "correctIndex": 0,
+    "explanation": "O enfisema centrolobular (centroacinar) apresenta áreas escuras no centro dos lóbulos pulmonares secundários, mais comuns em fumantes e predominando nos lobos superiores [5, 6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado do ECG pode ser sugestivo de sobrecarga do lado direito do coração (que pode ser causada por Cor Pulmonale no enfisema grave)?",
+    "options": [
+      "Onda R dominante em V1/V2 e Onda S profunda em V5/V6 $\\ge 7$ mm e Ondas P apiculadas nas derivações de parede inferior, característico de sobrecarga direita.",
+      "Inversões simétricas da onda T e depressão do segmento ST em V1-V3, sugerindo isquemia subendocárdica e infarto anterior.",
+      "Soma superior a 35 mm da amplitude da onda R na derivação V5 ou V6 com a amplitude da onda S na derivação V1, indicando sobrecarga ventricular esquerda.",
+      "Onda P prolongada com um entalhe na derivação D2, que é característico de sobrecarga atrial esquerda.",
+      "Bloqueio de Ramo Esquerdo (LBBB), que está associado à dessincronia ventricular e Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFEr)."
+    ],
+    "correctIndex": 0,
+    "explanation": "A sobrecarga ventricular direita (SVD) pode ser sugerida por Onda R dominante em V1/V2 e Onda S profunda em V5/V6 $\\ge 7$ mm, e sobrecarga atrial direita (SAD) por Ondas P apiculadas nas derivações de parede inferior [14, 15].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em quais casos de Enfisema (DPOC) a intervenção cirúrgica (bullectomia) é considerada, de acordo com as diretrizes e os achados patológicos específicos?",
+    "options": [
+      "Em todos os pacientes com VEF1 < 30% do previsto (GOLD 4), independentemente da presença de bolhas enfisematosas no parênquima pulmonar.",
+      "Em casos muito selecionados, como a bullectomia para remoção de grandes bolhas enfisematosas ou transplante pulmonar, após falha da terapia médica máxima.",
+      "Apenas como tratamento definitivo em pacientes com deficiência de Alfa-1 Antitripsina (Enfisema Panlobular), para remover o tecido danificado.",
+      "Como tratamento de primeira linha em pacientes com Enfisema Centrolobular (Centroacinar) e histórico de tabagismo grave.",
+      "Para pacientes com bronquite crônica e exacerbações frequentes, visando a redução do muco e a desobstrução das vias aéreas centrais."
+    ],
+    "correctIndex": 1,
+    "explanation": "A cirurgia é considerada em casos muito selecionados, como a bullectomia para grandes bolhas enfisematosas, ou o transplante pulmonar [16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente tabagista crônico, com dispneia progressiva e VEF1/CVF < 0,70, realiza uma TC de tórax que mostra áreas hipodensas no centro dos lóbulos pulmonares secundários, predominando nos ápices pulmonares. Qual é o tipo de Enfisema mais provável e a causa etiológica primária?",
+    "options": [
+      "Enfisema Centrolobular (Centroacinar), com causa etiológica primária no tabagismo, sendo o padrão mais comum e associado à DPOC tabágica.",
+      "Bronquiectasias e fibrose idiopática, causadas por exposição à fumaça de biomassa, exigindo terapia tripla (LABA/LAMA/CI).",
+      "Bronquite Crônica isolada, caracterizada por hiperplasia glandular e hipersecreção de muco, sem destruição alveolar (o achado na TC é irrelevante).",
+      "Enfisema Parasseptal, que é associado a grandes bolhas subpleurais e alto risco de pneumotórax (PNTX), exigindo bullectomia preventiva.",
+      "Enfisema Panlobular (Panacinar), com causa etiológica primária na deficiência genética de Alfa-1 Antitripsina, exigindo reposição enzimática."
+    ],
+    "correctIndex": 0,
+    "explanation": "O Enfisema Centrolobular (Centroacinar) é o tipo mais comum em fumantes e predomina nos lobos superiores, afetando o centro dos lóbulos [5, 6].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente jovem (35 anos) apresenta Enfisema Panlobular (Panacinar) grave, predominando em lobos inferiores, e nega histórico de tabagismo. Qual é o principal diagnóstico etiológico a ser investigado, e qual a característica da doença subjacente?",
+    "options": [
+      "Deficiência de Alfa-1 Antitripsina (AAT), uma condição genética rara que predispõe ao enfisema panlobular grave e precoce, geralmente em não fumantes.",
+      "Asma grave não controlada, que causa hiperplasia das glândulas mucosas e obstrução fixa devido à inflamação eosinofílica e remodelação das vias aéreas.",
+      "Exposição intensa e crônica à poluição do ar (ocupacional e ambiental), causando o desequilíbrio oxidante/antioxidante e fibrose.",
+      "Tuberculose Pulmonar prévia, que causou cicatrizes (fibrose) e destruição do parênquima, resultando em enfisema bolhoso localizado.",
+      "Hipertensão Pulmonar primária, que causa vasoconstrição crônica e remodelação vascular, levando à sobrecarga do ventrículo direito."
+    ],
+    "correctIndex": 0,
+    "explanation": "O Enfisema Panlobular, predominante nos lobos inferiores em um paciente jovem não fumante, é fortemente associado à deficiência genética de Alfa-1 Antitripsina [4, 5].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com Enfisema apresenta limitação do fluxo aéreo (VEF1/CVF < 0,70) devido à perda de recolhimento elástico. Qual é a consequência imediata dessa perda de elasticidade na espirometria e nos volumes pulmonares?",
+    "options": [
+      "Manutenção do VEF1/CVF acima de 0,80, desde que o paciente receba broncodilatadores de longa ação (LABA e LAMA) em dose máxima.",
+      "Redução da Capacidade Pulmonar Total (CPT) e do Volume Residual (VR), caracterizando um distúrbio ventilatório restritivo.",
+      "Aumento significativo da Capacidade Vital Forçada (CVF), devido ao aumento da força muscular expiratória (PEmáx).",
+      "Elevação da Pressão Inspiratória Máxima (PImáx) e fortalecimento dos músculos diafragmáticos, compensando a perda de elasticidade.",
+      "Aumento do Volume Residual (VR) e da Capacidade Pulmonar Total (CPT) devido ao aprisionamento aéreo, e redução do VEF1/CVF."
+    ],
+    "correctIndex": 4,
+    "explanation": "A perda de recolhimento elástico e o colapso das vias aéreas levam ao aprisionamento aéreo. Isso resulta no aumento do Volume Residual (VR) e da Capacidade Pulmonar Total (CPT), apesar da redução do fluxo expiratório (VEF1/CVF baixo) [1, 17].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com Enfisema Parasseptal grave é internado com dor torácica súbita e dispneia aguda. A radiografia de tórax mostra uma linha pleural visível e ausência de trama vascular periférica do lado esquerdo. Qual é a complicação aguda mais provável e a intervenção de emergência indicada?",
+    "options": [
+      "Tromboembolismo Pulmonar (TEP); o tratamento de emergência é Anticoagulação com heparina de baixo peso molecular (HBPM) e suporte ventilatório.",
+      "Infarto Agudo do Miocárdio (IM) com Supradesnivelamento do ST (STEMI); o tratamento é Terapia Antiplaquetária Dupla (DAPT) e Cateterismo Cardíaco de emergência.",
+      "Exacerbação infecciosa (Bronquite Aguda) por *H. influenzae*; o tratamento de emergência é Oxigenoterapia (Saturação 88-92%) e Azitromicina.",
+      "Cor Pulmonale Agudo; o tratamento é iniciar Dobutamina intravenosa e Antagonistas do Receptor Mineralocorticoide (ARM).",
+      "Pneumotórax Espontâneo, causado pela ruptura de bolhas subpleurais; a intervenção de emergência é a drenagem torácica ou agulhamento, dependendo da tensão."
+    ],
+    "correctIndex": 4,
+    "explanation": "O Enfisema Parasseptal está associado a bolhas subpleurais [6, 12]. Dor aguda e dispneia súbita, com linha pleural visível e ausência de trama (colapso pulmonar), sugere Pneumotórax Espontâneo, exigindo drenagem de emergência.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com Enfisema Centroacinar (tabagismo) apresenta VEF1 < 30% (GOLD 4), está em terapia tripla otimizada (LABA/LAMA/CI) e apresenta bolhas maciças que ocupam grande parte do ápice pulmonar. Qual tratamento está indicado nesta fase avançada, considerando a refratariedade à terapia máxima?",
+    "options": [
+      "Considerar a cirurgia (Bullectomia ou Transplante Pulmonar) em casos muito selecionados, devido à falha da terapia médica máxima e à presença de bolhas volumosas.",
+      "Aumento da dose de corticoides inalatórios e adição de Roflumilaste (Inibidor de PDE4) para pacientes com VEF1 < 50% e bronquite crônica concomitante.",
+      "Adicionar Ensifentrina (inibidor de PDE3 e PDE4) e Azitromicina crônica para prevenir exacerbações futuras, sendo esta a última etapa antes da cirurgia.",
+      "Iniciar Oxigenoterapia Domiciliar, independentemente da saturação de oxigênio (PaO2 > 55 mmHg ou SaO2 > 88% em repouso), para reduzir o trabalho respiratório.",
+      "Substituir o Corticoide Inalatório (CI) por Metildopa, devido ao risco de infecções oportunistas e pneumonia com o uso crônico de CI."
+    ],
+    "correctIndex": 0,
+    "explanation": "Em casos muito selecionados de doença muito avançada (GOLD 4) refratária à terapia máxima, a cirurgia (bullectomia para grandes bolhas enfisematosas, ou transplante pulmonar) é considerada [16].",
+    "type": "raciocínio"
+  }
+]

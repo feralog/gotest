@@ -1,0 +1,470 @@
+[
+  {
+    "question": "Qual a definição correta de pneumonia adquirida na comunidade (PAC) e sua principal característica epidemiológica?",
+    "options": [
+      "Infecção pulmonar por germes multidroga-resistentes adquirida em serviços de hemodiálise, quimioterapia ou imunossupressão crônica",
+      "Infecção pulmonar adquirida fora do ambiente hospitalar, incluindo quadros diagnosticados até 48h após admissão hospitalar",
+      "Infecção pulmonar viral ou bacteriana diagnosticada ambulatorialmente, independentemente do tempo de início dos sintomas ou local",
+      "Infecção pulmonar hospitalar manifestada após 48-72h de internação, associada a procedimentos invasivos ou ventilação mecânica",
+      "Infecção pulmonar adquirida fora do ambiente hospitalar, excluindo infecções em asilos ou instituições de longa permanência"
+    ],
+    "correctIndex": 1,
+    "explanation": "PAC é definida como infecção pulmonar adquirida FORA do ambiente hospitalar, incluindo casos diagnosticados até 48h após admissão hospitalar (pois o período de incubação sugere aquisição comunitária). Diferencia-se da pneumonia hospitalar (>48-72h de internação) e da associada a serviços de saúde.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a sequência fisiopatológica correta que leva ao desenvolvimento da pneumonia adquirida na comunidade?",
+    "options": [
+      "Transmissão respiratória → colonização nasofaríngea → replicação bacteriana → mediadores inflamatórios → acúmulo de células imunes → pneumonia",
+      "Aspiração orofaríngea → bacteremia primária → disseminação hematogênica → invasão alveolar → consolidação pulmonar → insuficiência respiratória",
+      "Inalação de aerossóis → deposição em alvéolos → fagocitose por macrófagos → eliminação completa → resolução sem inflamação",
+      "Infecção viral prévia → necrose epitelial → colonização secundária → fibrose intersticial → pneumonia organizante → sequela cicatricial",
+      "Transmissão por fômites → colonização cutânea → invasão linfática → disseminação sistêmica → sepse → pneumonia embólica secundária"
+    ],
+    "correctIndex": 0,
+    "explanation": "A fisiopatologia da PAC segue: TRANSMISSÃO (gotículas/aerossóis) → COLONIZAÇÃO nasofaríngea → REPLICAÇÃO bacteriana nas vias aéreas → liberação de MEDIADORES INFLAMATÓRIOS → recrutamento e acúmulo de células do sistema imune no parênquima pulmonar → PNEUMONIA (consolidação alveolar).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a ordem decrescente de frequência dos principais agentes etiológicos causadores de pneumonia adquirida na comunidade?",
+    "options": [
+      "Vírus respiratórios → S. pneumoniae → Mycoplasma pneumoniae → Chlamydia pneumoniae → Legionella pneumophila → H. influenzae",
+      "S. aureus → S. pneumoniae → Mycoplasma pneumoniae → P. aeruginosa → H. influenzae → Legionella pneumophila",
+      "S. pneumoniae → Mycoplasma pneumoniae → H. influenzae → Chlamydia pneumoniae → Legionella pneumophila → vírus respiratórios",
+      "H. influenzae → S. pneumoniae → S. aureus → Mycoplasma pneumoniae → K. pneumoniae → Legionella pneumophila",
+      "Mycoplasma pneumoniae → S. pneumoniae → vírus respiratórios → Legionella pneumophila → Chlamydia pneumoniae → H. influenzae"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ordem de frequência dos agentes etiológicos de PAC é: 1. S. PNEUMONIAE (MAIS IMPORTANTE E FREQUENTE), 2. Mycoplasma pneumoniae, 3. H. influenzae, 4. Chlamydia pneumoniae, 5. Legionella pneumophila, 6. Vírus respiratórios (Influenza, SARS-CoV-2, VSR). S. pneumoniae é responsável pela maioria dos casos de PAC em todas as faixas etárias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com DPOC GOLD 3, em uso de broncodilatadores e corticoide inalatório, apresenta pneumonia comunitária. Quais agentes etiológicos devem ser considerados?",
+    "options": [
+      "P. jirovecii, M. tuberculosis, Nocardia spp., CMV, Aspergillus spp. por estado de imunossupressão induzido pelo corticoide",
+      "S. pneumoniae, S. aureus incluindo MRSA, H. influenzae por provável infecção bacteriana secundária pós-viral",
+      "Mycoplasma pneumoniae, Chlamydia pneumoniae, Legionella pneumophila por apresentação atípica relacionada à imunossupressão inalatória",
+      "H. influenzae, S. pneumoniae, M. catarrhalis; na DPOC grave considerar também P. aeruginosa pela colonização crônica",
+      "K. pneumoniae, S. pneumoniae, anaeróbios orais por risco aumentado de aspiração relacionado à doença pulmonar"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na DPOC, os principais agentes são H. influenzae, S. pneumoniae e M. catarrhalis devido à colonização crônica e disfunção da depuração mucociliar. Na DPOC GRAVE (GOLD 3-4 ou exacerbações frequentes), deve-se considerar P. aeruginosa como possível agente. S. aureus/MRSA são típicos do contexto pós-influenza. Anaeróbios em aspiração. Atípicos não têm relação específica com DPOC. Imunossupressão por corticoide inalatório é mínima.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Etilista crônico de 52 anos desenvolve pneumonia comunitária. Quais agentes etiológicos devem ser prioritariamente considerados neste contexto?",
+    "options": [
+      "P. aeruginosa, S. aureus, Acinetobacter baumannii, Stenotrophomonas maltophilia por colonização hospitalar prévia relacionada ao etilismo",
+      "K. pneumoniae (pneumonia de Friedländer), S. pneumoniae, anaeróbios orais por aspiração, acometimento de lobos superiores",
+      "Mycoplasma pneumoniae, Chlamydia pneumoniae, Legionella pneumophila por apresentação atípica em paciente imunocomprometido pelo álcool",
+      "H. influenzae, S. pneumoniae, M. catarrhalis por colonização crônica; considerar P. aeruginosa pela gravidade do etilismo",
+      "S. pneumoniae, S. aureus incluindo MRSA, H. influenzae por provável infecção bacteriana pós-viral com risco de complicações"
+    ],
+    "correctIndex": 1,
+    "explanation": "No ETILISMO CRÔNICO: álcool prejudica função ciliar, tosse e resposta imune, aumentando risco de aspiração. Agentes principais: K. PNEUMONIAE (pneumonia de Friedländer, classicamente acomete LOBOS SUPERIORES), S. pneumoniae e ANAERÓBIOS ORAIS (aspiração). Klebsiella pode causar necrose extensa com expectoração em 'geleia de groselha'.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o perfil etiológico esperado em paciente que desenvolveu pneumonia comunitária 5 dias após quadro gripal com melhora inicial seguida de piora clínica?",
+    "options": [
+      "Mycoplasma pneumoniae, Chlamydia pneumoniae, Legionella pneumophila por coinfecção viral-atípica com apresentação clínica insidiosa",
+      "K. pneumoniae, S. pneumoniae, anaeróbios orais por aspiração relacionada ao rebaixamento de consciência durante o quadro viral",
+      "S. pneumoniae, S. aureus incluindo MRSA, H. influenzae por infecção bacteriana secundária favorecida pela lesão viral epitelial",
+      "H. influenzae, S. pneumoniae, M. catarrhalis por colonização crônica de vias aéreas superiores exacerbada pela infecção viral",
+      "P. aeruginosa, S. maltophilia, Acinetobacter baumannii por germes oportunistas aproveitando imunossupressão transitória pós-viral"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pneumonia PÓS-INFLUENZA: infecção viral compromete barreira epitelial e depuração mucociliar, favorecendo invasão bacteriana secundária. Agentes principais: S. PNEUMONIAE, S. AUREUS (incluindo MRSA - causa importante de pneumonia necrotizante pós-influenza) e H. influenzae. Quadro típico: melhora inicial do quadro gripal seguida de piora abrupta com febre, tosse purulenta.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o conjunto de características microbiológicas que identifica corretamente o Streptococcus pneumoniae?",
+    "options": [
+      "Diplococos Gram-positivos em pares, alfa-hemólise em ágar-sangue, sensível à optoquina, solúvel em bile, cápsula polissacarídica",
+      "Bacilos Gram-negativos encapsulados, sem hemólise, crescimento em ágar chocolate, requer fatores X e V, pleomórfico",
+      "Cocos Gram-positivos em cachos, beta-hemólise em ágar-sangue, coagulase positiva, catalase positiva, produção de toxinas estafilocócicas",
+      "Bacilos Gram-positivos formadores de esporos, beta-hemólise, crescimento anaeróbio, lecitinase positiva, toxina alfa citotóxica",
+      "Diplococos Gram-negativos intracelulares, oxidase positiva, crescimento em ágar Thayer-Martin, fermentação de glicose e maltose"
+    ],
+    "correctIndex": 0,
+    "explanation": "S. pneumoniae: DIPLOCOCOS Gram-POSITIVOS em PARES (lanceolados), ALFA-hemólise (esverdeamento do ágar-sangue), sensível à OPTOQUINA (diferencia de outros Streptococcus alfa-hemolíticos), SOLÚVEL EM BILE, CÁPSULA polissacarídica (>90 sorotipos). Opção 2=S. aureus. Opção 3=H. influenzae. Opção 4=N. meningitidis. Opção 5=C. perfringens.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a principal característica da cápsula polissacarídica do S. pneumoniae e sua importância na patogênese e na prevenção?",
+    "options": [
+      "Cápsula produz toxinas citolíticas (pneumolisina); 100 sorotipos identificados; vacina PCV13 protege contra todos os sorotipos conhecidos",
+      "Cápsula confere resistência à fagocitose (antifagocítica); >90 sorotipos identificados; vacina PCV13 cobre os 13 sorotipos mais prevalentes",
+      "Cápsula facilita adesão ao epitélio respiratório; 23 sorotipos identificados; vacina PPSV23 induz resposta T-dependente duradoura",
+      "Cápsula aumenta virulência por evasão imune; 50 sorotipos identificados; vacina conjugada protege apenas crianças menores de 2 anos",
+      "Cápsula confere resistência a antibióticos beta-lactâmicos; 13 sorotipos identificados; vacina polissacarídica é suficiente para adultos jovens"
+    ],
+    "correctIndex": 1,
+    "explanation": "A CÁPSULA POLISSACARÍDICA do pneumococo é ANTIFAGOCÍTICA (principal fator de virulência, confere resistência à fagocitose pelos neutrófilos). Existem >90 SOROTIPOS capsulares identificados. A vacina PCV13 (conjugada) cobre os 13 sorotipos mais prevalentes causadores de doença invasiva. PPSV23 (polissacarídica) cobre 23 sorotipos mas tem resposta T-independente (menos imunogênica).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o mecanismo pelo qual infecções virais respiratórias prévias favorecem a invasão de vias aéreas inferiores pelo S. pneumoniae?",
+    "options": [
+      "Infecção viral causa vasoconstrição pulmonar e hipóxia alveolar, criando ambiente anaeróbio propício ao crescimento do pneumococo",
+      "Infecção viral estimula produção de autoanticorpos contra proteínas pulmonares, favorecendo autoimunidade e lesão epitelial crônica",
+      "Infecção viral compromete barreira epitelial e reduz depuração mucociliar, facilitando colonização e invasão bacteriana das vias inferiores",
+      "Vírus induzem hipersecreção de muco espesso que serve como meio de cultura ideal para replicação bacteriana exponencial",
+      "Vírus produzem toxinas que ativam pneumolisina bacteriana, aumentando citotoxicidade e destruição tecidual no parênquima pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Infecções virais (Influenza, VSR, SARS-CoV-2) COMPROMETEM a BARREIRA EPITELIAL (necrose de células ciliadas) e reduzem a DEPURAÇÃO MUCOCILIAR, facilitando a invasão de vias aéreas inferiores pelo S. pneumoniae previamente colonizante da nasofaringe. Esse é o mecanismo da infecção bacteriana secundária pós-viral, especialmente comum após influenza.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o período de incubação típico da pneumonia pneumocócica e qual a tríade clínica característica da apresentação clássica?",
+    "options": [
+      "Período de incubação 2-3 dias; tríade clínica: febre ALTA, tosse PRODUTIVA com expectoração purulenta, dor torácica PLEURÍTICA",
+      "Período de incubação 10-14 dias; tríade clínica: febre alta, diarreia aquosa profusa, confusão mental e hiponatremia",
+      "Período de incubação 1-2 semanas; tríade clínica: febre intermitente, hemoptise maciça, dor pleurítica com derrame pleural",
+      "Período de incubação 7-10 dias; tríade clínica: febre BAIXA, tosse SECA não produtiva, cefaleia e mialgia (pródromos)",
+      "Período de incubação 5-7 dias; tríade clínica: febre ausente ou baixa, tosse seca persistente, fadiga e dispneia progressiva"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pneumonia pneumocócica tem incubação de 2-3 DIAS e apresentação CLÁSSICA com: (1) febre ALTA (≥39°C), (2) tosse PRODUTIVA com expectoração amarelada/purulenta/hemoptoica, (3) dor torácica PLEURÍTICA (ventilatório-dependente, indica comprometimento pleural). Início ABRUPTO. Opção 2 descreve atípica. Opção 5 descreve Legionella.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que pacientes com asplenia anatômica ou funcional (ex: anemia falciforme) têm risco aumentado de bacteremia e sepse por S. pneumoniae?",
+    "options": [
+      "Baço é responsável pela opsonização de bactérias encapsuladas; asplenia compromete clearance bacteriano, aumentando risco de bacteremia fulminante",
+      "Baço armazena reserva de neutrófilos maduros; asplenia causa neutropenia relativa, comprometendo fagocitose bacteriana no sangue periférico",
+      "Baço produz anticorpos específicos contra cápsula polissacarídica; asplenia reduz produção de imunoglobulinas IgG antipneumocócicas",
+      "Baço secreta complemento C3b essencial para lise bacteriana; asplenia reduz níveis séricos de complemento, favorecendo infecção disseminada",
+      "Baço filtra toxinas bacterianas (pneumolisina); asplenia permite acúmulo de toxinas circulantes, causando choque séptico grave e refratário"
+    ],
+    "correctIndex": 0,
+    "explanation": "O BAÇO é responsável pela OPSONIZAÇÃO (facilitação da fagocitose) de bactérias ENCAPSULADAS (S. pneumoniae, H. influenzae, N. meningitidis). Na ASPLENIA (anatômica ou funcional - anemia falciforme danifica o baço), há comprometimento do clearance bacteriano, aumentando dramaticamente o risco de BACTEREMIA e SEPSE FULMINANTE por pneumococo. Vacinação pneumocócica é essencial nesses pacientes!",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o padrão radiológico típico da pneumonia pneumocócica e qual achado do exame físico reflete a presença de secreção alveolar?",
+    "options": [
+      "RX: cavitação com nível hidroaéreo em lobos superiores; exame físico: sopro cavitário e egofonia localizada",
+      "RX: padrão intersticial reticulonodular bilateral; exame físico: murmúrio vesicular abolido com macicez à percussão",
+      "RX: padrão em vidro fosco difuso bilateral; exame físico: crepitações inspiratórias basais tipo velcro",
+      "RX: consolidação LOBAR (acomete lobo inteiro); exame físico: estertores crepitantes finos (pela secreção alveolar exsudativa)",
+      "RX: infiltrado alveolar multilobar com broncograma aéreo; exame físico: sibilos expiratórios difusos e timpanismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pneumonia pneumocócica: RX com CONSOLIDAÇÃO LOBAR (opacidade homogênea acometendo TODO o lobo, com broncograma aéreo, pela ocupação alveolar por exsudato inflamatório). Exame físico: ESTERTORES CREPITANTES finos (refletem secreção nos alvéolos) + frêmito toracovocal aumentado + macicez à percussão. Padrão intersticial é típico de atípicas. Cavitação sugere S. aureus ou Klebsiella.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais exames laboratoriais e microbiológicos devem ser solicitados antes do início da antibioticoterapia em pneumonia comunitária internada?",
+    "options": [
+      "Lavado broncoalveolar para cultura quantitativa, biópsia pulmonar percutânea, cultura em meio de Lowenstein-Jensen",
+      "Tomografia de tórax de alta resolução, broncoscopia com lavado, biópsia transbrônquica para análise histopatológica definitiva",
+      "Apenas hemograma com leucocitose, PCR e procalcitonina elevados; culturas não são necessárias antes de iniciar antibiótico empírico",
+      "Sorologia para Mycoplasma/Chlamydia (IgM/IgG), PCR viral em swab nasofaríngeo, teste rápido molecular para tuberculose",
+      "Hemocultura (antes do antibiótico para identificar agente), escarro para Gram (diplococos G+ em pares), antígeno urinário pneumocócico"
+    ],
+    "correctIndex": 4,
+    "explanation": "ANTES do antibiótico: HEMOCULTURA (positiva em ~25% das PAC bacterêmicas, identifica agente e sensibilidade), ESCARRO para GRAM (diplococos Gram-positivos em pares sugerem pneumococo) e cultura, ANTÍGENO URINÁRIO para pneumococo/Legionella. Leucocitose e PCR aumentada são esperados (quanto mais inflamação, mais PCR). Sorologia/PCR são úteis para atípicas. Broncoscopia não é rotina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o esquema antibiótico de escolha para tratamento de pneumonia pneumocócica e quais as alternativas em caso de alergia?",
+    "options": [
+      "Primeira escolha: penicilina G 2-4 MUI 4/4h IV ou ceftriaxona 1-2g/dia IV; alergia: levofloxacino 750mg/dia ou moxifloxacino 400mg/dia",
+      "Primeira escolha: piperacilina-tazobactam 4,5g 6/6h IV; alergia: meropenem 1g 8/8h IV ou ertapenem 1g/dia IV",
+      "Primeira escolha: vancomicina 15-20mg/kg 12/12h IV ou linezolida 600mg 12/12h IV; alergia: tigeciclina 100mg dose ataque seguido 50mg 12/12h",
+      "Primeira escolha: gentamicina 5-7mg/kg/dia IV dose única; alergia: ciprofloxacino 400mg 12/12h IV ou amicacina 15mg/kg/dia",
+      "Primeira escolha: amoxicilina-clavulanato 875/125mg 12/12h VO; alergia: azitromicina 500mg/dia VO ou claritromicina 500mg 12/12h VO"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tratamento do pneumococo: PENICILINA G (2-4 milhões UI 4/4h IV) ou CEFTRIAXONA (1-2g/dia IV/IM) são primeira escolha. Em ALERGIA a beta-lactâmicos: QUINOLONAS RESPIRATÓRIAS (levofloxacino 750mg/dia ou moxifloxacino 400mg/dia). Vancomicina é para MRSA. Macrolídeos isolados têm resistência pneumocócica crescente. Aminoglicosídeos não cobrem pneumococo adequadamente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o esquema vacinal ideal para prevenção de doença pneumocócica invasiva em adultos e qual a racionalidade da sequência?",
+    "options": [
+      "Dose única de PPSV23 (polissacarídica) protege por 10 anos; não há necessidade de PCV13 em adultos acima de 65 anos",
+      "Iniciar com PPSV23 (polissacarídica, cobertura ampla) seguida de PCV13 (conjugada, reforço) após 1 ano de intervalo mínimo",
+      "Dose única de PCV13 (conjugada) é suficiente para adultos saudáveis; PPSV23 reservada para imunossuprimidos e asplênicos",
+      "Alternância anual entre PCV13 e PPSV23 (esquema cruzado) para manter níveis adequados de anticorpos anticapsulares ao longo da vida",
+      "Iniciar com PCV13 (conjugada, melhor resposta imunológica) seguida de PPSV23 (polissacarídica, amplia cobertura) após 8 semanas-1 ano"
+    ],
+    "correctIndex": 4,
+    "explanation": "Esquema vacinal ideal: iniciar com PCV13 (vacina CONJUGADA, induz melhor resposta imunológica T-dependente contra os 13 sorotipos mais prevalentes), seguida de PPSV23 (vacina POLISSACARÍDICA, amplia cobertura para 23 sorotipos) após 8 semanas a 1 ano. Em imunossuprimidos/asplênicos: reforço de PPSV23 após 5 anos. Essa sequência otimiza resposta imune e cobertura de sorotipos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Homem de 35 anos, previamente hígido, inicia febre alta (39,8°C), calafrios, tosse produtiva com expectoração amarelada e dor torácica à inspiração profunda há 1 dia. Nega comorbidades. Exame: FR 22 irpm, FC 98 bpm, PA 120/80 mmHg, Tax 39,5°C, estertores crepitantes em base direita. Qual a melhor conduta inicial?",
+    "options": [
+      "Iniciar azitromicina 500mg/dia VO por suspeita de pneumonia atípica (tosse e febre), reavaliar em 48-72h ambulatorialmente",
+      "Solicitar RX tórax, coletar escarro e hemocultura, internar para ceftriaxona 1g/dia IV por sinais de gravidade",
+      "Encaminhar urgentemente para UTI para suporte ventilatório invasivo e antibioticoterapia de amplo espectro com piperacilina-tazobactam",
+      "Solicitar TC tórax com contraste para descartar TEP, iniciar anticoagulação empírica com heparina de baixo peso molecular",
+      "Solicitar RX tórax, coletar escarro para Gram/cultura e hemocultura, iniciar amoxicilina 1g 8/8h VO ambulatorialmente"
+    ],
+    "correctIndex": 4,
+    "explanation": "Quadro CLÁSSICO de pneumonia PNEUMOCÓCICA: início ABRUPTO, febre ALTA, tosse PRODUTIVA, dor PLEURÍTICA. Paciente JOVEM, sem comorbidades, ESTÁVEL hemodinamicamente (sem critérios de gravidade: PA normal, FR <30, sem confusão) → tratamento AMBULATORIAL. Conduta: RX tórax (consolidação lobar?), coletar ESCARRO (Gram: diplococos G+) e HEMOCULTURA ANTES do ATB, iniciar AMOXICILINA 1g 8/8h VO (cobre pneumococo). Não há sinais de gravidade que justifiquem internação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 62 anos com anemia falciforme desenvolve febre alta, tosse produtiva e dor pleurítica. RX: consolidação lobar direita. Qual a principal preocupação neste caso?",
+    "options": [
+      "Risco aumentado de tuberculose pulmonar reativada por imunossupressão relativa secundária à anemia crônica e esplenomegalia",
+      "Risco aumentado de bacteremia e sepse fulminante por S. pneumoniae devido à disfunção esplênica (opsonização inadequada de bactérias encapsuladas)",
+      "Risco aumentado de pneumonia aspirativa por anaeróbios devido à disfagia orofaríngea crônica associada à anemia de base",
+      "Risco aumentado de pneumonia atípica por Mycoplasma com complicação de anemia hemolítica autoimune por crioaglutininas",
+      "Risco aumentado de pneumonia por Klebsiella com formação de abscessos pulmonares e expectoração em geleia de groselha"
+    ],
+    "correctIndex": 1,
+    "explanation": "ANEMIA FALCIFORME causa danos ao BAÇO (infartos esplênicos repetidos → asplenia FUNCIONAL). O baço é essencial para OPSONIZAÇÃO de bactérias ENCAPSULADAS (S. pneumoniae). Resultado: RISCO AUMENTADO de BACTEREMIA e SEPSE FULMINANTE por pneumococo. Consolidação lobar + anemia falciforme = alto risco! Necessário: hemoculturas, tratamento agressivo, vacinação pneumocócica se não feita.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 68 anos, hipertenso e diabético, com pneumonia lobar confirmada. Solicitadas hemoculturas antes do antibiótico. Qual a importância desse procedimento?",
+    "options": [
+      "Avaliar função imunológica do paciente e indicar necessidade de imunoglobulina endovenosa como terapia adjuvante à antibioticoterapia",
+      "Identificar o agente etiológico e seu perfil de sensibilidade, orientando terapia dirigida e detectando resistência antimicrobiana",
+      "Quantificar carga bacteriana circulante para calcular duração ideal do tratamento antibiótico baseado em evidências atuais",
+      "Confirmar diagnóstico diferencial entre pneumonia bacteriana e viral, evitando uso desnecessário de antibióticos de amplo espectro",
+      "Detectar precocemente síndrome da resposta inflamatória sistêmica (SIRS) e prever necessidade de suporte em terapia intensiva"
+    ],
+    "correctIndex": 1,
+    "explanation": "HEMOCULTURA ANTES do ATB é fundamental para: (1) IDENTIFICAR o agente etiológico (positiva em ~25% das PAC bacterêmicas, especialmente pneumococo); (2) determinar PERFIL DE SENSIBILIDADE (resistência a penicilina? MRSA?); (3) orientar TERAPIA DIRIGIDA (desescalonamento ou ajuste). Não quantifica carga nem prediz SIRS diretamente. Deve ser colhida ANTES do antibiótico pois ATB prévio reduz sensibilidade do exame.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Idoso de 75 anos, etilista, com pneumonia lobar em segmentos apicais. RX: consolidação com necrose cavitária. Expectoração espessa esverdeada. Qual agente mais provável?",
+    "options": [
+      "Legionella pneumophila: exposição a ar-condicionado, acomete lobos superiores preferencialmente, causa necrose e diarreia associada",
+      "Mycoplasma pneumoniae com complicações: pneumonia atípica que evoluiu com necrose por resposta inflamatória exuberante do hospedeiro imunocomprometido",
+      "Klebsiella pneumoniae (pneumonia de Friedländer): etilismo predispõe, acomete lobos superiores, causa necrose extensa e expectoração em geleia de groselha",
+      "Anaeróbios orais: aspiração por rebaixamento de consciência relacionado ao etilismo, formação de abscesso pulmonar em lobos dependentes posteriores",
+      "S. pneumoniae com empiema complicado: consolidação lobar típica que evoluiu com necrose por demora no tratamento antibiótico adequado"
+    ],
+    "correctIndex": 2,
+    "explanation": "ETILISMO + pneumonia em LOBOS SUPERIORES + NECROSE/CAVITAÇÃO + expectoração ESPESSA = KLEBSIELLA PNEUMONIAE (pneumonia de Friedländer). Klebsiella causa destruição tecidual extensa com expectoração em 'GELEIA DE GROSELHA' (viscosa, hemorrágica). Acomete classicamente LOBOS SUPERIORES. Tratamento: cefalosporina 3ª geração ou quinolona. Anaeróbios (aspiração) acometem lobos DEPENDENTES (posteriores/inferiores).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com pneumonia lobar tratado com amoxicilina há 48h sem melhora clínica. Persistem febre, tosse produtiva e dispneia. RX controle: consolidação inalterada. O que considerar?",
+    "options": [
+      "Pneumonia viral (Influenza/COVID-19) mimetizando bacteriana, suspender antibiótico e iniciar oseltamivir ou remdesivir conforme disponibilidade",
+      "Tuberculose pulmonar não diagnosticada inicialmente, solicitar baciloscopias seriadas de escarro e iniciar esquema RHZE empírico imediatamente",
+      "Resposta clínica esperada demora 72h, manter amoxicilina sem alteração; febre persistente é normal nos primeiros 5 dias de tratamento",
+      "Pneumonia por fungos oportunistas (Aspergillus, Pneumocystis), iniciar voriconazol ou sulfametoxazol-trimetoprim conforme disponibilidade local",
+      "Pneumococo resistente à penicilina, necessidade de troca para ceftriaxona ou levofloxacino; complicação (derrame/empiema); pneumonia atípica não respondendo a beta-lactâmico"
+    ],
+    "correctIndex": 4,
+    "explanation": "Falta de resposta após 48-72h: considerar: (1) PNEUMOCOCO RESISTENTE à penicilina (trocar para ceftriaxona ou levofloxacino); (2) COMPLICAÇÃO (derrame pleural parapneumônico, empiema - fazer ultrassom); (3) PNEUMONIA ATÍPICA (beta-lactâmico não funciona - adicionar macrolídeo); (4) diagnóstico alternativo (TEP, ICC). Avaliar critérios de gravidade para internação. Não aguardar 5 dias sem reavaliação!",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais os principais grupos populacionais com risco aumentado para infecções por Haemophilus influenzae?",
+    "options": [
+      "Trabalhadores rurais expostos a animais, profissionais de saúde com exposição a aerossóis, usuários de drogas intravenosas, pacientes com fibrose cística avançada",
+      "Atletas de alto rendimento, gestantes no terceiro trimestre, pacientes pós-transplante renal, usuários de imunobiológicos, viajantes para áreas endêmicas",
+      "Portadores de próteses valvares cardíacas, usuários de cateteres venosos centrais, pacientes em hemodiálise crônica, moradores de instituições psiquiátricas",
+      "Etilistas crônicos, diabéticos descompensados, doença hepática avançada, anemia falciforme, asplenia anatômica ou funcional, exposição hospitalar prévia",
+      "Crianças não vacinadas <5 anos, DPOC, tabagistas, idosos, imunossuprimidos, bronquiectasias, IVAS recente com sinusite/otite precedendo pneumonia"
+    ],
+    "correctIndex": 4,
+    "explanation": "Risco aumentado para H. influenzae: CRIANÇAS não vacinadas <5 anos (Hib causa doença invasiva), DPOC (colonização crônica, exacerbações), TABAGISTAS (lesão epitelial), IDOSOS (imunossenescência), IMUNOSSUPRIMIDOS (HIV, corticoide, quimio), BRONQUIECTASIAS (colonização crônica), IVAS recente (sinusite/otite precedendo pneumonia - infecção inicia em vias superiores).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o conjunto de características microbiológicas e clínicas que identifica corretamente o Haemophilus influenzae?",
+    "options": [
+      "Diplococo Gram-positivo em pares, alfa-hemólise, sensível à optoquina, infecção inicia abruptamente com febre alta e tosse produtiva purulenta",
+      "Bacilo Gram-positivo formador de esporos, crescimento anaeróbio, produção de toxinas, infecção causa pneumonia necrotizante pós-influenza com derrame",
+      "Bactéria sem parede celular, não cora pelo Gram, crescimento lento, infecção causa pneumonia atípica com tosse seca e padrão intersticial ao RX",
+      "Bacilo Gram-NEGATIVO encapsulado pleomórfico, crescimento em ágar chocolate com fatores X e V, infecção inicia em vias superiores com congestão/coriza/febre alta",
+      "Cocobacilo Gram-negativo intracelular, oxidase positivo, crescimento em Thayer-Martin, infecção causa meningite meningocócica com petéquias e choque séptico"
+    ],
+    "correctIndex": 3,
+    "explanation": "H. influenzae: BACILO Gram-NEGATIVO, encapsulado, PLEOMÓRFICO (forma variável), cresce em ÁGAR CHOCOLATE com FATORES X (hemina) e V (NAD). Clinicamente: infecção INICIA em VIAS SUPERIORES (congestão nasal, coriza, febre alta) e pode descer para pulmões. Tratamento: amoxicilina-clavulanato. Opção 2=pneumococo. Opção 3=N. meningitidis. Opção 4=C. perfringens. Opção 5=Mycoplasma.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a definição correta de pneumonias atípicas e quais os principais agentes etiológicos responsáveis por essa apresentação clínica?",
+    "options": [
+      "Pneumonias por micobactérias não tuberculosas; agentes: M. avium complex, M. kansasii, M. abscessus, M. fortuitum em pacientes com doença pulmonar estrutural",
+      "Pneumonias por fungos oportunistas em imunossuprimidos; agentes: Pneumocystis jirovecii, Aspergillus fumigatus, Cryptococcus neoformans, Histoplasma capsulatum",
+      "Pneumonias por patógenos NÃO detectáveis por Gram ou culturas padrão; agentes: Mycoplasma pneumoniae, Chlamydia pneumoniae, Legionella pneumophila, Coxiella burnetii",
+      "Pneumonias por bactérias multidroga-resistentes hospitalares; agentes: MRSA, P. aeruginosa, Acinetobacter baumannii, Stenotrophomonas maltophilia, K. pneumoniae ESBL",
+      "Pneumonias por vírus respiratórios epidêmicos; agentes: Influenza A/B, SARS-CoV-2, VSR, Adenovírus, Metapneumovírus humano, Parainfluenza"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pneumonias ATÍPICAS: causadas por patógenos que NÃO são detectáveis pela coloração de GRAM ou CULTURAS bacterianas PADRÃO (ágar-sangue, chocolate). Agentes principais: MYCOPLASMA PNEUMONIAE (sem parede celular), CHLAMYDIA PNEUMONIAE (intracelular obrigatória), LEGIONELLA PNEUMOPHILA (Gram-negativa, requer meios especiais), COXIELLA BURNETII (febre Q). NÃO respondem a beta-lactâmicos!",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que os beta-lactâmicos (penicilinas e cefalosporinas) são ineficazes no tratamento das pneumonias atípicas?",
+    "options": [
+      "Atípicos produzem beta-lactamases cromossômicas constitutivas de amplo espectro que hidrolisam penicilinas e cefalosporinas, conferindo resistência intrínseca",
+      "Atípicos metabolizam beta-lactâmicos por vias enzimáticas alternativas, convertendo-os em metabólitos inativos antes de atingirem concentração bactericida",
+      "Mycoplasma não possui parede celular, Chlamydia é intracelular obrigatória, Legionella requer penetração intracelular; beta-lactâmicos agem na parede celular",
+      "Atípicos formam biofilmes densos que impedem penetração de beta-lactâmicos até os sítios-alvo de ligação nas proteínas ligadoras de penicilina",
+      "Atípicos possuem sistemas de efluxo multidrogas que expulsam ativamente beta-lactâmicos do citoplasma bacteriano antes da ação antimicrobiana"
+    ],
+    "correctIndex": 2,
+    "explanation": "Beta-lactâmicos (penicilinas, cefalosporinas) agem na síntese da PAREDE CELULAR bacteriana. Pneumonias atípicas: MYCOPLASMA NÃO POSSUI parede celular (apenas membrana plasmática), CHLAMYDIA é INTRACELULAR OBRIGATÓRIA (beta-lactâmico não penetra célula), LEGIONELLA é intracelular (requer penetração celular). Por isso: usar MACROLÍDEOS, DOXICICLINA ou QUINOLONAS (penetram célula/agem em outros alvos).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais características clínicas sugerem pneumonia atípica em vez de pneumonia bacteriana típica?",
+    "options": [
+      "Início INSIDIOSO com pródromos (cefaleia, mialgia, fadiga), tosse SECA pouco produtiva, febre BAIXA ou ausente, falta de resposta a beta-lactâmicos",
+      "Início fulminante com choque séptico, insuficiência respiratória grave, derrame pleural extenso, necessidade de ventilação mecânica invasiva precoce",
+      "Início ABRUPTO com febre alta e calafrios, tosse PRODUTIVA com expectoração purulenta, dor pleurítica intensa, resposta rápida a beta-lactâmicos",
+      "Início agudo com rebaixamento de consciência, expectoração FÉTIDA por anaeróbios, infiltrado em lobos dependentes, história de aspiração testemunhada",
+      "Início subagudo com hemoptise maciça, dispneia progressiva, febre intermitente, emagrecimento importante, sudorese noturna profusa, lesões cavitárias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pneumonia ATÍPICA: (1) início INSIDIOSO (não abrupto), (2) PRÓDROMOS proeminentes (cefaleia, mialgia, fadiga) ANTES da tosse, (3) tosse SECA (não produtiva), (4) febre BAIXA ou AUSENTE, (5) FALTA DE RESPOSTA a beta-lactâmicos, (6) contexto epidemiológico (surtos em escolas/asilos para Mycoplasma; exposição a ar-condicionado/água para Legionella). RX: padrão INTERSTICIAL.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais manifestações extrapulmonares auxiliam na diferenciação entre os agentes causadores de pneumonias atípicas?",
+    "options": [
+      "Mycoplasma: exantema maculopapular, artralgia, anemia hemolítica; Legionella: diarreia aquosa, confusão mental, hiponatremia; Chlamydia: faringite, rouquidão",
+      "Mycoplasma: meningite asséptica, encefalite viral; Legionella: endocardite de válvula nativa; Chlamydia: linfogranuloma venéreo, proctite linfogranulomatosa",
+      "Mycoplasma: hepatite fulminante, icterícia colestática; Legionella: neuropatia periférica, paralisia facial; Chlamydia: miocardite aguda, derrame pericárdico",
+      "Mycoplasma: síndrome nefrítica, hematúria macroscópica; Legionella: pancreatite necrosante; Chlamydia: uretrite não gonocócica, cervicite mucopurulenta",
+      "Mycoplasma: diarreia sanguinolenta, colite pseudomembranosa; Legionella: exantema petequial, artrite séptica; Chlamydia: conjuntivite purulenta bilateral"
+    ],
+    "correctIndex": 0,
+    "explanation": "Manifestações EXTRAPULMONARES das atípicas: MYCOPLASMA → exantema maculopapular, artralgia, ANEMIA HEMOLÍTICA por crioaglutininas (IgM anti-hemácias), miringite bolhosa. LEGIONELLA → DIARREIA aquosa, confusão mental, HIPONATREMIA, elevação de transaminases. CHLAMYDIA → faringite persistente, ROUQUIDÃO (acometimento de vias aéreas superiores), linfadenopatia cervical. Essas manifestações auxiliam no diagnóstico diferencial!",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais os padrões radiológicos esperados nas pneumonias atípicas e como diferem entre os agentes?",
+    "options": [
+      "Mycoplasma/Chlamydia: cavitação múltipla com níveis hidroaéreos; Legionella: padrão em vidro fosco difuso bilateral com áreas de crazy paving",
+      "Mycoplasma/Chlamydia: padrão INTERSTICIAL reticulonodular bilateral; Legionella: padrão ALVEOLAR localizado ou multilobar, pode ter derrame pleural",
+      "Mycoplasma/Chlamydia: consolidação lobar homogênea unilateral; Legionella: padrão miliar difuso bilateral com micronódulos aleatórios",
+      "Mycoplasma/Chlamydia: infiltrado apical cavitário crônico; Legionella: linhas B de Kerley, redistribuição vascular para ápices, cardiomegalia",
+      "Mycoplasma/Chlamydia: derrame pleural maciço unilateral com desvio mediastinal; Legionella: pneumotórax espontâneo bilateral recorrente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Padrões radiológicos das atípicas: MYCOPLASMA/CHLAMYDIA → padrão INTERSTICIAL (reticular, reticulonodular) bilateral, infiltrado peribrônquico, pode ter linfadenopatia hilar. LEGIONELLA → padrão ALVEOLAR (consolidação localizada ou MULTILOBAR), progressão rápida, pode ter derrame pleural. Cavitação é rara. Vidro fosco difuso sugere pneumonia viral (Influenza, COVID-19) ou Pneumocystis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais métodos diagnósticos são mais úteis para identificação de pneumonias atípicas e qual o mais sensível atualmente?",
+    "options": [
+      "Broncoscopia com lavado broncoalveolar: padrão ouro diagnóstico; Biópsia pulmonar transbrônquica: confirma histologia; Cultura quantitativa definitiva obrigatória",
+      "Cultura em ágar-sangue e chocolate: método padrão para isolamento; Gram de escarro: identifica morfologia típica; Teste rápido de antígeno nasofaríngeo disponível",
+      "Teste tuberculínico (PPD): diferencia atípica de tuberculose; Adenosina deaminase (ADA) no derrame: confirma infecção; Baciloscopia seriada fundamental",
+      "Sorologia: IgM/IgG (Mycoplasma/Chlamydia); Antígeno urinário: Legionella sorogrupo 1; PCR: mais sensível e específico para todos (método de escolha atual)",
+      "Radiografia de tórax com padrão intersticial: suficiente para diagnóstico; Leucograma com linfocitose: confirma etiologia atípica; Culturas desnecessárias na prática"
+    ],
+    "correctIndex": 3,
+    "explanation": "Diagnóstico de atípicas: SOROLOGIA (detecção de IgM ou aumento de IgG - útil para Mycoplasma/Chlamydia, mas retrospectivo), ANTÍGENO URINÁRIO para LEGIONELLA sorogrupo 1 (rápido, específico), PCR (detecção de DNA bacteriano - MAIS SENSÍVEL E ESPECÍFICO, método atual de escolha). Cultura é difícil/demorada (exceto Legionella em meio BCYE). Gram NÃO detecta atípicos!",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o esquema antibiótico apropriado para tratamento de pneumonias atípicas (Mycoplasma, Chlamydia, Legionella)?",
+    "options": [
+      "Mycoplasma/Chlamydia: vancomicina 15mg/kg 12/12h, linezolida 600mg 12/12h; Legionella: piperacilina-tazobactam 4,5g 6/6h ou meropenem 1g 8/8h",
+      "Mycoplasma/Chlamydia: metronidazol 500mg 8/8h, clindamicina 600mg 8/8h; Legionella: amoxicilina-clavulanato 875/125mg 12/12h VO",
+      "Mycoplasma/Chlamydia: azitromicina 500mg/dia 3-5d, claritromicina 500mg 12/12h, doxiciclina 100mg 12/12h; Legionella: azitromicina ou levofloxacino 750mg/dia",
+      "Mycoplasma/Chlamydia: amoxicilina 1g 8/8h, ceftriaxona 1g/dia; Legionella: penicilina G 4 MUI 4/4h ou ampicilina-sulbactam 3g 6/6h IV",
+      "Mycoplasma/Chlamydia: ciprofloxacino 400mg 12/12h, gentamicina 5mg/kg/dia; Legionella: ceftazidima 2g 8/8h ou cefepima 2g 12/12h IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tratamento de atípicas: MYCOPLASMA/CHLAMYDIA → MACROLÍDEOS (azitromicina 500mg/dia, claritromicina 500mg 12/12h), DOXICICLINA 100mg 12/12h ou quinolonas respiratórias. LEGIONELLA → AZITROMICINA ou QUINOLONA respiratória (levofloxacino 750mg/dia, moxifloxacino 400mg/dia). EVITAR beta-lactâmicos (ineficazes!). Aminoglicosídeos não penetram células. Metronidazol é para anaeróbios.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o contexto epidemiológico típico que sugere surto de Mycoplasma pneumoniae e como prevenir infecção por Legionella?",
+    "options": [
+      "Mycoplasma: contato direto com animais domésticos (cães, gatos); Legionella: desinfecção de superfícies com hipoclorito após contato com caso suspeito",
+      "Mycoplasma: surtos em ambientes fechados (escolas, asilos, quartéis); Legionella: manutenção adequada de sistemas de água/ar-condicionado, torres de resfriamento",
+      "Mycoplasma: consumo de alimentos contaminados em estabelecimentos com higiene inadequada; Legionella: isolamento respiratório de casos confirmados em ambiente hospitalar",
+      "Mycoplasma: viagens para áreas endêmicas tropicais com exposição a água contaminada; Legionella: profilaxia antibiótica com azitromicina em viajantes de risco",
+      "Mycoplasma: exposição ocupacional agrícola com inalação de poeira de celeiros; Legionella: vacinação anual contra Influenza e pneumococo em população de risco"
+    ],
+    "correctIndex": 1,
+    "explanation": "Contexto epidemiológico: MYCOPLASMA → SURTOS em ambientes FECHADOS (escolas, asilos, quartéis, dormitórios) por transmissão respiratória pessoa-a-pessoa, especialmente em adolescentes/adultos jovens. LEGIONELLA → exposição a SISTEMAS DE ÁGUA (chuveiros, banheiras, torres de resfriamento) e AR-CONDICIONADO contaminados. Prevenção de Legionella: MANUTENÇÃO adequada, limpeza, desinfecção de sistemas de água. Vacina contra Influenza previne infecção secundária.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como o alcoolismo crônico afeta a suscetibilidade a pneumonias e quais os mecanismos fisiopatológicos envolvidos?",
+    "options": [
+      "Álcool induz produção aumentada de surfactante pulmonar; melhora complacência alveolar; reduz trabalho respiratório e risco de pneumonia por fadiga muscular",
+      "Álcool estimula hiperventilação crônica; aumenta clearance mucociliar; protege contra colonização bacteriana de vias aéreas superiores e inferiores",
+      "Álcool causa hipergamaglobulinemia policlonal; aumenta opsonização bacteriana; reduz risco de infecções por germes encapsulados como pneumococo e Haemophilus",
+      "Álcool causa vasoconstrição pulmonar periférica; reduz perfusão alveolar; diminui disponibilidade de oxigênio para bactérias aeróbias facilitando eliminação natural",
+      "Álcool prejudica função ciliar, reflexo de tosse e resposta imune; aumenta risco de aspiração; predispõe a Klebsiella e anaeróbios com acometimento de lobos superiores"
+    ],
+    "correctIndex": 4,
+    "explanation": "ALCOOLISMO CRÔNICO: (1) prejudica FUNÇÃO CILIAR (depuração mucociliar deficiente), (2) reduz REFLEXO DE TOSSE (risco de aspiração), (3) compromete RESPOSTA IMUNE (neutrófilos/macrófagos disfuncionais). Resultado: maior risco de pneumonia por KLEBSIELLA PNEUMONIAE (lobos SUPERIORES, geleia de groselha) e ANAERÓBIOS (aspiração). Tratamento: cobertura ampliada (ceftriaxona + metronidazol ou amoxicilina-clavulanato).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a característica da pneumonia estafilocócica pós-influenza e por que considerar MRSA nesse contexto?",
+    "options": [
+      "S. aureus causa pneumonia atípica intersticial com tosse seca; MRSA é sensível a todos os macrolídeos; azitromicina monoterapia é tratamento de escolha",
+      "S. aureus causa pneumonia lobar típica com boa resposta a penicilina; MRSA é exclusivamente hospitalar; tratamento ambulatorial com amoxicilina é suficiente",
+      "S. aureus coloniza nasofaringe após gripe sem causar doença invasiva; MRSA não causa pneumonia comunitária; beta-lactâmicos são primeira escolha universal",
+      "S. aureus causa pneumonia por aspiração com expectoração fétida; MRSA é sinônimo de multirresistência total; apenas linezolida ou tigeciclina são eficazes",
+      "S. aureus (incluindo MRSA) causa pneumonia necrotizante pós-influenza; lesão viral facilita invasão estafilocócica; MRSA é prevalente na comunidade, requer vancomicina"
+    ],
+    "correctIndex": 4,
+    "explanation": "Pneumonia PÓS-INFLUENZA: S. AUREUS (incluindo MRSA) causa pneumonia NECROTIZANTE grave (cavitação, pneumatoceles, derrame). Lesão viral facilita invasão bacteriana. MRSA COMUNITÁRIO (CA-MRSA) é prevalente, especialmente em jovens saudáveis pós-influenza. Suspeitar se: choque, hemoptise, cavitação ao RX. Tratamento: VANCOMICINA ou LINEZOLIDA (cobrir MRSA) + ceftriaxona (cobrir pneumococo). Evolução grave/rápida!",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais as principais diretrizes internacionais e nacionais que orientam o tratamento empírico da pneumonia adquirida na comunidade?",
+    "options": [
+      "ACCP Consensus 2023 (American College of Chest Physicians) e Protocolo Brasileiro de Infectologia SBI 2022 para PAC",
+      "CDC Guidelines 2022 (Centers for Disease Control) e Protocolo Clínico Ministério da Saúde 2020 para Pneumonias Comunitárias no SUS",
+      "WHO Pneumonia Treatment Protocol 2022 (Organização Mundial da Saúde) e Diretriz Europeia de Pneumologia Comunitária ERS 2021",
+      "NICE Guidelines 2023 (National Institute for Health and Care Excellence) e Consenso Latino-americano de Pneumologia 2021 (ALAT)",
+      "IDSA/ATS 2019 (Infectious Diseases Society of America/American Thoracic Society) e Diretrizes Brasileiras de Pneumonia 2021 (Sociedade Brasileira de Pneumologia)"
+    ],
+    "correctIndex": 4,
+    "explanation": "As principais diretrizes para tratamento de PAC são: IDSA/ATS 2019 (Infectious Diseases Society of America e American Thoracic Society - referência internacional) e DIRETRIZES BRASILEIRAS DE PNEUMONIA COMUNITÁRIA 2021 (Sociedade Brasileira de Pneumologia e Tisiologia - SBPT). Essas diretrizes estratificam pacientes (ambulatorial vs hospitalar, comorbidades, gravidade) e recomendam esquemas empíricos baseados em epidemiologia local e resistência antimicrobiana.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o esquema antibiótico empírico recomendado para pneumonia comunitária ambulatorial em paciente SEM comorbidades ou uso recente de antibióticos?",
+    "options": [
+      "Levofloxacino 750mg/dia VO monoterapia universal para todos os casos de pneumonia comunitária independentemente de gravidade ou comorbidades",
+      "Piperacilina-tazobactam 4,5g 6/6h IV + vancomicina 15mg/kg 12/12h IV para cobertura empírica ampla de germes comunitários multidroga-resistentes",
+      "Azitromicina 500mg/dia VO + doxiciclina 100mg 12/12h VO para dupla cobertura de atípicos sem necessidade de cobertura de pneumococo típico",
+      "Amoxicilina 1g 8/8h VO OU amoxicilina-clavulanato 875/125mg 12/12h VO OU macrolídeo (azitromicina 500mg/dia) - monoterapia suficiente para cobrir pneumococo",
+      "Ceftriaxona 1g/dia IM + azitromicina 500mg/dia VO obrigatoriamente para cobertura de pneumococo e atípicos em todos os casos ambulatoriais"
+    ],
+    "correctIndex": 3,
+    "explanation": "Paciente ambulatorial SEM comorbidades/uso recente de ATB: MONOTERAPIA com AMOXICILINA 1g 8/8h VO (cobre pneumococo) OU amoxicilina-clavulanato 875/125mg 12/12h VO (adiciona cobertura de H. influenzae, anaeróbios) OU MACROLÍDEO (azitromicina 500mg/dia - cobre pneumococo e atípicos, mas resistência pneumocócica crescente). Quinolonas devem ser reservadas. Vancomicina/piperacilina-tazobactam são para casos graves/hospitalares.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o esquema antibiótico empírico recomendado para pneumonia comunitária ambulatorial em paciente COM comorbidades ou uso recente de antibióticos?",
+    "options": [
+      "Beta-lactâmico (amoxicilina-clavulanato 875/125mg 12/12h OU ceftriaxona 1g/dia) + macrolídeo (azitromicina 500mg/dia) OU quinolona respiratória (levofloxacino 750mg/dia, moxifloxacino 400mg/dia)",
+      "Clindamicina 600mg 8/8h + ciprofloxacino 400mg 12/12h para cobertura de anaeróbios e Gram-negativos em pacientes com comorbidades múltiplas",
+      "Azitromicina 500mg/dia monoterapia universal para todos os casos com comorbidades devido à excelente cobertura de pneumococo e atípicos",
+      "Vancomicina 15mg/kg 12/12h + ceftazidima 2g 8/8h para cobertura de MRSA e Pseudomonas em pacientes de risco com comorbidades",
+      "Amoxicilina 1g 8/8h monoterapia é suficiente mesmo com comorbidades pois pneumococo continua sendo o agente mais frequente isolado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paciente ambulatorial COM comorbidades (DPOC, DM, ICC, IRC, hepatopatia, etilismo, asplenia, imunossupressão) OU uso recente de ATB: BETA-LACTÂMICO (amoxicilina-clavulanato 875/125mg 12/12h OU ceftriaxona 1g/dia IM) + MACROLÍDEO (azitromicina 500mg/dia) para DUPLA COBERTURA (pneumococo + atípicos + H. influenzae). ALTERNATIVA: QUINOLONA RESPIRATÓRIA monoterapia (levofloxacino 750mg/dia, moxifloxacino 400mg/dia). Vancomicina/ceftazidima são para casos hospitalares graves.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Professora de 32 anos com quadro de tosse seca, febre baixa (37,6°C), cefaleia e fadiga há 5 dias. Amoxicilina-clavulanato há 3 dias sem melhora. RX: infiltrado intersticial bilateral. Qual a conduta?",
+    "options": [
+      "Pneumonia atípica (Mycoplasma/Chlamydia provável): trocar para azitromicina 500mg/dia 3-5d ou doxiciclina 100mg 12/12h, melhor resposta esperada",
+      "Pneumococo resistente à penicilina: aumentar dose de amoxicilina para 2g 8/8h ou trocar para ceftriaxona 1g/dia IM, manter beta-lactâmico",
+      "Tuberculose pulmonar: solicitar baciloscopia seriada, teste rápido molecular (GeneXpert), iniciar esquema RHZE empiricamente enquanto aguarda resultados",
+      "Pneumonia viral (Influenza ou COVID-19): suspender antibiótico completamente, solicitar PCR viral, iniciar oseltamivir 75mg 12/12h se <48h de sintomas",
+      "Pneumonia por aspiração: adicionar metronidazol 500mg 8/8h à amoxicilina-clavulanato para ampliar cobertura de anaeróbios orais não cobertos adequadamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quadro CLÁSSICO de pneumonia ATÍPICA: (1) início INSIDIOSO com pródromos (cefaleia, fadiga), (2) tosse SECA, (3) febre BAIXA, (4) padrão INTERSTICIAL ao RX, (5) FALTA DE RESPOSTA a beta-lactâmico (amoxicilina-clavulanato). Contexto: PROFESSORA (surto em escola - Mycoplasma comum). Conduta: trocar para MACROLÍDEO (azitromicina 500mg/dia 3-5d) ou DOXICICLINA 100mg 12/12h. TB seria sintomas >3 semanas. Aspiração sem contexto clínico.",
+    "type": "raciocínio"
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "question": "Qual é o achado espirométrico essencial e universal, realizado após a administração de um broncodilatador, necessário para a confirmação definitiva do diagnóstico de Doença Pulmonar Obstrutiva Crônica (DPOC)?",
+    "options": [
+      "Aumento do Volume Residual (VR) e da Capacidade Pulmonar Total (CPT), caracterizando a hiperinsuflação pulmonar por aprisionamento aéreo.",
+      "O Volume Expiratório Forçado no 1º segundo (VEF1) inferior a 30% do previsto, indicando limitação do fluxo aéreo muito grave, mas sem considerar a CVF.",
+      "Redução da Capacidade Vital Forçada (CVF) para menos de 80% do previsto, com a relação VEF1/CVF mantida em níveis normais (acima de 0,70).",
+      "A Razão entre o Volume Expiratório Forçado no 1º segundo e a Capacidade Vital Forçada (VEF1/CVF) inferior a 0,70 (ou < 70%), após a inalação do broncodilatador.",
+      "Aumento do VEF1 de, no mínimo, 12% e 200 mL após o uso do broncodilatador, o que caracteriza a reversibilidade da obstrução do fluxo aéreo."
+    ],
+    "correctIndex": 3,
+    "explanation": "O diagnóstico da DPOC é confirmado pela Espirometria Pós-Broncodilatador, que deve apresentar a Razão VEF1/CVF inferior a 0,70. Este achado é essencial para confirmar a limitação do fluxo aéreo [1-3].",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com a Classificação de Gravidade da Obstrução do Fluxo Aéreo (GOLD 1 a 4), qual é o critério espirométrico que define um paciente no estágio GOLD 2 (Moderado)?",
+    "options": [
+      "Razão VEF1/CVF mantida em níveis normais (acima de 0,70), independentemente do valor absoluto do VEF1 em porcentagem do previsto.",
+      "VEF1 inferior a 30% do valor previsto, classificando o paciente no estágio de Obstrução Muito Grave (GOLD 4).",
+      "VEF1 igual ou superior a 80% do valor previsto, caracterizando o estágio Leve (GOLD 1).",
+      "VEF1 entre 30% e menos de 50% (30% $\\le$ VEF1 < 50%) do valor previsto, caracterizando o estágio de Obstrução Grave (GOLD 3).",
+      "VEF1 entre 50% e menos de 80% (50% $\\le$ VEF1 < 80%) do valor previsto, sendo definido como Obstrução Moderada (GOLD 2)."
+    ],
+    "correctIndex": 4,
+    "explanation": "O estágio GOLD 2 (Moderado) é definido quando o VEF1 está entre 50% e menos de 80% do valor previsto (50% $\\le$ VEF1 < 80%) [4, 5].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o critério espirométrico que define o estágio GOLD 4 (Muito Grave) na classificação da gravidade da obstrução do fluxo aéreo?",
+    "options": [
+      "VEF1 inferior a 30% (< 30%) do valor previsto, sendo o estágio mais avançado de Obstrução do Fluxo Aéreo (GOLD 4).",
+      "Aumento do VEF1 de 15% e 400 mL após o uso do broncodilatador, sugerindo reversibilidade completa da obstrução.",
+      "Razão VEF1/CVF abaixo de 0,70, com VEF1 $\\ge$ 80% do previsto, indicando o estágio Leve (GOLD 1).",
+      "VEF1 entre 50% e menos de 80% do previsto, indicando o estágio Moderado (GOLD 2).",
+      "VEF1 entre 30% e menos de 50% do valor previsto, caracterizando o estágio de Obstrução Grave (GOLD 3)."
+    ],
+    "correctIndex": 0,
+    "explanation": "O estágio GOLD 4 (Muito Grave) é definido por um VEF1 inferior a 30% (< 30%) do valor previsto [5, 6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O questionário CAT (COPD Assessment Test) é um instrumento de avaliação de sintomas. Qual é a pontuação de corte utilizada no sistema GOLD para classificar um paciente como apresentando 'Muitos Sintomas' (indicando risco de pior qualidade de vida)?",
+    "options": [
+      "Pontuação CAT igual ou superior a 30, o que exige a internação imediata e o início de suporte ventilatório não invasivo (VNI).",
+      "Pontuação CAT inferior a 1 (CAT < 10), que, juntamente com o mMRC $\\le$ 1, é utilizada para definir o Grupo A (Poucos Sintomas).",
+      "Pontuação CAT entre 6 e 9, que exige a reavaliação da terapia com broncodilatadores de curta ação (SABAs).",
+      "Pontuação CAT entre 0 e 5, que indica sintomas mínimos e alta qualidade de vida.",
+      "Pontuação CAT igual ou superior a 10 (CAT $\\ge$ 10), que, juntamente com o histórico de exacerbações, é utilizada para definir os Grupos B e E."
+    ],
+    "correctIndex": 4,
+    "explanation": "Os sintomas são avaliados pelo mMRC ou pelo CAT. 'Muitos Sintomas' é definido por um mMRC $\\ge 2$ ou CAT $\\ge 10$ [7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal critério utilizado pela classificação GOLD (Global Initiative for Chronic Obstructive Lung Disease) para categorizar um paciente no Grupo E (Alto Risco de Exacerbação)?",
+    "options": [
+      "Apenas o estágio de Obstrução Muito Grave (GOLD 4: VEF1 < 30%), mesmo que o paciente nunca tenha apresentado uma exacerbação.",
+      "A ocorrência de duas ou mais exacerbações moderadas ou de uma exacerbação grave (que necessitou de hospitalização) nos últimos 12 meses, não levando em conta os sintomas [8].",
+      "Apenas a presença de 'Muitos Sintomas' (mMRC $\\ge$ 2 ou CAT $\\ge$ 10), independentemente do histórico de exacerbações ou da gravidade do VEF1.",
+      "A presença de Bronquite Crônica (tosse produtiva por 3 meses em 2 anos) com escarro purulento, independentemente do número de exacerbações.",
+      "O uso crônico de Corticoides Inalatórios (CI), o que indica inflamação eosinofílica persistente no sangue e bronquite asmática concomitante."
+    ],
+    "correctIndex": 1,
+    "explanation": "O Grupo E (Alto Risco de Exacerbações) é definido pela ocorrência de duas ou mais exacerbações moderadas ou de uma exacerbação grave (que necessitou de hospitalização) nos últimos 12 meses [7, 8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A escala mMRC (Modified Medical Research Council) é utilizada para medir a gravidade de qual sintoma cardinal no paciente com DPOC?",
+    "options": [
+      "A intensidade da dor torácica e a presença de hemoptise (escarro com sangue) durante as exacerbações agudas e crônicas.",
+      "A frequência de sibilância e tosse produtiva que o paciente experimenta durante a noite, afetando a qualidade do sono.",
+      "O impacto psicológico da doença na qualidade de vida (energia, confiança e limitação de atividades em casa).",
+      "A limitação funcional causada pela Dispneia (falta de ar), correlacionando-a com a capacidade de realizar atividades cotidianas ou exercício.",
+      "O Volume Expiratório Forçado no 1º segundo (VEF1) em mililitros, que é o principal parâmetro fisiológico de obstrução pulmonar."
+    ],
+    "correctIndex": 3,
+    "explanation": "O mMRC (Modified Medical Research Council) é uma escala utilizada para medir a gravidade da dispneia em pacientes com doenças respiratórias crônicas [6], e é utilizada para a classificação GOLD [4, 9].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Tomografia Computadorizada (TC) de Tórax não é um exame de rotina para o diagnóstico, mas é útil em casos específicos da DPOC. Qual é o principal benefício da TC, conforme as fontes, na avaliação do risco de mortalidade?",
+    "options": [
+      "Avaliar o grau de sobrecarga do lado direito do coração (Cor Pulmonale) através de achados eletrocardiográficos (SVD, SAD) e ecocardiográficos.",
+      "A quantificação do enfisema e do aprisionamento aéreo, que é usada para avaliar o risco de mortalidade por câncer de pulmão em pacientes com DPOC.",
+      "Detectar a presença de Bronquite Crônica e hiperplasia glandular, que é um achado exclusivo da TC e não pode ser inferido pela clínica.",
+      "Confirmar o diagnóstico de DPOC, que é um papel exclusivo da espirometria (VEF1/CVF < 0,70) e da história clínica.",
+      "Determinar se a obstrução é reversível ou irreversível, o que é feito pela comparação da espirometria pré e pós-broncodilatador."
+    ],
+    "correctIndex": 1,
+    "explanation": "A TC é útil para quantificar o enfisema e o aprisionamento aéreo. Essa quantificação é usada para avaliar o risco de mortalidade por câncer de pulmão em pacientes com DPOC [10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal indicação para a realização de uma Gasometria Arterial no contexto da DPOC?",
+    "options": [
+      "Confirmar a presença de sobrecarga ventricular direita (SVD) e sobrecarga atrial direita (SAD) no paciente com Cor Pulmonale.",
+      "Avaliar o grau de reversibilidade da obstrução do fluxo aéreo após o uso de broncodilatadores de curta ação (SABAs).",
+      "Medir a saturação de oxigênio (SaO2) e a Pressão Parcial de Oxigênio (PaO2) no sangue, indicando aidade da hipoxemia [3]. A Oxigenoterapia Domiciliar é indicada para pacientes com hipoxemia crônica grave (PaO2 $\\le$ 55 mmHg ou SaO2 $\\le$ 88% em repouso) [11]."
+    ],
+    "correctIndex": 2,
+    "explanation": "A gasometria arterial avalia os gases sanguíneos, incluindo SaO2 e PaO2, fundamentais para determinar a gravidade da hipoxemia na DPOC.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado radiológico no RX de tórax é característico da hiperinsuflação pulmonar na DPOC (componente enfisematoso)?",
+    "options": [
+      "Configuração em 'bainha de sabre' da traqueia, que é um achado específico e patognomônico de bronquiectasias centrais.",
+      "Presença de opacidades difusas em 'vidro fosco' nas bases pulmonares, sugerindo fibrose intersticial associada.",
+      "Aumento da área cardíaca às custas do átrio e ventrículo esquerdos (SVE), com índice cárdio-torácico aumentado.",
+      "Presença de infiltrados pulmonares focais e consolidação, sugerindo pneumonia bacteriana como causa primária da dispneia.",
+      "Retificação do diafragma (aplainamento), aumento do espaço retroesternal e pulmões com áreas mais escuras (oligoemia), indicando excesso de ar aprisionado."
+    ],
+    "correctIndex": 4,
+    "explanation": "Achados radiológicos de hiperinsuflação incluem retificação do diafragma, rabaixamento de cúpula diafragmática [12], aumento do espaço retroesternal [13, 14] e oligoemia [13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na avaliação do paciente com DPOC, é essencial diferenciar a Obstrução do Fluxo Aéreo de um Distúrbio Ventilatório Restritivo. Qual é o critério espirométrico que define um Distúrbio Ventilatório Restritivo?",
+    "options": [
+      "A Razão VEF1/CVF é baixa (inferior a 0,70) e o VEF1 é menor que 50% do previsto, indicando limitação grave do fluxo expiratório.",
+      "O Fluxo Expiratório Forçado (FEF 25-75%) está diminuído, mesmo que o VEF1 e a CVF estejam normais, sugerindo doença de pequenas vias aéreas.",
+      "O VEF1 aumenta em 12% e 200 mL após o broncodilatador, confirmando a reversibilidade completa da obstrução.",
+      "A Capacidade Vital Forçada (CVF) está reduzida (abaixo de 80% do previsto), mas a Razão VEF1/CVF se mantém normal ou aumentada (acima de 0,70).",
+      "O Volume Residual (VR) e a Capacidade Pulmonar Total (CPT) estão aumentados, indicando aprisionamento aéreo e enfisema avançado."
+    ],
+    "correctIndex": 3,
+    "explanation": "O Distúrbio Ventilatório Restritivo é definido pela redução da Capacidade Vital Forçada (CVF) e do VEF1, mas a Relação VEF1/CVF se mantém normal ou aumentada [5].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes achados na Tomografia Computadorizada (TC) de Tórax é característico do fenótipo enfisematoso Centrolobular (Centroacinar)?",
+    "options": [
+      "Áreas escuras (hipodensas) concentradas no centro dos lóbulos pulmonares secundários, predominando nos lobos superiores e mais comuns em fumantes.",
+      "Áreas escuras na periferia dos pulmões, adjacentes aos septos interlobulares e à pleura (parasseptal), associadas a PNTX e bolhas subpleurais.",
+      "Hipertensão pulmonar, sugerida por um aumento do calibre do tronco da artéria pulmonar (vasos centrais dilatados).",
+      "Espessamento das paredes brônquicas, indicando inflamação crônica e bronquite crônica, sem presença de bolhas enfisematosas.",
+      "Áreas hipodensas que afetam lobos inferiores no centro e na periferia (panacinar), associadas à deficiência de alfa-1-antitripsina."
+    ],
+    "correctIndex": 0,
+    "explanation": "O Enfisema Centrolobular (centroacinar) é caracterizado por áreas escuras (hipodensas) no centro dos lóbulos pulmonares secundários, predominando nos lobos superiores e mais comuns em fumantes [15, 16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O diagnóstico diferencial da DPOC inclui outras doenças que causam dispneia ou tosse. Qual das seguintes doenças é tipicamente excluída da DPOC por apresentar reversibilidade completa da obstrução e forte associação com eosinofilia?",
+    "options": [
+      "Insuficiência Cardíaca Congestiva (ICC), que causa dispneia por congestão pulmonar e hipertensão venosa, mas com VEF1/CVF normal (padrão restritivo).",
+      "Bronquiectasias, que causam tosse produtiva e infecções frequentes, mas com dilatação brônquica no raio-X e TC.",
+      "Asma Brônquica, que é caracterizada por inflamação dos brônquios, sibilância e obstrução que é tipicamente reversível após o uso de broncodilatador.",
+      "Tuberculose Pulmonar prévia, que causa fibrose e bronquiectasias localizadas, mas geralmente resulta em padrão ventilatório restritivo.",
+      "Hipertensão Pulmonar primária, que causa dispneia e sobrecarga do lado direito do coração, mas sem limitação do fluxo aéreo (VEF1/CVF normal)."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Asma Brônquica é uma inflamação dos brônquios, associada à asma, desencadeada por gatilhos. Embora cause obstrução (Bronquite Asmática), é tipicamente reversível, ao contrário da DPOC, que é progressiva e não totalmente reversível [17].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que a medição da Pressão Expiratória Máxima (PEmáx) avalia e qual a sua importância clínica na avaliação da DPOC?",
+    "options": [
+      "A velocidade máxima do fluxo expiratório (Pico de Fluxo Expiratório), que é utilizada para monitorar a variabilidade diária na asma brônquica.",
+      "A força dos músculos inspiratórios (diafragma), sendo útil para diagnosticar fraqueza muscular após cirurgias torácicas.",
+      "A saturação de oxigênio (SaO2) no sangue arterial durante o esforço físico, indicando a necessidade de oxigênio suplementar em casa.",
+      "O grau de aprisionamento aéreo (VR e CPT) no final da expiração, o que é um marcador de enfisema e perda de elasticidade pulmonar.",
+      "A força dos músculos expiratórios, o que está diretamente relacionado com a capacidade do paciente de tossir com eficácia e eliminar secreções pulmonares."
+    ],
+    "correctIndex": 4,
+    "explanation": "A PEmáx (Pressão Expiratória Máxima) avalia a força dos músculos expiratórios, o que se relaciona com a capacidade de tossir e eliminar secreções, prevenindo complicações pulmonares [18].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A ativação do Sistema Nervoso Simpático e o remodelamento vascular são achados da DPOC que podem levar a comorbidades. Qual achado do ECG pode ser sugestivo de uma das principais comorbidades cardíacas associadas à DPOC avançada?",
+    "options": [
+      "Bloqueio de Ramo Esquerdo (LBBB) novo ou presumivelmente novo, o que indica dessincronia ventricular e Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFEr).",
+      "Onda R dominante em V1/V2 e Ondas P apiculadas nas derivações de parede inferior, que são característicos de Sobrecarga Ventricular Direita (SVD) e Sobrecarga Atrial Direita (SAD), respectivamente.",
+      "Soma superior a 35 mm da amplitude da onda R em V5/V6 com a amplitude da onda S em V1, indicando sobrecarga ventricular esquerda (SVE).",
+      "Inversões simétricas e profundas da onda T em V1-V3, sugerindo Infarto Agudo do Miocárdio (IM) Anterior.",
+      "Onda P prolongada com um entalhe na derivação D2, característico de sobrecarga atrial esquerda (SAE)."
+    ],
+    "correctIndex": 4,
+    "explanation": "O bloqueio de ramo esquerdo é um achado eletrocardiográfico comum em pacientes com DPOC avançada e cor pulmonale.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que a medição da PImáx (Pressão Inspiratória Máxima) avalia e em que cenário clínico é indicada sua solicitação na DPOC?",
+    "options": [
+      "A capacidade de exercício do paciente e a distância percorrida no teste de caminhada de 6 minutos, correlacionando-a com a fadiga e a dispneia.",
+      "O grau de inflamação sistêmica (PCR) e a contagem de eosinófilos no sangue, que é um critério para o início de Corticoides Inalatórios.",
+      "A quantidade de ar retida nos pulmões (Aprisionamento Aéreo) em exames de TC de tórax na fase expiratória, sendo um marcador de enfisema avançado.",
+      "A capacidade de eliminação de secreções e a eficácia da tosse, sendo útil para monitorar a evolução de exacerbações agudas.",
+      "A força dos músculos inspiratórios, sendo solicitada para identificar fraqueza muscular em pacientes com distúrbios neuromusculares ou para monitorar a resposta à reabilitação pulmonar."
+    ],
+    "correctIndex": 4,
+    "explanation": "A PImáx (Pressão Inspiratória Máxima) avalia a força dos músculos inspiratórios. É solicitada para identificar fraqueza muscular em condições neuromusculares ou para monitorar a resposta a tratamentos de reabilitação [18].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente tabagista crônico realiza espirometria pós-broncodilatador com os seguintes resultados: VEF1/CVF = 0,60 e VEF1 = 65% do previsto. Qual é o diagnóstico e a classificação GOLD de gravidade para este paciente?",
+    "options": [
+      "DPOC confirmada (VEF1/CVF < 0,70) e classificada como Obstrução Grave (GOLD 3), pois o VEF1 é inferior a 70% do previsto.",
+      "Obstrução Muito Grave (GOLD 4), pois a razão VEF1/CVF é inferior a 0,60, indicando um risco muito alto de exacerbações futuras.",
+      "DPOC confirmada (VEF1/CVF < 0,70) e classificada como Obstrução Moderada (GOLD 2), pois o VEF1 está entre 50% e 80% do previsto.",
+      "Distúrbio Ventilatório Restritivo, pois a razão VEF1/CVF é inferior a 0,70, o que exige a medição da Capacidade Pulmonar Total (CPT).",
+      "Obstrução Reversível (Asma Brônquica), pois o VEF1 é superior a 50% do previsto, e a obstrução do fluxo aéreo deve ser tratada com SABA/SAMA."
+    ],
+    "correctIndex": 2,
+    "explanation": "O diagnóstico de DPOC é confirmado pela relação VEF1/CVF < 0,70 [1]. A gravidade é GOLD 2 (Moderado) porque o VEF1 está entre 50% e 80% do previsto (65% se enquadra nesta faixa) [4, 5].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com DPOC confirmada (GOLD 3) relata poucos sintomas (mMRC = 1; CAT = 8), mas teve duas exacerbações moderadas que não exigiram hospitalização no último ano. Qual é a correta categorização combinada GOLD (A, B ou E) e qual é a implicação terapêutica primária?",
+    "options": [
+      "Grupo D; A implicação é encaminhar para transplante pulmonar, pois o paciente está no estágio GOLD 3 (Grave) e com sintomas moderados.",
+      "Grupo B; A implicação é iniciar a terapia broncodilatadora dupla (LABA + LAMA), pois o paciente apresenta muitos sintomas (CAT > 10).",
+      "Grupo A; A implicação é iniciar monoterapia com um broncodilatador de longa ação (LABA ou LAMA), focado apenas nos sintomas mínimos.",
+      "Grupo E; A implicação é iniciar a terapia broncodilatadora dupla (LABA + LAMA) ou tripla (LABA/LAMA/CI), pois o paciente é de Alto Risco de Exacerbações (duas moderadas).",
+      "Grupo C; A implicação é iniciar a monoterapia com Corticoide Inalatório (CI) em alta dose, devido às exacerbações frequentes."
+    ],
+    "correctIndex": 3,
+    "explanation": "O paciente é classificado como Alto Risco de Exacerbações (Grupo E), pois teve duas exacerbações moderadas nos últimos 12 meses [7, 8]. A classificação Grupo E prioriza o risco de exacerbação e não leva em conta os sintomas [8].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com histórico de tabagismo e bronquite crônica é internado por uma exacerbação aguda. A gasometria arterial revela hipoxemia crônica (PaO2 < 60 mmHg) e hipercapnia (PaCO2 > 50 mmHg). Qual achado de imagem deve ser investigado ativamente devido ao risco de comorbidade grave associada a esses achados gasométricos?",
+    "options": [
+      "Deficiência de Alfa-1 Antitripsina (AAT) em lobos inferiores, que é uma condição genética rara e não relacionada diretamente à hipercapnia.",
+      "Presença de bolhas (bullae e blebs) subpleurais, que só aumentam o risco de Pneumotórax Espontâneo e não causam insuficiência respiratória crônica.",
+      "Bronquiectasias e fibrose pulmonar, que indicariam doença pulmonar restritiva concomitante e VEF1/CVF normal.",
+      "Sinais de Hipertensão Pulmonar e Cor Pulmonale (aumento do calibre do tronco da artéria pulmonar/SVD no ECG), causados pela hipóxia e hipercapnia crônicas e vasoconstrição pulmonar.",
+      "Áreas de aprisionamento aéreo (Enfisema Centrolobular) exclusivas nos ápices pulmonares, que não causam risco de Cor Pulmonale."
+    ],
+    "correctIndex": 3,
+    "explanation": "A hipoxemia e a hipercapnia crônicas estimulam a vasoconstrição pulmonar [19], levando à Hipertensão Pulmonar e, consequentemente, ao Cor Pulmonale (Insuficiência Cardíaca Direita) [20]. A investigação deve focar nestes achados cardíacos e vasculares (aumento do tronco da AP na TC/RX) [21].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente com DPOC avançada (GOLD 4) está em reabilitação pulmonar. Se o teste de PEmáx (Pressão Expiratória Máxima) revelar fraqueza acentuada, qual é a principal implicação clínica dessa fraqueza para o paciente?",
+    "options": [
+      "Diminuição da capacidade de tossir com eficácia e eliminar secreções, o que aumenta o risco de retenção de muco, infecções e exacerbações agudas.",
+      "Risco aumentado de trombose coronariana e embolia pulmonar, exigindo o início de anticoagulação e terapia tripla com broncodilatadores.",
+      "Indicação para cirurgia de Bullectomia, pois a fraqueza muscular confirma a presença de bolhas volumosas que ocupam o espaço intratorácico.",
+      "Necessidade de iniciar Vareniclina ou Bupropiona, pois a fraqueza muscular está diretamente ligada à continuação do tabagismo.",
+      "Risco aumentado de hipoxemia crônica (PaO2 $\\le$ 55 mmHg), exigindo o início imediato de Oxigenoterapia Domiciliar."
+    ],
+    "correctIndex": 0,
+    "explanation": "A PEmáx avalia a força dos músculos expiratórios. A fraqueza desses músculos compromete a capacidade de tossir e eliminar secreções, aumentando o risco de complicações pulmonares e exacerbações infecciosas [18].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente com DPOC é classificada no Grupo E (Alto Risco) e apresenta eosinofilia no sangue ($\\ge 300$ células/μl) e bronquite crônica. Qual é a decisão terapêutica escalonada que se justifica nesses pacientes com fenótipo inflamatório específico?",
+    "options": [
+      "Adição de Teofilina e Roflumilaste (Inibidor da PDE4), pois este é o único tratamento indicado para o fenótipo bronquítico (sem eosinofilia).",
+      "Adição de Corticoides Inalatórios (CI) à terapia broncodilatadora (LABA/LAMA) ou a Azitromicina, ou a consideração de Dupilumabe (bloqueador de IL-4 e IL-13) em casos de exacerbações persistentes.",
+      "Apenas Oxigenoterapia Domiciliar (para SaO2 88-92%), pois a eosinofilia indica que o tratamento farmacológico máximo já foi atingido e falhou.",
+      "Adição de Ensifentrina (Inibidor de PDE3 e PDE4), pois é uma nova opção para pacientes com dispneia persistente, independentemente da contagem de eosinófilos.",
+      "Trocar a terapia LABA/LAMA por monoterapia com SABAs (Salbutamol) apenas para alívio rápido, devido ao risco de infecções graves com o uso crônico de CI."
+    ],
+    "correctIndex": 1,
+    "explanation": "Corticosteroides Inalatórios (CI) são indicados para pacientes com exacerbações frequentes e/ou eosinofilia no sangue [22, 23]. Para exacerbações persistentes e eosinofilia $\\ge 300$ células/μl, pode-se considerar o Dupilumabe [24].",
+    "type": "raciocínio"
+  }
+]

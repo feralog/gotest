@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Qual é a medida de tratamento considerada a mais crucial e eficaz para retardar a progressão da Doença Pulmonar Obstrutiva Crônica (DPOC), independentemente do estágio da doença?",
+    "options": [
+      "O encaminhamento obrigatório e imediato para a Cirurgia Redutora de Volume Pulmonar (bullectomia) para remover áreas de enfisema bolhoso.",
+      "O uso contínuo de Oxigenoterapia Domiciliar, mesmo em pacientes com saturação acima de 90%, para proteger o coração.",
+      "Administração de antibióticos macrolídeos (Azitromicina) cronicamente para prevenir infecções bacterianas recorrentes e fibrose.",
+      "Início imediato da terapia tripla (LABA/LAMA/CI) para reduzir a inflamação sistêmica e bronquial.",
+      "A cessação completa do tabagismo, com apoio e tratamento farmacológico (vareniclina ou reposição de nicotina), que pode retardar a progressão da doença."
+    ],
+    "correctIndex": 4,
+    "explanation": "A cessação do tabagismo é a medida mais crucial e eficaz, sendo capaz de retardar a progressão da DPOC [1-3]. O tratamento farmacológico para cessação inclui reposição de nicotina, vareniclina ou bupropiona [2, 4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os broncodilatadores de longa ação (LABAs e LAMAs) são o pilar do tratamento farmacológico da DPOC. Qual é o papel principal dessas classes de medicamentos (LABA/LAMA) no manejo diário da DPOC?",
+    "options": [
+      "Agir como anti-inflamatórios potentes para reduzir a eosinofilia no sangue e prevenir infecções fúngicas orais.",
+      "Reduzir o risco de Cor Pulmonale e a sobrecarga do ventrículo direito, diminuindo a vasoconstrição pulmonar induzida pela hipoxemia crônica.",
+      "Serem a terapia de primeira linha para pacientes com exacerbações frequentes e VEF1 abaixo de 50%, substituindo o uso de Corticoesteroides Inalatórios (CI).",
+      "São usados diariamente para controle, relaxando os músculos das vias aéreas para abri-las e facilitando a respiração, ajudando no controle sintomático [5, 6].",
+      "Fornecer alívio rápido dos sintomas de dispneia e sibilância (como a popular 'bombinha') em situações de emergência."
+    ],
+    "correctIndex": 3,
+    "explanation": "Os broncodilatadores de longa ação (LABAs e LAMAs) são o pilar do tratamento e são utilizados diariamente para controle, relaxando os músculos das vias aéreas, abrindo-as e facilitando a respiração [2, 5-7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a indicação clínica específica para a adição de Corticoesteroides Inalatórios (CI) à terapia broncodilatadora em pacientes com DPOC, conforme as diretrizes GOLD?",
+    "options": [
+      "Para pacientes com exacerbações frequentes e/ou eosinofilia no sangue, geralmente combinados com LABA (LABA/CI) ou em terapia tripla (LABA/LAMA/CI) [5, 7].",
+      "No manejo agudo das exacerbações, sendo administrados em dose alta e contínua, mas nunca na terapia de manutenção crônica.",
+      "Em todos os pacientes com DPOC (GOLD 1 a 4), independentemente da gravidade, pois o CI é a monoterapia de primeira linha.",
+      "Apenas em pacientes com histórico de infarto do miocárdio ou insuficiência cardíaca congestiva, para reduzir a inflamação sistêmica.",
+      "Em pacientes com VEF1/CVF acima de 0,80 (pós-broncodilatador), para prevenir a destruição alveolar e o enfisema bolhoso."
+    ],
+    "correctIndex": 0,
+    "explanation": "Os Corticoesteroides Inalatórios (CI) são indicados para pacientes com exacerbações frequentes e/ou eosinofilia no sangue [5, 7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Terapia Tripla (LABA/LAMA/CI) representa o escalonamento máximo de broncodilatação e anti-inflamação inalatória. Quais classes de medicamentos compõem esta terapia?",
+    "options": [
+      "Vareniclina (para cessação do tabagismo), Reposição de Alfa-1 Antitripsina e Imunoglobulina G intravenosa (IVIG).",
+      "Agonistas Beta-2 de curta ação (SABA), Agonistas Muscarínicos de longa ação (LAMA) e Inibidores de PDE4 (Roflumilaste).",
+      "Betabloqueadores de longa ação, Inibidores da ECA e Diuréticos Tiazídicos.",
+      "Agonistas Beta-2 de longa ação (LABA), Antagonistas Muscarínicos de longa ação (LAMA) e Corticoesteroides Inalatórios (CI) [7, 8].",
+      "Antibióticos Macrolídeos (Azitromicina), Metilxantinas (Teofilina) e Corticoides Sistêmicos (Prednisona)."
+    ],
+    "correctIndex": 3,
+    "explanation": "A Terapia Tripla é composta por LABA / LAMA / CI (Agonista Beta-2 de longa ação / Antagonista Muscarínico de longa ação / Corticoesteroide Inalatório) [7, 8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o objetivo principal do manejo agudo das exacerbações da DPOC com insuficiência respiratória, em relação à titulação da Oxigenoterapia?",
+    "options": [
+      "Aumentar o esforço ventilatório, estimulando a respiração rápida e superficial para eliminar o excesso de dióxido de carbono.",
+      "Garantir a ventilação mecânica invasiva (VMI) imediata, pois toda exacerbação grave está associada à acidose respiratória refratária.",
+      "Administrar grandes volumes de diuréticos de alça (Furosemida) para reduzir a sobrecarga de volume, o que piora a hipercapnia.",
+      "O objetivo é atingir níveis de saturação de oxigênio entre 88% e 92% para evitar a hipercapnia induzida por oxigênio [9].",
+      "Manter a saturação de oxigênio (SaO2) acima de 98% por máscara de O2 de alto fluxo, independentemente da PaCO2, para máxima oxigenação tissular."
+    ],
+    "correctIndex": 3,
+    "explanation": "No manejo agudo, o objetivo é atingir níveis de saturação de oxigênio entre 88% e 92% para evitar a hipercapnia induzida por oxigênio [9].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Ventilação Não Invasiva (VNI) pode ser utilizada no manejo da DPOC. Qual é o contexto de indicação da VNI em pacientes com exacerbações agudas?",
+    "options": [
+      "A VNI é contraindicada em pacientes com alto risco de hipercapnia e acidose respiratória, pois agrava o aprisionamento aéreo.",
+      "É o tratamento de escolha para o enfisema bolhoso (Pink Puffer), visando a redução do volume pulmonar antes da cirurgia.",
+      "É usada cronicamente para fortalecer os músculos expiratórios (PEmáx) e melhorar a capacidade de tossir em pacientes com bronquite crônica.",
+      "É um suporte ventilatório indicado durante exacerbações agudas com insuficiência respiratória para melhorar a troca gasosa e evitar a intubação orotraqueal [10].",
+      "A VNI é utilizada apenas para pacientes com DPOC GOLD 1 ou 2, antes de iniciar a terapia farmacológica inalatória."
+    ],
+    "correctIndex": 3,
+    "explanation": "A VNI é um suporte ventilatório utilizado durante exacerbações agudas com insuficiência respiratória para melhorar a troca gasosa [10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o critério de elegibilidade para iniciar a Oxigenoterapia Domiciliar Crônica em pacientes com DPOC?",
+    "options": [
+      "Sinais de sobrecarga ventricular esquerda no ECG (Critério de Cornell) e edema periférico refratário a diuréticos.",
+      "Hipoxemia crônica grave, definida por PaO2 $\\le 55$ mmHg ou SaO2 $\\le 88\\%$ em repouso [11].",
+      "A idade avançada e a presença de cardiopatias concomitantes, como a Fibrilação Atrial e o Bloqueio Atrioventricular de alto grau.",
+      "A classificação GOLD 1 (VEF1 $\\ge 80\\%$ do previsto), associada à ausência de resposta aos broncodilatadores de curta ação (SABAs).",
+      "Apenas a presença de tosse produtiva e escarro purulento por pelo menos 3 meses em 2 anos consecutivos, independentemente da saturação."
+    ],
+    "correctIndex": 1,
+    "explanation": "A Oxigenoterapia Domiciliar é indicada para pacientes com hipoxemia crônica grave (PaO2 $\\le 55$ mmHg ou SaO2 $\\le 88\\%$ em repouso) e comprovadamente aumenta a sobrevida [11].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Reabilitação Pulmonar é uma intervenção não-farmacológica essencial. Quais são os principais componentes deste programa multidisciplinar?",
+    "options": [
+      "Exercícios físicos e treinamento aeróbico, educação sobre a doença, suporte nutricional e apoio psicossocial [12-14].",
+      "Apenas o uso de oxigenoterapia domiciliar e a administração de antibióticos macrolídeos de forma contínua por 12 meses.",
+      "Restrição hídrica severa, administração de diuréticos de alça e monitoramento diário do peso do paciente para controlar a sobrecarga volêmica.",
+      "Cirurgia redutora de volume pulmonar (bullectomia) e o implante de válvulas endobrônquicas para desobstruir as vias aéreas centrais.",
+      "Somente a avaliação da força dos músculos inspiratórios (PImáx) e expiratórios (PEmáx) com manovacuômetro a cada 6 meses."
+    ],
+    "correctIndex": 0,
+    "explanation": "A Reabilitação Pulmonar é um programa multidisciplinar que inclui exercícios, educação, suporte nutricional e apoio psicossocial, visando melhorar a dispneia e a capacidade de exercício [12, 14].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal benefício comprovado da Reabilitação Pulmonar no manejo da DPOC?",
+    "options": [
+      "Eliminar a necessidade de Oxigenoterapia Domiciliar e substituir a terapia farmacológica inalatória (LABA/LAMA/CI).",
+      "Prevenir o desenvolvimento de Enfisema Centrolobular (Centroacinar) e a deficiência de Alfa-1 Antitripsina.",
+      "Aumentar a Fração de Ejeção do Ventrículo Esquerdo (FEVE) e prevenir o remodelamento ventricular após o Cor Pulmonale.",
+      "Melhorar a dispneia, a capacidade de exercício e a qualidade de vida do paciente, através do fortalecimento muscular e educação [12, 14].",
+      "Reduzir o risco de trombose coronariana e o desenvolvimento de Hipertensão Arterial Sistêmica (HAS) em 50%."
+    ],
+    "correctIndex": 3,
+    "explanation": "O programa multidisciplinar de Reabilitação Pulmonar melhora a dispneia, a capacidade de exercício e a qualidade de vida [12, 14].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes medicamentos é um Inibidor Seletivo da Fosfodiesterase-4 (PDE4) e é indicado como terapia de adição para pacientes com Bronquite Crônica grave que apresentam exacerbações persistentes?",
+    "options": [
+      "Bupropiona, um medicamento utilizado para a cessação do tabagismo através do bloqueio de recaptação de NA e DA.",
+      "Roflumilaste, um inibidor da PDE4 que pode ser adicionado para pacientes com exacerbações persistentes, VEF1 < 50% e bronquite crônica [7, 15].",
+      "Fluticasona (CI), um corticoide inalatório, utilizado para pacientes com eosinofilia no sangue e exacerbações.",
+      "Salmeterol (LABA), um agonista beta-2 de longa ação, utilizado para controle diário dos sintomas.",
+      "Tiotrópio (LAMA), um antagonista muscarínico de longa ação, que atua na broncodilatação basal."
+    ],
+    "correctIndex": 1,
+    "explanation": "O Roflumilaste, inibidor da PDE4, pode ser considerado para pacientes com exacerbações persistentes, VEF1 < 50% e bronquite crônica, mesmo em tratamento triplo [7, 15].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Além da vacinação contra a influenza (anual), quais vacinas são essenciais para pacientes com DPOC, visando a prevenção de exacerbações infecciosas?",
+    "options": [
+      "Vacina contra Herpes Zoster e Coqueluche.",
+      "Vacina contra o Papilomavírus Humano (HPV) e Rotavírus.",
+      "Vacina contra o SARS-CoV-2 (COVID) e a vacina contra a Pólio (IPV/OPV).",
+      "Vacinas Pneumocócicas (VPC13 e VPP23) e contra o Vírus da Influenza [3, 11].",
+      "Vacina contra o Vírus Sincicial Respiratório (VSR) e Tuberculose (BCG) ."
+    ],
+    "correctIndex": 3,
+    "explanation": "As vacinas essenciais incluem Influenza (anual) e as vacinas pneumocócicas (VPC13 e VPP23) [3, 11].",
+    "type": "conteudista"
+  },
+  {
+    "question": "No tratamento agudo das exacerbações da DPOC, quando se deve considerar o início da terapia antibiótica (ATB)?",
+    "options": [
+      "Pode ser considerado quando houver aumento da purulência e do volume do escarro, ou quando o paciente necessita de ventilação mecânica [10, 16].",
+      "Quando o nível de Proteína C Reativa (PCR) está abaixo de 5 mg/dL, indicando que a infecção é leve e responsiva a antibióticos de primeira linha.",
+      "Apenas quando o paciente apresenta febre alta e linfocitose maciça, indicando infecção viral grave.",
+      "O ATB é indicado rotineiramente em todas as exacerbações, devido ao risco de infecção oculta por *Staphylococcus aureus*.",
+      "Somente após 7 dias de tratamento com corticoides sistêmicos e broncodilatadores, se não houver melhora na saturação de oxigênio."
+    ],
+    "correctIndex": 0,
+    "explanation": "O ATB é considerado quando há aumento da purulência e volume do escarro, ou em pacientes mais graves que necessitam de ventilação mecânica. Níveis elevados de PCR podem auxiliar na decisão [16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos antibióticos listados a seguir é uma opção de primeira linha para o tratamento de exacerbações agudas da DPOC sem fatores de risco para *Pseudomonas*?",
+    "options": [
+      "Amoxicilina/Ácido Clavulânico ou Amoxicilina em dose alta, que são opções de primeira linha em algumas diretrizes [16].",
+      "Ciprofloxacina ou Moxifloxacina (Fluoroquinolonas), que são tipicamente reservadas para casos mais graves e risco de *Pseudomonas*.",
+      "Ceftriaxone, que é um antibiótico de amplo espectro utilizado apenas em pacientes internados com instabilidade hemodinâmica.",
+      "Linezolida, que é um antibiótico potente contra patógenos gram-positivos, mas não é a primeira linha para DPOC.",
+      "Vancomicina e Daptomicina, que são reservadas para infecções por MRSA (Staphylococcus aureus resistente à Meticilina) em pacientes com fibrose cística."
+    ],
+    "correctIndex": 0,
+    "explanation": "As principais opções de antibióticos de primeira linha incluem Amoxicilina/Ácido Clavulânico ou Amoxicilina (em dose mais alta) [16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição de uma exacerbação aguda da DPOC, em termos de sintomas?",
+    "options": [
+      "Episódio de taquipneia e hipotensão, associado à febre, que sempre exige a administração de antibióticos intravenosos e VNI.",
+      "Ocorrência de infarto do miocárdio ou embolia pulmonar, confirmados pela elevação do segmento ST no ECG e troponina positiva.",
+      "Ocorrência de Pneumotórax espontâneo e tosse com hemoptise maciça, devido à ruptura de bolhas subpleurais.",
+      "Episódio de piora súbita da função cardíaca (Cor Pulmonale) e edema periférico, causado pelo uso crônico de corticoides.",
+      "Episódios de piora súbita dos sintomas respiratórios (aumento da dispneia, volume e/ou purulência do escarro) [17, 18]."
+    ],
+    "correctIndex": 4,
+    "explanation": "As exacerbações agudas são episódios de piora súbita dos sintomas respiratórios (aumento da dispneia, volume e/ou purulência do escarro) [17, 18].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O uso de espaçador inalatório é recomendado com 'bombinhas' (aerossóis). Qual é o benefício primário do espaçador?",
+    "options": [
+      "Aumentar a quantidade de medicamento que chega aos pulmões e diminuir a quantidade presa na boca e garganta, melhorando a eficácia e reduzindo efeitos colaterais [15, 19].",
+      "Converter o medicamento em pó (como no Turbuhaler) para a forma líquida, facilitando a absorção tópica nos brônquios centrais.",
+      "Reduzir o volume de ar inalado (Capacidade Vital Forçada), evitando a hiperinsuflação e o colapso alveolar durante a sístole.",
+      "Aumentar a proporção de medicamento que fica na orofaringe, reduzindo a absorção sistêmica e potencializando a eficácia.",
+      "Permitir o uso de doses menores de broncodilatadores (SABA/SAMA) em monoterapia, eliminando a necessidade de Corticoides Inalatórios (CI)."
+    ],
+    "correctIndex": 0,
+    "explanation": "O espaçador aumenta a quantidade de medicamento que chega aos pulmões e diminui a quantidade que fica presa na orofaringe, melhorando a eficácia e reduzindo efeitos colaterais [15, 19].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente tabagista crônico (Parou há 2 anos) com DPOC GOLD 2 (VEF1 60%) e sintomas leves (mMRC $\\le 1$, Grupo A) está usando apenas SABA PRN. Qual é o primeiro passo de escalonamento farmacológico para este paciente sintomático de baixo risco, conforme as diretrizes GOLD?",
+    "options": [
+      "Substituir o SABA por Corticoesteroides Inalatórios (CI) em monoterapia, por 12 meses, para reduzir a inflamação brônquica.",
+      "Encaminhar para Oxigenoterapia Domiciliar, pois a cessação do tabagismo não foi suficiente para reverter o VEF1 para níveis normais.",
+      "Iniciar terapia tripla (LABA/LAMA/CI), pois o VEF1 de 60% já o coloca em risco de exacerbações futuras, independentemente dos sintomas.",
+      "Adicionar Roflumilaste (Inibidor da PDE4) e Azitromicina crônica, pois são terapias de primeira linha para pacientes com tosse produtiva.",
+      "Iniciar um broncodilatador de longa ação (LABA ou LAMA) para controle diário, visto que o paciente tem sintomas e baixo risco de exacerbação [5, 20]."
+    ],
+    "correctIndex": 4,
+    "explanation": "Pacientes do Grupo A (poucos sintomas, baixo risco de exacerbação) devem ter um broncodilatador de longa ação (LABA ou LAMA) introduzido para controle diário, passando de SABA PRN para terapia de manutenção [5, 20].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente idoso com DPOC GOLD 4 (VEF1 < 30%), com histórico de bronquite crônica e uso crônico de Corticoides Inalatórios, apresenta exacerbação grave. A cultura do escarro é positiva para *Pseudomonas aeruginosa*. Qual é a justificativa clínica para o uso de antibióticos de espectro mais amplo neste caso?",
+    "options": [
+      "A infecção por *Pseudomonas* é sempre viral e requer apenas o aumento da dose de broncodilatadores e corticoides sistêmicos.",
+      "A colonização por *Pseudomonas* indica falha na cessação do tabagismo e exige o aumento da dose de Vareniclina e Bupropiona.",
+      "O VEF1 < 30% e a idade avançada são fatores de risco para infecções fúngicas, exigindo o uso de Anfotericina B intravenosa.",
+      "O antibiótico não é necessário, pois a *P. aeruginosa* é flora normal em pacientes com Bronquite Crônica e não causa exacerbações graves.",
+      "O uso crônico de CI, o VEF1 baixo e a idade avançada são fatores de risco conhecidos para colonização por *P. aeruginosa*, exigindo antibióticos de espectro anti-Pseudomonas (ex: Fluoroquinolonas) [10, 16]."
+    ],
+    "correctIndex": 4,
+    "explanation": "O uso crônico de CI, DPOC grave e idade avançada são fatores de risco para colonização por *P. aeruginosa* [10, 16]. A presença de *Pseudomonas* em exacerbações graves exige o uso de antibióticos direcionados (como fluoroquinolonas, que estão entre as opções listadas [16]).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com DPOC GOLD 3 (VEF1 40%) apresenta hipoxemia crônica em repouso (SaO2 86%). Ele é ativo e relata que a dispneia limita severamente suas atividades diárias. Além de iniciar Oxigenoterapia Domiciliar, qual intervenção não farmacológica deve ser integrada ao plano de tratamento para melhorar a qualidade de vida e a tolerância ao esforço?",
+    "options": [
+      "Início de Betabloqueadores seletivos (Metoprolol Succinato) para reduzir a frequência cardíaca e proteger o coração contra a vasoconstrição pulmonar.",
+      "Cirurgia de Bullectomia, pois a hipoxemia crônica e o GOLD 3 indicam que a única solução é a remoção cirúrgica de grandes bolhas.",
+      "Reabilitação Pulmonar (programa multidisciplinar), que melhora a capacidade de exercício, a dispneia e a qualidade de vida, sendo essencial para pacientes sintomáticos e hipoxêmicos [12, 14].",
+      "Apenas o uso de técnicas de higiene brônquica (drenagem postural), pois o VEF1 < 50% contraindica exercícios aeróbicos.",
+      "Aumento da ingesta de ácidos graxos Ômega-3 (EPA/DHA) e vitamina D, pois estes suplementos substituem a necessidade de fortalecimento muscular."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Reabilitação Pulmonar deve ser integrada ao tratamento, pois é um programa multidisciplinar que melhora a capacidade de exercício e a qualidade de vida, sendo crucial para pacientes limitados e sintomáticos, mesmo em GOLD avançado [12, 14].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente com exacerbação grave de DPOC apresenta acidose respiratória (pH 7.25, PaCO2 elevada) e insuficiência respiratória. Qual é o tratamento de suporte ventilatório imediato e preferencial, antes de considerar a Ventilação Mecânica Invasiva (VMI)?",
+    "options": [
+      "Ventilação Não Invasiva (VNI), que é indicada durante exacerbações agudas com insuficiência respiratória para melhorar a troca gasosa e pode evitar a necessidade de VMI [10].",
+      "Administração de Furosemida (Diurético) em alta dose, para reduzir o edema pulmonar e a carga de CO2 no sangue.",
+      "Intubação orotraqueal imediata (VMI), pois o pH abaixo de 7.30 é uma contraindicação absoluta para a VNI.",
+      "Início de Alfa-1 Antitripsina (AAT) intravenosa, pois a acidose sugere deficiência genética e destruição alveolar rápida.",
+      "Apenas Oxigenoterapia (88% a 92%) e broncodilatadores de curta ação (SABA/SAMA) por nebulização, sem pressão de suporte."
+    ],
+    "correctIndex": 0,
+    "explanation": "Em exacerbações agudas com insuficiência respiratória (acidose), a VNI é o suporte ventilatório preferencial para melhorar a troca gasosa e evitar a intubação orotraqueal [10].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente em uso de LABA/LAMA para DPOC (Grupo B) apresenta melhora sintomática, mas um alto nível de eosinófilos no sangue (≥ 300 células/μl) persiste, e ele relata exacerbações nos últimos 12 meses. Qual é o escalonamento terapêutico mais apropriado, considerando o fenótipo eosinofílico?",
+    "options": [
+      "Realizar o desescalonamento, interrompendo o LAMA e mantendo apenas o LABA, pois a melhora sintomática elimina a necessidade de dupla broncodilatação.",
+      "Adicionar um corticoide inalatório (CI) ao LABA/LAMA, formando a Terapia Tripla (LABA/LAMA/CI), ou considerar a adição de Dupilumabe, devido à alta eosinofilia e exacerbações [7, 8, 21].",
+      "Trocar a terapia LABA/LAMA pela monoterapia com Roflumilaste, pois é mais potente para reduzir a inflamação brônquica do que os corticoides.",
+      "Iniciar a reposição de Alfa-1 Antitripsina e suspender todos os inaladores, pois a eosinofilia sugere deficiência genética.",
+      "Trocar o LABA por Azitromicina em baixa dose crônica, pois esta combinação é a primeira linha para pacientes com eosinofilia e VEF1 < 50%."
+    ],
+    "correctIndex": 1,
+    "explanation": "O paciente com exacerbações persistentes e alta eosinofilia ( $\\ge 300$ células/$\\mu$l) tem indicação para a adição de Corticoesteroides Inalatórios (CI) para formar a Terapia Tripla (LABA/LAMA/CI). O Dupilumabe também pode ser considerado neste fenótipo [7, 8, 21].",
+    "type": "raciocínio"
+  }
+]

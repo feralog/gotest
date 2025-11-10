@@ -1,0 +1,379 @@
+[
+  {
+    "question": "Qual é a definição mais precisa de embolia pulmonar (TEP)?",
+    "options": [
+      "Trombose in situ das artérias pulmonares por processo inflamatório local da parede vascular",
+      "Embolização paradoxal de coágulos através de comunicação interatrial com obstrução arterial sistêmica",
+      "Infarto agudo do miocárdio com extensão para o ventrículo direito e comprometimento da circulação pulmonar",
+      "Obstrução parcial ou total da artéria pulmonar ou seus ramos por partículas originárias de outras partes do organismo",
+      "Obstrução venosa pulmonar por processo neoplásico invasivo com comprometimento do retorno venoso"
+    ],
+    "correctIndex": 3,
+    "explanation": "A embolia pulmonar (TEP) é definida como a obstrução parcial ou total da artéria pulmonar ou de seus ramos pelo alojamento de partículas oriundas de outra parte do organismo, sendo o trombo venoso profundo a causa mais frequente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a causa MAIS frequente de embolia pulmonar?",
+    "options": [
+      "Trombose venosa profunda (TVP) de membros inferiores com migração do trombo para circulação pulmonar",
+      "Embolia amniótica durante trabalho de parto com entrada de líquido amniótico na circulação",
+      "Embolia gasosa por entrada de ar no sistema venoso durante procedimentos cirúrgicos",
+      "Embolia gordurosa por fraturas de ossos longos com liberação de medula óssea",
+      "Embolia séptica por endocardite infecciosa do lado direito do coração"
+    ],
+    "correctIndex": 0,
+    "explanation": "A causa mais frequente de embolia pulmonar é a trombose venosa profunda (TVP) nas pernas, braços ou pelve, com migração do trombo através da veia cava inferior para o lado direito do coração e depois para as artérias pulmonares.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os três componentes da Tríade de Virchow na fisiopatologia da trombose venosa?",
+    "options": [
+      "Disfunção plaquetária, deficiência de antitrombina e resistência à proteína C ativada",
+      "Insuficiência cardíaca direita, hipertensão pulmonar e vasodilatação periférica",
+      "Lesão endotelial, estase venosa e coagulopatia (estado de hipercoagulabilidade)",
+      "Hipóxia tecidual, acidose metabólica e liberação de citocinas inflamatórias",
+      "Hiperviscosidade sanguínea, vasoconstrição arterial e aumento da permeabilidade capilar"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Tríade de Virchow compreende: (1) Lesão endotelial - dano ao revestimento vascular; (2) Estase - lentidão ou parada do fluxo sanguíneo; (3) Coagulopatia - estado de hipercoagulabilidade. Estes três fatores predispõem à formação de trombos venosos que podem evoluir para embolia pulmonar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a incidência aproximada de embolia pulmonar no mundo?",
+    "options": [
+      "200-250 casos por 100.000 habitantes ao ano em pacientes hospitalizados",
+      "120-150 casos por 100.000 habitantes ao ano em populações idosas acima de 80 anos",
+      "10-15 casos por 100.000 habitantes ao ano apenas em países desenvolvidos",
+      "60-70 casos por 100.000 habitantes ao ano com distribuição mundial homogênea",
+      "5-10 casos por 100.000 habitantes ao ano com predomínio no sexo feminino"
+    ],
+    "correctIndex": 3,
+    "explanation": "A embolia pulmonar apresenta incidência de aproximadamente 60-70 casos por 100.000 habitantes ao ano no mundo, sendo que na América do Norte atinge 1 a cada 500 pessoas por ano e 1 a cada 100 pessoas com mais de 80 anos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a posição da embolia pulmonar como causa de morte súbita não traumática em ambiente ambulatorial?",
+    "options": [
+      "Quinta causa de mortalidade inesperada em pacientes sem comorbidades conhecidas",
+      "Segunda causa mais frequente de morte súbita não traumática em ambiente extra-hospitalar",
+      "Principal causa de parada cardiorrespiratória em jovens atletas durante exercício",
+      "Primeira causa de morte súbita em pacientes ambulatoriais com doenças cardíacas prévias",
+      "Terceira causa de óbito súbito após acidente vascular cerebral e infarto do miocárdio"
+    ],
+    "correctIndex": 1,
+    "explanation": "A embolia pulmonar representa a segunda causa de morte súbita não traumática em ambiente ambulatorial, sendo responsável por aproximadamente 100.000 óbitos por ano nos EUA e 7.000 no Brasil.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual fator de risco apresenta risco relativo MAIOR que 10 para desenvolvimento de tromboembolismo venoso?",
+    "options": [
+      "Diabetes mellitus tipo 2 em uso de hipoglicemiantes orais há mais de 5 anos",
+      "Tabagismo de 10 maços-ano em paciente com 45 anos sem outras comorbidades",
+      "Obesidade grau I com índice de massa corporal entre 30-35 kg/m²",
+      "Hipertensão arterial sistêmica controlada com inibidores da ECA",
+      "Cirurgia de quadril ou joelho com imobilização pós-operatória prolongada"
+    ],
+    "correctIndex": 4,
+    "explanation": "Entre os fatores de maior risco (risco relativo >10) estão: cirurgia de quadril ou joelho, fratura de membros inferiores, lesão de medula espinal, trauma múltiplo, prévia tromboembolia venosa, infarto do miocárdio recente (<3 meses) e internação recente por insuficiência cardíaca e/ou fibrilação atrial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a tríade clássica de sintomas na embolia pulmonar?",
+    "options": [
+      "Cianose periférica, edema de membros inferiores e ingurgitamento jugular",
+      "Ortopneia, dispneia paroxística noturna e edema pulmonar com escarro espumoso",
+      "Tosse produtiva, febre vespertina e emagrecimento progressivo por semanas",
+      "Dispneia, dor torácica pleurítica e hemoptise com início agudo ou subagudo",
+      "Síncope, palpitações e sudorese fria com palidez cutânea generalizada"
+    ],
+    "correctIndex": 3,
+    "explanation": "A tríade clássica da embolia pulmonar é: dispneia (85% dos casos), dor torácica pleurítica (64-85%) e hemoptise (23-40%). A síncope pode ocorrer em embolias maciças, mas não faz parte da tríade clássica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com suspeita de TEP apresenta síncope. O que isto sugere?",
+    "options": [
+      "Arritmia cardíaca primária sem relação com evento tromboembólico pulmonar",
+      "Embolia pulmonar submaciça com infarto pulmonar periférico sem repercussão sistêmica",
+      "Tromboembolismo venoso recorrente com trombose venosa profunda bilateral extensa",
+      "Embolia pulmonar maciça com obstrução vascular significativa e comprometimento hemodinâmico",
+      "Reação vasovagal por ansiedade durante a crise de dispneia aguda isolada"
+    ],
+    "correctIndex": 3,
+    "explanation": "A síncope na embolia pulmonar sugere embolia maciça, com obstrução significativa do leito vascular pulmonar (>50%), levando a importante comprometimento hemodinâmico, redução do débito cardíaco e hipoperfusão cerebral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o sintoma mais frequente na embolia pulmonar segundo estudos epidemiológicos?",
+    "options": [
+      "Dispneia de início agudo ou subagudo presente em 82-85% dos casos de TEP",
+      "Hemoptise com expectoração sanguinolenta em pequena quantidade intermitente",
+      "Tosse seca ou produtiva sem outros sinais de infecção do trato respiratório",
+      "Dor torácica do tipo pleurítica com piora à inspiração profunda e tosse",
+      "Taquipneia com frequência respiratória acima de 20 rpm em repouso"
+    ],
+    "correctIndex": 0,
+    "explanation": "A dispneia é o sintoma mais frequente na embolia pulmonar, presente em 82-85% dos casos, seguida por dor torácica pleurítica (64-85%) e tosse (52-53%). A taquipneia é o sinal físico mais comum (87-95%).",
+    "type": "conteudista"
+  },
+  {
+    "question": "No escore de Wells para TEP, qual item confere a maior pontuação individual?",
+    "options": [
+      "TVP ou EP prévios e frequência cardíaca > 100/min (1,5 pontos cada)",
+      "Cirurgia recente ou imobilização e idade acima de 65 anos",
+      "Dor em membro inferior unilateral e edema assimétrico de pernas",
+      "Sinais clínicos de TVP e diagnóstico alternativo menos provável que EP (3 pontos cada)",
+      "Hemoptise e câncer ativo (1 ponto cada no escore de Wells)"
+    ],
+    "correctIndex": 3,
+    "explanation": "No escore de Wells, os itens que conferem maior pontuação (3 pontos cada) são: (1) Sinais clínicos de TVP (edema, dor à palpação, aumento de circunferência) e (2) Diagnóstico alternativo menos provável que EP. Pacientes com ≥7 pontos têm alta probabilidade pré-teste.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal utilidade do D-dímero no diagnóstico de embolia pulmonar?",
+    "options": [
+      "Diferenciação entre TEP provocado e não provocado para definir duração da anticoagulação",
+      "Valor prognóstico para estratificar gravidade e necessidade de trombolíticos",
+      "Alta sensibilidade e especificidade para confirmar diagnóstico em qualquer cenário clínico",
+      "Alto valor preditivo negativo para excluir TEP em pacientes com baixa probabilidade clínica",
+      "Monitorização da resposta ao tratamento anticoagulante com heparina não fracionada"
+    ],
+    "correctIndex": 3,
+    "explanation": "O D-dímero tem alto valor preditivo negativo (≈97%), sendo muito útil para excluir TEP em pacientes com baixa probabilidade clínica. Porém, não tem relevância em casos com alta probabilidade pré-clínica, pois resultado positivo não confirma o diagnóstico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual padrão eletrocardiográfico é classicamente associado à embolia pulmonar?",
+    "options": [
+      "Ondas T negativas simétricas e profundas em derivações precordiais",
+      "Supradesnivelamento do segmento ST em derivações anteriores V1-V4",
+      "Bloqueio de ramo esquerdo completo com alargamento do QRS > 120 ms",
+      "Intervalo QT prolongado com dispersão aumentada da repolarização ventricular",
+      "Padrão S1Q3T3 com onda S em D1, onda Q em D3 e onda T invertida em D3"
+    ],
+    "correctIndex": 4,
+    "explanation": "O padrão S1Q3T3 é classicamente associado à embolia pulmonar: onda S proeminente em D1, onda Q em D3 e onda T invertida em D3. Porém, a alteração mais comum é taquicardia sinusal, e o ECG pode ser normal em muitos casos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado radiográfico é conhecido como 'sinal de Westermark' na embolia pulmonar?",
+    "options": [
+      "Dilatação da artéria pulmonar direita com aumento do hilo pulmonar unilateral",
+      "Oligoemia pulmonar focal com hipertransparência localizada por redução do fluxo sanguíneo",
+      "Atelectasias laminares basais bilaterais com discretos derrames pleurais",
+      "Elevação da cúpula diafragmática ipsilateral por diminuição do volume pulmonar",
+      "Opacidade em cunha com base pleural indicando infarto pulmonar hemorrágico"
+    ],
+    "correctIndex": 1,
+    "explanation": "O sinal de Westermark representa oligoemia pulmonar focal (hipertransparência) devido à obstrução arterial por êmbolo, com redução do fluxo sanguíneo regional. Já a 'corcova de Hampton' é a opacidade em cunha do infarto pulmonar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o exame de imagem considerado padrão-ouro para diagnóstico de embolia pulmonar aguda?",
+    "options": [
+      "Cintilografia ventilação-perfusão (V/Q) com probabilidade intermediária ou alta",
+      "Radiografia simples de tórax em incidências póstero-anterior e perfil",
+      "Ecocardiograma transtorácico com avaliação de ventrículo direito e hipertensão pulmonar",
+      "Ultrassonografia Doppler venoso de membros inferiores para detectar TVP",
+      "Angiotomografia computadorizada de tórax com protocolo para embolia pulmonar"
+    ],
+    "correctIndex": 4,
+    "explanation": "A angiotomografia computadorizada de tórax (angio-TC) é considerada o padrão-ouro para diagnóstico de embolia pulmonar aguda, permitindo visualização direta dos trombos nas artérias pulmonares. É muito útil em pacientes com alta probabilidade ao escore de Wells.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento anticoagulante inicial de escolha para embolia pulmonar aguda?",
+    "options": [
+      "Varfarina oral com dose de ataque de 5-10 mg/dia por 3-5 dias até INR terapêutico",
+      "Aspirina em dose de 100 mg/dia associada a clopidogrel 75 mg/dia por 30 dias",
+      "Streptoquinase em infusão venosa contínua por 24-72 horas para lise do trombo",
+      "Heparina não fracionada em bolus de 80 U/kg seguida de infusão de 18 U/kg/hora",
+      "Enoxaparina 1 mg/kg SC 12/12h sem necessidade de monitorização de coagulação"
+    ],
+    "correctIndex": 3,
+    "explanation": "O tratamento anticoagulante inicial para TEP aguda pode ser com heparina não fracionada (bolus 80 U/kg + infusão 18 U/kg/hora) ou heparinas de baixo peso molecular (ex: enoxaparina 1 mg/kg SC 12/12h). A HNF permite rápida reversão e é preferível em casos com risco de sangramento ou necessidade de procedimentos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal indicação para uso de trombolíticos na embolia pulmonar?",
+    "options": [
+      "Embolia pulmonar submaciça com disfunção ventricular direita sem instabilidade hemodinâmica",
+      "Falha terapêutica após 48 horas de anticoagulação adequada com heparina não fracionada",
+      "Trombose venosa profunda proximal extensa com alto risco de embolização recorrente",
+      "Pacientes jovens sem comorbidades com primeiro episódio de TEP não provocado",
+      "Embolia pulmonar maciça com instabilidade hemodinâmica (choque ou hipotensão persistente)"
+    ],
+    "correctIndex": 4,
+    "explanation": "A principal indicação para trombolíticos na embolia pulmonar é a embolia maciça com instabilidade hemodinâmica (choque ou hipotensão persistente). No TEP submaciço (disfunção de VD sem instabilidade), o uso é controverso e deve ser individualizado, pesando benefícios versus riscos de sangramento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a mortalidade em pacientes com embolia pulmonar NÃO tratada?",
+    "options": [
+      "Entre 50-60% principalmente por complicações hemorrágicas e sangramentos intracranianos",
+      "Menos de 1% em pacientes jovens sem comorbidades e com TEP periférico pequeno",
+      "Aproximadamente 30% dos pacientes evoluem para óbito sem tratamento anticoagulante adequado",
+      "Cerca de 5% de mortalidade global independente da instituição de terapia específica",
+      "Praticamente 100% em casos de embolia maciça diagnosticada tardiamente após 72 horas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aproximadamente 30% dos pacientes com embolia pulmonar não tratada evoluem para óbito. Esta alta mortalidade ressalta a importância do diagnóstico precoce e instituição imediata de anticoagulação. O diagnóstico de TEP só é feito se for lembrado!",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual medida de prevenção NÃO farmacológica é eficaz para tromboembolismo venoso?",
+    "options": [
+      "Fisioterapia respiratória com exercícios de expansão pulmonar e incentivo spirometry",
+      "Hidratação venosa vigorosa com solução salina 0,9% a 100 ml/hora por 24 horas",
+      "Deambulação precoce no pós-operatório e exercícios ativos de membros inferiores",
+      "Dieta hipossódica e restrição hídrica para reduzir edema de membros inferiores",
+      "Meias de compressão elástica graduada e bomba de compressão pneumática intermitente"
+    ],
+    "correctIndex": 4,
+    "explanation": "As medidas mecânicas de prevenção incluem meias de compressão elástica graduada e bomba de compressão pneumática intermitente. A deambulação precoce também é importante, mas as medidas mecânicas são específicas para pacientes de alto risco quando a anticoagulação está contraindicada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a indicação para implantação de filtro de veia cava inferior?",
+    "options": [
+      "Falha da terapia trombolítica em restaurar a permeabilidade das artérias pulmonares",
+      "Contraindicação formal à anticoagulação em paciente com TVP proximal ou TEP confirmado",
+      "TEP recorrente durante anticoagulação terapêutica adequada com INR entre 2-3",
+      "Prevenção primária em todos os pacientes submetidos à cirurgia ortopédica major",
+      "Primeiro episódio de TEP não provocado em paciente com mais de 65 anos de idade"
+    ],
+    "correctIndex": 1,
+    "explanation": "O filtro de veia cava inferior está indicado principalmente quando há contraindicação formal à anticoagulação em paciente com tromboembolismo venoso confirmado. Também pode ser considerado em casos de TEP recorrente durante anticoagulação adequada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 42 anos, tabagista, procura atendimento por dor e edema súbito em membro inferior esquerdo com dificuldade para deambular. Durante consulta, inicia dispneia progressiva e dor torácica com piora na inspiração profunda. Qual a hipótese diagnóstica mais provável?",
+    "options": [
+      "Infarto agudo do miocárdio com edema agudo de pulmão cardiogênico secundário",
+      "Pneumonia bacteriana com sepse e choque séptico por focos metastáticos pulmonares",
+      "Tromboembolismo pulmonar com origem em trombose venosa profunda de membro inferior esquerdo",
+      "Pericardite aguda viral com derrame pericárdico e tamponamento cardíaco incipiente",
+      "Discinesia ciliar primária com bronquiectasias e insuficiência respiratória aguda"
+    ],
+    "correctIndex": 2,
+    "explanation": "O caso clínico é altamente sugestivo de tromboembolismo pulmonar: dor e edema unilateral em MMII (sugerindo TVP) associado a dispneia aguda e dor torácica pleurítica. A tríade TVP + dispneia + dor torácica pleurítica é clássica de TEP. O tabagismo é fator de risco adicional.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 68 anos, 48 horas pós-artroplastia total de quadril, desenvolve dispneia súbita, taquipneia e síncope. Ao exame: PA 80/40 mmHg, FC 130 bpm, SatO2 82% em ar ambiente. Qual a conduta IMEDIATA mais adequada?",
+    "options": [
+      "Estabilização hemodinâmica com cristaloides e suporte vasopressor, oxigenioterapia de alto fluxo, e considerar trombolítico para TEP maciça",
+      "Solicitar urgentemente angio-TC de tórax para confirmação diagnóstica antes de qualquer intervenção terapêutica",
+      "Encaminhar para ecocardiograma transtorácico para avaliar função ventricular e pressões cardíacas",
+      "Administrar diurético de alça venoso para insuficiência cardíaca aguda descompensada",
+      "Iniciar antibioticoterapia empírica para sepse de origem pulmonar ou abdominal pós-operatória"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paciente com instabilidade hemodinâmica (hipotensão + síncope) pós-cirurgia ortopédica major sugere TEP maciça. A conduta imediata é estabilização (oxigênio, fluidos, vasopressores) e considerar trombolítico, pois o risco de óbito é alto. O diagnóstico clínico é suficiente para indicar trombolise em contexto de alta probabilidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com TEP confirmado apresenta D-dímero de 450 ng/ml (valor de referência <500 ng/ml). Qual a interpretação CORRETA?",
+    "options": [
+      "Confirmação de TEP de baixo risco e pequena extensão sem necessidade de anticoagulação",
+      "Indicação de TEP crônico organizado e não agudo, com diferente abordagem terapêutica",
+      "Sugestão de erro de coleta ou processamento da amostra que deve ser repetida urgentemente",
+      "Evidência de trombofilia hereditária com deficiência de fatores da coagulação",
+      "Resultado falso-negativo possível, pois 3% dos pacientes com TEP podem ter D-dímero normal"
+    ],
+    "correctIndex": 4,
+    "explanation": "Aproximadamente 3% dos pacientes com TEP confirmado podem apresentar D-dímero normal (<500 ng/ml), representando resultado falso-negativo. O D-dímero tem alto valor preditivo negativo (97%), mas não é 100%. Em contexto de alta probabilidade clínica, TEP não pode ser excluído apenas por D-dímero normal.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com TEP submaciço (estável hemodinamicamente) apresenta disfunção ventricular direita ao ecocardiograma. Qual fator NÃO é critério para considerar trombolítico neste cenário?",
+    "options": [
+      "Idade acima de 75 anos como único critério isolado sem outras comorbidades",
+      "Insuficiência respiratória com hipoxemia refratária apesar de oxigenioterapia máxima",
+      "Deterioração clínica com hipotensão persistente apesar de suporte volêmico adequado",
+      "Marcadores de necrose miocárdica elevados (troponina) com piora progressiva",
+      "Disfunção ventricular direita grave com hipocinesia global e dilatação importante"
+    ],
+    "correctIndex": 0,
+    "explanation": "No TEP submaciço (com disfunção de VD mas sem instabilidade hemodinâmica), a indicação de trombolítico é controversa. A idade avançada isolada NÃO é critério para indicação; na verdade, é fator de risco para complicações hemorrágicas. Os outros fatores podem ser considerados na decisão individualizada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com TEP em anticoagulação apresenta hematêmese e melena. Hemoglobina cai de 13 para 8 g/dL. Qual a conduta mais adequada?",
+    "options": [
+      "Solicitar endoscopia digestiva alta sem interromper terapia anticoagulante vigente",
+      "Manter anticoagulação com redução de 50% da dose e associar inibidor de bomba protônica",
+      "Suspender anticoagulante, investigar fonte de sangramento e considerar filtro de veia cava",
+      "Aumentar dose do anticoagulante para prevenir nova embolização durante episódio hemorrágico",
+      "Substituir anticoagulante por antiagregante plaquetário até resolução do sangramento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Na vigência de sangramento grave (digestivo alto com queda significativa de Hb), deve-se suspender imediatamente a anticoagulação, investigar e tratar a fonte de sangramento, e considerar filtro de veia cava inferior se a anticoagulação estiver contraindicada temporária ou permanentemente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com câncer de pâncreas metastático desenvolve TEP. Qual a duração recomendada de anticoagulação?",
+    "options": [
+      "Um ano com varfarina mantendo INR entre 2,5-3,5 para maior eficácia",
+      "Três meses de tratamento como para qualquer TEP não provocado de primeiro episódio",
+      "Seis meses com heparina de baixo peso molecular seguido de AAS 100 mg/dia",
+      "Apenas durante a internação hospitalar com alta sem anticoagulante oral",
+      "Anticoagulação por tempo indeterminado enquanto o câncer estiver ativo"
+    ],
+    "correctIndex": 4,
+    "explanation": "Em pacientes com câncer ativo (especialmente metastático) e TEP, a anticoagulação deve ser mantida por tempo indeterminado (enquanto o câncer estiver ativo), devido ao alto risco de recorrência. Preferencialmente com heparina de baixo peso molecular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual achado ao ecocardiograma NÃO é característico de embolia pulmonar aguda?",
+    "options": [
+      "Regurgitação tricúspide moderada a grave com gradiente pressórico elevado",
+      "Hipertrofia concêntrica do ventrículo esquerdo com fração de ejeção preservada",
+      "Desvio do septo interventricular para o lado esquerdo em diástole (achado em D)",
+      "Dilatação e hipocinesia do ventrículo direito com pressão sistólica pulmonar elevada",
+      "Sinal McConnell (hipocinesia do VD com apex preservado) sugerindo sobrecarga aguda"
+    ],
+    "correctIndex": 1,
+    "explanation": "A hipertrofia concêntrica do VE não é característica de TEP agudo. Os achados ecocardiográficos típicos incluem: dilatação/hipocinesia do VD, sinal McConnell, desvio septal, regurgitação tricúspide e hipertensão pulmonar aguda. A hipertrofia ventricular esquerda é achado crônico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com TEP apresenta padrão S1Q3T3 no ECG e PaO2 de 55 mmHg. Qual a classificação mais provável?",
+    "options": [
+      "TEP maciço com instabilidade hemodinâmica e choque cardiogênico iminente",
+      "TEP de baixo risco sem repercussão hemodinâmica ou ventilatória significativa",
+      "TEP crônico com cor pulmonale estabelecido e hipertensão pulmonar fixa",
+      "Embolia séptica por endocardite direita com abscessos pulmonares múltiplos",
+      "TEP submaciço com comprometimento ventilatório e sobrecarga ventricular direita"
+    ],
+    "correctIndex": 4,
+    "explanation": "Paciente com hipoxemia grave (PaO2 <60 mmHg) e sinais de sobrecarga direita (S1Q3T3), mas sem instabilidade hemodinâmica, caracteriza TEP submaciço. O TEP maciço exigiria hipotensão/choque. A hipoxemia <60 mmHg sugere comprometimento significativo.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual situação NÃO constitui fator de risco significativo para tromboembolismo venoso?",
+    "options": [
+      "Uso de contraceptivos orais combinados em mulheres fumantes acima de 35 anos",
+      "Câncer ativo especialmente pancreático, pulmonar ou adenocarcinomas em geral",
+      "Hipertensão arterial controlada com IECA em paciente sem outras comorbidades",
+      "Viagem aérea prolongada (>6 horas) com imobilização e desidratação",
+      "Cirurgia ortopédica major de quadril ou joelho sem profilaxia adequada"
+    ],
+    "correctIndex": 2,
+    "explanation": "A hipertensão arterial controlada isolada NÃO é fator de risco significativo para TEV. Os fatores de maior risco incluem cirurgias ortopédicas majors, câncer ativo, contraceptivos orais (especialmente em fumantes), e imobilização prolongada. A HAS tem risco relativo <2.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com TEP tratado apresenta INR de 1,8 após 5 dias de varfarina. Qual conduta?",
+    "options": [
+      "Associar aspirina 100 mg/dia para potencializar efeito antitrombótico da varfarina",
+      "Substituir varfarina por heparina de baixo peso molecular por mais 30 dias",
+      "Suspender heparina imediatamente pois INR >1,5 já oferece proteção adequada",
+      "Manter heparina e ajustar dose de varfarina até INR terapêutico (2,0-3,0) por 2 dias consecutivos",
+      "Aumentar dose de varfarina em 50% e repetir INR em 7 dias para reavaliação"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ao iniciar varfarina, deve-se manter a heparina sobreposta até que o INR atinja e se mantenha na faixa terapêutica (2,0-3,0) por pelo menos 2 dias consecutivos. INR de 1,8 é sub-terapêutico, necessitando ajuste de dose e manutenção da heparina.",
+    "type": "raciocínio"
+  }
+]

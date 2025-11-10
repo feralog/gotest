@@ -1,0 +1,548 @@
+[
+  {
+    "question": "Uma criança iniciou marcha independente há 6 meses, apresenta vocabulário de 15 palavras e ainda é amamentada. Qual a categoria etária mais provável segundo a SBP?",
+    "options": [
+      "Recém-nascido (primeiras 4 semanas de vida)",
+      "Pré-escolar (período entre segunda infância e idade escolar)",
+      "Adolescente (segunda década de vida)",
+      "Lactente (fase de crescimento acelerado no início da vida)",
+      "Escolar (período de educação formal básica)"
+    ],
+    "correctIndex": 3,
+    "explanation": "As características descritas (marcha recente, vocabulário inicial, aleitamento) são típicas de lactentes entre 12-24 meses, faixa que compreende desde 29 dias até 2 anos de idade, conforme classificação da SBP.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual hormônio tem sua secreção máxima durante as fases profundas do sono e atua estimulando condrogênese nas placas epifisárias ósseas?",
+    "options": [
+      "Estrogênio",
+      "Hormônio Tireoidiano (T4)",
+      "Cortisol",
+      "Somatotropina hipofisária",
+      "Insulina"
+    ],
+    "correctIndex": 3,
+    "explanation": "O Hormônio do Crescimento (GH ou somatotropina) é o principal responsável pelo crescimento linear pós-natal e apresenta picos de liberação durante o sono, especialmente nas fases mais profundas, atuando nas placas epifisárias.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual deve ser a técnica correta para medir o comprimento de uma criança de 15 meses?",
+    "options": [
+      "Deitada no antropômetro horizontal, sem sapatos",
+      "Em pé no estadiômetro vertical, descalça",
+      "Sentada em cadeira especial com régua vertical",
+      "Deitada na maca com fita métrica flexível",
+      "Em pé na balança com régua acoplada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para crianças menores de 2 anos, a medição deve ser realizada deitada no antropômetro horizontal, sem sapatos, para obter o comprimento adequado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o ganho ponderal médio esperado para um lactente no primeiro trimestre de vida?",
+    "options": [
+      "10 gramas/dia ou 350 gramas/mês",
+      "20 gramas/dia ou 500 gramas/mês",
+      "30 gramas/dia ou 700 gramas/mês",
+      "25 gramas/dia ou 600 gramas/mês",
+      "15 gramas/dia ou 400 gramas/mês"
+    ],
+    "correctIndex": 2,
+    "explanation": "No primeiro trimestre de vida, o ganho ponderal médio esperado é de 30 gramas/dia ou aproximadamente 700 gramas/mês, conforme estabelecido pelos parâmetros de crescimento infantil.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma adolescente de 14 anos apresenta estatura de 152 cm. O pai mede 170 cm e a mãe 158 cm. Como calcular se a estatura atual está dentro do canal familiar esperado?",
+    "options": [
+      "Somar as alturas parentais, adicionar 13 cm, dividir por 2 e comparar com margem de ±8,5 cm",
+      "Somar as alturas parentais, adicionar 10 cm, dividir por 2 e comparar com margem de ±5 cm",
+      "Somar as alturas parentais, subtrair 10 cm, dividir por 2 e comparar com margem de ±5 cm",
+      "Somar as alturas parentais, subtrair 13 cm, dividir por 2 e comparar com margem de ±8,5 cm",
+      "Multiplicar as alturas parentais, dividir por 2 e comparar com margem de ±10 cm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para meninas, a estatura-alvo é calculada pela fórmula: ((Altura do pai + Altura da mãe) - 13) / 2 ± 8,5 cm, considerando o canal de crescimento familiar e dimorfismo sexual.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a classificação do estado nutricional de uma criança de 4 anos com IMC no escore Z +2,5 segundo a OMS?",
+    "options": [
+      "Risco de sobrepeso (escore Z entre +1 e +2)",
+      "Eutrofia ou adequado (escore Z entre -2 e +1)",
+      "Sobrepeso (escore Z entre +2 e +3)",
+      "Obesidade (escore Z maior que +3)",
+      "Magreza acentuada (escore Z menor que -3)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para crianças de 0 a 5 anos, IMC com escore Z +2,5 está entre +2 e +3, classificado como sobrepeso conforme OMS. Obesidade seria >+3.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o marco de desenvolvimento motor grosseiro esperado para uma criança de 9 meses?",
+    "options": [
+      "Sobe escadas com apoio",
+      "Rola de barriga para as costas",
+      "Engatinha ou se arrasta",
+      "Senta sem apoio",
+      "Anda sem ajuda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aos 9 meses, o marco motor grosseiro esperado é engatinhar ou se arrasta, demonstrando progressão na mobilidade independente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual reflexo primitivo é desencadeado por estímulos súbitos (mudança brusca de posição da cabeça) e sua persistência além dos 4-6 meses pode indicar disfunção neurológica?",
+    "options": [
+      "Reflexo de preensão palmar (desaparece aos 5-6 meses)",
+      "Reflexo de busca (desaparece aos 3-4 meses)",
+      "Reflexo tônico cervical assimétrico (desaparece aos 4-6 meses)",
+      "Reflexo de sucção (desaparece aos 6-12 meses)",
+      "Reflexo de sobressalto com resposta motora (desaparece aos 3-6 meses)"
+    ],
+    "correctIndex": 4,
+    "explanation": "O reflexo de Moro é desencadeado por estímulos súbitos e desaparece em torno dos 3-6 meses de idade, marcando a maturação do sistema nervoso. Sua persistência pode indicar disfunção neurológica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a velocidade de crescimento estatural esperada para uma criança de 3 anos?",
+    "options": [
+      "7 cm/ano",
+      "10 cm/ano",
+      "13 cm/ano",
+      "25 cm/ano",
+      "5 cm/ano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Entre 2 e 4 anos de idade, a velocidade de crescimento estatural esperada é de aproximadamente 7 cm/ano, mostrando desaceleração progressiva em relação aos primeiros anos de vida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual fator NÃO estimula a liberação do Hormônio do Crescimento (GH)?",
+    "options": [
+      "Somatostatina",
+      "Grelina (hormônio da fome)",
+      "Hipoglicemia",
+      "Sono profundo",
+      "GHRH (Hormônio regulador do GH)"
+    ],
+    "correctIndex": 0,
+    "explanation": "A Somatostatina atua como inibidor da liberação do GH, enquanto GHRH, grelina, sono profundo e hipoglicemia são fatores estimuladores da secreção do hormônio do crescimento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 8 meses em consulta de rotina apresenta: senta sem apoio, transfere objetos entre as mãos, emite duplicação de sílabas ('mama', 'dada') e demonstra ansiedade de separação. Qual a interpretação adequada?",
+    "options": [
+      "Sinal de alerta para transtorno do espectro autista por ansiedade de separação excessiva",
+      "Atraso motor grosseiro significativo pela ausência de marcha independente e engatinhar",
+      "Desenvolvimento acelerado acima do esperado com marcos de 12 meses já atingidos",
+      "Desenvolvimento neuropsicomotor adequado com marcos motores, linguísticos e socioemocionais esperados",
+      "Atraso de linguagem grave pela ausência de frases completas e vocabulário limitado"
+    ],
+    "correctIndex": 3,
+    "explanation": "A criança apresenta marcos adequados para 8 meses: sentar sem apoio (motor grosseiro), transferir objetos (motor fino), duplicação de sílabas (linguagem) e ansiedade de separação (social/emocional), indicando desenvolvimento neuropsicomotor dentro da normalidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 4 meses trazido para consulta apresenta: peso no escore Z -2,8; comprimento no escore Z -1,5; perímetro cefálico no escore Z -0,5. Qual a conduta mais adequada?",
+    "options": [
+      "Investigação imediata para baixo peso acentuado e encaminhamento para avaliação especializada nutricional",
+      "Aguardar próximo retorno de rotina em 30 dias para reavaliação do padrão de crescimento",
+      "Suplementação vitamínica e mineral isolada sem necessidade de investigação etiológica adicional",
+      "Alta com retorno em 6 meses pois todas as medidas antropométricas estão dentro da normalidade",
+      "Encaminhamento urgente para neuropediatra por microcefalia grave e risco de sequelas neurológicas"
+    ],
+    "correctIndex": 0,
+    "explanation": "O peso no escore Z -2,8 indica muito baixo peso para idade (< escore Z -3), configurando um sinal de alerta que requer investigação imediata das causas e possível encaminhamento para especialista.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Criança de 2 anos e 3 meses apresenta: anda e corre bem, sobe escadas com apoio, fala cerca de 15 palavras isoladas, remove peças de roupa e brinca paralela com outras crianças. Qual a classificação do desenvolvimento?",
+    "options": [
+      "Desenvolvimento adequado para a idade com marcos motores, linguísticos e sociais esperados",
+      "Atraso grave de linguagem pela ausência de frases completas e vocabulário limitado",
+      "Desenvolvimento acelerado com marcos superiores à faixa etária e habilidades precoces",
+      "Alerta para o desenvolvimento por ausência de alguns marcos da faixa etária",
+      "Provável atraso no desenvolvimento neuropsicomotor com necessidade de encaminhamento especializado"
+    ],
+    "correctIndex": 0,
+    "explanation": "A criança apresenta todos os marcos esperados para a idade: mobilidade independente (motor grosseiro), vocabulário adequado (linguagem), autonomia no vestir (adaptativo) e interação social apropriada, indicando desenvolvimento neuropsicomotor adequado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Adolescente de 14 anos do sexo masculino apresenta velocidade de crescimento de 11 cm/ano, aumento testicular bilateral para 12 mL e surgimento de pelos pubianos. Qual a interpretação correta?",
+    "options": [
+      "Estirão puberal normal no estágio Tanner 3-4 com velocidade e desenvolvimento adequados",
+      "Puberdade precoce que requer investigação endócrina urgente e avaliação de idade óssea",
+      "Desenvolvimento inadequado para a idade cronológica com atraso de caracteres sexuais secundários",
+      "Crescimento acelerado patológico sugestivo de tumor produtor de hormônio de crescimento",
+      "Atraso puberal significativo com ausência de desenvolvimento de caracteres sexuais esperados"
+    ],
+    "correctIndex": 0,
+    "explanation": "O adolescente apresenta características do estirão puberal normal em meninos: velocidade de 10-12 cm/ano, volume testicular aumentado e desenvolvimento de caracteres sexuais secundários no estágio adequado (Tanner 3-4).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Recém-nascido pré-termo de 32 semanas, atualmente com 4 meses de idade cronológica (1 mês de idade corrigida). Qual curva de crescimento deve ser utilizada para acompanhamento?",
+    "options": [
+      "Curva Fenton específica para idade gestacional até atingir termo (40 semanas pós-concepcionais)",
+      "Curva CDC usando idade cronológica sem correção para prematuridade até 2 anos",
+      "Curva Intergrowth-21st para pré-termos até 64 semanas pós-concepcionais com transição para OMS",
+      "Curva OMS para crianças de 0-5 anos usando idade corrigida até 2 anos de vida",
+      "Curva OMS para crianças de 0-5 anos usando idade cronológica desde o nascimento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para recém-nascidos pré-termos, recomenda-se o uso da curva Intergrowth-21st específica para acompanhamento do crescimento pós-natal até aproximadamente 64 semanas pós-concepcionais, quando se inicia a transição para as curvas da OMS.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Criança de 18 meses com perímetro cefálico no escore Z -2,5, presença de 4 alterações fenotípicas e ausência de 2 marcos da faixa etária anterior. Qual a classificação e conduta?",
+    "options": [
+      "Desenvolvimento normal variante sem sinais de alerta - alta do acompanhamento especializado",
+      "Alerta para o desenvolvimento com necessidade de orientar estimulação domiciliar e retorno em 30 dias",
+      "Desenvolvimento limítrofe com necessidade de reavaliar crescimento e marcos em 3 meses",
+      "Provável atraso no desenvolvimento neuropsicomotor - acionar equipe multiprofissional para avaliação especializada",
+      "Desenvolvimento adequado para a idade - manter apenas acompanhamento pediátrico de rotina"
+    ],
+    "correctIndex": 3,
+    "explanation": "A presença de perímetro cefálico < -2 escores Z, múltiplas alterações fenotípicas e ausência de marcos desenvolvimentais configura 'Provável atraso no desenvolvimento', necessitando de acionamento da equipe multiprofissional para avaliação especializada.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 10 meses com ganho ponderal de 200g nos últimos 30 dias, anteriormente no percentil 50, agora no percentil 25. Peso atual no escore Z -1,0. Qual a conduta?",
+    "options": [
+      "Suplementação alimentar hipercalórica obrigatória sem necessidade de investigação etiológica prévia",
+      "Alta sem preocupação pois o peso atual ainda está dentro da faixa de normalidade",
+      "Investigação imediata da causa da desaceleração ponderal com avaliação nutricional e intercorrências",
+      "Encaminhamento urgente para endocrinologista pediátrico para avaliação de distúrbios hormonais",
+      "Aguardar 3 meses para reavaliar se há recuperação espontânea do padrão de crescimento"
+    ],
+    "correctIndex": 2,
+    "explanation": "A desaceleração ponderal significativa (queda do P50 para P25) mesmo com peso atual dentro da normalidade representa um sinal de alerta que requer investigação das causas, incluindo avaliação nutricional, doenças intercorrentes e fatores psicossociais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Criança de 3 anos que não fala frases, apresenta ecolalia ocasional, não responde quando chamada pelo nome e tem baixo contato visual. Todas as medidas antropométricas adequadas. Qual a conduta?",
+    "options": [
+      "Aguardar desenvolvimento espontâneo da linguagem até 4 anos sem intervenções específicas",
+      "Orientar os pais para estimular brincadeiras em casa e retornar em 1 ano para reavaliação",
+      "Encaminhar para avaliação fonoaudiológica e investigação multidisciplinar para Transtorno do Espectro Autista",
+      "Considerar variação normal do desenvolvimento sem necessidade de encaminhamento ou investigação",
+      "Iniciar suplementação com ômega-3 e complexo vitamínico B sem outras intervenções necessárias"
+    ],
+    "correctIndex": 2,
+    "explanation": "A combinação de atraso de linguagem (ausência de frases aos 3 anos), ecolalia, não resposta ao nome e baixo contato visual são sinais de alerta para Transtorno do Espectro Autista (TEA), necessitando de encaminhamento para avaliação especializada multidisciplinar.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Adolescente de 16 anos do sexo feminino com estatura atual 148 cm (escore Z -2,8). Pai com 175 cm, mãe com 160 cm. Estatura-alvo calculada: 161 ± 8,5 cm. Qual a interpretação?",
+    "options": [
+      "Baixa estatura significativa que requer investigação",
+      "Estatura adequada para o alvo familiar",
+      "Baixa estatura familiar constitucional",
+      "Estatura normal para a população",
+      "Alta estatura para a idade"
+    ],
+    "correctIndex": 0,
+    "explanation": "A adolescente apresenta estatura significativamente abaixo do alvo familiar (13 cm abaixo do limite inferior) e escore Z < -2, configurando baixa estatura que requer investigação das possíveis causas, incluindo avaliação endócrina e esquelética.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente de 10 anos apresenta broto mamário bilateral palpável (Tanner 2). Não há pelos pubianos. Menarca ainda não ocorreu. Qual é a interpretação sobre o estágio puberal?",
+    "options": [
+      "Sinal tardio de maturação sexual, devendo investigar atraso puberal",
+      "Padrão anormal que requer dosagem de gonadotrofinas urgente",
+      "Aceleração de crescimento deve preceder qualquer desenvolvimento de caracteres secundários",
+      "Manifestação inicial esperada do desenvolvimento puberal feminino",
+      "Alteração vocal deve ocorrer antes de qualquer sinal físico visível"
+    ],
+    "correctIndex": 3,
+    "explanation": "O desenvolvimento mamário (telarca) é o primeiro sinal objetivo do início da puberdade em meninas, ocorrendo geralmente entre 8 e 13 anos de idade, antecedendo o surgimento de pelos pubianos e a menarca.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o aumento esperado do perímetro cefálico durante o primeiro ano de vida?",
+    "options": [
+      "5 a 7 cm no primeiro ano",
+      "15 a 17 cm no primeiro ano",
+      "10 a 12 cm no primeiro ano",
+      "7 a 9 cm no primeiro ano",
+      "13 a 15 cm no primeiro ano"
+    ],
+    "correctIndex": 2,
+    "explanation": "O perímetro cefálico aumenta aproximadamente 10 a 12 cm durante o primeiro ano de vida, refletindo o rápido crescimento cerebral neste período, com desaceleração progressiva nos anos subsequentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual destes fatores é considerado um estimulador natural da liberação do Hormônio do Crescimento?",
+    "options": [
+      "Hiperglicemia sustentada",
+      "Administração de glicocorticoides",
+      "Obesidade grave",
+      "Somatostatina endógena",
+      "Exercício físico intenso"
+    ],
+    "correctIndex": 4,
+    "explanation": "O exercício físico intenso é um potente estimulador fisiológico da liberação do Hormônio do Crescimento, enquanto hiperglicemia, somatostatina, obesidade e glicocorticoides atuam como inibidores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a classificação do estado nutricional de uma criança de 7 anos com IMC no percentil 88?",
+    "options": [
+      "Obesidade",
+      "Magreza",
+      "Sobrepeso",
+      "Eutrofia (adequado)",
+      "Risco de sobrepeso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para crianças de 5 a 10 anos, IMC entre os percentis 85 e 97 é classificado como sobrepeso, enquanto acima do percentil 97 é considerado obesidade, conforme os critérios da Organização Mundial da Saúde.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual marco de linguagem é esperado para uma criança de 2 anos?",
+    "options": [
+      "Emite sons guturais e ri alto",
+      "Duplica sílabas ('mama', 'papa')",
+      "Fala palavras isoladas (3-6 palavras)",
+      "Forma frases de 2 palavras",
+      "Fala frases complexas e conta histórias"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aos 2 anos de idade, o marco esperado de linguagem é a formação de frases com 2 palavras, além de um vocabulário de aproximadamente 50 palavras e compreensão de comandos simples.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a técnica correta para medição do perímetro cefálico em lactentes?",
+    "options": [
+      "Fita métrica na altura das sobrancelhas e base do crânio",
+      "Fita métrica passando pelos sulcos supraorbitários e ponto mais saliente do occipital",
+      "Fita métrica na testa e nuca na linha dos olhos",
+      "Fita métrica passando acima das orelhas e abaixo do occipital",
+      "Fita métrica passando pela glabela e protuberância occipital externa"
+    ],
+    "correctIndex": 1,
+    "explanation": "A medição correta do perímetro cefálico deve ser realizada passando a fita métrica inelástica acima dos sulcos supraorbitários anteriormente e pelo ponto mais saliente do occipital posteriormente, garantindo a maior circunferência craniana.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma adolescente de 11 anos apresenta broto mamário (Tanner 2) e cresceu 9 cm no último ano. Como interpretar essa velocidade de crescimento?",
+    "options": [
+      "Velocidade excessiva sugestiva de tumor produtor de hormônio de crescimento",
+      "Aceleração típica sem significado patológico nessa faixa etária específica",
+      "Velocidade inadequada que indica deficiência hormonal e requer investigação",
+      "Padrão compatível com estirão puberal feminino normal",
+      "Crescimento insuficiente para a fase puberal que requer suplementação"
+    ],
+    "correctIndex": 3,
+    "explanation": "Durante o estirão puberal, as meninas apresentam velocidade de crescimento de 8-10 cm/ano, geralmente concomitante ou logo após o aparecimento do broto mamário (estádio Tanner 2-3), tornando esse padrão normal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual destes é um fator de risco para déficit auditivo em recém-nascidos?",
+    "options": [
+      "Peso ao nascer >4.000g",
+      "Bilirrubina ≥20 mg/dL",
+      "Apgar no 5º minuto ≥8",
+      "Idade gestacional >40 semanas",
+      "Ausência de antecedentes familiares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bilirrubina ≥20 mg/dL é um fator de risco estabelecido para déficit auditivo em recém-nascidos, devido ao potencial de toxicidade do pigmento para o nervo auditivo e núcleos cocleares.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 5 meses apresenta: rola de barriga para costas, sustenta cabeça firmemente, segue objetos a 180°, sorri responsivamente e leva objetos à boca. Qual a avaliação do desenvolvimento?",
+    "options": [
+      "Atraso motor grosseiro significativo",
+      "Sinais de alerta para paralisia cerebral",
+      "Atraso de linguagem evidente",
+      "Desenvolvimento acelerado acima do esperado",
+      "Desenvolvimento adequado para a idade"
+    ],
+    "correctIndex": 4,
+    "explanation": "A criança apresenta todos os marcos esperados para 5 meses: rolar (motor grosseiro), sustentar cabeça (controle cervical), seguir objetos (visão), sorrir responsivamente (social) e levar objetos à boca (coordenação e exploração), indicando desenvolvimento neuropsicomotor adequado.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 7 meses, nascido pré-termo de 32 semanas, atualmente com idade corrigida de 5 meses. Não rola, não sustenta a cabeça adequadamente e não segue objetos. Peso e comprimento adequados. Qual a conduta?",
+    "options": [
+      "Desenvolvimento normal para idade corrigida",
+      "Iniciar vitaminas e estimulação caseira sem acompanhamento",
+      "Encaminhamento urgente para avaliação do desenvolvimento neuropsicomotor",
+      "Aguardar desenvolvimento espontâneo até 12 meses",
+      "Considerar variação familiar do desenvolvimento"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ausência de marcos básicos como sustentar cabeça e rolar na idade corrigida de 5 meses representa atraso significativo do desenvolvimento neuropsicomotor, necessitando de encaminhamento urgente para avaliação especializada e intervenção precoce.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Adolescente de 12 anos do sexo feminino inicia desenvolvimento mamário há 6 meses. Estatura atual no percentil 25, velocidade de crescimento de 9 cm/ano. Mãe com menarca aos 13 anos. Qual a conduta?",
+    "options": [
+      "Atraso puberal significativo",
+      "Puberdade precoce que requer bloqueio hormonal",
+      "Solicitar ressonância de hipófise imediatamente",
+      "Desenvolvimento puberal normal e adequado",
+      "Encaminhamento urgente para endocrinologista"
+    ],
+    "explanation": "O desenvolvimento mamário aos 11,5 anos (dentro da faixa normal de 8-13 anos), velocidade de crescimento compatível com estirão puberal e antecedente materno similar caracterizam desenvolvimento puberal normal, não necessitando de intervenção.",
+    "correctIndex": 3,
+    "type": "raciocínio"
+  },
+  {
+    "question": "Criança de 4 anos com perímetro cefálico no escore Z +2,8, frente prominente, atraso de linguagem (fala incompreensível) e histórico de convulsões. Qual a investigação prioritária?",
+    "options": [
+      "Dosagem de hormônios tireoidianos",
+      "Investigação para síndromes genéticas e neuroimagem",
+      "Avaliação oftalmológica de rotina",
+      "Avaliação nutricional básica",
+      "Teste auditivo isolado"
+    ],
+    "correctIndex": 1,
+    "explanation": "A tríade de macrocrania (PC > +2 escores Z), atraso de linguagem e convulsões sugere condições neurológicas ou síndromes genéticas, necessitando de investigação especializada com avaliação genética e neuroimagem como prioridade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 9 meses com peso no escore Z -1,5, comprimento no escore Z -2,0 e perímetro cefálico no escore Z -2,8. Reflexos primitivos presentes, não senta sem apoio. Qual a classificação?",
+    "options": [
+      "Desenvolvimento adequado com baixa estatura familiar",
+      "Alerta para o desenvolvimento com retorno em 30 dias",
+      "Atraso nutricional isolado sem comprometimento neuropsicomotor",
+      "Provável atraso no desenvolvimento com encaminhamento urgente",
+      "Variação normal do desenvolvimento"
+    ],
+    "correctIndex": 3,
+    "explanation": "A combinação de microcefalia (PC < -2 escores Z), desnutrição (peso e comprimento comprometidos) e atraso motor (não sentar aos 9 meses) configura 'Provável atraso no desenvolvimento', necessitando de encaminhamento urgente para avaliação multidisciplinar.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o efeito principal do Hormônio do Crescimento (GH) no tecido ósseo?",
+    "options": [
+      "Estimulação da formação de osteoclastos",
+      "Inibição da proliferação de condrócitos",
+      "Aumento do crescimento longitudinal e condrogênese",
+      "Redução da espessura das placas epifisárias",
+      "Aumento da reabsorção óssea e liberação de cálcio"
+    ],
+    "correctIndex": 2,
+    "explanation": "O GH promove aumento do crescimento longitudinal ósseo através da estimulação da condrogênese e alargamento das placas epifisárias, sendo essencial para o crescimento estatural durante a infância e adolescência.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a diferença esperada entre a medida de comprimento (deitado) e altura (em pé) em crianças?",
+    "options": [
+      "0,7 cm - o comprimento é ligeiramente maior",
+      "2,0 cm - o comprimento é significativamente maior",
+      "0,0 cm - as medidas são idênticas",
+      "1,5 cm - a altura é significativamente maior",
+      "0,3 cm - a altura é ligeiramente maior"
+    ],
+    "correctIndex": 0,
+    "explanation": "Existe uma diferença de aproximadamente 0,7 cm entre o comprimento (medido deitado) e a altura (medida em pé), sendo o comprimento ligeiramente maior devido à posição e distribuição da coluna vertebral.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o período de maior velocidade de crescimento na vida humana?",
+    "options": [
+      "Período pré-escolar (2-6 anos)",
+      "Estirão puberal na adolescência",
+      "Segundo ano de vida",
+      "Período fetal (terceiro trimestre)",
+      "Primeiro ano de vida pós-natal"
+    ],
+    "correctIndex": 3,
+    "explanation": "O período fetal, especialmente o terceiro trimestre, representa o período de maior velocidade de crescimento na vida humana, com ganhos de aproximadamente 60-70 cm/ano, nunca mais igualado em outras fases da vida.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual destes é um fator que INIBE a liberação do Hormônio do Crescimento?",
+    "options": [
+      "Exercício físico",
+      "IGF-1 (Fator de crescimento semelhante à insulina)",
+      "Sono profundo",
+      "Hipoglicemia",
+      "GHRH (Hormônio liberador de GH)"
+    ],
+    "correctIndex": 1,
+    "explanation": "O IGF-1, produzido principalmente no fígado em resposta ao GH, atua como feedback negativo inibindo a liberação do Hormônio do Crescimento, regulando assim o eixo GH-IGF-1.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o marco de desenvolvimento social esperado para uma criança de 3 anos?",
+    "options": [
+      "Brincadeira paralela com outras crianças",
+      "Ansiedade de separação intensa",
+      "Isolamento social completo",
+      "Sorriso social responsivo",
+      "Participação em brincadeiras cooperativas em grupo"
+    ],
+    "correctIndex": 4,
+    "explanation": "Aos 3 anos, as crianças começam a participar de brincadeiras cooperativas em grupo, demonstrando maior interação social, compartilhamento e compreensão de regras simples de convivência.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a classificação do perímetro cefálico para uma criança de 18 meses com medida no escore Z -2,5?",
+    "options": [
+      "Adequado para a idade",
+      "Macrocrania significativa",
+      "Abaixo do esperado para a idade",
+      "Microcefalia grave",
+      "Acima do esperado para a idade"
+    ],
+    "correctIndex": 2,
+    "explanation": "Perímetro cefálico com escore Z < -2 é classificado como 'abaixo do esperado para a idade', configurando microcefalia que requer investigação das causas e acompanhamento do desenvolvimento neuropsicomotor.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Criança de 6 anos apresenta: equilíbrio em cada pé por 6 segundos, copia triângulo, desenha pessoa com 6 partes e define palavras. Avaliação do desenvolvimento?",
+    "options": [
+      "Desenvolvimento adequado para a idade",
+      "Sinais de transtorno de aprendizagem",
+      "Atraso motor grosseiro significativo",
+      "Atraso de linguagem grave",
+      "Superdotação intelectual"
+    ],
+    "correctIndex": 0,
+    "explanation": "A criança apresenta marcos adequados para 6 anos: equilíbrio (motor grosseiro), cópia de formas geométricas (motor fino/visão), desenho da figura humana (cognição) e definição de palavras (linguagem), indicando desenvolvimento neuropsicomotor dentro da normalidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Adolescente de 15 anos do sexo masculino com estatura no percentil 5, sem sinais de desenvolvimento puberal, envergadura 8 cm maior que a altura. Pai com puberdade tardia. Qual a conduta?",
+    "options": [
+      "Atraso constitucional do crescimento e puberdade - acompanhar",
+      "Síndrome de Klinefelter - solicitar cariótipo urgente",
+      "Hipotiroidismo - dosar TSH e T4 livre",
+      "Nanismo hipofisário - realizar ressonância de hipófise",
+      "Deficiência de GH - iniciar tratamento imediato"
+    ],
+    "correctIndex": 0,
+    "explanation": "O adolescente apresenta características de atraso constitucional do crescimento e puberdade: estatura baixa, ausência de desenvolvimento puberal, envergadura aumentada (proporções eunocoides) e antecedente familiar, sendo conduta adequada o acompanhamento clínico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Lactente de 11 meses nascido de parto normal, sem intercorrências. Não engatinha, não fica de pé com apoio, não emite sílabas duplicadas. Todas as medidas antropométricas adequadas. Qual a prioridade?",
+    "options": [
+      "Investigação metabólica completa",
+      "Aguardar desenvolvimento espontâneo até 18 meses",
+      "Encaminhamento para avaliação do desenvolvimento neuropsicomotor",
+      "Avaliação ortopédica para displasia de quadril",
+      "Suplementação com vitaminas do complexo B"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ausência de marcos motores (engatinhar, ficar de pé) e de linguagem (sílabas duplicadas) aos 11 meses representa atraso global do desenvolvimento, necessitando de encaminhamento urgente para avaliação especializada e intervenção precoce.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Criança de 30 meses com vocabulário de 10 palavras, não forma frases, compreende comandos simples, brinca adequadamente sozinha. Desenvolvimento motor normal. Qual a conduta?",
+    "options": [
+      "Transtorno do espectro autista - encaminhar para neurologista",
+      "Aguardar desenvolvimento até 3 anos sem intervenção",
+      "Deficiência auditiva - solicitar audiometria",
+      "Desenvolvimento de linguagem adequado para a idade",
+      "Atraso de linguagem expressiva - encaminhar para fonoaudiologia"
+    ],
+    "correctIndex": 4,
+    "explanation": "Aos 30 meses (2 anos e 6 meses), espera-se vocabulário de 50+ palavras e formação de frases de 2-3 palavras. A criança apresenta atraso de linguagem expressiva significativo, necessitando de encaminhamento para avaliação e terapia fonoaudiológica.",
+    "type": "raciocínio"
+  }
+]

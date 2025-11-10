@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Durante a preparação da paciente para o exame físico ginecológico, qual é o princípio ético fundamental que o médico deve garantir após a paciente retirar a roupa na posição de litotomia ou ginecológica?",
+    "options": [
+      "O médico deve permanecer de costas durante a retirada da roupa, mas a paciente não deve ser coberta, pois isso pode dificultar a transição entre os exames de mama e genitália.",
+      "A paciente deve ser orientada a cobrir apenas a região pélvica, deixando o abdômen exposto para a palpação inicial obrigatória.",
+      "A exposição total do corpo é aceitável, desde que seja breve e acompanhada por uma auxiliar feminina para assegurar a segurança do procedimento.",
+      "É imperativo nunca deixar a paciente completamente nua, utilizando avental ou lençol para cobrir, expondo apenas a área a ser examinada em cada momento do procedimento.",
+      "A cobertura total só é requerida em casos de pacientes menores de idade, sendo que adultas podem permanecer nuas por períodos curtos sob iluminação adequada."
+    ],
+    "correctIndex": 3,
+    "explanation": "A postura correta e ética exige que a paciente nunca seja deixada completamente nua, devendo ser coberta com avental ou lençol, e o profissional deve expor apenas a parte do corpo que está sendo examinada, respeitando ao máximo a privacidade e a vulnerabilidade da paciente [1-3]. As outras opções desrespeitam este princípio fundamental de intimidade e respeito [1, 2, 4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o principal objetivo da palpação bimanual realizada após o toque vaginal unidigital no exame ginecológico, conforme a técnica descrita?",
+    "options": [
+      "Avaliar a integridade do períneo e do esfíncter anal, sendo o toque bimanual obrigatório para o rastreamento de lesões retais suspeitas.",
+      "Realizar a coleta de material para citopatológico, utilizando a mão abdominal para fixar o colo do útero e garantir a profundidade adequada da escovinha.",
+      "Mover o útero através do toque vaginal (inferiormente) e, simultaneamente, palpar o abdômen (superiormente) para localizar e avaliar o fundo uterino, sua mobilidade e consistência.",
+      "Verificar a presença de massas anexiais (ovários ou tubas) que causem dor intensa quando pressionadas entre os dois dedos vaginais e a mão abdominal.",
+      "Determinar a elasticidade das paredes vaginais e confirmar a ausência de dor à mobilização lateral do colo, indicando Doença Inflamatória Pélvica (DIP)."
+    ],
+    "correctIndex": 2,
+    "explanation": "O toque vaginal ginecológico é unidigital e é seguido pelo exame bimanual, no qual a mão externa (sobre o abdômen) trabalha em conjunto com o dedo interno (na vagina) para sentir e movimentar o útero, permitindo localizar o fundo do útero e avaliar seu tamanho e posição [5]. As outras opções descrevem objetivos secundários ou técnicas incorretas/não citadas para o bimanual [5, 6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Ao realizar o exame das mamas em uma paciente, qual a metodologia correta de inspeção, anterior à palpação, que o médico deve empregar para detectar possíveis anormalidades?",
+    "options": [
+      "Exclusivamente a inspeção estática, com a paciente sentada e os braços em repouso lateralmente, buscando assimetrias ou secreções mamilares.",
+      "Inspeção com lupa em diferentes quadrantes, pois a inspeção estática e dinâmica é uma técnica ultrapassada substituída por ultrassonografia imediata em caso de achados.",
+      "A inspeção deve ser estática e dinâmica, sendo a dinâmica essencial para pedir à paciente que realize movimentos que possam tornar visíveis eventuais tumorações que não são notadas em repouso.",
+      "Concentrar-se na inspeção da coloração da pele e na presença de inversão mamilar, já que a busca por tumorações é reservada unicamente para a fase da palpação 360º.",
+      "Apenas a inspeção dinâmica, solicitando à paciente que realize movimentos circulares e flexão do tronco para identificar nódulos dolorosos."
+    ],
+    "correctIndex": 2,
+    "explanation": "O exame físico das mamas inclui inspeção estática (paciente parada) e inspeção dinâmica, onde se pede à paciente para realizar movimentos (como levantar os braços) para que possíveis tumorações fiquem visíveis [7]. A palpação vem em seguida, cobrindo 360º [7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação à técnica do toque vaginal durante o exame ginecológico de rotina, qual característica distingue o toque ginecológico do toque obstétrico, conforme mencionado no material?",
+    "options": [
+      "O toque ginecológico é feito na posição de Valsalva, exigindo o uso de luvas duplas, enquanto o obstétrico é feito em decúbito dorsal e sem luvas.",
+      "Ambos os toques são sempre bidigitais; a única diferença é que o ginecológico avalia útero e anexos, e o obstétrico avalia o grau de dilatação cervical.",
+      "O toque ginecológico de rotina é tipicamente unidigital (um dedo) para avaliar o colo, ao passo que o toque obstétrico é tradicionalmente bidigital (dois dedos).",
+      "O toque obstétrico é fundamentalmente bimanual para avaliação da pelve, enquanto o toque ginecológico foca primariamente na avaliação do orifício cervical externo.",
+      "O toque ginecológico é sempre realizado com o espéculo inserido, enquanto o obstétrico é feito apenas com os dedos para evitar lesão do colo."
+    ],
+    "correctIndex": 2,
+    "explanation": "O toque obstétrico é bidigital, mas o toque ginecológico é unidigital para sentir o colo do útero [5, 6]. O uso de um dedo é suficiente para essa avaliação [5].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes fatores éticos é considerado uma atitude essencial por parte do ginecologista para estabelecer uma relação de confiança e segurança com a paciente durante o exame físico?",
+    "options": [
+      "Explicar à paciente tudo o que será feito antes e durante o exame, solicitando licença para examinar a genitália antes de qualquer movimento.",
+      "Minimizar o tempo de exposição da paciente na posição ginecológica, omitindo a inspeção dinâmica e a manobra de Valsalva para maior conforto.",
+      "Manter a atenção focada na escrita do prontuário eletrônico, utilizando os termos científicos mais adequados para garantir a precisão legal do registro.",
+      "Garantir que a paciente esteja sempre completamente depilada e tenha tomado banho antes da consulta, para facilitar a visualização da vulva e períneo.",
+      "Assumir que, por ser uma consulta íntima, a paciente entende os termos técnicos e científicos, evitando o uso de linguagem chula ou simplificada."
+    ],
+    "correctIndex": 0,
+    "explanation": "É fundamental explicar tudo que será feito antes e durante o exame, e pedir licença/permissão para examinar a genitália antes de qualquer movimento [1, 8]. É também importante não falar apenas termos científicos, mas sim de forma que a paciente compreenda [9]. Mitos como depilação ou banho devem ser derrubados [1, 10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A ginecologia lida frequentemente com aspectos de privacidade máxima. Em relação à postura do profissional durante o exame físico, qual prática é recomendada para pacientes do sexo masculino (gineco homem) que examinam as mamas de pacientes femininas?",
+    "options": [
+      "É suficiente manter uma assistente feminina na sala, dispensando o uso de luvas, pois o foco está apenas na inspeção visual da estática e da dinâmica.",
+      "O profissional deve evitar a palpação mamária, preferindo a inspeção estática, e solicitar uma ultrassonografia imediata caso haja suspeita de massa.",
+      "Tanto profissionais homens quanto mulheres devem sempre examinar as mamas sem luva, pois o toque direto é crucial para sentir a consistência dos nódulos.",
+      "A luva deve ser usada exclusivamente se houver secreção mamilar, sendo desnecessária em exames de rotina de pacientes assintomáticas e previamente examinadas.",
+      "O ideal é que o médico utilize luvas para examinar as mamas, estabelecendo uma barreira física que previna mal-entendidos ou percepções de assédio por parte da paciente."
+    ],
+    "correctIndex": 4,
+    "explanation": "O ideal é que o médico homem (gineco) tenha uma mulher na sala, e especificamente ao examinar a mama, deve-se considerar o uso de luvas para colocar uma barreira, prevenindo que a paciente entenda o toque de forma errônea e evitando complicações ou confusões de assédio [8, 11].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição correta do termo 'Amenorreia' no contexto dos principais motivos de consulta ginecológica, conforme especificado no material?",
+    "options": [
+      "Sangramento vaginal que ocorre especificamente após o ato sexual com penetração.",
+      "Sangramento intermenstrual de pequena quantidade que ocorre na fase lútea do ciclo.",
+      "Aumento do volume de sangramento menstrual que requer mais de cinco absorventes diários.",
+      "Ausência de menstruação por um período igual ou superior a 90 dias consecutivos.",
+      "Dor intensa no baixo ventre que ocorre no período periovulatório."
+    ],
+    "correctIndex": 3,
+    "explanation": "Amenorreia é definida como a ausência de menstruação por 90 dias seguidos [7]. As outras opções definem spotting (sangramento de pequena quantidade entre menstruações) [7], sinusorragia (sangramento após o ato sexual) [7], ou caracterizam sangramento uterino anormal/metrorragia [7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "No exame especular, o uso de diferentes tamanhos (P, M, G) é crucial. Em que situação a escolha por um espéculo de tamanho maior (G) pode ser mais benéfica e menos dolorosa para a paciente do que o uso de um tamanho intermediário (M)?",
+    "options": [
+      "Quando a pelve da mulher é larga e profunda, um espéculo G pode alcançar o colo do útero mais facilmente, evitando forçar e empurrar o M, que não atingiria o alvo.",
+      "O espéculo G só é usado em pacientes multíparas com grande frouxidão vaginal, sendo que em nulíparas deve-se sempre optar pelo tamanho P para evitar ruptura do hímen.",
+      "Quando a paciente relata dor intensa na região pélvica crônica, o espéculo M deve ser forçado lentamente para diminuir a percepção de dor na inserção.",
+      "Em casos de atrofia genital severa pós-menopausa, onde o tecido está muito friável, sendo sempre indicado o uso do menor espéculo disponível (P ou de virgem).",
+      "Em todas as pacientes que estão na menacme (período reprodutivo), o espéculo G é o tamanho padrão, sendo M e P reservados para adolescentes."
+    ],
+    "correctIndex": 0,
+    "explanation": "A escolha correta do espéculo é baseada no 'olhar clínico' da pelve da mulher [12]. Se a pelve é larga, o G pode ser necessário. O uso de um espéculo inadequado (M pequeno demais) pode levar a um exame desagradável e doloroso, pois o médico terá que forçar ou empurrar o instrumento para tentar alcançar o colo, o que seria resolvido com o tamanho G adequado [12].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal manobra de inspeção dinâmica da vulva/períneo que é essencial para o rastreamento ou avaliação inicial de prolapso genital ou perda urinária?",
+    "options": [
+      "A manobra de inspeção estática com a paciente deitada e os braços em abdução, observando a pilificação.",
+      "A manobra bimanual para mobilizar o colo do útero e verificar a presença de dor à lateralização.",
+      "A manobra de Leupold, que consiste na palpação abdominal para estimar o peso uterino.",
+      "A manobra de Kristeller, que consiste na pressão manual do fundo uterino para expulsão de corpos estranhos.",
+      "A manobra de 'fazer força' ou Valsalva, que expõe o assoalho pélvico e avalia se há perda de urina ou descenso de órgãos."
+    ],
+    "correctIndex": 4,
+    "explanation": "A inspeção deve ser complementada pela manobra de Valsalva, na qual a paciente é solicitada a fazer força para verificar se há perda de urina (incontinência) [6]. O prolapso genital (distopia) é uma entidade frequente no climatério [13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Considerando os fatores éticos da consulta ginecológica, como o profissional deve abordar os mitos frequentemente associados ao exame, como a necessidade de depilação ou higiene íntima extrema antes da consulta?",
+    "options": [
+      "Deve-se esclarecer que não é necessário estar depilada ou tomar banho imediatamente antes, pois o profissional consegue diferenciar secreções fisiológicas de patológicas, e o design da vulva não interfere no exame.",
+      "A depilação total é aconselhável para que o profissional possa inspecionar a vulva em busca de lesões ou ISTs, conforme as diretrizes da FEBRASGO.",
+      "A paciente deve ser encorajada a usar a vulva no design que desejar, mas o médico tem o direito de recusar o exame se a higiene for claramente insuficiente ou a pilificação estiver muito densa.",
+      "O ginecologista deve reforçar a importância da higiene extrema, pois a visualização de secreções fisiológicas pode ser confundida com corrimento patológico.",
+      "É crucial que a paciente se sinta confortável em relação à sua depilação, mas deve ser avisada de que a pilificação excessiva pode, em alguns casos, inviabilizar a coleta do citopatológico."
+    ],
+    "correctIndex": 0,
+    "explanation": "O médico deve 'derrubar mitos sobre o exame' [1], explicando que não é necessário estar depilada ou tomar banho antes [10]. A vulva pertence à mulher, e ela usa o design que quiser, e o profissional é capaz de diferenciar secreção fisiológica de patológica [10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal função do ginecologista que vai além do tratamento de doenças, conforme destacado na consulta ginecológica?",
+    "options": [
+      "Atuar como um especialista em reprodução humana, focando na indução da ovulação e na realização de procedimentos de fertilização in vitro (FIV) para casais inférteis.",
+      "Ser o principal responsável pela oncologia pélvica, garantindo o manejo cirúrgico completo e exclusivo de todos os tumores malignos do trato genital inferior.",
+      "O foco principal é o tratamento das patologias obstétricas de alto risco, como pré-eclâmpsia e diabetes gestacional, uma vez que a mulher grávida está em seu 'ápice de vida'.",
+      "Dedicar-se exclusivamente à endocrinologia ginecológica, regulando os ciclos hormonais complexos, como no caso de Síndrome do Ovário Policístico e puberdade precoce.",
+      "Promover e prevenir doenças, desempenhando um papel crucial no rastreamento de cânceres (mama, colo), na prevenção de gravidez e na educação sobre saúde cardiovascular."
+    ],
+    "correctIndex": 4,
+    "explanation": "O papel do ginecologista 'não é só o tratamento de doenças, mas também a promoção e prevenção das mesmas' [14]. Ele é um 'rastreador' [15], focado na prevenção de câncer de colo, mama, doença cardiovascular, e prevenção de gravidez [6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A posição de litotomia, ou ginecológica, é essencial para o exame. Qual é a instrução clássica que o ginecologista deve dar à paciente para garantir uma manobra especular e palpatória eficaz, e qual prática física não é mais permitida nessa posição?",
+    "options": [
+      "Posicionar a paciente com o quadril elevado por um travesseiro, permitindo que as pernas permaneçam esticadas, o que otimiza a visualização do colo.",
+      "Solicitar que a paciente permaneça na extremidade da maca com os pés firmemente apoiados, permitindo amarrar as pernas apenas em casos de grande ansiedade da paciente.",
+      "Orientar a paciente a manter os pés firmemente na extremidade da maca para facilitar o toque obstétrico bidigital, sendo permitido amarrar as pernas para maior segurança.",
+      "Instruir a paciente a se posicionar no centro exato da maca, mantendo as pernas amarradas nas perneiras para garantir a estabilidade e a profundidade adequada do espéculo.",
+      "Pedir à paciente para 'vir para perto' do examinador, 'quase saindo da maca', enquanto é proibido amarrar as pernas, exceto em situações de sedação cirúrgica."
+    ],
+    "correctIndex": 4,
+    "explanation": "A posição clássica é a de litotomia/ginecológica. A frase clássica é 'Venha para perto de mim, eu como quase saindo da maca' para dar espaço de manobra [6]. Não se amarra mais as pernas na posição ginecológica de consulta, sendo considerada uma violência, exceto em cirurgias sob sedação [7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Durante a anamnese, o ginecologista deve adaptar as perguntas à fase da vida da paciente. Qual é a definição correta de 'Menacme' que orienta as perguntas sobre planejamento familiar e ISTs?",
+    "options": [
+      "Período em que a mulher não menstrua por 90 dias consecutivos, indicando necessidade de investigação hormonal ou estrutural.",
+      "A idade após 12 meses consecutivos sem menstruar, caracterizada por atrofia genital, osteoporose e risco cardiovascular aumentado.",
+      "Fase da vida da mulher que engloba o período de transição pré e pós-menopausa, tipicamente iniciando por volta dos 40 anos, com sintomas vasomotores.",
+      "O período de fertilidade da mulher, estendendo-se desde a puberdade até o climatério, sendo a fase mais propícia para patologias obstétricas e miomatose.",
+      "Momento do primeiro sangramento menstrual na vida de uma menina, que marca o início do desenvolvimento dos caracteres sexuais secundários."
+    ],
+    "correctIndex": 3,
+    "explanation": "Menacme é o período de fertilidade, desde a puberdade até o climatério [16, 17]. Nesta fase são frequentes patologias obstétricas, ISTs e planejamento familiar [18]. As outras opções definem amenorreia [7], climatério [16], menarca [16], e menopausa [16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A anamnese ginecológica deve ser adaptada à idade. Se o médico está atendendo uma menina na infância (pré-puberdade), qual dos seguintes achados ginecológicos é mais provável de ser encontrado e requer manejo específico?",
+    "options": [
+      "Patologia obstétrica ou Doença Inflamatória Pélvica (DIP) devido à atividade sexual precoce.",
+      "Sangramento uterino anormal devido a ciclos anovulatórios e imaturidade do eixo hipotálamo-hipófise-ovariano.",
+      "Dismenorreia secundária intensa, causada principalmente por endometriose ou miomatose incipiente.",
+      "Sinéquia labial (fusão dos pequenos lábios) ou a presença de corpos estranhos na vagina.",
+      "Atrofia genital e sintomas vasomotores devido a uma insuficiência ovariana prematura."
+    ],
+    "correctIndex": 3,
+    "explanation": "Na infância, as entidades ginecológicas mais frequentes incluem sinéquias labiais (fusão dos pequenos lábios, frequentemente por higiene inadequada), corpos estranhos e trauma genital/abuso sexual [18, 19]. Sangramento uterino anormal e dismenorreia primária são típicos da adolescência [18, 20].",
+    "type": "conteudista"
+  },
+  {
+    "question": "No que diz respeito à inspeção da vulva e períneo, qual a conduta correta do ginecologista ao detectar a pilificação da paciente, considerando os aspectos éticos da autonomia corporal?",
+    "options": [
+      "É aceitável que o médico expresse preferência por vulvas totalmente depiladas, desde que o faça de maneira discreta e respeitosa.",
+      "O ginecologista deve respeitar o 'design' da vulva escolhido pela paciente (com ou sem pelo), pois o corpo é dela e isso não interfere na capacidade de diagnóstico.",
+      "É responsabilidade do profissional alertar a paciente que a pilificação pode mascarar lesões malignas iniciais, forçando a paciente a depilar-se antes do exame.",
+      "O médico deve sempre recomendar a depilação total para prevenir infecções, especialmente nas mulheres com alto risco de DSTs.",
+      "Deve-se documentar o grau de pilificação apenas com o objetivo de classificar o estágio de Tanner, sendo irrelevante para a inspeção de lesões na vulva."
+    ],
+    "correctIndex": 1,
+    "explanation": "O médico deve derrubar os mitos, e 'a vulva é da mulher. Ela usa a vulva no design que ela quiser... Se ela vai usar peluda, não peluda... não me importa. É o design dela, o corpo é dela' [10]. A postura deve ser de total respeito e aceitação [10].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma paciente de 25 anos, virgem e sexualmente inativa, procura o ginecologista com queixa de dor pélvica e um pequeno sangramento que não é menstrual. Qual é a conduta inicial correta em relação ao exame físico íntimo, com base nas diretrizes de manejo de mulheres virgens?",
+    "options": [
+      "O exame deve incluir imediatamente ultrassom transvaginal e toque vaginal unidigital, pois a dor pélvica requer avaliação de útero e anexos.",
+      "Deve-se realizar o toque retal para palpar o útero e anexos, visto que o toque vaginal é contraindicado em virgens, e o ultrassom transvaginal é reservado para mulheres com vida sexual ativa.",
+      "É obrigatório realizar o exame especular com o espéculo de virgem, pois o sangramento exige a visualização do colo do útero para descartar HPV e câncer cervical.",
+      "A conduta inicial exige a sedação da paciente para a realização do toque bimanual sob anestesia, garantindo o conforto e o diagnóstico preciso da origem da dor.",
+      "O exame deve limitar-se à inspeção da vulva para avaliar lesões ou achados visíveis, evitando o toque vaginal e o exame especular, a menos que haja uma exceção clara para o diagnóstico."
+    ],
+    "correctIndex": 4,
+    "explanation": "Não se faz toque vaginal e exame especular em mulher virgem rotineiramente [21]. A conduta deve limitar-se à inspeção da vulva [22]. O espéculo de virgem é reservado para 'exceções' (corpo estranho, sangramento estranho) e, mesmo assim, pode ser doloroso [21]. Ultrassom transvaginal só é feito em quem já teve relação sexual [23].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente de 66 anos, menopausada há mais de 15 anos, comparece à consulta de rotina. Considerando o diagnóstico de menopausa já estabelecido, qual pergunta da anamnese clássica deve ser adaptada ou evitada para demonstrar respeito à fase da vida e experiência da paciente?",
+    "options": [
+      "A senhora tem sentido sintomas de atrofia genital, como ressecamento ou dispareunia?",
+      "Qual foi a data da sua última menstruação (DUM)?",
+      "A senhora utiliza algum método para prevenção de doenças sexualmente transmissíveis?",
+      "Qual era a frequência e duração do seu ciclo menstrual antes da menopausa?",
+      "A senhora utiliza algum método contraceptivo no momento para evitar uma gravidez?"
+    ],
+    "correctIndex": 4,
+    "explanation": "O médico deve adaptar a anamnese à paciente [24]. Perguntar a uma mulher menopausada há 16 anos se ela usa 'método contraceptivo' é inadequado e pode ofendê-la, pois ela já não tem risco de engravidar [25]. As perguntas sobre ISTs (usar preservativo) [26] ou atrofia genital [13, 27] são pertinentes para esta faixa etária. A DUM e o histórico menstrual são necessários para o registro, mas a pergunta sobre contracepção deve ser evitada [24, 26].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um homem trans, com útero e vagina, procura o ginecologista para acompanhamento de rotina. Qual é a postura ética e prática que o ginecologista deve adotar ao se dirigir a esse paciente durante a consulta e o exame físico?",
+    "options": [
+      "Usar o termo neutro 'pessoa grávida' durante a consulta e exame, mesmo que o paciente não esteja gestante, para evitar incorrer em termos de identidade de gênero inadequados.",
+      "Chamar o paciente pelo nome e pronomes masculinos com os quais ele se identifica, reconhecendo que o ginecologista é o responsável por examinar a genitália feminina que o paciente possui.",
+      "Utilizar o nome de registro civil da paciente, mantendo os pronomes femininos, pois a ginecologia é uma especialidade exclusiva para a genitália feminina.",
+      "O ginecologista deve encaminhar o paciente imediatamente para um urologista, pois a identificação masculina impede a continuidade do tratamento em um serviço de ginecologia.",
+      "Realizar apenas a anamnese e pedir licença para o exame especular, mas evitar o toque vaginal, visto que a penetração pode causar disforia de gênero severa e complicações."
+    ],
+    "correctIndex": 1,
+    "explanation": "O ginecologista atende homens trans ('homem que tem a genitália feminina, mas é um homem') [28]. É fundamental 'chamar pelo nome, respeitar a identidade' [29], utilizando o nome e pronomes com os quais ele se identifica [24]. O ginecologista deve examinar a vulva e vagina do homem trans [28].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Uma paciente na menacme (período fértil) relata que seu sangramento menstrual (eumenorreia prévia) mudou e agora ocorre a cada 15 dias, frequentemente com coágulos grandes, e dura mais de 8 dias. Qual é o achado crucial que o ginecologista deve buscar no exame físico para correlacionar essa queixa com um possível diagnóstico de base?",
+    "options": [
+      "A palpação abdominal em busca de massas ou hérnias, já que a maioria das dores abdominais é de origem intestinal e não ginecológica.",
+      "A palpação da tireoide, pois o sangramento uterino anormal é invariavelmente causado por disfunção endócrina primária, como hipotireoidismo.",
+      "A aferição da pressão arterial, visto que sangramentos intensos estão sempre ligados a um alto risco de pré-eclâmpsia ou insuficiência renal associada.",
+      "O exame especular e a palpação bimanual para detectar se o sangramento tem origem no colo do útero e se há aumento de volume ou alteração na mobilidade uterina (miomatose ou pólipos).",
+      "O exame físico das mamas, buscando nódulos dolorosos, pois a mastalgia cíclica é frequentemente associada a sangramentos uterinos anormais."
+    ],
+    "correctIndex": 3,
+    "explanation": "Sangramento uterino anormal é uma queixa muito frequente [11]. Embora a anamnese seja crucial (frequência, quantidade, duração) [8, 11], o exame físico deve ser realizado no momento do sangramento para tentar fechar o diagnóstico [7]. O exame especular permite visualizar a fonte do sangramento (colo ou endométrio), e a palpação bimanual pode revelar patologias como miomas ou aumento uterino [5].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Ao realizar o rastreamento de saúde em uma paciente assintomática de 50 anos, o ginecologista aferiu a pressão arterial, que estava elevada. Com base no papel do ginecologista como clínico da mulher, qual é a relevância desse achado e a conduta subsequente esperada?",
+    "options": [
+      "A pressão alta é um sintoma comum do climatério, portanto, basta iniciar a terapia de reposição hormonal sem necessidade de encaminhamento, observando a evolução.",
+      "É um achado irrelevante para a ginecologia, que deve se concentrar em patologias do trato reprodutivo, sendo o encaminhamento para um clínico geral a única medida necessária.",
+      "O ginecologista deve iniciar imediatamente o tratamento farmacológico para a hipertensão, pois é a especialidade com maior vínculo com a paciente, garantindo adesão.",
+      "O achado é crucial, pois o ginecologista atua como um rastreador e porta de entrada, devendo se preocupar com doença cardiovascular (principal causa de mortalidade feminina) e encaminhar para o especialista.",
+      "O achado é importante apenas se a paciente estiver grávida; fora da gestação, a pressão arterial não é um marcador primário de risco na consulta ginecológica."
+    ],
+    "correctIndex": 3,
+    "explanation": "O ginecologista é o 'clínico da mulher' [15, 30]. Ele atua como 'rastreador' e 'porta de entrada' [15]. A doença cardiovascular é a principal causa de mortalidade feminina, e o ginecologista 'tem que fazer parte da rotina... se preocupar com doença cardiovascular' [31], o que inclui aferir a pressão [15, 31]. O ginecologista deve dar o diagnóstico e encaminhar [15, 31].",
+    "type": "raciocínio"
+  }
+]

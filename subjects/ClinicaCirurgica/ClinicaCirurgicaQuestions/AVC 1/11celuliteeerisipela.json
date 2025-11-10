@@ -1,0 +1,509 @@
+[
+  {
+    "question": "Qual é a camada da pele acometida na erisipela?",
+    "options": [
+      "Folículos pilosos e tecido adjacente com infecção profunda formando necrose central",
+      "Derme superficial e vasos linfáticos com infecção aguda por Streptococcus pyogenes",
+      "Epiderme com infecção superficial por bactérias piogênicas formando crostas melicéricas",
+      "Fáscia muscular e tecido subcutâneo com infecção necrotizante de múltiplos agentes",
+      "Derme profunda e tecido subcutâneo com infecção difusa por Staphylococcus aureus"
+    ],
+    "correctIndex": 1,
+    "explanation": "A erisipela é uma infecção bacteriana aguda da derme superficial e vasos linfáticos, sendo o Streptococcus pyogenes (grupo A) seu principal agente etiológico. Esta localização superficial explica as bordas nítidas e elevadas características da lesão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a camada da pele acometida na celulite?",
+    "options": [
+      "Derme superficial e vasos linfáticos com infecção aguda por Streptococcus pyogenes",
+      "Derme profunda e tecido subcutâneo com infecção difusa por S. aureus ou S. pyogenes",
+      "Folículos pilosos com infecção localizada formando nódulos dolorosos e purulentos",
+      "Fáscia muscular com infecção necrotizante rapidamente progressiva e destrutiva",
+      "Epiderme com infecção superficial altamente contagiosa formando pústulas e crostas"
+    ],
+    "correctIndex": 1,
+    "explanation": "A celulite é uma infecção difusa da derme profunda e do tecido subcutâneo, caracterizada por inflamação intensa sem limites precisos. Os principais agentes são Streptococcus pyogenes e Staphylococcus aureus (inclusive MRSA).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual característica diferencia clinicamente a erisipela da celulite?",
+    "options": [
+      "Localização preferencial em face na erisipela versus membros superiores na celulite",
+      "Ausência de sintomas sistêmicos na erisipela versus toxemia grave na celulite",
+      "Bordas nítidas e elevadas na erisipela versus bordas mal definidas na celulite",
+      "Início insidioso com febre moderada na erisipela versus início súbito com febre alta na celulite",
+      "Agente exclusivo S. aureus na erisipela versus múltiplos agentes na celulite"
+    ],
+    "correctIndex": 2,
+    "explanation": "A principal diferença clínica entre erisipela e celulite são as bordas: nítidas e elevadas na erisipela (devido ao acometimento da derme superficial) versus mal definidas na celulite (devido ao acometimento da derme profunda e subcutâneo). O início é súbito com febre alta na erisipela e mais insidioso na celulite.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente apresenta lesão eritematosa com bordas bem definidas e elevadas, febre alta e mal-estar intenso. Qual o diagnóstico e agente mais provável?",
+    "options": [
+      "Fasciíte necrosante por múltiplos agentes com acometimento de fáscia muscular",
+      "Impetigo por S. aureus com acometimento epidérmico e crostas melicéricas",
+      "Erisipela por Streptococcus pyogenes com acometimento de derme superficial",
+      "Furúnculo por S. aureus com infecção de folículo piloso e necrose central",
+      "Celulite por Staphylococcus aureus com acometimento de derme profunda"
+    ],
+    "correctIndex": 2,
+    "explanation": "O quadro descrito é clássico de erisipela: lesão com bordas nítidas e elevadas, febre alta, mal-estar intenso e acometimento da derme superficial. O agente mais provável é o Streptococcus pyogenes (grupo A). A celulite teria bordas mal definidas, o impetigo apresentaria crostas, o furúnculo seria nodular e a fasciíte teria dor desproporcional e sinais de gravidade.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual NÃO é um fator predisponente para erisipela e celulite?",
+    "options": [
+      "Diabetes mellitus descompensado com neuropatia periférica",
+      "Insuficiência venosa crônica com edema de membros inferiores",
+      "Linfedema pós-cirúrgico com estase linfática persistente",
+      "Micose interdigital crônica não tratada servindo como porta de entrada",
+      "Hipertensão arterial sistêmica controlada sem outras comorbidades"
+    ],
+    "correctIndex": 4,
+    "explanation": "A hipertensão arterial sistêmica controlada e isolada NÃO é um fator predisponente significativo para erisipela e celulite. Os principais fatores são: diabetes (especialmente descompensado), insuficiência venosa, linfedema, micoses interdigitais, obesidade, imunossupressão e portas de entrada cutâneas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal porta de entrada para erisipela em membros inferiores?",
+    "options": [
+      "Acne infectada em região glútea e coxas",
+      "Micose interdigital (pé de atleta) com fissuras entre os dedos",
+      "Cateteres venosos periféricos em veias femorais",
+      "Úlceras por pressão em regiões sacrais e calcâneos",
+      "Dermatite de contato alérgica em panturrilhas"
+    ],
+    "correctIndex": 1,
+    "explanation": "A micose interdigital (pé de atleta) é a principal porta de entrada para erisipela em membros inferiores. As fissuras entre os dedos permitem a entrada do Streptococcus pyogenes, que então se dissemina pelos vasos linfáticos da derme superficial. Esta é uma das razões pela qual o tratamento das micoses é crucial na prevenção de recidivas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente diabético com lesões vesicopustulosas que evoluem para crostas amareladas (melicéricas) em face. Qual diagnóstico e tratamento inicial?",
+    "options": [
+      "Celulite por S. aureus com Cefalexina 500mg VO 6/6h por 10 dias",
+      "Fasciíte necrosante com desbridamento urgente e antibioticoterapia EV",
+      "Furúnculo por S. aureus com drenagem cirúrgica e compressas mornas",
+      "Erisipela por S. pyogenes com Penicilina benzatina 1.200.000 UI IM dose única",
+      "Impetigo por S. aureus ou S. pyogenes com Mupirocina tópica 2-3x/dia por 7 dias"
+    ],
+    "correctIndex": 4,
+    "explanation": "O quadro descrito é típico de impetigo: lesões vesicopustulosas que evoluem para crostas melicéricas (cor de mel), principalmente em face. O tratamento para lesões localizadas é Mupirocina tópica 2-3x/dia por 7 dias. Para casos extensos, usa-se Cefalexina VO.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o tratamento de primeira escolha para erisipela leve a moderada em paciente sem alergia à penicilina?",
+    "options": [
+      "Claritromicina VO por 7 dias OU Azitromicina VO por 5 dias",
+      "Cefazolina EV em regime hospitalar por 7-10 dias com monitorização",
+      "Cefalexina 500mg VO 6/6h por 10 dias OU Amoxicilina + Clavulanato VO",
+      "Vancomicina EV para cobertura de MRSA em ambiente hospitalar",
+      "Penicilina benzatina 1.200.000 UI IM dose única OU Amoxicilina 500mg VO 8/8h por 10 dias"
+    ],
+    "correctIndex": 4,
+    "explanation": "Para erisipela leve a moderada em paciente sem alergia à penicilina, o tratamento de primeira escolha é Penicilina benzatina 1.200.000 UI IM (dose única) OU Amoxicilina VO 500mg 8/8h por 10 dias. A penicilina é altamente eficaz contra Streptococcus pyogenes, agente predominante na erisipela.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento de primeira escolha para celulite leve a moderada em paciente sem alergia à penicilina?",
+    "options": [
+      "Vancomicina EV 15-20mg/kg 12/12h para casos graves com sepse",
+      "Doxiciclina VO 100mg 12/12h por 7-10 dias para MRSA ambulatorial",
+      "Clindamicina VO 300-450mg 8/8h por 7-10 dias em alérgicos",
+      "Cefalexina 500mg VO 6/6h por 10 dias OU Amoxicilina + Clavulanato VO",
+      "Penicilina benzatina 1.200.000 UI IM dose única OU Amoxicilina VO 8/8h"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para celulite leve a moderada em paciente sem alergia, o tratamento de primeira escolha é Cefalexina 500mg VO 6/6h por 10 dias OU Amoxicilina + Clavulanato VO. A celulite pode ser causada por S. aureus (incluindo produtor de beta-lactamase) e S. pyogenes, necessitando de espectro mais amplo que a erisipela.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com erisipela recorrente apresenta 4 episódios nos últimos 20 meses. Qual a conduta profilática indicada?",
+    "options": [
+      "Manutenção do tratamento apenas nos episódios agudos sem profilaxia contínua",
+      "Encaminhamento para cirurgia de derivação linfática como única opção",
+      "Profilaxia com Cefalexina 500mg VO 6/6h continuamente por 6 meses",
+      "Uso de Mupirocina tópica nas narinas diariamente por tempo indeterminado",
+      "Profilaxia com Penicilina benzatina 1.200.000 UI IM a cada 21 dias por 1-2 anos"
+    ],
+    "correctIndex": 4,
+    "explanation": "A profilaxia está indicada quando há ≥2 episódios por ano OU ≥3 episódios em 24 meses. O esquema padrão é Penicilina benzatina 1.200.000 UI IM a cada 21 dias, prolongado por 1-2 anos. É fundamental associar ao tratamento da porta de entrada (micoses, úlceras) e controle de fatores de risco.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a indicação formal para profilaxia antibiótica na erisipela recorrente?",
+    "options": [
+      "Qualquer episódio de erisipela em paciente diabético ou com insuficiência venosa",
+      "Exclusivamente em pacientes imunossuprimidos com linfoma ou HIV avançado",
+      "Apenas quando há comprovação laboratorial de resistência aos tratamentos convencionais",
+      "≥2 episódios por ano OU ≥3 episódios em 24 meses após controle da porta de entrada",
+      "Apenas quando há mais de 5 episódios em um único ano com internações repetidas"
+    ],
+    "correctIndex": 3,
+    "explanation": "A profilaxia antibiótica na erisipela recorrente está formalmente indicada quando o paciente apresenta ≥2 episódios por ano OU ≥3 episódios em 24 meses, mesmo após controle adequado da porta de entrada. O objetivo é prevenir recidivas e reduzir a inflamação crônica e linfedema progressivo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com nódulo doloroso, endurecido e quente em região axilar, evoluindo com pústula central e drenagem purulenta. Qual diagnóstico e agente?",
+    "options": [
+      "Fasciíte necrosante por anaeróbios com necrose de fáscia muscular",
+      "Furúnculo por Staphylococcus aureus com infecção de folículo piloso",
+      "Erisipela por Streptococcus pyogenes com acometimento de derme superficial",
+      "Celulite por S. aureus com infecção difusa de derme profunda",
+      "Impetigo por S. pyogenes com lesões crostosas superficiais"
+    ],
+    "correctIndex": 1,
+    "explanation": "O quadro descrito é típico de furúnculo: nódulo doloroso, endurecido e quente que evolui com pústula central e drenagem purulenta, representando infecção profunda do folículo piloso e tecido adjacente. O agente principal é Staphylococcus aureus (incluindo MRSA).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual a conduta inicial para um furúnculo único pequeno sem sinais sistêmicos?",
+    "options": [
+      "Penicilina benzatina 1.200.000 UI IM dose única para prevenção de disseminação",
+      "Compressas mornas e higiene local para promover drenagem espontânea",
+      "Internação para antibioticoterapia EV com Vancomicina e Oxacilina",
+      "Cefalexina 500mg VO 6/6h por 10 dias como antibioticoterapia profilática",
+      "Drenagem cirúrgica imediata sob anestesia local em ambiente ambulatorial"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para furúnculo único pequeno sem sinais sistêmicos, a conduta inicial é conservadora: compressas mornas e higiene local para promover drenagem espontânea. Antibioticoterapia sistêmica só está indicada em casos múltiplos, com febre, ou quando há celulite significativa ao redor.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com dor intensa e desproporcional ao exame cutâneo, evoluindo com bolhas hemorrágicas e crepitação subcutânea. Qual diagnóstico e conduta?",
+    "options": [
+      "Erisipela grave com indicação de internação para Penicilina EV por 10 dias",
+      "Furúnculo coalescente formando carbúnculo com drenagem múltipla programada",
+      "Fasciíte necrosante com urgência de desbridamento cirúrgico e antibioticoterapia EV",
+      "Celulite complicada com abscesso necessitando apenas de drenagem ambulatorial",
+      "Impetigo bolhoso extenso com tratamento com Mupirocina tópica e limpeza local"
+    ],
+    "correctIndex": 2,
+    "explanation": "A tríade dor intensa desproporcional + bolhas hemorrágicas + crepitação subcutânea é altamente sugestiva de fasciíte necrosante, uma emergência cirúrgica com alta mortalidade. A conduta é desbridamento cirúrgico amplo e precoce associado à antibioticoterapia EV de amplo espectro (Piperacilina-Tazobactam + Clindamicina + Vancomicina).",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o esquema antibiótico EV de amplo espectro recomendado para fasciíte necrosante?",
+    "options": [
+      "Amoxicilina + Clavulanato VO como terapia sequencial após melhora clínica",
+      "Piperacilina-Tazobactam + Clindamicina + Vancomicina para cobertura polimicrobiana",
+      "Ceftriaxona + Azitromicina para cobertura ambulatorial de infecções cutâneas",
+      "Penicilina cristalina isolada em altas doses para Streptococcus pyogenes",
+      "Cefazolina + Metronidazol para cobertura de aeróbios e anaeróbios comuns"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para fasciíte necrosante, recomenda-se esquema antibiótico EV de amplo espectro: Piperacilina-Tazobactam (cobre Gram-negativos, anaeróbios) + Clindamicina (efeito antitoxina, cobre anaeróbios e S. pyogenes) + Vancomicina (cobre MRSA). Esta combinação abrange os principais agentes: S. pyogenes, S. aureus, anaeróbios e Gram-negativos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual exame de imagem é mais útil para confirmar suspeita de fasciíte necrosante?",
+    "options": [
+      "Ressonância Magnética (RM) mostrando edema e necrose da fáscia muscular",
+      "Ultrassonografia com Doppler para avaliar fluxo sanguíneo superficial",
+      "Linfocintilografia para avaliar função linfática e drenagem comprometida",
+      "Radiografia simples para detectar gás nos tecidos moles subcutâneos",
+      "Tomografia Computadorizada para planejamento de desbridamento cirúrgico"
+    ],
+    "correctIndex": 0,
+    "explanation": "A Ressonância Magnética (RM) é o exame de imagem mais útil para confirmar suspeita de fasciíte necrosante, mostrando edema e necrose da fáscia muscular, além de ajudar a delimitar a extensão da infecção. Porém, o diagnóstico é principalmente clínico e a suspeita deve levar ao desbridamento cirúrgico imediato sem atrasar por exames.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com erisipela em membro inferior desenvolve bolhas e necrose superficial. O que isto representa?",
+    "options": [
+      "Melhora do processo com formação de crostas e início de cicatrização",
+      "Reação alérgica à antibioticoterapia necessitando troca do esquema",
+      "Infecção secundária por fungos requerendo terapia antifúngica associada",
+      "Sinal de gravidade que indica necessidade de internação e antibioticoterapia EV",
+      "Evolução para fasciíte necrosante exigindo desbridamento cirúrgico imediato"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bolhas e necrose superficial em erisipela representam sinal de gravidade, indicando necessidade de internação e antibioticoterapia EV (Cefazolina ou Oxacilina), mas NÃO caracterizam fasciíte necrosante. A fasciíte teria dor desproporcional, crepitação, toxemia grave e acometimento da fáscia muscular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o principal agente etiológico do impetigo?",
+    "options": [
+      "Staphylococcus aureus e Streptococcus pyogenes causando infecção epidérmica superficial",
+      "Staphylococcus aureus meticilina-resistente (MRSA) em furúnculos recorrentes",
+      "Pseudomonas aeruginosa em infecções de úlceras crônicas diabéticas",
+      "Bactérias anaeróbias em fasciíte necrosante de origem polimicrobiana",
+      "Streptococcus pyogenes isoladamente causando erisipela bolhosa extensa"
+    ],
+    "correctIndex": 0,
+    "explanation": "O impetigo é causado por Staphylococcus aureus e Streptococcus pyogenes, sendo uma infecção superficial da epiderme que se manifesta com lesões vesicopustulosas que evoluem para crostas melicéricas. É altamente contagioso e mais comum em crianças.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual tratamento está indicado para impetigo localizado com poucas lesões?",
+    "options": [
+      "Drenagem cirúrgica das pústulas sob antissepsia rigorosa no consultório",
+      "Mupirocina tópica 2-3x/dia por 7 dias para erradicação local do agente",
+      "Vancomicina tópica 2x/dia por 10 dias para cobertura de MRSA cutâneo",
+      "Cefalexina 500mg VO 6/6h por 7-10 dias para tratamento sistêmico completo",
+      "Penicilina benzatina 1.200.000 UI IM dose única para prevenção de complicações"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para impetigo localizado com poucas lesões, o tratamento de escolha é Mupirocina tópica 2-3x/dia por 7 dias, que erradica os agentes (S. aureus e S. pyogenes) diretamente no local da infecção. Antibioticoterapia sistêmica só está indicada para casos extensos ou múltiplos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com celulite extensa em membro inferior, febre 39°C, taquicardia e hipotensão. Qual conduta?",
+    "options": [
+      "Internação urgente para antibioticoterapia EV com Cefazolina ou Oxacilina",
+      "Amoxicilina + Clavulanato VO 875mg 12/12h por 10 dias no domicílio",
+      "Mupirocina tópica 3x/dia nas lesões com compressas frias locais",
+      "Penicilina benzatina 1.200.000 UI IM dose única no posto de saúde",
+      "Cefalexina 500mg VO 6/6h por 10 dias com retorno em 48 horas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paciente com celulite extensa + sinais sistêmicos (febre, taquicardia, hipotensão) apresenta critérios para internação urgente e antibioticoterapia EV. Cefazolina ou Oxacilina EV são apropriados para cobrir S. aureus e S. pyogenes. A hipotensão sugere sepse, necessitando de suporte volêmico e monitorização.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal complicação crônica da erisipela recorrente?",
+    "options": [
+      "Cardite reumática com valvulopatia mitral ou aórtica permanente",
+      "Fibrose pulmonar por embolização séptica repetida dos pulmões",
+      "Insuficiência renal crônica por glomerulonefrite pós-estreptocócica",
+      "Cirrose hepática por depósito de toxinas bacterianas no parênquima",
+      "Linfedema progressivo por dano irreversível aos vasos linfáticos superficiais"
+    ],
+    "correctIndex": 4,
+    "explanation": "A principal complicação crônica da erisipela recorrente é o linfedema progressivo, resultante do dano irreversível aos vasos linfáticos superficiais pela inflamação repetida. Isto cria um ciclo vicioso: linfedema predispõe a novas infecções, que pioram o linfedema. A profilaxia antibiótica visa quebrar este ciclo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual fator NÃO é uma medida preventiva eficaz para erisipela e celulite?",
+    "options": [
+      "Controle rigoroso da glicemia em pacientes diabéticos com neuropatia",
+      "Higiene cuidadosa da pele e secagem completa entre os dedos dos pés",
+      "Tratamento adequado de micoses interdigitais com antifúngicos tópicos",
+      "Uso de meias de compressão em pacientes com insuficiência venosa crônica",
+      "Uso de anti-inflamatórios não esteroidais contínuos para controle da dor"
+    ],
+    "correctIndex": 4,
+    "explanation": "O uso de AINEs contínuos para controle da dor NÃO é uma medida preventiva para erisipela e celulite. As medidas preventivas eficazes incluem: tratamento de micoses interdigitais, controle glicêmico, uso de meias de compressão, higiene adequada, controle do edema e profilaxia antibiótica quando indicada.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com múltiplos furúnculos recorrentes em axilas e virilha. Qual investigação é mais importante?",
+    "options": [
+      "Dosagem de glicemia de jejum e hemoglobina glicada para diabetes mellitus",
+      "Sorologia para HIV e contagem de linfócitos T CD4+ para imunodeficiência",
+      "Biópsia de pele das lesões para pesquisa de infiltrado linfoide maligno",
+      "Ultrassonografia de partes moles para descartar corpos estranhos retidos",
+      "Pesquisa de colonização nasal por Staphylococcus aureus com swab nasal"
+    ],
+    "correctIndex": 4,
+    "explanation": "Em furúnculos recorrentes, a investigação mais importante é a pesquisa de colonização nasal por Staphylococcus aureus, pois as narinas são o principal reservatório. A descolonização com Mupirocina nasal pode reduzir significativamente as recorrências. Diabetes e imunodeficiência também devem ser investigados, mas a colonização é o fator mais específico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a definição correta de carbúnculo?",
+    "options": [
+      "Infecção superficial da epiderme com crostas melicéricas múltiplas e confluentes",
+      "Infecção necrotizante da fáscia muscular com múltiplos focos de necrose",
+      "Infecção isolada de um folículo piloso com formação de pústula central única",
+      "Coalescência de vários furúnculos formando lesão única com múltiplos orifícios de drenagem",
+      "Infecção difusa do panículo adiposo sem envolvimento de estruturas profundas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Carbúnculo é definido como a coalescência de vários furúnculos, formando uma lesão única maior e mais profunda com múltiplos orifícios de drenagem. É causado por Staphylococcus aureus e geralmente ocorre em áreas com pele espessa (nuca, dorso, coxas). O tratamento frequentemente requer drenagem cirúrgica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o agente etiológico da fasciíte necrosante tipo II (monomicrobiana)?",
+    "options": [
+      "Staphylococcus aureus meticilina-resistente (MRSA) em pacientes imunocompetentes",
+      "Bactérias anaeróbias e Gram-negativos em feridas cirúrgicas abdominais",
+      "Streptococcus pyogenes (grupo A) causando infecção rapidamente progressiva",
+      "Vibrio vulnificus em feridas contaminadas com água do mar ou frutos do mar",
+      "Clostridium perfringens em feridas traumáticas com contaminação por terra"
+    ],
+    "correctIndex": 2,
+    "explanation": "A fasciíte necrosante tipo II (monomicrobiana) é causada principalmente por Streptococcus pyogenes (grupo A), sendo uma infecção rapidamente progressiva e altamente virulenta. O tipo I é polimicrobiano (anaeróbios + Gram-negativos + S. aureus) e ocorre mais em pacientes com comorbidades.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com erisipela em membro inferior refere história de 3 episódios nos últimos 14 meses. Qual conduta profilática?",
+    "options": [
+      "Orientar apenas medidas locais sem antibioticoterapia profilática",
+      "Iniciar profilaxia com Penicilina benzatina 1.200.000 UI IM a cada 21 dias",
+      "Aguardar próximo episódio para atingir critério de 2 episódios por ano",
+      "Encaminhar para avaliação cirúrgica de derivação linfática profilática",
+      "Prescrever Cefalexina 500mg VO 6/6h continuamente por 3 meses apenas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Com 3 episódios em 14 meses (que extrapola para >3 episódios em 24 meses), está indicada profilaxia com Penicilina benzatina 1.200.000 UI IM a cada 21 dias. O critério é ≥2 episódios/ano OU ≥3 episódios em 24 meses. A profilaxia reduz recidivas em 70-80% dos casos.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o tempo habitual de tratamento para celulite não complicada com antibioticoterapia oral?",
+    "options": [
+      "14-21 dias para prevenção de recidivas em pacientes com fatores de risco",
+      "5-7 dias até regressão dos sinais inflamatórios agudos visíveis",
+      "21 dias apenas quando há comprovação de infecção por Streptococcus",
+      "3 dias com avaliação de resposta e extensão se necessário por mais 4 dias",
+      "10 dias de antibioticoterapia para garantir erradicação completa do agente"
+    ],
+    "correctIndex": 4,
+    "explanation": "O tempo habitual de tratamento para celulite não complicada com antibioticoterapia oral é de 10 dias, para garantir erradicação completa do agente e prevenir recidivas. Tratamentos mais curtos (5-7 dias) podem ser associados a maiores taxas de recidiva, especialmente em pacientes com fatores de risco.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual característica é típica da erisipela mas NÃO da celulite?",
+    "options": [
+      "Acometimento preferencial de membros inferiores em adultos",
+      "Presença de eritema, calor e edema no local da infecção",
+      "Febre e mal-estar como manifestações sistêmicas associadas",
+      "Resposta à antibioticoterapia com regressão dos sinais inflamatórios",
+      "Bordas nítidas e elevadas demarcando claramente a área afetada"
+    ],
+    "correctIndex": 4,
+    "explanation": "Bordas nítidas e elevadas são características típicas da erisipela (devido ao acometimento da derme superficial) mas NÃO da celulite (que tem bordas mal definidas). As outras características (eritema, calor, edema, febre, acometimento de MMII e resposta a antibióticos) são comuns a ambas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com celulite em mão direita após trauma com espinho de roseira. Qual agente atípico deve ser considerado?",
+    "options": [
+      "Clostridium tetani causando tétano com rigidez muscular localizada",
+      "Bacillus anthracis causando carbúnculo cutâneo por esporos",
+      "Mycobacterium marinum causando granuloma de aquário em piscinas",
+      "Pseudomonas aeruginosa causando infecção por unha postiça ou esmalte",
+      "Erysipelothrix rhusiopathiae causando erisipeloide de ocupação"
+    ],
+    "correctIndex": 4,
+    "explanation": "Em celulite após trauma com espinho de roseira, material vegetal ou contato com animais (especialmente peixes, suínos), deve-se considerar Erysipelothrix rhusiopathiae causando erisipeloide. Esta infecção tem aspecto violáceo e bordas bem definidas, respondendo à penicilina. É uma zoonose ocupacional em veterinários, açougueiros e pescadores.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal diferença no agente etiológico entre erisipela e celulite?",
+    "options": [
+      "Erisipela: E. coli; Celulite: Klebsiella pneumoniae e Proteus sp",
+      "Erisipela: Streptococcus pyogenes; Celulite: S. aureus e S. pyogenes",
+      "Erisipela: S. aureus; Celulite: Streptococcus pyogenes exclusivamente",
+      "Erisipela: Pseudomonas; Celulite: Estafilococos coagulase-negativa",
+      "Erisipela: Anaeróbios; Celulite: Bactérias Gram-positivas aeróbias"
+    ],
+    "correctIndex": 1,
+    "explanation": "A principal diferença etiológica é que a erisipela é causada predominantemente por Streptococcus pyogenes (grupo A), enquanto a celulite pode ser causada por S. aureus e S. pyogenes. Isto explica a diferença na escolha antibiótica: penicilina para erisipela, cefalosporinas ou amoxicilina+clavulanato para celulite.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual exame laboratorial é mais útil para monitorar a resposta terapêutica em infecções cutâneas graves?",
+    "options": [
+      "Hemograma completo com contagem de leucócitos e neutrófilos segmentados",
+      "Proteína C-reativa (PCR) seriada para avaliar resposta inflamatória sistêmica",
+      "Velocidade de hemossedimentação (VHS) como marcador inflamatório inespecífico",
+      "Cultura de sangue para identificação do agente em bacteremias associadas",
+      "Dosagem de creatinina e ureia para avaliação da função renal pré-antibiótico"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Proteína C-reativa (PCR) seriada é o exame laboratorial mais útil para monitorar resposta terapêutica em infecções cutâneas graves, pois tem meia-vida curta e reflete rapidamente a diminuição da resposta inflamatória. O hemograma também é útil, mas a PCR é mais sensível e específica para acompanhamento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com diabetes descontrolado desenvolve celulite perineal com crepitação à palpação. Qual conduta?",
+    "options": [
+      "Cefalexina 500mg VO 6/6h por 10 dias com retorno para reavaliação em 72h",
+      "Amoxicilina + Clavulanato VO 875mg 12/12h por 14 dias no domicílio",
+      "Penicilina benzatina 1.200.000 UI IM dose única no posto de saúde",
+      "Mupirocina tópica 3x/dia na área com compressas úmidas e elevação local",
+      "Internação urgente para investigação de gangrena de Fournier com desbridamento cirúrgico"
+    ],
+    "correctIndex": 4,
+    "explanation": "Celulite perineal em diabético com crepitação sugere gangrena de Fournier (fasciíte necrosante polimicrobiana da região perineal), uma emergência cirúrgica com alta mortalidade. A conduta é internação urgente, antibioticoterapia EV de amplo espectro e desbridamento cirúrgico imediato.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o esquema alternativo para pacientes alérgicos à penicilina com erisipela leve a moderada?",
+    "options": [
+      "Vancomicina EV 15mg/kg 12/12h em regime de internação hospitalar",
+      "Cefalexina 500mg VO 6/6h por 10 dias devido à baixa reatividade cruzada",
+      "Claritromicina VO 500mg 12/12h por 7 dias OU Azitromicina VO 500mg/dia por 5 dias",
+      "SMX-TMP VO 800/160mg 12/12h por 7 dias em casos ambulatoriais",
+      "Doxiciclina 100mg VO 12/12h por 10 dias para cobertura de MRSA"
+    ],
+    "correctIndex": 2,
+    "explanation": "Para pacientes alérgicos à penicilina com erisipela leve a moderada, o esquema alternativo é Claritromicina VO 500mg 12/12h por 7 dias OU Azitromicina VO 500mg/dia por 5 dias. Macrolídeos são efetivos contra Streptococcus pyogenes e são seguros em alérgicos à penicilina.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a duração mínima recomendada para profilaxia antibiótica na erisipela recorrente?",
+    "options": [
+      "Por tempo indeterminado em todos os pacientes com mais de um episódio",
+      "Apenas durante os meses de verão quando há maior incidência de micoses",
+      "3-6 meses até a cicatrização completa das lesões cutâneas residuais",
+      "6-8 semanas correspondentes a dois ciclos completos de tratamento agudo",
+      "1-2 anos de tratamento contínuo ou enquanto persistirem fatores de risco"
+    ],
+    "correctIndex": 4,
+    "explanation": "A duração mínima recomendada para profilaxia antibiótica na erisipela recorrente é de 1-2 anos de tratamento contínuo, ou enquanto persistirem fatores de risco não controláveis (linfedema grave, insuficiência venosa avançada). Em casos selecionados, pode ser mantida por mais tempo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com furúnculo em região glútea apresenta febre 38,5°C e celulite extensa ao redor. Qual conduta?",
+    "options": [
+      "Penicilina benzatina IM dose única para tratamento do componente estreptocócico",
+      "Mupirocina tópica 3x/dia apenas na lesão por 7 dias como tratamento local",
+      "Drenagem cirúrgica do furúnculo + antibioticoterapia sistêmica com Cefalexina VO",
+      "Encaminhamento para antibioticoterapia EV imediata sem drenagem cirúrgica",
+      "Apenas compressas mornas locais até a drenagem espontânea do abscesso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Furúnculo com febre e celulite extensa ao redor requer drenagem cirúrgica do abscesso + antibioticoterapia sistêmica (Cefalexina VO 500mg 6/6h por 10 dias). A drenagem remove o foco infeccioso e a antibioticoterapia trata a celulite circundante e previne disseminação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o principal mecanismo de lesão tissular na fasciíte necrosante?",
+    "options": [
+      "Formação de abscessos múltiplos por encapsulamento bacteriano localizado",
+      "Necrose isquêmica por trombose de vasos sanguíneos da fáscia muscular",
+      "Hiperplasia epidermal por estímulo mitótico de fatores de crescimento",
+      "Edema inflamatório por extravasamento vascular mediado por histamina",
+      "Fibrose reacional por deposição excessiva de colágeno na derme profunda"
+    ],
+    "correctIndex": 1,
+    "explanation": "O principal mecanismo de lesão tissular na fasciíte necrosante é a necrose isquêmica por trombose dos vasos sanguíneos que perfuram a fáscia muscular. As toxinas bacterianas causam dano endotelial, trombose e isquemia, levando à necrose rápida da fáscia e tecidos subcutâneos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual sinal clínico é considerado um 'red flag' para fasciíte necrosante?",
+    "options": [
+      "Prurido intenso associado ao eritema e edema localizado",
+      "Eritema bem demarcado com bordas elevadas e brilhantes",
+      "Dor intensa e desproporcional aos achados cutâneos iniciais",
+      "Febre baixa (38°C) com calafrios esporádicos intermitentes",
+      "Presença de linhas vermelhas ascendentes (linfangite)"
+    ],
+    "correctIndex": 2,
+    "explanation": "A dor intensa e desproporcional aos achados cutâneos iniciais é o principal 'red flag' para fasciíte necrosante. Isto ocorre porque a necrose da fáscia muscular (altamente inervada) precede as alterações cutâneas evidentes. Este sinal deve alertar para a necessidade de intervenção cirúrgica imediata.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com erisipela em membro inferior apresenta piora após 48h de antibioticoterapia oral. Qual conduta?",
+    "options": [
+      "Trocar para outro antibiótico oral como Clindamicina por mais 7 dias",
+      "Manter o mesmo esquema por mais 48h antes de reconsiderar conduta",
+      "Internação para antibioticoterapia EV com Cefazolina ou Oxacilina",
+      "Aumentar a dose do mesmo antibiótico oral em 50% por mais 5 dias",
+      "Associar corticosteroides para controle da resposta inflamatória excessiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "Piora após 48h de antibioticoterapia oral adequada para erisipela indica necessidade de internação para antibioticoterapia EV (Cefazolina ou Oxacilina). Isto sugere infecção mais grave, má absorção oral, ou resistência bacteriana. A persistência com terapia oral pode levar a complicações graves.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a principal medida não farmacológica no tratamento da celulite?",
+    "options": [
+      "Massagem profunda da área afetada para dispersar o edema inflamatório",
+      "Imobilização completa com talas gessadas por 7-10 dias absolutos",
+      "Aplicação de compressas quentes para aumentar o fluxo sanguíneo local",
+      "Elevação do membro afetado para reduzir edema e melhorar drenagem linfática",
+      "Exposição solar direta para potencializar o efeito dos antibióticos"
+    ],
+    "correctIndex": 3,
+    "explanation": "A principal medida não farmacológica no tratamento da celulite é a elevação do membro afetado, que reduz o edema, melhora a drenagem linfática e venosa, e diminui a pressão intersticial. Deve ser associada a repouso relativo e analgesia. Compressas quentes podem piorar a inflamação.",
+    "type": "conteudista"
+  }
+]

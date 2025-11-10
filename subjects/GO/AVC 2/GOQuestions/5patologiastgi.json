@@ -1,0 +1,483 @@
+[
+  {
+    "question": "Qual é a porcentagem estimada da população que terá contato com o HPV em algum momento da vida, conforme dados epidemiológicos?",
+    "options": [
+      "40% da população terá contato com HPV em algum momento da vida",
+      "60% da população terá contato com HPV em algum momento da vida",
+      "95% da população terá contato com HPV em algum momento da vida",
+      "70% da população terá contato com HPV em algum momento da vida",
+      "80% da população terá contato com HPV em algum momento da vida"
+    ],
+    "correctIndex": 4,
+    "explanation": "Estudos epidemiológicos mostram que aproximadamente 80% da população sexualmente ativa terá contato com o HPV em algum momento da vida, tornando esta uma das infecções sexualmente transmissíveis mais comuns no mundo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a relação causal entre HPV e câncer de colo do útero, conforme evidências científicas?",
+    "options": [
+      "95% dos casos de câncer de colo do útero são causados pelo HPV",
+      "90% dos casos de câncer de colo do útero são causados pelo HPV",
+      "99% dos casos de câncer de colo do útero são causados pelo HPV",
+      "75% dos casos de câncer de colo do útero são causados pelo HPV",
+      "85% dos casos de câncer de colo do útero são causados pelo HPV"
+    ],
+    "correctIndex": 2,
+    "explanation": "Evidências científicas robustas demonstram que 99% dos casos de câncer de colo do útero têm relação causal com a infecção por HPV de alto risco, destacando a importância da prevenção e rastreamento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a posição do câncer de colo do útero no ranking de mortalidade por câncer em mulheres brasileiras?",
+    "options": [
+      "1º câncer que mais mata mulheres até 36 anos e 2º até 60 anos (após mama)",
+      "3º câncer que mais mata mulheres até 36 anos e 4º até 60 anos (após mama, pulmão e colorretal)",
+      "2º câncer que mais mata mulheres até 36 anos e 3º até 60 anos (após mama e pulmão)",
+      "2º câncer que mais mata mulheres até 40 anos e 3º até 65 anos (após mama e ovário)",
+      "1º câncer que mais mata mulheres até 50 anos e 2º até 70 anos (após mama)"
+    ],
+    "correctIndex": 0,
+    "explanation": "O câncer de colo do útero é o 1º em mortalidade por câncer em mulheres até 36 anos e o 2º até 60 anos (perdendo apenas para o câncer de mama), conforme dados do INCA 2023.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os tipos de HPV de baixo risco mais comumente associados às verrugas genitais?",
+    "options": [
+      "HPV 45 e 52 são os tipos de baixo risco associados a verrugas/condilomas",
+      "HPV 56 e 58 são os tipos de baixo risco associados a verrugas/condilomas",
+      "HPV 6 e 11 são os tipos de baixo risco associados a verrugas/condilomas",
+      "HPV 31 e 33 são os tipos de baixo risco associados a verrugas/condilomas",
+      "HPV 16 e 18 são os tipos de baixo risco associados a verrugas/condilomas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os tipos de HPV 6 e 11 são classificados como de baixo risco e são responsáveis pela maioria dos casos de verrugas genitais (condilomas acuminados), enquanto os tipos 16 e 18 são de alto risco e associados a lesões pré-cancerosas e câncer.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o significado correto da sigla ASC-US no Sistema Bethesda?",
+    "options": [
+      "Lesão intraepitelial escamosa baixo grau equivalente a NIC I",
+      "Células escamosas atípicas não se pode excluir lesão alto grau",
+      "Lesão intraepitelial escamosa alto grau equivalente a NIC II/III",
+      "Células escamosas atípicas de significado indeterminado possivelmente não neoplásicas",
+      "Células glandulares atípicas significado indeterminado possivelmente não neoplásicas"
+    ],
+    "correctIndex": 3,
+    "explanation": "ASC-US significa 'Células escamosas atípicas de significado indeterminado possivelmente não neoplásicas' e representa achados citológicos que não permitem definir com clareza se há ou não lesão significativa, necessitando de seguimento específico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a população-alvo prioritária para o rastreamento do câncer de colo do útero no Brasil?",
+    "options": [
+      "Mulheres de 21 a 65 anos são a população-alvo prioritária para rastreamento",
+      "Mulheres de 18 a 60 anos são a população-alvo prioritária para rastreamento",
+      "Mulheres de 25 a 64 anos são a população-alvo prioritária para rastreamento",
+      "Mulheres de 35 a 55 anos são a população-alvo prioritária para rastreamento",
+      "Mulheres de 30 a 70 anos são a população-alvo prioritária para rastreamento"
+    ],
+    "correctIndex": 2,
+    "explanation": "Conforme as Diretrizes Brasileiras, a população-alvo prioritária para rastreamento do câncer de colo do útero são mulheres de 25 a 64 anos, sendo que mulheres abaixo de 25 anos não fazem parte da faixa etária prioritária devido à alta taxa de regressão espontânea das lesões.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a periodicidade recomendada para o rastreamento com citologia após dois exames consecutivos negativos?",
+    "options": [
+      "Rastreio citológico trienal após 2 exames consecutivos negativos",
+      "Rastreio citológico quadrienal após 2 exames consecutivos negativos",
+      "Rastreio citológico anual após 2 exames consecutivos negativos",
+      "Rastreio citológico quinquenal após 2 exames consecutivos negativos",
+      "Rastreio citológico bienal após 2 exames consecutivos negativos"
+    ],
+    "explanation": "Após dois exames citológicos consecutivos negativos, a periodicidade recomendada para rastreamento é trienal (a cada 3 anos), conforme diretrizes nacionais e internacionais baseadas no tempo de progressão das lesões pré-cancerosas.",
+    "type": "conteudista",
+    "correctIndex": -1
+  },
+  {
+    "question": "Quais são os tipos de HPV de alto risco responsáveis pela maioria dos casos de câncer cervical?",
+    "options": [
+      "HPV 45 e 52 são responsáveis por 70% dos cânceres cervicais",
+      "HPV 56 e 58 são responsáveis por 70% dos cânceres cervicais",
+      "HPV 6 e 11 são responsáveis por 70% dos cânceres cervicais",
+      "HPV 16 e 18 são responsáveis por 70% dos cânceres cervicais",
+      "HPV 31 e 33 são responsáveis por 70% dos cânceres cervicais"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os tipos de HPV 16 e 18 são considerados de alto risco e são responsáveis por aproximadamente 70% dos casos de câncer do colo do útero em todo o mundo, sendo os principais alvos das vacinas disponíveis.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta inicial recomendada para mulheres com diagnóstico citológico de ASC-H?",
+    "options": [
+      "Repetir citopatológico em 12 meses para mulheres abaixo de 30 anos",
+      "Teste HPV-DNA e conduta conforme resultado molecular",
+      "Excisão tipo 1 da zona de transformação imediata",
+      "Repetir citopatológico em 6 meses para mulheres acima de 30 anos",
+      "Colposcopia imediata independente da idade da paciente"
+    ],
+    "correctIndex": 4,
+    "explanation": "ASC-H (células escamosas atípicas não se pode excluir lesão de alto grau) indica colposcopia imediata em todas as idades devido ao maior risco de lesão de alto grau subjacente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a equivalência correta entre a classificação Bethesda e a histológica para LSIL?",
+    "options": [
+      "LSIL equivale a carcinoma in situ",
+      "LSIL equivale a NIC II (neoplasia intraepitelial cervical grau II)",
+      "LSIL equivale a NIC I (neoplasia intraepitelial cervical grau I)",
+      "LSIL equivale a NIC III (neoplasia intraepitelial cervical grau III)",
+      "LSIL equivale a adenocarcinoma in situ"
+    ],
+    "correctIndex": 2,
+    "explanation": "No Sistema Bethesda, LSIL (Lesão Intraepitelial Escamosa de Baixo Grau) corresponde histologicamente à NIC I (Neoplasia Intraepitelial Cervical Grau I), representando displasia leve confinada ao terço inferior do epitélio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais indicações para realização de colposcopia?",
+    "options": [
+      "Citologia ASC-H, HSIL, AGC, HPV 16/18+ e colposcopia insatisfatória prévia",
+      "Rastreamento anual em mulheres vacinadas contra HPV",
+      "Acompanhamento de cistos de Naboth assintomáticos",
+      "Citologia ASC-US isolada em qualquer idade como rotina",
+      "Investigação de corrimento vaginal inespecífico"
+    ],
+    "correctIndex": 0,
+    "explanation": "As principais indicações de colposcopia incluem: citologia ASC-H, HSIL, AGC, teste positivo para HPV 16 ou 18, colposcopia prévia insatisfatória (JEC não visível) e seguimento de lesões tratadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta recomendada para gestantes com diagnóstico de HSIL?",
+    "options": [
+      "Colposcopia com biópsia imediata na primeira consulta",
+      "Excisão por CAF ou cone no segundo trimestre gestacional",
+      "Indução do parto prematuro para permitir tratamento imediato",
+      "Realização de histerectomia radical no terceiro trimestre",
+      "Acompanhamento sem intervenção e reavaliação 90 dias pós-parto"
+    ],
+    "correctIndex": 4,
+    "explanation": "Em gestantes com HSIL, a conduta é conservadora: não se realiza procedimentos excisionais, acompanha-se a paciente e reavalia-se 90 dias após o parto, pois a gestação representa estado de imunossupressão relativa e muitas lesões regridem espontaneamente no pós-parto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os achados colposcópicos considerados maiores (sugestivos de lesão de alto grau)?",
+    "options": [
+      "Epitélio acetobranco tênue, mosaico fino, pontilhado fino e cistos de Naboth",
+      "Áreas iodo-positivas homogêneas e superfície cervical regular",
+      "Junção escamo-colunar visível, ectopia e metaplasia escamosa imatura",
+      "Epitélio acetobranco denso, mosaico grosseiro, pontilhado grosseiro e vasos atípicos",
+      "Pólipos endocervicais e cistos de retenção mucosos"
+    ],
+    "correctIndex": 3,
+    "explanation": "Os achados colposcópicos maiores, que sugerem lesão de alto grau, incluem: epitélio acetobranco denso, mosaico grosseiro, pontilhado grosseiro, vasos atípicos e áreas iodo-negativas bem delimitadas. Estes achados indicam maior probabilidade de NIC II/III.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o significado do teste de Schiller positivo na colposcopia?",
+    "options": [
+      "Áreas que apresentam vasos em forma de vírgula indicando invasão",
+      "Áreas que ficam brancas com ácido acético indicando metaplasia",
+      "Áreas que coram intensamente com iodo (iodo-positivas) indicando normalidade",
+      "Áreas que não coram com iodo (iodo-negativas) indicando possível lesão",
+      "Áreas que sangram ao toque indicando neoplasia invasora"
+    ],
+    "correctIndex": 3,
+    "explanation": "O teste de Schiller positivo indica áreas que não coram com iodo (iodo-negativas), o que sugere presença de tecido anormal, pois as células normais ricas em glicogênio coram em marrom-escuro com a solução de Lugol.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a estratégia global da OMS para eliminação do câncer de colo do útero até 2030?",
+    "options": [
+      "90% vacinação, 70% rastreadas, 90% tratamento das lesões pré-cancerosas",
+      "80% vacinação, 60% rastreadas, 80% tratamento das lesões pré-cancerosas",
+      "85% vacinação, 65% rastreadas, 85% tratamento das lesões pré-cancerosas",
+      "70% vacinação, 80% rastreadas, 70% tratamento das lesões pré-cancerosas",
+      "95% vacinação, 75% rastreadas, 95% tratamento das lesões pré-cancerosas"
+    ],
+    "correctIndex": 0,
+    "explanation": "A estratégia global da OMS para eliminação do câncer de colo do útero até 2030 estabelece as metas: 90% de vacinação em meninas, 70% de mulheres rastreadas e 90% de tratamento adequado das lesões pré-cancerosas identificadas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta para mulheres com menos de 25 anos e diagnóstico de LSIL?",
+    "options": [
+      "Repetir citopatológico em 6 meses e colposcopia se persistir",
+      "Repetir citopatológico em 3 anos ou quando completar 25 anos",
+      "Colposcopia imediata com biópsia dirigida se achados anormais",
+      "Teste HPV-DNA imediato e conduta conforme genotipagem",
+      "Excisão tipo 1 da zona de transformação independente de colposcopia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Para mulheres com menos de 25 anos e LSIL, a conduta é repetir o citopatológico em 3 anos ou quando completar 25 anos, pois nesta faixa etária há alta taxa de regressão espontânea e elas não fazem parte da população prioritária de rastreamento.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os métodos de tratamento para lesões intraepiteliais de alto grau (HSIL)?",
+    "options": [
+      "Histerectomia radical ou quimiorradioterapia adjuvante",
+      "CAF (cirurgia de alta frequência) ou cone (conização a frio)",
+      "Vaporização laser ou pomadas citotóxicas locais",
+      "Antivirais sistêmicos ou imunomoduladores tópicos",
+      "Crioterapia ou aplicação de ácido tricloroacético tópico"
+    ],
+    "correctIndex": 1,
+    "explanation": "As lesões HSIL (NIC II/III) são tratadas com métodos excisionais: CAF (cirurgia de alta frequência) ou cone (conização a frio), que permitem tanto o tratamento quanto a obtenção de material para análise histológica completa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a diferença principal entre as vacinas quadrivalente e nonavalente contra HPV?",
+    "options": [
+      "Quadrivalente cobre 3 tipos a mais que a nonavalente (35,39,68)",
+      "Nonavalente é indicada apenas para homens enquanto quadrivalente é para mulheres",
+      "Quadrivalente protege contra todos os 14 tipos de HPV de alto risco",
+      "Nonavalente inclui apenas tipos de baixo risco (6,11,42,44,55)",
+      "Nonavalente cobre 5 tipos adicionais de alto risco (31,33,45,52,58) além dos 4 da quadrivalente"
+    ],
+    "correctIndex": 4,
+    "explanation": "A vacina nonavalente cobre os mesmos 4 tipos da quadrivalente (6,11,16,18) mais 5 tipos adicionais de alto risco (31,33,45,52,58), oferecendo proteção contra aproximadamente 90% dos casos de câncer cervical, comparado a 70% da quadrivalente.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza o estado de latência na infecção por HPV?",
+    "options": [
+      "Presença de lesões clínicas visíveis com teste HPV positivo",
+      "Vírus inativo na camada basal com teste HPV negativo",
+      "Reativação viral com aparecimento de novas lesões",
+      "Eliminação completa do vírus com sorologia negativa",
+      "Infecção ativa com replicação viral e teste HPV positivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na latência, o vírus permanece inativo na camada basal do epitélio, sem replicação ativa, resultando em teste de HPV negativo. O vírus pode ser reativado posteriormente em situações de imunodepressão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta para mulheres com 30 anos ou mais e resultado ASC-US?",
+    "options": [
+      "Repetir citopatológico em 12 meses e rastreio trienal se negativo",
+      "Excisão tipo 2 da zona de transformação como procedimento diagnóstico",
+      "Teste HPV-DNA imediato e excisão se positivo para alto risco",
+      "Repetir citopatológico em 6 meses e colposcopia se novo resultado anormal",
+      "Colposcopia imediata com biópsia dirigida independente de achados"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para mulheres com 30 anos ou mais e ASC-US, a conduta é repetir o citopatológico em 6 meses. Se o novo resultado for anormal, encaminha para colposcopia. Se mantiver ASC-US, repete em mais 6 meses. Apenas após dois exames negativos retorna ao rastreio trienal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal via de transmissão do HPV?",
+    "options": [
+      "Transmissão vertical exclusiva por aleitamento materno",
+      "Transmissão respiratória por aerossóis e gotículas salivares",
+      "Transmissão fecal-oral por água e alimentos contaminados",
+      "Contato sexual (genital-genital, oral-genital, manual-genital) mesmo sem penetração",
+      "Transmissão hematogênica por compartilhamento de agulhas"
+    ],
+    "correctIndex": 3,
+    "explanation": "A principal via de transmissão do HPV é através do contato sexual, incluindo genital-genital, oral-genital e manual-genital, podendo ocorrer mesmo na ausência de penetração. O preservativo oferece proteção parcial mas não completa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que significa a sigla AGC no Sistema Bethesda?",
+    "options": [
+      "Células escamosas atípicas não se pode excluir lesão alto grau",
+      "Adenocarcinoma glandular cervical in situ",
+      "Células glandulares atípicas de significado indeterminado",
+      "Alterações glandulares crônicas por processo inflamatório",
+      "Adenocarcinoma de glândulas cervicais invasor"
+    ],
+    "correctIndex": 2,
+    "explanation": "AGC significa 'Células Glandulares Atípicas' e representa achados citológicos em células glandulares do endocérvix que podem indicar desde alterações benignas até lesões pré-cancerosas ou cancer, necessitando sempre de investigação adicional com colposcopia e avaliação do canal endocervical.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta para mulheres com diagnóstico citológico de HSIL e colposcopia sem achados anormais?",
+    "options": [
+      "Excisão tipo 3 da zona de transformação obrigatória",
+      "Revisão da lâmina ou novo citopatológico ou avaliação do canal endocervical",
+      "Realizar histerectomia diagnóstica por discordância cito-cólica",
+      "Alta imediata com retorno ao rastreio trienal habitual",
+      "Repetir colposcopia em 3 meses sem outras investigações"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quando há HSIL na citologia mas colposcopia sem achados anormais, a conduta inclui revisão da lâmina original, novo citopatológico ou avaliação do canal endocervical para investigar possível lesão no canal não visualizada na colposcopia.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o local de maior risco para desenvolvimento de câncer cervical?",
+    "options": [
+      "Junção escamo-colunar (JEC) na zona de transformação",
+      "Fundo de saco vaginal posterior e fórnices laterais",
+      "Endocérvice proximal junto ao orifício cervical interno",
+      "Canal endocervical na transição para endométrio",
+      "Ectocérvice distal na porção mais externa do colo"
+    ],
+    "correctIndex": 0,
+    "explanation": "A junção escamo-colunar (JEC) na zona de transformação é o local de maior risco para desenvolvimento de câncer cervical, pois é onde ocorre a metaplasia escamosa e onde o HPV tem maior tropismo para infectar as células em transformação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a conduta para mulheres imunossuprimidas com qualquer resultado citológico alterado?",
+    "options": [
+      "Apenas observação devido ao alto risco de complicações",
+      "Repetir citopatológico em 3 meses e colposcopia só se persistir",
+      "Encaminhamento direto para colposcopia independente do grau da alteração",
+      "Excisão tipo 1 da zona de transformação como procedimento de rotina",
+      "Realizar teste HPV-DNA e conduta conforme genotipagem viral"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em mulheres imunossuprimidas, qualquer resultado citológico alterado (mesmo baixo grau) indica encaminhamento direto para colposcopia devido ao maior risco de progressão rápida para lesões de alto grau e câncer nestas pacientes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o significado da sigla HSIL no Sistema Bethesda?",
+    "options": [
+      "Células escamosas atípicas não se pode excluir lesão alto grau",
+      "Lesão intraepitelial escamosa de baixo grau equivalente a NIC I",
+      "Células glandulares atípicas significado indeterminado possivelmente neoplásicas",
+      "Lesão intraepitelial escamosa de alto grau equivalente a NIC II/III",
+      "Células escamosas atípicas significado indeterminado possivelmente não neoplásicas"
+    ],
+    "correctIndex": 3,
+    "explanation": "HSIL significa 'Lesão Intraepitelial Escamosa de Alto Grau' e corresponde histologicamente à NIC II e NIC III (displasia moderada a severa/carcinoma in situ), representando lesões pré-cancerosas que requerem intervenção na maioria dos casos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a periodicidade do rastreamento com teste de HPV-DNA molecular após dois testes negativos?",
+    "options": [
+      "Intervalo de 10 anos após 2 testes moleculares negativos",
+      "Intervalo de 1 ano após 2 testes moleculares negativos",
+      "Intervalo de 5 anos após 2 testes moleculares negativos",
+      "Intervalo de 3 anos após 2 testes moleculares negativos",
+      "Intervalo de 7 anos após 2 testes moleculares negativos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Após dois testes de HPV-DNA molecular negativos consecutivos, o intervalo recomendado para o próximo rastreamento é de 5 anos, devido à maior sensibilidade do teste molecular e ao longo período de progressão das lesões pré-cancerosas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Mulher de 28 anos, vida sexual ativa, com resultado citológico ASC-US. Qual a conduta mais adequada conforme as Diretrizes Brasileiras para Rastreamento do Câncer de Colo do Útero?",
+    "options": [
+      "Colposcopia imediata com biópsia dirigida se achados anormais",
+      "Realizar excisão tipo 1 da zona de transformação independente de colposcopia",
+      "Repetir citopatológico em 6 meses e encaminhar para colposcopia se novo resultado anormal",
+      "Repetir citopatológico em 12 meses e manter rastreio trienal se negativo",
+      "Solicitar teste HPV-DNA e conduta conforme resultado do teste molecular"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para mulheres com menos de 30 anos e resultado ASC-US, a conduta preconizada é repetir o citopatológico em 12 meses. Se negativo, mantém o rastreio trienal. Apenas para mulheres com 30 anos ou mais o intervalo de repetição é de 6 meses.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 35 anos, resultado de teste HPV-DNA positivo para HPV 16. Qual a conduta imediata indicada?",
+    "options": [
+      "Encaminhamento para colposcopia imediata independente do resultado citológico",
+      "Solicitar genotipagem completa para todos os tipos de alto risco",
+      "Realizar citologia oncótica e aguardar resultado para definir conduta",
+      "Repetir teste HPV-DNA em 6 meses para confirmar persistência",
+      "Iniciar tratamento com imiquimode tópico por 16 semanas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para mulheres com teste positivo para HPV 16 ou 18, a conduta é encaminhamento imediato para colposcopia, independente do resultado citológico, devido ao alto risco de lesões pré-cancerosas e câncer associados a estes tipos virais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 22 anos com diagnóstico citológico de LSIL. Qual a conduta mais adequada?",
+    "options": [
+      "Colposcopia imediata com biópsia dirigida se achados anormais",
+      "Excisão tipo 1 da zona de transformação como procedimento preventivo",
+      "Repetir citopatológico em 6 meses e colposcopia se persistir",
+      "Repetir citopatológico em 3 anos ou quando completar 25 anos",
+      "Teste HPV-DNA imediato e excisão se positivo para alto risco"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para mulheres com menos de 25 anos e LSIL, a conduta é repetir o citopatológico em 3 anos ou quando completar 25 anos, devido à alta taxa de regressão espontânea nesta faixa etária e por não fazerem parte da população prioritária de rastreamento.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Gestante de 16 semanas com diagnóstico citológico de HSIL. Qual a conduta mais adequada?",
+    "options": [
+      "Excisão por CAF ou cone no segundo trimestre gestacional",
+      "Colposcopia com biópsia imediata na primeira consulta",
+      "Indução do parto prematuro para permitir tratamento imediato",
+      "Realização de histerectomia radical no terceiro trimestre",
+      "Acompanhamento sem intervenção e reavaliação 90 dias pós-parto"
+    ],
+    "correctIndex": 4,
+    "explanation": "Em gestantes com HSIL, a conduta é conservadora: não se realiza procedimentos excisionais, acompanha-se a paciente e reavalia-se 90 dias após o parto, pois a gestação representa estado de imunossupressão relativa e muitas lesões regridem espontaneamente no pós-parto.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 42 anos com diagnóstico citológico de ASC-H. Na colposcopia, JEC completamente visível sem achados anormais. Qual a conduta?",
+    "options": [
+      "Repetir citopatológico e colposcopia em 6 meses e seguimento ou rastreio citológico trienal",
+      "Alta imediata com retorno ao rastreio trienal habitual",
+      "Realizar excisão tipo 1 da zona de transformação imediatamente",
+      "Avaliação do canal endocervical com curetagem ou brush",
+      "Realizar histerectomia diagnóstica por discordância cito-cólica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para ASC-H com JEC completamente visível e sem achados colposcópicos anormais, a conduta é repetir citopatológico e colposcopia em 6 meses. Se normais, pode-se retornar ao rastreio trienal. A excisão só é indicada se houver achados anormais na colposcopia.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 50 anos, menopausada há 5 anos, com resultado citológico AGC. Qual a investigação obrigatória?",
+    "options": [
+      "Histeroscopia diagnóstica sem colposcopia prévia",
+      "Ressonância magnética pélvica de imediato",
+      "Apenas colposcopia com avaliação do canal endocervical",
+      "Colposcopia + avaliação endometrial obrigatória",
+      "Repetir citologia em 6 meses antes de qualquer investigação"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em mulheres com AGC, especialmente na pós-menopausa, é obrigatória a realização de colposcopia com avaliação do canal endocervical E avaliação endometrial, devido ao risco aumentado de neoplasia glandular do endométrio nesta faixa etária.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 19 anos, imunossuprimida por transplante renal, com primeiro resultado citológico ASC-US. Qual a conduta?",
+    "options": [
+      "Apenas observação devido ao alto risco de complicações",
+      "Realizar teste HPV-DNA e conduta conforme genotipagem viral",
+      "Excisão tipo 1 da zona de transformação como procedimento de rotina",
+      "Repetir citopatológico em 12 meses como na população geral",
+      "Encaminhamento direto para colposcopia independente do grau da alteração"
+    ],
+    "correctIndex": 4,
+    "explanation": "Em pacientes imunossuprimidas, qualquer resultado citológico alterado (mesmo ASC-US) indica encaminhamento direto para colposcopia devido ao maior risco de progressão rápida para lesões de alto grau e câncer nestas pacientes.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 32 anos com diagnóstico citológico de LSIL. Na colposcopia, epitélio acetobranco denso com mosaico grosseiro. Qual a conduta?",
+    "options": [
+      "Biópsia dirigida da área anormal para confirmação histológica",
+      "Alta com retorno ao rastreio trienal habitual",
+      "Repetir colposcopia em 6 meses sem biópsia",
+      "Realizar excisão tipo 2 da zona de transformação imediatamente",
+      "Aplicação de ácido tricloroacético tópico na lesão"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na presença de achados colposcópicos maiores (epitélio acetobranco denso, mosaico grosseiro) que sugerem lesão de alto grau, a conduta é realizar biópsia dirigida da área anormal para confirmação histológica antes de qualquer procedimento terapêutico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 45 anos com diagnóstico histológico de NIC III em biópsia dirigida. JEC completamente visível na colposcopia. Qual o tratamento de escolha?",
+    "options": [
+      "Aplicação de creme de imiquimode tópico por 16 semanas",
+      "Quimiorradioterapia adjuvante pélvica externa",
+      "Histerectomia radical como primeira opção terapêutica",
+      "Excisão por CAF ou cone conforme tipo de zona de transformação",
+      "Acompanhamento semestral por 2 anos antes de intervir"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para NIC III (HSIL) confirmada histologicamente, o tratamento de escolha é a excisão por CAF (cirurgia de alta frequência) ou cone, que permite tanto o tratamento quanto a confirmação do diagnóstico e avaliação de margens cirúrgicas.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Mulher de 26 anos com resultado de teste HPV-DNA positivo para tipos de alto risco não 16/18. A citologia reflexa é normal. Qual a conduta?",
+    "options": [
+      "Encaminhamento imediato para colposcopia obrigatória",
+      "Iniciar tratamento com interferon intravaginal",
+      "Alta com retorno ao rastreio trienal habitual",
+      "Realizar excisão tipo 1 da zona de transformação preventiva",
+      "Repetir teste HPV-DNA e citologia em 12 meses"
+    ],
+    "correctIndex": 4,
+    "explanation": "Para HPV de alto risco não 16/18 com citologia normal, a conduta é repetir o teste HPV-DNA e citologia em 12 meses. A colposcopia só é indicada se a citologia for anormal ou se o HPV persistir após 12 meses.",
+    "type": "raciocínio"
+  }
+]

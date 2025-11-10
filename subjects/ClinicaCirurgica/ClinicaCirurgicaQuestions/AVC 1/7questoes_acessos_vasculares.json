@@ -1,0 +1,522 @@
+[
+  {
+    "question": "Qual foi o marco histórico inicial da cateterização intravascular e suas características principais?",
+    "options": [
+      "Aubaniac em 1952 criou sistema de múltiplos cateteres simultâneos para ressuscitação volêmica utilizando agulhas curtas de fino calibre",
+      "Bleichroder em 1905 desenvolveu técnica de dissecção arterial profunda utilizando cateteres metálicos durante procedimentos cardíacos experimentais",
+      "Faivre em 1856 realizou primeira cateterização venosa central em humanos utilizando cateteres de borracha durante cirurgias abdominais complexas",
+      "Meyers em 1945 introduziu cateteres de vidro temperado para monitorização hemodinâmica contínua durante anestesias prolongadas em cirurgias torácicas",
+      "Stephen Hales em 1733 realizou medida direta das pressões arterial e venosa em animais utilizando cânulas de latão durante indução de choque hemorrágico"
+    ],
+    "correctIndex": 4,
+    "explanation": "Stephen Hales, em 1733, foi o pioneiro da cateterização intravascular, realizando a primeira medida direta das pressões arterial e venosa em animais. Ele utilizou cânulas de latão e fez essas medições antes, durante e após a indução de choque hemorrágico, estabelecendo os fundamentos da monitorização hemodinâmica invasiva.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como Aubaniac revolucionou o acesso venoso central em 1952 e qual era a técnica utilizada?",
+    "options": [
+      "Criou método de cateterização da veia basílica usando trocater metálico especial para nutrição parenteral prolongada em hospitais militares, obrigatoriamente trocando por cateteres longos",
+      "Estabeleceu protocolo de acesso da veia safena usando agulhas de médio calibre para hemodiálise emergencial em campos de batalha, rotineiramente introduzindo cateteres de polietileno",
+      "Desenvolveu dissecção cirúrgica da veia jugular interna usando bisturi elétrico para exposição vascular completa em pacientes críticos, inserindo múltiplos cateteres plásticos flexíveis simultaneamente",
+      "Introduziu técnica de punção da veia femoral usando agulhas curtas de fino calibre para administração de antibióticos em soldados, sempre substituindo por cateteres de silicone maleáveis",
+      "Descreveu punção percutânea da veia subclávia usando agulha longa de grosso calibre para ressuscitação volêmica rápida em feridos de guerra, mantendo agulha no vaso sem introduzir cateteres"
+    ],
+    "correctIndex": 4,
+    "explanation": "Aubaniac, em 1952, descreveu a punção percutânea da veia subclávia utilizando agulha longa e de grosso calibre para ressuscitação volêmica rápida em feridos de guerra. A característica marcante era que a agulha permanecia dentro do vaso, não sendo introduzidos cateteres plásticos por dentro da mesma, diferente das técnicas modernas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as classificações dos acessos vasculares quanto às características do cateter e seus tempos de permanência específicos?",
+    "options": [
+      "Exteriorização: visivelmente presente ou cirurgicamente implantado; Tempo: imediato até 8 dias, tardio após 12 dias, provisório até 35 dias, estabelecido mais de 50 dias",
+      "Exteriorização: parcialmente visível ou completamente oculto; Tempo: ultracurto até 3 dias, médio após 5 dias, prolongado até 20 dias, permanente mais de 40 dias",
+      "Exteriorização: externamente acessível ou internamente posicionado; Tempo: rápido até 5 dias, moderado após 10 dias, extenso até 25 dias, duradouro mais de 35 dias",
+      "Exteriorização: superficialmente exposto ou profundamente inserido; Tempo: breve até 10 dias, estendido após 14 dias, transitório até 45 dias, fixo mais de 60 dias",
+      "Exteriorização: semi-implantável ou totalmente implantável; Tempo: curto até 7 dias, longo após 7 dias, temporário até 30 dias, definitivo mais de 30 dias"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os cateteres vasculares são classificados quanto à exteriorização em semi-implantáveis ou totalmente implantáveis. Quanto ao tempo de permanência: curto (até 7 dias), longo (após 7 dias), temporário (até 30 dias) e definitivo (mais de 30 dias). Essa classificação é fundamental para escolha do dispositivo adequado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características específicas dos cateteres tipo Scalp/Butterfly para acesso venoso periférico?",
+    "options": [
+      "Calibre em números alternados de 18 (mais calibroso) a 28 (menos calibroso), indicado para infusões intermitentes até 12 horas, permite velocidade variável de punção e acesso a vasos profundos",
+      "Calibre em números sequenciais de 16 (mais calibroso) a 26 (menos calibroso), indicado para infusões prolongadas até 36 horas, permite velocidade lenta de punção e acesso a vasos grandes",
+      "Calibre em números mistos de 15 (mais calibroso) a 25 (menos calibroso), indicado para infusões contínuas até 30 horas, permite velocidade constante de punção e acesso a vasos superficiais",
+      "Calibre em números pares de 14 (mais calibroso) a 24 (menos calibroso), indicado para infusões de média duração até 48 horas, permite velocidade moderada de punção e acesso a vasos médios",
+      "Calibre em números ímpares de 19 (mais calibroso) a 27 (menos calibroso), indicado para infusões de curta duração até 24 horas, permite velocidade rápida de punção e acesso a vasos pequenos"
+    ],
+    "correctIndex": 4,
+    "explanation": "O Scalp ou Butterfly possui calibres em números ímpares, variando de 19 (mais calibroso) a 27 (menos calibroso). É indicado para terapias intravenosas periféricas de curta duração (até 24 horas) e coleta de sangue. Suas vantagens incluem velocidade de punção e capacidade de acessar vasos pequenos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as especificações técnicas e indicações dos cateteres tipo Abocath/Jelco para acesso venoso periférico?",
+    "options": [
+      "Calibre em números duplos de 12 (mais calibroso) a 22 (menos calibroso), indicado para infusões extensas até 84 horas, possui linha colorida para identificação visual",
+      "Calibre em números triplos de 15 (mais calibroso) a 25 (menos calibroso), indicado para infusões intermitentes até 60 horas, possui linha reflexiva para localização ultrassonográfica",
+      "Calibre em números pares de 14 (mais calibroso) a 24 (menos calibroso), indicado para infusões de média duração até 72 horas, possui linha radiopaca para fácil localização",
+      "Calibre em números ímpares de 13 (mais calibroso) a 23 (menos calibroso), indicado para infusões de longa duração até 96 horas, possui linha fluorescente para visualização direta",
+      "Calibre em números decimais de 14.5 (mais calibroso) a 24.5 (menos calibroso), indicado para infusões breves até 48 horas, possui linha metálica para detecção magnética"
+    ],
+    "correctIndex": 2,
+    "explanation": "O Abocath/Jelco possui calibres em números pares, de 14 (mais calibroso) a 24 (menos calibroso). É indicado para terapias intravenosas periféricas de média duração (até 72 horas). Apresenta vantagens como maior conforto, menor transfixação da veia e linha radiopaca para fácil localização radiológica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como deve ser realizada a seleção da veia para acesso venoso periférico considerando todos os fatores determinantes?",
+    "options": [
+      "Observar unicamente profundidade vascular, osmolaridade da droga, intervalo entre doses, superfície corporal, pressão arterial sistêmica e coordenação motora fina",
+      "Avaliar condição da veia, tipo de substância a infundir, duração prevista da terapia, idade do paciente, grau de urgência e necessidade de mobilidade do paciente",
+      "Analisar exclusivamente coloração venosa, temperatura do fluido, horário de administração, sexo do paciente, frequência respiratória e força muscular preservada",
+      "Verificar apenas diâmetro vascular, viscosidade do medicamento, tempo estimado de punção, peso corporal, nível de consciência e capacidade de deambulação livre",
+      "Considerar somente integridade cutânea, pH da solução, período de jejum, altura do paciente, severidade da dor e amplitude de movimento articular"
+    ],
+    "correctIndex": 1,
+    "explanation": "A seleção adequada da veia para acesso periférico deve considerar múltiplos fatores: condição da veia (integridade, calibre, trajeto), tipo de substância a ser infundida (pH, osmolaridade, irritabilidade), duração prevista da terapia, idade do paciente, grau de urgência do procedimento e necessidade de mobilidade.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as complicações do acesso venoso periférico e as medidas preventivas específicas para flebite?",
+    "options": [
+      "Infecção ocorre em até 20% dos casos; prevenção inclui escolher membros inferiores, usar cateter médio padrão e trocar rotineiramente a cada hora",
+      "Hematoma ocorre em até 10% dos casos; prevenção inclui selecionar região abdominal, usar cateter flexível longo e mobilizar constantemente o membro",
+      "Flebite ocorre em até 15% dos casos; prevenção inclui evitar membros inferiores, usar menor cateter possível e realizar remoção precoce quando indicado",
+      "Extravasamento ocorre em até 30% dos casos; prevenção inclui priorizar região cervical, usar cateter rígido metálico e fixar com suturas profundas",
+      "Trombose ocorre em até 25% dos casos; prevenção inclui preferir membros superiores, usar maior cateter disponível e manter permanência prolongada sempre"
+    ],
+    "correctIndex": 2,
+    "explanation": "A flebite é uma das principais complicações do acesso venoso periférico, ocorrendo em até 15% dos casos. Para preveni-la, deve-se evitar punção em membros inferiores (maior risco), utilizar o menor cateter possível para a necessidade terapêutica e realizar remoção precoce quando o acesso não for mais necessário.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o histórico evolutivo e o posicionamento atual do acesso vascular intraósseo nas diretrizes de ressuscitação?",
+    "options": [
+      "Bleichroder criou em 1905, Meyers aperfeiçoou em 1945, procedimento proibido na década de 1990, atualmente terceira alternativa nas diretrizes apenas para adultos",
+      "Stephen iniciou em 1733, Wilson estabeleceu em 1962, metodologia suspensa na década de 1960, atualmente quarta escolha nas diretrizes somente para idosos",
+      "Drinker descreveu em 1922, Josefson aplicou em 1934, técnica retomada na década de 1980, atualmente segunda opção nas diretrizes de RCP quando acesso venoso periférico falha",
+      "Hales introduziu em 1933, Faivre desenvolveu em 1956, método abandonado na década de 1970, atualmente primeira escolha nas diretrizes de RCP para todos os pacientes",
+      "Aubaniac inventou em 1952, Wilson modificou em 1962, técnica esquecida na década de 2000, atualmente última opção nas diretrizes exclusivamente para neonatos"
+    ],
+    "correctIndex": 2,
+    "explanation": "O acesso intraósseo foi descrito por Drinker em 1922 e aplicado por Josefson em 1934. Após período de desuso, foi retomado na década de 1980. Atualmente está posicionado como segunda opção nas diretrizes de RCP quando o acesso venoso periférico falha, especialmente importante em situações de emergência.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como funciona anatomicamente o acesso vascular intraósseo e quais são os principais locais de punção com suas respectivas drenagens venosas?",
+    "options": [
+      "Sinusóides corticais ligam com vênulas através de túnel maleável que expande; tíbia medial drena para veia safena, fêmur para veia obturadora, úmero medial para veia basílica",
+      "Capilares ósseos conectam com artérias através de canal flexível que dilata; tíbia distal drena para veia tibial, fêmur para veia ilíaca, úmero distal para veia braquial",
+      "Arteríolas internas unem com plexos através de conduto rígido que contrai; fíbula distal drena para veia peroneira, quadril para veia glútea, ulna proximal para veia ulnar",
+      "Vasos medulares comunicam com linfáticos através de ducto elástico que pulsa; fíbula proximal drena para veia fibular, pelve para veia hipogástrica, rádio proximal para veia radial",
+      "Sinusóides da medula drenam para sistema venoso através de veia rígida que não colaba; tíbia proximal drena para veia poplítea, fêmur para ramos da veia femoral, úmero proximal para veia axilar"
+    ],
+    "correctIndex": 4,
+    "explanation": "O acesso intraósseo funciona porque os sinusóides da medula óssea drenam para o sistema venoso central através de uma 'veia rígida' que não colaba mesmo em choque. Os locais de punção e drenagem são: tíbia proximal (veia poplítea), fêmur (ramos da veia femoral), tíbia distal (veia safena magna), úmero proximal (veia axilar), manúbrio (veias mamárias internas e ázigo).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as indicações e contraindicações específicas do acesso vascular intraósseo?",
+    "options": [
+      "Indicações: impossibilidade de AVP em choque, insuficiência respiratória aguda, PCR principalmente pediátricos; Contraindicações: fratura no osso alvo, prótese ortopédica, infecção local, doenças ósseas",
+      "Indicações: preferência médica em cirurgias, hipertensão arterial sistêmica, AVC isquêmico em adultos; Contraindicações: obesidade mórbida, diabetes mellitus, varizes superficiais, artrite reumatoide",
+      "Indicações: escolha inicial em ambulatório, hipotensão ortostática, síncope vasovagal em idosos; Contraindicações: anemia ferropriva, hipercolesterolemia, dermatite atópica, osteoporose leve",
+      "Indicações: protocolo em consultório, cefaleia tensional, dispepsia funcional em jovens; Contraindicações: rinite alérgica, gastrite crônica, eczema seborreico, cifose dorsal",
+      "Indicações: rotina em enfermaria, desidratação leve, febre baixa em adolescentes; Contraindicações: alergia alimentar, asma brônquica, psoríase cutânea, escoliose postural"
+    ],
+    "correctIndex": 0,
+    "explanation": "O acesso intraósseo é indicado quando há impossibilidade de obter acesso venoso periférico em situações críticas: choque, insuficiência respiratória aguda (IRpA), parada cardiorrespiratória (PCR), principalmente em pacientes pediátricos. É contraindicado em casos de fratura no osso alvo, presença de prótese ortopédica, infecção local ou doenças ósseas que comprometam a integridade óssea.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais medicamentos e fluidos podem ser administrados pela via intraóssea e quais são as principais complicações dessa técnica?",
+    "options": [
+      "Todos medicamentos e fluidos endovenosos podem ser dados por via IO; Complicações: extravasamento, síndrome compartimental, infecção, fraturas, lesão de cartilagem de crescimento, embolia gordurosa",
+      "Apenas cristaloides e analgésicos podem ser dados por via IO; Complicações: hemorragia maciça, ruptura arterial, necrose muscular, paralisia permanente, insuficiência renal aguda, choque anafilático",
+      "Exclusivamente sangue e derivados podem ser dados por via IO; Complicações: coagulação intravascular disseminada, síndrome da lise tumoral, rabdomiólise, insuficiência cardíaca, pneumonia aspirativa",
+      "Somente coloides e antibióticos podem ser dados por via IO; Complicações: trombose venosa profunda, embolia pulmonar, sepse generalizada, amputação do membro, falência hepática, edema cerebral",
+      "Unicamente vasopressores e sedativos podem ser dados por via IO; Complicações: fibrilação ventricular, acidente vascular cerebral, pancreatite aguda, perfuração intestinal, cetoacidose diabética"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma característica fundamental do acesso intraósseo é que TODOS os medicamentos e fluidos que podem ser administrados por via endovenosa também podem ser dados por via intraóssea. As complicações incluem extravasamento, síndrome compartimental, infecção, fraturas, lesão de cartilagem de crescimento e embolia gordurosa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a definição técnica de acesso venoso central e quais são suas sete indicações principais?",
+    "options": [
+      "Corpo do cateter atravessa veia porta ou mesentérica superior; Indicações: coleta de urina 24 horas, injeção intramuscular profunda, drenagem torácica fechada, lavagem gástrica simples, irrigação vesical contínua, aspiração traqueal superficial, paracentese abdominal",
+      "Base do dispositivo penetra artéria pulmonar ou aorta ascendente; Indicações: aferição de temperatura corporal, aplicação de pomadas tópicas, massagem cardíaca externa, imobilização ortopédica, nebulização broncodilatadora, punção lombar diagnóstica, biópsia hepática",
+      "Extremidade do dispositivo atinge veia cava superior ou inferior; Indicações: monitorização hemodinâmica invasiva, infusão de soluções cáusticas/hiperosmóticas, terapia renal substitutiva, acesso longo prazo, reposição rápida, marca-passo temporário, veias periféricas ruins",
+      "Ponta do cateter alcança átrio direito ou ventrículo esquerdo; Indicações: medição de glicemia capilar, administração de soro fisiológico, fisioterapia respiratória, curativo compressivo, oxigenoterapia contínua, eletrocardiograma seriado, gasometria venosa",
+      "Extremo do tubo atinge veia jugular ou subclávia proximal; Indicações: hidratação oral supervisionada, compressão pneumática intermitente, terapia ocupacional intensiva, reabilitação nutricional oral, suporte psicológico hospitalar, mobilização precoce assistida, alta hospitalar programada"
+    ],
+    "correctIndex": 2,
+    "explanation": "O acesso venoso central é definido quando a extremidade do dispositivo atinge a veia cava superior ou inferior. As 7 indicações principais são: 1) monitorização hemodinâmica invasiva (PVC, PAP, DC), 2) infusão de soluções cáusticas/hiperosmóticas, 3) terapia renal substitutiva de urgência, 4) acesso de longo prazo (NPP, QT), 5) reposição volêmica rápida em trauma/cirurgia, 6) marca-passo temporário, 7) veias periféricas ruins.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a ordem preferencial dos sítios de punção para acesso venoso central e os tipos de cateteres disponíveis?",
+    "options": [
+      "Ordem preferencial: veia jugular interna, veia subclávia, veia femoral, veia jugular externa, veias antecubitais; Tipos: duplo lúmen, PICC, intracath",
+      "Ordem preferencial: veia jugular externa, veia facial, veia temporal, veia occipital, veia vertebral; Tipos: quádruplo lúmen, cateter vesical, tubo orotraqueal",
+      "Ordem preferencial: veias antecubitais, veia dorsal da mão, veia safena parva, veia fibular, veia plantar; Tipos: penta lúmen, dreno torácico, cânula nasal",
+      "Ordem preferencial: veia subclávia, veia braquial, veia poplítea, veia tibial, veia radial; Tipos: triplo lúmen, cateter epidural, sonda nasogástrica",
+      "Ordem preferencial: veia femoral, veia safena magna, veia basílica, veia cefálica, veia axilar; Tipos: mono lúmen, cateter de Swan-Ganz, cateter de Foley"
+    ],
+    "correctIndex": 0,
+    "explanation": "A ordem preferencial dos sítios para acesso venoso central é: 1º) veia jugular interna (VJI), 2º) veia subclávia (VSC), 3º) veia femoral (VF), 4º) veia jugular externa (VJE), 5º) veias antecubitais. Os principais tipos de cateteres centrais incluem duplo lúmen, PICC (cateter central de inserção periférica) e intracath.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Por que a veia jugular interna direita é considerada via preferencial e quais são suas vias de punção anatômicas?",
+    "options": [
+      "VJI esquerda tem médias taxas de sucesso e alto índice de complicações leves; Vias: superior (acima da clavícula), inferior (abaixo do esterno), lateral (junto ao trapézio)",
+      "VJI direita tem altas taxas de sucesso e baixo índice de complicações graves; Vias: anterior (medial ao esternocleidomastóideo), medial (entre ramos do SCM), posterior (lateral ao SCM)",
+      "VJI contralateral tem mínimas taxas de sucesso e máximo índice de complicações críticas; Vias: horizontal (paralela ao solo), vertical (perpendicular ao chão), transversa (cruzando a linha média)",
+      "VJI bilateral tem baixas taxas de sucesso e médio índice de complicações moderadas; Vias: interna (dentro do músculo), externa (fora da fáscia), profunda (abaixo da carótida)",
+      "VJI central tem variáveis taxas de sucesso e nulo índice de complicações fatais; Vias: cranial (próximo à mandíbula), caudal (próximo ao tórax), oblíqua (diagonal ao pescoço)"
+    ],
+    "correctIndex": 1,
+    "explanation": "A veia jugular interna direita é preferencial devido às altas taxas de sucesso e baixo índice de complicações graves. As três vias de punção são: anterior (medial ao músculo esternocleidomastóideo), medial (entre os dois ramos do SCM) e posterior (lateral ao SCM). Cada via tem seus pontos de referência anatômicos específicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a técnica específica de punção da veia jugular interna pela via medial com seus parâmetros angulares?",
+    "options": [
+      "Punção na borda do pentágono formado pelos vasos superficiais, agulha inclinada 15° em relação à veia, direcionada para o cotovelo ipsilateral",
+      "Punção na base do quadrado formado pelos músculos cervicais, agulha inclinada 45° em relação ao músculo, direcionada para o ombro contralateral",
+      "Punção no vértice do hexágono formado pelas estruturas nervosas, agulha inclinada 90° em relação à artéria, direcionada para o punho contralateral",
+      "Punção no centro do losango formado pelas fáscias profundas, agulha inclinada 60° em relação ao osso, direcionada para a axila homolateral",
+      "Punção no ápice do triângulo formado pelos ramos do esternocleidomastóideo, agulha inclinada 30° em relação à pele, direcionada para o mamilo ipsilateral"
+    ],
+    "correctIndex": 4,
+    "explanation": "A técnica de punção da VJI pela via medial consiste em inserir a agulha no ápice do triângulo formado pelos dois ramos do músculo esternocleidomastóideo, com inclinação de 30° em relação ao plano da pele, direcionando a agulha para o mamilo ipsilateral. Esses parâmetros garantem maior probabilidade de sucesso na punção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as contraindicações e vantagens específicas do acesso pela veia jugular interna?",
+    "options": [
+      "Contraindicações: hipoglicemia ocasional/hiperglicemia controlada, herniorrafia inguinal, nevos melanocíticos; Vantagens: risco inferior à VP, central e fortemente compressível, proibido em equimoses locais, mandatório em ambulatório",
+      "Contraindicações: anemia moderada/plaquetopenia mínima, apendicectomia antiga, lipomas dorsais; Vantagens: risco igual à VA, mediana e parcialmente compressível, vedado em sangramentos menores, opcional em emergências",
+      "Contraindicações: hipertensão leve/diabetes controlado, cirurgia abdominal prévia, cistos renais; Vantagens: maior risco que VF, profunda e incompressível, impossível em coagulopatias leves, contraindicado em PCR",
+      "Contraindicações: discrasias graves/anticoagulação, endarterectomia de carótida ipsilateral, tumores cervicais; Vantagens: menor risco que VSC, superficial e compressível, possível em discrasias moderadas, uso em RCP",
+      "Contraindicações: leucocitose transitória/neutropenia relativa, colecistectomia recente, hemangiomas faciais; Vantagens: risco superior à VB, lateral e fracamente compressível, permitido em tromboses mínimas, preferencial em eletivas"
+    ],
+    "correctIndex": 3,
+    "explanation": "As contraindicações da VJI incluem discrasias sanguíneas graves/anticoagulação, endarterectomia de carótida ipsilateral e tumores cervicais. As vantagens são: menor risco de complicações que a veia subclávia, localização superficial e compressível (permite controle de sangramentos), possível mesmo em discrasias moderadas e utilizável durante RCP sem interromper manobras.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as complicações potenciais do acesso pela veia jugular interna?",
+    "options": [
+      "Laceração de veia cava com hemotórax, lesão de ducto torácico com quilotórax, embolia tumoral, pleurite, espasmo/oclusão/estenose, deslocamento para átrio, ruptura miocárdica",
+      "Secção de artéria vertebral com AVC, trauma de nervo frênico com paralisia, embolia paradoxal, peritonite, fístula/pseudoaneurisma/claudicação, progressão para aorta, infarto agudo",
+      "Ruptura de aorta com hemorragia, perfuração esofágica com mediastinite, embolia séptica, pericardite, aneurisma/dissecção/isquemia, migração para ventrículo, tamponamento cardíaco",
+      "Punção de carótida com hematoma, punção traqueal com lesão de nervo recorrente, embolia gasosa, pneumotórax, trombose/flebite/sepse, má-posição do cateter, lesão cardíaca",
+      "Avulsão de veia ázigo com choque, injúria de plexo braquial com paresia, embolia pulmonar, colangite, vasculite/arterite/flebit, retração para subcutâneo, arritmia ventricular"
+    ],
+    "correctIndex": 3,
+    "explanation": "As complicações da punção da VJI incluem: punção inadvertida de carótida com formação de hematoma, punção de traqueia com possível lesão de nervo laríngeo recorrente, embolia gasosa, pneumotórax (menos comum que na VSC), trombose/flebite/sepse relacionadas ao cateter, má-posição ou perda do cateter e lesão cardíaca.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o status da veia subclávia como acesso central e sua técnica de punção pela via infraclavicular?",
+    "options": [
+      "Acesso intermediário cronologicamente, seguro para iniciantes e obrigatoriamente segunda opção; Via transclavicular: agulha através do meio da clavícula direcionada para processo coracoide",
+      "Último acesso padronizado, arriscado para veteranos e necessariamente terceira alternativa; Via retroclavicular: agulha posterior à clavícula direcionada para manúbrio esternal",
+      "Um dos primeiros acessos utilizados, confiável em mãos experientes mas não deve ser primeira escolha; Via infraclavicular: agulha rente ao bordo inferior da clavícula direcionada para fúrcula esternal",
+      "O mais recente acesso desenvolvido, imprevisível mesmo para experts e sempre primeira escolha; Via supraclavicular: agulha sobre o bordo superior da clavícula direcionada para apêndice xifoide",
+      "Acesso experimental recente, instável para especialistas e opcionalmente quarta escolha; Via periclavicular: agulha circundando a clavícula direcionada para articulação acromioclavicular"
+    ],
+    "correctIndex": 2,
+    "explanation": "A veia subclávia foi um dos primeiros acessos centrais utilizados, sendo confiável e seguro em mãos experientes, mas não deve ser primeira escolha devido ao maior risco de complicações em operadores inexperientes. A técnica pela via infraclavicular posiciona a agulha rente ao bordo inferior da clavícula, direcionada para a fúrcula esternal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o ponto exato de punção da veia subclávia e suas contraindicações específicas?",
+    "options": [
+      "Ponto 3cm medial ao encontro das linhas acromioclavicular e bordo superior da escápula; Contraindicações: hipertensão sistólica, asma leve, fratura de costela, após refeições",
+      "Ponto 4cm posterior à intersecção das linhas costovertebral e bordo medial da escápula; Contraindicações: normotensão arterial, rinite alérgica, contusão torácica, após exercício",
+      "Ponto 2,5cm superior à convergência das linhas xifoclavicular e bordo anterior do músculo; Contraindicações: taquicardia sinusal, sinusite aguda, distensão muscular, durante jejum",
+      "Ponto 2cm anterior à junção das linhas esternoclavicular e bordo lateral do esterno; Contraindicações: hipotensão diastólica, bronquite crônica, luxação de ombro, durante sono",
+      "Ponto 1,5cm lateral ao cruzamento das linhas coracoclavicular e bordo inferior da clavícula; Contraindicações: discrasias de qualquer grau, DPOC/enfisema, trauma de clavícula, durante RCP"
+    ],
+    "correctIndex": 4,
+    "explanation": "O ponto de punção da VSC pela via infraclavicular é 1,5cm lateral ao cruzamento das linhas coracoclavicular e bordo inferior da clavícula. As contraindicações incluem discrasias sanguíneas de qualquer grau/anticoagulantes, DPOC/enfisema (maior risco de pneumotórax), trauma de clavícula/cirurgias prévias/deformidades e durante RCP (interfere nas compressões).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as complicações específicas do acesso pela veia subclávia com destaque para o lado esquerdo?",
+    "options": [
+      "Secção de veia ázigo com hemopericárdio, pneumomediastino extenso, derrame pleural purulento à direita, embolia séptica grave, fístula/dissecção/ruptura, migração do cateter, taquicardia ventricular",
+      "Laceração de artéria carótida com AVC hemorrágico, enfisema subcutâneo difuso, ascite quilosa somente bilateral, embolia tumoral maligna, oclusão/estenose/aneurisma, rotação do dispositivo, fibrilação atrial",
+      "Avulsão de artéria torácica com exsanguinação, atelectasia pulmonar total, empiema pleural central, embolia paradoxal sintomática, arterite/vasculite/tromboflebite, exteriorização do cateter, assistolia prolongada",
+      "Ruptura de veia braquiocefálica com choque hipovolêmico, piopneumotórax bilateral, hidrotórax exclusivamente à direita, embolia gordurosa, espasmo/isquemia/gangrena, inversão do cateter, parada cardíaca",
+      "Punção de artéria subclávia com hematoma/sangramento, pneumotórax/hemotórax, quilotórax especialmente à esquerda, embolia gasosa, trombose/flebite/sepse, má-posição, lesão cardíaca"
+    ],
+    "correctIndex": 4,
+    "explanation": "As complicações da VSC incluem punção de artéria subclávia com hematoma/sangramento (não compressível), pneumotórax/hemotórax (mais comum que na VJI), quilotórax ESPECIALMENTE À ESQUERDA (devido ao trajeto do ducto torácico), embolia gasosa, trombose/flebite/sepse, má-posição do cateter e lesão cardíaca.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a evolução histórica do uso da veia femoral e suas indicações atuais especiais?",
+    "options": [
+      "Raramente tentada previamente por complexidade anatômica extrema; Popularizada para todos procedimentos: endoscopias digestivas, biópsias percutâneas, infiltrações articulares, curativos simples",
+      "Extensamente aplicada originalmente por preferência cirúrgica universal; Restrita para casos selecionados: transplantes hepáticos, neurocirurgias, oftalmologia, otorrinolaringologia",
+      "Muito utilizada primariamente por facilidade técnica e baixas complicações; Abandonada para procedimentos rotineiros: cirurgias eletivas, exames ambulatoriais, hidratação oral, consultas externas",
+      "Pouco utilizada historicamente por conceito de alto índice de infecções/trombose; Retomada para situações especiais: RCP, hemodiálise, reposição no politrauma, uso em UTI",
+      "Moderadamente usada inicialmente por indicação pediátrica exclusiva; Expandida para populações gerais: idosos demenciados, gestantes, neonatos prematuros, pacientes psiquiátricos"
+    ],
+    "correctIndex": 3,
+    "explanation": "A veia femoral foi historicamente pouco utilizada devido ao conceito (nem sempre verdadeiro) de alto índice de infecções e trombose. Foi retomada para situações especiais onde suas vantagens superam os riscos: RCP (não interfere nas manobras), hemodiálise, reposição volêmica no politrauma e uso em UTI.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as vantagens específicas da veia femoral que a tornam útil em situações de emergência?",
+    "options": [
+      "Profunda, difícil acesso, alto risco tardio, múltiplas complicações fatais documentadas, incompressível/acesso cirúrgico complexo, permite apenas cateteres finos, contraindicada em RCP",
+      "Intermediária, acesso moderado, risco médio constante, algumas complicações graves registradas, parcialmente compressível/acesso cirúrgico demorado, permite cateteres médios, opcional em RCP",
+      "Intramuscular, acesso complexo, risco alto contínuo, frequentes complicações moderadas relatadas, totalmente incompressível/acesso cirúrgico emergencial, permite apenas agulhas, obrigatória em RCP",
+      "Subfascial, acesso variável, risco baixo intermitente, raras complicações leves observadas, minimamente compressível/acesso cirúrgico impossível, permite cateteres variados, preferencial em RCP",
+      "Superficial, fácil acesso, baixo risco imediato, sem complicações fatais relatadas, compressível/acesso cirúrgico fácil, permite cateteres grossos, útil em RCP sem interromper manobras"
+    ],
+    "correctIndex": 4,
+    "explanation": "A veia femoral oferece vantagens importantes: é superficial e de fácil acesso, tem baixo risco de complicações imediatas, não há relatos de complicações fatais, é compressível e de fácil acesso cirúrgico se necessário, permite passagem de cateteres de grosso calibre (importante no trauma) e é muito útil em RCP pois não requer interrupção das manobras de ressuscitação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as características anatômicas da veia femoral e suas contraindicações para punção?",
+    "options": [
+      "Veia femoral corre medialmente à artéria no triângulo femoral; Contraindicações: discrasias graves/anticoagulação e infecção local",
+      "Veia femoral corre superiormente à artéria no losango femoral; Contraindicações: hipertensão grave/fibrilação atrial e queimadura química",
+      "Veia femoral corre posteriormente à artéria no hexágono femoral; Contraindicações: normotensão/arritmia sinusal e escoriação superficial",
+      "Veia femoral corre lateralmente à artéria no quadrilátero femoral; Contraindicações: hipertensão leve/bradicardia e irritação cutânea",
+      "Veia femoral corre anteriormente à artéria no pentágono femoral; Contraindicações: hipotensão moderada/taquicardia e eritema solar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anatomicamente, a veia femoral corre medialmente à artéria femoral no triângulo femoral (importante referência para punção). As contraindicações são relativamente simples: discrasias sanguíneas graves ou uso de anticoagulantes e presença de infecção local no sítio de punção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como as veias antecubitais são utilizadas para acesso central e quais dispositivos são empregados?",
+    "options": [
+      "Uso raro para punções nervosas com cateter epidural, também para bloqueio neural periférico com Portocath; nervo puncionado com dispositivo látex sobre fibra de calibre variável",
+      "Uso ocasional para punções linfáticas com Butterfly, também para cateter linfático periférico com Swan-Ganz; vaso puncionado com dispositivo borracha sobre metal de médio calibre",
+      "Uso excepcional para punções arteriais com Scalp, também para cateter arterial central com Intracath; artéria puncionada com dispositivo metálico sob agulha de fino calibre",
+      "Uso frequente para punções capilares com Jelco, também para cateter capilar central com PICC; capilar puncionado com dispositivo silicone sob plástico de micro calibre",
+      "Uso rotineiro para punções periféricas com Abbocath, também para cateter central periférico com Cavafix; veia puncionada com dispositivo plástico sobre agulha de grosso calibre"
+    ],
+    "correctIndex": 4,
+    "explanation": "As veias antecubitais são rotineiramente usadas para punções periféricas com dispositivos 'plástico sobre agulha' (Abbocath). Também permitem posicionamento de cateteres venosos centrais por acesso periférico usando dispositivos especiais como o Cavafix. A técnica envolve punção da veia com dispositivo plástico sobre agulha de grosso calibre.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as vantagens e desvantagens do acesso pelas veias antecubitais?",
+    "options": [
+      "Vantagens: dificuldade e treinamento longo, risco médio de complicações crônicas; Desvantagens: anatomia constante, local rígido, moderado na hipertensão, posicionamento previsível, preferenciais para hipotônicas",
+      "Vantagens: simplicidade extrema e domínio instantâneo, risco nulo de qualquer complicação; Desvantagens: anatomia mutável, local fixo, impossível na hipotensão, posicionamento aleatório, vedadas para coloides",
+      "Vantagens: praticidade e aprendizado fácil, baixo risco de complicações imediatas; Desvantagens: anatomia variável, local móvel, difícil no choque, posicionamento errático, não indicadas para hipertônicas",
+      "Vantagens: tecnicidade e especialização prolongada, risco máximo de complicações fatais; Desvantagens: anatomia estável, local flexível, viável na taquicardia, posicionamento calculado, recomendadas para cristaloides",
+      "Vantagens: complexidade e aprendizado difícil, alto risco de complicações tardias; Desvantagens: anatomia fixa, local estático, fácil na normotensão, posicionamento preciso, obrigatórias para isotônicas"
+    ],
+    "correctIndex": 2,
+    "explanation": "As vantagens incluem praticidade e aprendizado fácil, além de baixo risco de complicações imediatas. As desvantagens são: anatomia variável, local muito móvel (dificulta curativo), acesso difícil no choque hipovolêmico, posicionamento errático do cateter central e não são indicadas para soluções hipertônicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as quatro indicações principais para canulação arterial em UTI?",
+    "options": [
+      "Medição intermitente da PVC, promover conforto de infusões raras, coleta de amostras com alterações basais, posicionamento de cateter de Swan-Ganz",
+      "Verificação esporádica do DC, ignorar desconforto de biópsias múltiplas, coleta de amostras sem padronização, posicionamento de stent coronariano",
+      "Controle randômico da SvO2, aumentar desconforto de paracenteses repetidas, coleta de amostras com contaminação, posicionamento de filtro de veia cava",
+      "Monitorização contínua da PA, evitar desconforto de punções frequentes, coleta de amostras sem distúrbios basais, posicionamento de balão intra-aórtico",
+      "Aferição ocasional da PAP, causar desconforto de dissecções únicas, coleta de amostras com distúrbios máximos, posicionamento de marca-passo definitivo"
+    ],
+    "correctIndex": 3,
+    "explanation": "As quatro indicações principais para canulação arterial em UTI são: 1) Monitorização contínua da pressão arterial, 2) Evitar desconforto e lesão de punções arteriais frequentes, 3) Permitir coleta de amostras sanguíneas arteriais sem causar distúrbios do estado basal, 4) Posicionamento percutâneo de balão intra-aórtico de contrapulsação.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as contraindicações para acesso arterial e a sequência preferencial dos locais de punção?",
+    "options": [
+      "Contraindicações: pele íntegra, hemostasia normal, presença de circulação colateral, vasculatura saudável; Sequência: braquial, carótida, axilar, preferir temporal pelo baixo risco",
+      "Contraindicações: infecção local, coagulopatia (relativa), ausência de circulação colateral, vasculopatia grave; Sequência: radial, pediosa, femoral, evitar braquial pelo risco tromboembólico",
+      "Contraindicações: ausência de infecção, hipercoagulabilidade, excesso de colaterais, hipertensão leve; Sequência: ulnar, tibial posterior, poplítea, indicar subclávia pelo benefício vascular",
+      "Contraindicações: tecido necrótico, trombocitose, circulação única, normotensão; Sequência: temporal, occipital, vertebral, escolher jugular pelo acesso fácil",
+      "Contraindicações: queimadura extensa, policitemia, múltiplas colaterais, hipotensão; Sequência: facial, lingual, oftálmica, recomendar safena pelo menor trauma"
+    ],
+    "correctIndex": 1,
+    "explanation": "As contraindicações incluem infecção da pele no local, coagulopatia (contraindicação relativa), ausência de circulação colateral adequada e vasculopatia periférica grave. A sequência preferencial é: artéria radial (mais usada), pediosa, femoral. Deve-se evitar a artéria braquial pelo potencial risco de complicações tromboembólicas em antebraço e mão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como é realizado o teste de Allen e qual sua importância na punção da artéria radial?",
+    "options": [
+      "Teste avalia circulação colateral da mão pelo arco palmar; comprimir radial e ulnar com punho fechado até palidez, liberar ulnar mantendo radial ocluída, mão deve corar indicando fluxo adequado pela ulnar",
+      "Teste determina circulação profunda da perna pelo arco poplíteo; comprimir femoral e poplítea com joelho dobrado até edema, liberar poplítea mantendo femoral pérvia, perna deve inchar indicando fluxo pela poplítea",
+      "Teste estabelece circulação superficial do pescoço pelo arco carotídeo; comprimir carótidas bilateral com cabeça estendida até síncope, liberar esquerda mantendo direita patente, cérebro deve oxigenar indicando fluxo pela esquerda",
+      "Teste mede circulação periférica do pé pelo arco plantar; comprimir pediosa e tibial com tornozelo estendido até rubor, liberar tibial mantendo pediosa livre, pé deve esfriar indicando fluxo pela tibial",
+      "Teste verifica circulação central do braço pelo plexo braquial; comprimir braquial e axilar com cotovelo flexionado até cianose, liberar axilar mantendo braquial aberta, braço deve aquecer indicando fluxo pela axilar"
+    ],
+    "correctIndex": 0,
+    "explanation": "O teste de Allen avalia a circulação colateral da mão através do arco palmar. Execução: comprimir artérias radial e ulnar com o punho fechado até a mão ficar pálida, então liberar a artéria ulnar mantendo a radial ocluída. Se a mão voltar a corar rapidamente, indica que a artéria ulnar sozinha pode suprir o fluxo sanguíneo da mão, tornando segura a punção da radial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a técnica correta de punção arterial com os ângulos específicos de inserção?",
+    "options": [
+      "Agulha entra no vaso em ângulo de 90° perpendicular ao músculo, após acesso aumentar para 45° e empurrar cateter com movimentos lineares bruscos",
+      "Agulha perfura o vaso em ângulo de 45° diagonal ao nervo, após entrada reduzir para 5° e vibrar cateter com movimentos horizontais lentos",
+      "Agulha transpassa o vaso em ângulo de 15° paralelo à fáscia, após penetração elevar para 75° e girar cateter com movimentos verticais fortes",
+      "Agulha penetra no vaso em ângulo de 30° em relação ao plano da pele, após punção diminuir para 10° e introduzir cateter com movimentos rotatórios suaves",
+      "Agulha atravessa o vaso em ângulo de 60° tangencial ao osso, após perfuração manter em 60° e puxar cateter com movimentos laterais rápidos"
+    ],
+    "correctIndex": 3,
+    "explanation": "A técnica correta de punção arterial envolve penetrar no vaso com a agulha em ângulo de 30° em relação ao plano da pele. Após a punção bem-sucedida do vaso, deve-se diminuir esse ângulo para cerca de 10° e introduzir o cateter com suaves movimentos rotatórios para facilitar a progressão e evitar lesão vascular.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as dez complicações principais dos acessos arteriais?",
+    "options": [
+      "Vasoconstrição, hemólise, migração anterior/posterior, pneumopatia restritiva, derrame por transdução, perfurações, comunicações NN, supuração regional/sistêmica, metabolização inadvertida de medicações, neoplasia/carcinoma de estruturas",
+      "Vasoplegia, coagulação, infiltração medial/lateral, artropatia degenerativa, linfedema por obstrução, oclusões, conexões AA, contaminação focal/difusa, aspiração inadvertida de medicações, atrofia/hipoplasia de tecidos",
+      "Vasculite, fibrinólise, disseminação superior/inferior, dermopatia proliferativa, ascite por ruptura, dissecções, anastomoses LL, infestação localizada/generalizada, digestão inadvertida de medicações, metaplasia/displasia de órgãos",
+      "Vasodilatação, hemorragia, absorção central/periférica, miopatia extensiva, edema por reconexão, estenoses, shunts VV, colonização superficial/profunda, extração inadvertida de medicações, hipertrofia/hiperplasia de membros",
+      "Vasoespasmo, trombose, embolização distal/proximal, neuropatia compressiva, hemorragia por desconexão, aneurismas, fístulas AV, infecção local/sistêmica, injeção inadvertida de medicações, necrose/gangrena de dígitos"
+    ],
+    "correctIndex": 4,
+    "explanation": "As 10 complicações dos acessos arteriais são: 1) vasoespasmo, 2) trombose, 3) embolização distal e proximal, 4) neuropatia compressiva, 5) hemorragia por desconexão acidental, 6) formações aneurismáticas, 7) fístulas arteriovenosas, 8) infecção local e sistêmica, 9) injeção inadvertida de medicações, 10) necrose e gangrena de dígitos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente de 35 anos, vítima de colisão automobilística, chega ao pronto-socorro em choque hemorrágico classe III. Após três tentativas frustradas de acesso venoso periférico devido ao colapso vascular, qual é a melhor conduta imediata?",
+    "options": [
+      "Tentar acesso pela veia jugular interna esquerda, pois mantém lado direito preservado para procedimentos futuros, tem menor risco de quilotórax e facilita posicionamento de cateter de Swan-Ganz se necessário",
+      "Puncionar veia subclávia direita imediatamente, pois tem maior taxa de sucesso em hipovolemia, permite monitorização de PVC simultânea e apresenta menor índice de complicações infecciosas tardias",
+      "Realizar acesso venoso central pela veia femoral direita, pois oferece baixo risco de complicações imediatas, permite cateteres de grosso calibre para reposição volêmica rápida e não interfere com outras manobras de ressuscitação",
+      "Proceder com dissecção venosa de veia basílica em fossa antecubital, pois garante visualização direta do vaso, elimina risco de pneumotórax e permite controle visual de complicações hemorrágicas locais",
+      "Instalar acesso intraósseo em tíbia proximal, pois é mais rápido que qualquer acesso central, permite infusão de todos os fluidos necessários e tem menor risco de infecção que acessos vasculares convencionais"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em politrauma com choque hemorrágico classe III e falha de acesso periférico, a veia femoral é a melhor escolha imediata. Oferece baixo risco de complicações graves imediatas (sem risco de pneumotórax ou lesão de grandes vasos), é superficial e de fácil acesso mesmo em choque, permite cateteres de grosso calibre essenciais para reposição volêmica rápida e não interfere com manobras de ressuscitação torácica se necessárias.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 4 anos em parada cardiorrespiratória há 3 minutos, equipe não consegue acesso venoso periférico após duas tentativas. Qual a conduta mais apropriada segundo as diretrizes atuais?",
+    "options": [
+      "Puncionar veia jugular interna com ultrassom, pois em crianças a visualização ultrassonográfica aumenta sucesso para 95%, reduz complicações mecânicas e permite confirmação imediata do posicionamento correto do cateter",
+      "Tentar acesso pela veia femoral com técnica de Seldinger, pois não interfere com compressões torácicas, tem referências anatômicas palpáveis mesmo em crianças pequenas e apresenta menor risco de pneumotórax",
+      "Insistir em nova tentativa de acesso periférico em veia jugular externa, pois é visível mesmo em crianças desidratadas, tem menor risco que acessos centrais profundos e permite início rápido de ressuscitação medicamentosa",
+      "Estabelecer imediatamente acesso intraósseo em tíbia proximal, pois é a segunda opção nas diretrizes de RCP pediátrica quando AVP falha, permite administração de todas as medicações de ressuscitação e tem alta taxa de sucesso",
+      "Realizar dissecção de veia safena magna no tornozelo, pois em pediatria as veias superficiais dos membros inferiores são mais calibrosas, a técnica tem baixo risco de lesão nervosa e permite acesso definitivo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em PCR pediátrica com falha de acesso venoso periférico, o acesso intraósseo é a segunda escolha conforme diretrizes atuais de RCP. É rápido de estabelecer (menos de 60 segundos), tem alta taxa de sucesso mesmo em mãos menos experientes, permite administração de TODOS os medicamentos e fluidos utilizados na ressuscitação (incluindo adrenalina, atropina, fluidos) e é especialmente indicado em pediatria.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente de 68 anos, DPOC grave com enfisema bolhoso, necessita de acesso venoso central para administração de noradrenalina. Apresenta INR de 2,8 por uso de varfarina. Qual a melhor escolha e justificativa?",
+    "options": [
+      "Veia subclávia está contraindicada absolutamente, pois combina dois fatores de alto risco - DPOC com enfisema aumenta risco de pneumotórax e anticoagulação impede controle de sangramento neste local não compressível",
+      "Acesso por veia antecubital com PICC é preferível, pois elimina riscos de sangramento maior e pneumotórax, permite administração segura de vasopressor e pode ser realizado mesmo com coagulopatia moderada",
+      "Veia jugular interna direita com ultrassom é ideal, pois a visualização direta reduz tentativas de punção minimizando sangramento, tem menor risco de pneumotórax que subclávia e permite compressão se houver hematoma",
+      "Veia femoral direita é a escolha mais segura, pois permite compressão manual em caso de sangramento pela anticoagulação, não tem risco de pneumotórax importante no DPOC grave e o local é acessível para curativo e monitorização",
+      "Veia jugular externa pode ser tentada primeiro, pois é superficial permitindo visualização direta, tem baixo risco de complicações graves, é compressível em caso de sangramento e evita manipulação de estruturas profundas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em paciente com DPOC grave/enfisema bolhoso e anticoagulação (INR 2,8), a veia femoral é a escolha mais segura. A anticoagulação permite compressão manual efetiva em caso de sangramento (impossível na subclávia). O DPOC grave com enfisema bolhoso aumenta muito o risco de pneumotórax na punção de VSC ou mesmo VJI. A veia femoral elimina o risco de pneumotórax e permite controle hemorrágico se necessário.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente necessita de nutrição parenteral total prolongada (prevista para 45 dias) e quimioterapia com drogas vesicantes. Qual o acesso vascular mais apropriado?",
+    "options": [
+      "Múltiplos acessos periféricos alternados semanalmente, pois eliminam riscos de infecção de cateter central, permitem avaliação contínua de rede venosa, reduzem complicações trombóticas e são mais confortáveis ao paciente",
+      "Cateter venoso central temporário em veia subclávia, pois permite alto fluxo necessário para NPT, pode ser trocado a cada 30 dias por novo cateter, tem posicionamento mais estável e menor mobilidade que outros sítios",
+      "PICC (cateter central de inserção periférica) é adequado, pois tem menor risco de complicações na inserção, pode permanecer por meses, permite NPT e quimioterapia e tem menor custo que dispositivos implantáveis",
+      "Cateter venoso central de longa permanência totalmente implantável (Port-a-cath), pois é indicado para terapias superiores a 30 dias, reduz risco de infecção, permite infusão segura de vesicantes e melhora qualidade de vida",
+      "Cateter de Hickman semi-implantável tunelizado é ideal, pois permite múltiplos lúmens para terapias simultâneas, tem barreira antimicrobiana no túnel subcutâneo e facilita manuseio domiciliar das infusões prolongadas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para terapias prolongadas (>30 dias) como NPT por 45 dias e quimioterapia com vesicantes, o cateter totalmente implantável (Port-a-cath) é ideal. É classificado como definitivo (>30 dias), tem menor risco de infecção por ser totalmente implantável, permite infusão segura de soluções hiperosmóticas (NPT) e vesicantes (quimioterapia), além de melhorar qualidade de vida permitindo atividades normais entre as sessões.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante cirurgia cardíaca, paciente desenvolve hipotensão refratária. Necessita monitorização hemodinâmica invasiva completa incluindo débito cardíaco. Qual a melhor estratégia de acesso vascular?",
+    "options": [
+      "Colocar cateter de PiCCO em artéria femoral e CVC em veia subclávia, pois o sistema PiCCO permite débito cardíaco contínuo por termodiluição transpulmonar, água pulmonar extravascular e variação de volume sistólico",
+      "Instalar ecocardiografia transesofágica contínua com acesso periférico, pois fornece avaliação visual direta da função cardíaca, não requer acessos invasivos adicionais e elimina riscos de complicações vasculares",
+      "Posicionar cateter de átrio esquerdo por toracotomia e linha arterial braquial, pois medida direta de pressão atrial esquerda é mais precisa que PCP, correlaciona melhor com pré-carga e evita complicações de Swan-Ganz",
+      "Inserir cateter de Swan-Ganz pela veia jugular interna direita e linha arterial radial, pois VJI direita oferece trajeto mais direto ao coração, permite medidas de PAP/DC/PCP e a radial fornece PA contínua com baixo risco",
+      "Estabelecer apenas acesso venoso central em veia femoral com cateter multilúmen, pois permite monitorização de PVC que correlaciona com débito cardíaco, administração de drogas vasoativas e é tecnicamente mais simples"
+    ],
+    "correctIndex": 3,
+    "explanation": "Para monitorização hemodinâmica completa incluindo débito cardíaco em cirurgia cardíaca, o padrão é cateter de Swan-Ganz pela VJI direita (trajeto mais retilíneo e curto até artéria pulmonar) combinado com linha arterial radial. O Swan-Ganz permite medidas de pressão arterial pulmonar (PAP), débito cardíaco (DC) por termodiluição, pressão capilar pulmonar (PCP) e cálculo de resistências. A linha arterial radial fornece PA contínua com excelente correlação e baixo risco.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com cirrose hepática Child C, varizes esofágicas, plaquetas 40.000, INR 2,5, necessita hemodiálise urgente. Qual o acesso vascular mais seguro?",
+    "options": [
+      "Veia subclávia está absolutamente contraindicada mesmo com correção de coagulopatia, pois local não compressível em hepatopata grave torna qualquer sangramento potencialmente fatal e risco permanece elevado mesmo após transfusões",
+      "Veia femoral direita é a escolha mais segura, pois é compressível em caso de sangramento, evita região torácica com risco de hemotórax em coagulopata grave, permite cateter de alto fluxo para diálise e tem acesso cirúrgico facilitado se necessário",
+      "Acesso peritoneal para diálise peritoneal emergencial, pois evita necessidade de acesso vascular em coagulopata grave, pode ser iniciada rapidamente, tem menor risco de sangramento maior e é efetiva na uremia",
+      "Veia jugular interna com correção prévia de coagulopatia usando plasma fresco e plaquetas, pois após normalização de parâmetros o risco é aceitável, o fluxo é melhor que femoral e há menor taxa de infecção",
+      "Fístula arteriovenosa de urgência em antebraço sob anestesia local, pois evita cateteres centrais, tem menor risco infeccioso em cirrótico, permite acesso definitivo para diálise e sangramento cirúrgico é controlável"
+    ],
+    "correctIndex": 1,
+    "explanation": "Em cirrótico grave com coagulopatia severa (plaquetas 40.000, INR 2,5), a veia femoral é mais segura para hemodiálise urgente. É compressível permitindo controle mecânico de sangramento (crucial com plaquetopenia e INR elevado), evita tórax onde hemotórax seria catastrófico, permite cateter de alto fluxo necessário para diálise eficiente e, se houver sangramento maior, o acesso cirúrgico à região inguinal é mais simples que cervical ou torácico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Criança de 2 anos, 12kg, com gastroenterite e desidratação grave, necessita hidratação venosa urgente. Após 4 tentativas frustradas de acesso periférico, qual a melhor conduta?",
+    "options": [
+      "Veia femoral com ultrassom é ideal, pois o ultrassom compensa o colapso vascular da desidratação, em crianças pequenas a veia está mais superficial, permite cateter adequado para hidratação rápida e evita região torácica",
+      "Hidratação por sonda nasogástrica é preferível, pois evita riscos de acesso vascular em criança desidratada, permite reposição controlada de fluidos e eletrólitos, tem absorção adequada se não houver íleo paralítico e é menos traumática",
+      "Dissecção de veia safena magna no maléolo medial, pois a anatomia é constante mesmo em crianças pequenas, permite visualização direta do vaso colabado, garante acesso definitivo e tem baixo risco em mãos experientes",
+      "Acesso intraósseo em tíbia proximal é a melhor escolha, pois em crianças pequenas desidratadas é mais rápido e seguro que acesso central, permite reposição volêmica imediata com fluxo adequado e tem alta taxa de sucesso mesmo sem experiência extensa",
+      "Veia jugular externa mesmo que colabada, pois em crianças a parede venosa é mais elástica permitindo cateterização às cegas, o trajeto é superficial reduzindo complicações e pode ser palpada mesmo em desidratação grave"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em criança de 2 anos com desidratação grave e múltiplas falhas de acesso periférico, o acesso intraósseo é a melhor escolha. É rápido de estabelecer (menos de 1 minuto), tem alta taxa de sucesso (>90% na primeira tentativa), permite fluxo adequado para ressuscitação volêmica (até 1L/hora sob pressão), é seguro em crianças pequenas e está indicado exatamente nesta situação onde o acesso vascular periférico é impossível devido ao colapso vascular.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente em UTI com sepse, necessita múltiplas drogas vasoativas, antibióticos, nutrição parenteral e hemodiálise intermitente. Qual a melhor estratégia de acessos vasculares?",
+    "options": [
+      "Dois cateteres venosos centrais: um triplo lúmen em VJI direita para drogas vasoativas/antibióticos/NPT e um cateter de diálise em veia femoral, permitindo terapias simultâneas sem incompatibilidades medicamentosas e acesso dedicado para hemodiálise",
+      "Múltiplos acessos periféricos para medicações não vesicantes, cateter central único para NPT e drogas vasoativas concentradas, fístula arteriovenosa para diálise, distribuindo riscos e preservando acessos centrais",
+      "Um cateter de Shiley pentlúmen em veia subclávia direita, pois comporta todas as infusões necessárias simultaneamente, reduz número de punções e risco infeccioso, permite rotação de lumens e simplifica cuidados de enfermagem",
+      "Cateter de diálise em VJI direita usado também para medicações entre sessões de diálise, complementado por PICC para nutrição parenteral, reduzindo sítios de punção central e permitindo administração segura de todas as terapias",
+      "Cateter totalmente implantável para terapias de longo prazo, acesso periférico para antibióticos, diálise peritoneal para evitar acesso vascular adicional, minimizando complicações relacionadas a cateteres e preservando patrimônio vascular"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para paciente complexo necessitando múltiplas terapias invasivas, a melhor estratégia é dois cateteres centrais separados: CVC triplo lúmen em VJI direita para infusões contínuas (vasoativos em via exclusiva, antibióticos e NPT em vias separadas evitando incompatibilidades) e cateter de diálise calibroso em veia femoral (permite alto fluxo necessário para hemodiálise eficiente). Esta abordagem evita incompatibilidades medicamentosas, permite todas as terapias simultâneas e mantém acesso exclusivo para diálise.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Idoso de 82 anos, fibrilação atrial anticoagulada, AVC prévio, necessita monitorização hemodinâmica invasiva. Apresenta tremor essencial importante. Qual a melhor estratégia?",
+    "options": [
+      "Monitorização não invasiva é preferível, pois tremor essencial aumenta risco de complicações de punção, anticoagulação potencializa sangramento, idade avançada reduz tolerância a complicações e existem alternativas adequadas",
+      "Reversão temporária da anticoagulação com vitamina K, controle do tremor com propranolol endovenoso, então proceder com acessos habituais em radial e jugular interna, minimizando riscos através de otimização clínica prévia",
+      "Acesso arterial em pediosa que tem menos movimento com tremor de membros superiores, acesso venoso por dissecção de basílica sob anestesia local, eliminando riscos de punção às cegas em paciente de alto risco",
+      "Cateter arterial em radial após sedação leve para controlar tremor, cateter venoso em subclávia pois é referência óssea fixa não afetada por tremor, permitindo monitorização completa com sítios habituais após estabilização do paciente",
+      "Linha arterial em artéria femoral ao invés de radial e acesso venoso central em VJI com ultrassom, pois femoral é maior alvo em paciente com tremor, VJI com ultrassom compensa movimentação involuntária e ambos permitem compressão se houver sangramento"
+    ],
+    "correctIndex": 4,
+    "explanation": "Em idoso com tremor essencial importante e anticoagulação, a estratégia mais segura é linha arterial femoral (vaso calibroso facilita punção mesmo com tremor, menos afetado por movimentação involuntária que radial) e CVC em VJI guiado por ultrassom (visualização em tempo real compensa tremor, permite punção precisa, reduz tentativas). Ambos os sítios são compressíveis caso ocorra sangramento pela anticoagulação, aspecto crucial neste paciente.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com obesidade mórbida (IMC 52), necessita acesso central para quimioterapia. Pescoço curto, não se palpa referências anatômicas. Qual a melhor abordagem?",
+    "options": [
+      "Cateter tunelizado via subclávia com fluoroscopia, pois referência óssea da clavícula independe de obesidade, fluoroscopia confirma trajetória em tempo real, tunelização reduz infecção e cateter definitivo evita múltiplas punções",
+      "Dissecção cirúrgica de veia jugular externa, pois elimina necessidade de referências anatômicas profundas, permite visualização direta em pescoço curto, garante acesso independente de obesidade e tem risco controlado",
+      "Veia femoral com ultrassom, pois em obesos a camada adiposa inguinal é mais compressível permitindo melhor visualização ultrassonográfica, o vaso é calibroso compensando profundidade e referências ósseas guiam a punção",
+      "PICC guiado por ultrassom é ideal, pois veias antecubitais são mais acessíveis mesmo em obesos mórbidos, ultrassom compensa ausência de referências palpáveis, evita punção às cegas em pescoço curto e permite quimioterapia segura",
+      "Veia jugular interna com ultrassom e paciente em Trendelenburg acentuado, pois posição melhora ingurgitamento venoso em obesos, ultrassom é mandatório sem referências palpáveis e experiência do operador é crucial"
+    ],
+    "correctIndex": 3,
+    "explanation": "Em obesidade mórbida com pescoço curto e sem referências palpáveis, o PICC é ideal. As veias antecubitais são mais superficiais e acessíveis mesmo em obesos extremos, o ultrassom compensa completamente a ausência de referências anatômicas, evita os riscos de punção central às cegas em anatomia difícil (pescoço curto, sem referências), permite administração segura de quimioterapia e tem excelente perfil de segurança.",
+    "type": "raciocínio"
+  }
+]

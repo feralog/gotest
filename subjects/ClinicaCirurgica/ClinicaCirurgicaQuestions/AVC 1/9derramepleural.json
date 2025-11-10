@@ -1,0 +1,561 @@
+[
+  {
+    "question": "Qual é a definição mais precisa de derrame pleural?",
+    "options": [
+      "Acúmulo anormal de líquido no espaço pleural entre as pleuras visceral (que recobre o pulmão) e parietal (que recobre a parede torácica), normalmente contendo 5-15 ml de fluido seroso",
+      "Acúmulo anormal de pus no espaço pleural entre as pleuras visceral e parietal, normalmente contendo volume mínimo de leucócitos em situação de homeostase",
+      "Acúmulo anormal de linfa no espaço pleural entre as pleuras visceral e parietal, normalmente contendo pequena quantidade de quilomicrons em estado fisiológico",
+      "Acúmulo anormal de sangue no espaço pleural entre as pleuras visceral e parietal, normalmente contendo pequeno volume de hemácias em condições basais",
+      "Acúmulo anormal de ar no espaço pleural entre as pleuras visceral e parietal, normalmente contendo volume variável de gás em condições fisiológicas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Derrame pleural é definido como o acúmulo anormal de líquido no espaço pleural, que é o espaço entre as duas camadas da pleura - a pleura visceral (que recobre o pulmão) e a pleura parietal (que recobre a parede torácica). Em condições normais, este espaço contém 5-15 ml de fluido seroso que lubrifica as superfícies pleurais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o volume normal de líquido presente na cavidade pleural em condições fisiológicas?",
+    "options": [
+      "50-100 ml de fluido seroso responsável pela termorregulação pleural e dissipação de calor metabólico",
+      "20-30 ml de fluido seroso responsável pela nutrição do parênquima pulmonar e trocas gasosas alveolares",
+      "5-15 ml de fluido seroso responsável pela lubrificação entre as camadas pleurais e geração de tensão superficial",
+      "1-3 ml de fluido seroso responsável pela defesa imunológica local e fagocitose de partículas inaladas",
+      "35-50 ml de fluido seroso responsável pela manutenção da pressão intrapleural e complacência pulmonar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Em condições fisiológicas, a cavidade pleural contém 5-15 ml de fluido seroso. Este líquido lubrifica continuamente a superfície das camadas pleurais, facilita seu deslizamento durante a insuflação e desinsuflação dos pulmões, e gera tensão superficial que mantém as pleuras visceral e parietal próximas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com dispneia progressiva e macicez à percussão em hemitórax esquerdo. Qual mecanismo fisiopatológico explica a formação do derrame pleural neste caso?",
+    "options": [
+      "Ruptura traumática da pleura visceral com extravasamento de ar para o espaço pleural e consequente colapso pulmonar unilateral progressivo",
+      "Obstrução brônquica completa por corpo estranho com atelectasia lobar e redistribuição do mediastino para o lado afetado",
+      "Desequilíbrio entre formação e reabsorção do líquido pleural por aumento da produção ou redução da absorção, resultando em acúmulo anormal no espaço pleural",
+      "Hiperinsuflação pulmonar assimétrica com enfisema bolhoso gigante e compressão do parênquima pulmonar adjacente",
+      "Dilatação ventricular esquerda com aumento da pressão de capilar pulmonar e transudação alveolar difusa bilateral"
+    ],
+    "correctIndex": 2,
+    "explanation": "A fisiopatologia do derrame pleural envolve desequilíbrio entre a formação (por filtração dos capilares da pleura parietal) e a reabsorção (principalmente pelos linfáticos da pleura parietal) do líquido pleural. Quando há aumento da produção ou redução da absorção, ocorre acúmulo anormal de fluido no espaço pleural.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é a incidência anual estimada de derrame pleural nos Estados Unidos?",
+    "options": [
+      "Cerca de 250.000 casos por ano, sendo condição incomum na prática clínica e manifestação de doenças predominantemente infecciosas",
+      "Aproximadamente 2 milhões de casos por ano, sendo condição universal na prática clínica e manifestação de doenças exclusivamente neoplásicas",
+      "Menos de 100.000 casos por ano, sendo condição excepcional na prática clínica e manifestação de doenças congênitas raras",
+      "Mais de 1 milhão de casos por ano, sendo condição comum na prática clínica e manifestação de mais de 50 doenças diferentes",
+      "Aproximadamente 500.000 casos por ano, sendo condição rara na prática clínica e manifestação de poucas doenças específicas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Estima-se que ocorram mais de 1 milhão de casos de derrame pleural por ano nos Estados Unidos. É uma condição comum na prática clínica e representa manifestação clínica de mais de 50 doenças diferentes, sendo mais frequente em adultos e idosos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são as principais causas de derrame pleural em países desenvolvidos e em desenvolvimento?",
+    "options": [
+      "Doenças autoimunes (mais comum em países desenvolvidos), traumatismos torácicos, embolia gordurosa e síndromes genéticas raras",
+      "Insuficiência cardíaca (mais comum em países desenvolvidos), pneumonia (derrame parapneumônico), neoplasias e tuberculose (prevalente no Brasil e países em desenvolvimento)",
+      "Desnutrição proteico-calórica (mais comum em países em desenvolvimento), doenças metabólicas, intoxicações e enfermidades degenerativas",
+      "Infecções virais (mais comum em países em desenvolvimento), doenças renais crônicas, hepatopatias alcoólicas e transtornos neurológicos",
+      "Malformações congênitas (mais comum em países desenvolvidos), doenças hematológicas, distúrbios endócrinos e alterações iatrogênicas"
+    ],
+    "correctIndex": 1,
+    "explanation": "As principais causas de derrame pleural incluem: Insuficiência cardíaca (mais comum em países desenvolvidos), Pneumonia (derrame parapneumônico), Neoplasias (primárias ou metastáticas) e Tuberculose (ainda muito prevalente no Brasil e outros países em desenvolvimento). Em pacientes oncológicos, cerca de 15% desenvolvem derrame pleural.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a porcentagem de pacientes oncológicos que desenvolvem derrame pleural e quais os tumores mais frequentemente associados?",
+    "options": [
+      "Cerca de 15% dos pacientes oncológicos desenvolvem derrame pleural, especialmente com câncer de pulmão, mama e linfomas",
+      "Cerca de 25% dos pacientes oncológicos desenvolvem derrame pleural, especialmente com câncer de pâncreas, estômago e ovário",
+      "Cerca de 5% dos pacientes oncológicos desenvolvem derrame pleural, especialmente com câncer de próstata, colorretal e melanoma",
+      "Cerca de 35% dos pacientes oncológicos desenvolvem derrame pleural, especialmente com câncer de tireoide, rins e bexiga",
+      "Cerca de 45% dos pacientes oncológicos desenvolvem derrame pleural, especialmente com câncer de fígado, esôfago e testículo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em pacientes oncológicos, cerca de 15% desenvolvem derrame pleural. Os tumores mais frequentemente associados são câncer de pulmão, mama e linfomas. A tuberculose pleural é uma das formas extrapulmonares mais comuns da doença e predomina em adultos jovens em regiões endêmicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com histórico de tuberculose pleural em região endêmica apresenta derrame recidivante. Qual característica epidemiológica desta condição?",
+    "options": [
+      "Tuberculose pleural é forma extrapulmonar mais comum da doença e predomina em adultos jovens em regiões endêmicas como o Brasil",
+      "Tuberculose pleural é forma cutânea da doença e predomina em trabalhadores rurais em regiões de floresta tropical",
+      "Tuberculose pleural é forma miliar exclusiva da doença e predomina em idosos imunossuprimidos em regiões urbanas",
+      "Tuberculose pleural é forma extrapulmonar mais rara da doença e predomina em crianças menores de 5 anos em regiões temperadas",
+      "Tuberculose pleural é forma congênita da doença e predomina em recém-nascidos de mães infectadas em qualquer região"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tuberculose pleural é uma das formas extrapulmonares mais comuns da doença e predomina em adultos jovens em regiões endêmicas como o Brasil. Esta característica epidemiológica é importante para o diagnóstico diferencial em pacientes jovens com derrame pleural em áreas com alta prevalência de tuberculose.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o mecanismo fisiopatológico do derrame pleural na insuficiência cardíaca?",
+    "options": [
+      "Diminuição da pressão oncótica plasmática que reduz a força de retenção do líquido dentro da luz vascular",
+      "Obstrução do sistema linfático pleural que prejudica a drenagem fisiológica do líquido do espaço pleural",
+      "Aumento da permeabilidade capilar por processo inflamatório que permite extravasamento de proteínas e células",
+      "Passagem transdiafragmática de líquido ascítico da cavidade peritoneal para a cavidade pleural",
+      "Aumento da pressão hidrostática nos capilares que força o líquido para fora dos vasos e para o espaço pleural"
+    ],
+    "correctIndex": 4,
+    "explanation": "Na insuficiência cardíaca, o mecanismo fisiopatológico predominante é o aumento da pressão hidrostática nos capilares, que força o líquido para fora dos vasos e para o espaço pleural. Este é um exemplo clássico de transudato, onde há desequilíbrio hidrostático sem aumento significativo da permeabilidade capilar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo fisiopatológico do derrame pleural na síndrome nefrótica?",
+    "options": [
+      "Passagem de líquido urinário para espaço pleural por fístula pleuro-renal em complicações pós-biópsia renal",
+      "Aumento da pressão hidrostática capilar por retenção hídrica e sobrecarga volumétrica do sistema circulatório",
+      "Aumento da permeabilidade capilar pleural por processo inflamatório sistêmico associado à doença renal",
+      "Diminuição da pressão oncótica plasmática por perda urinária de proteínas que reduz a força de retenção do líquido intravascular",
+      "Obstrução linfática por depósitos de amiloide nos linfáticos pleurais em amiloidose renal secundária"
+    ],
+    "correctIndex": 3,
+    "explanation": "Na síndrome nefrótica, o mecanismo fisiopatológico é a diminuição da pressão oncótica plasmática devido à perda urinária de proteínas (especialmente albumina). Esta redução da força oncótica diminui a capacidade de retenção do líquido dentro dos vasos, permitindo seu extravasamento para o espaço pleural, caracterizando um transudato.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo fisiopatológico do derrame pleural na pneumonia bacteriana?",
+    "options": [
+      "Aumento da permeabilidade capilar por processo inflamatório/infeccioso que danifica a membrana pleural e permite extravasamento de proteínas e células",
+      "Diminuição da pressão oncótica por consumo de proteínas no processo infeccioso sistêmico com hipoalbuminemia secundária",
+      "Obstrução linfática por linfadenite hilar reacional ao processo infeccioso pulmonar parenquimatoso",
+      "Passagem de exsudato inflamatório do parênquima pulmonar para espaço pleural através de fístulas alveolo-pleurais",
+      "Aumento da pressão hidrostática por sobrecarga volêmica durante a reanimação hídrica no tratamento do choque séptico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na pneumonia bacteriana (derrame parapneumônico), o mecanismo fisiopatológico é o aumento da permeabilidade capilar devido ao processo inflamatório/infeccioso. Este dano à membrana pleural permite o extravasamento de proteínas, células inflamatórias e fluidos para o espaço pleural, caracterizando um exsudato.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o mecanismo fisiopatológico do derrame pleural na neoplasia maligna?",
+    "options": [
+      "Diminuição da pressão oncótica por caquexia neoplásica com desnutrição proteico-calórica e hipoalbuminemia grave",
+      "Obstrução do sistema linfático por infiltração tumoral que prejudica a drenagem do líquido pleural e aumento da permeabilidade capilar por processo inflamatório local",
+      "Aumento da pressão hidrostática por compressão tumoral de veias mediastinais com aumento da pressão venosa sistêmica",
+      "Passagem transdiafragmática de ascite neoplásica para cavidade pleural em carcinomatose peritoneal metastática",
+      "Formação de fístulas linfáticas por erosão tumoral de vasos linfáticos com extravasamento de quilo para espaço pleural"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na neoplasia maligna, os mecanismos fisiopatológicos incluem principalmente a obstrução do sistema linfático por infiltração tumoral (que prejudica a drenagem do líquido pleural) e o aumento da permeabilidade capilar por processo inflamatório local mediado por citocinas e fatores de crescimento tumoral. Estes mecanismos resultam em derrame exsudativo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com cirrose hepática descompensada e ascite volumosa desenvolve derrame pleural direito. Qual o mecanismo fisiopatológico mais provável?",
+    "options": [
+      "Aumento da permeabilidade capilar por endotoxemia e citocinas inflamatórias na cirrose descompensada com formação de exsudato",
+      "Aumento da pressão hidrostática portal com extravasamento de líquido rico em proteínas para o espaço pleural por congestão venosa sistêmica",
+      "Obstrução linfática por fibrose hepática com bloqueio da drenagem linfática do espaço pleural através do ducto torácico",
+      "Passagem transdiafragmática de líquido ascítico da cavidade peritoneal para cavidade pleural (hidrotórax hepático) através de defeitos congênitos no diafragma",
+      "Diminuição da pressão oncótica por síntese hepática deficiente de albumina com hipoalbuminemia grave e formação de transudato"
+    ],
+    "correctIndex": 3,
+    "explanation": "No hidrotórax hepático, o mecanismo fisiopatológico é a passagem transdiafragmática de líquido ascítico da cavidade peritoneal para a cavidade pleural através de defeitos congênitos no diafragma. Este é um dos mecanismos de 'entrada de líquido de outras cavidades' descrito na fisiopatologia do derrame pleural.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os valores de proteínas totais que diferenciam transudato de exsudato no líquido pleural?",
+    "options": [
+      "Transudato: proteínas totais < 3,0 g/dL; Exsudato: proteínas totais > 4,0 g/dL",
+      "Transudato: proteínas totais < 2,5 g/dL; Exsudato: proteínas totais > 2,5 g/dL",
+      "Transudato: proteínas totais < 1,0 g/dL; Exsudato: proteínas totais > 2,0 g/dL",
+      "Transudato: proteínas totais < 2,0 g/dL; Exsudato: proteínas totais > 3,0 g/dL",
+      "Transudato: proteínas totais < 1,5 g/dL; Exsudato: proteínas totais > 3,5 g/dL"
+    ],
+    "correctIndex": 1,
+    "explanation": "A classificação bioquímica diferencia transudato (proteínas totais < 2,5 g/dL) de exsudato (proteínas totais > 2,5 g/dL). Esta é uma das características fundamentais para classificação do derrame pleural, sendo complementada pelos Critérios de Light.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os valores de LDH que diferenciam transudato de exsudato no líquido pleural?",
+    "options": [
+      "Transudato: LDH < 180 UI/L (ou < 3/4 do limite superior sérico); Exsudato: LDH > 220 UI/L (ou > 1,25x limite superior sérico)",
+      "Transudato: LDH < 100 UI/L (ou < 1/3 do limite superior sérico); Exsudato: LDH > 300 UI/L (ou > 1,5x limite superior sérico)",
+      "Transudato: LDH < 150 UI/L (ou < 1/2 do limite superior sérico); Exsudato: LDH > 250 UI/L (ou > limite superior sérico)",
+      "Transudato: LDH < 120 UI/L (ou < 1/4 do limite superior sérico); Exsudato: LDH > 350 UI/L (ou > 2x limite superior sérico)",
+      "Transudato: LDH < 200 UI/L (ou < 2/3 do limite superior sérico); Exsudato: LDH > 200 UI/L (ou > 2/3 do limite superior sérico)"
+    ],
+    "correctIndex": 4,
+    "explanation": "A classificação pelo LDH diferencia transudato (LDH < 200 UI/L ou < 2/3 do limite superior sérico) de exsudato (LDH > 200 UI/L ou > 2/3 do limite superior sérico). O LDH é uma enzima que se eleva em processos com dano celular, sendo característica de exsudatos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o aspecto típico do líquido pleural no transudato versus exsudato?",
+    "options": [
+      "Transudato: líquido turvo e esbranquiçado; Exsudato: líquido claro e transparente como água destilada",
+      "Transudato: líquido esverdeado e biliar; Exsudato: líquido leitoso e quiloso com gordura",
+      "Transudato: líquido claro e aquoso; Exsudato: líquido turvo, purulento, hemorrágico ou opalescente",
+      "Transudato: líquido hemorrágico e coagulável; Exsudato: líquido amarelo-dourado e límpido",
+      "Transudato: líquido purulento e espesso; Exsudato: líquido sero-hemático e fluido"
+    ],
+    "correctIndex": 2,
+    "explanation": "O aspecto do líquido pleural é uma característica importante: transudato geralmente se apresenta como líquido claro e aquoso, enquanto exsudato pode apresentar-se turvo, purulento (em infecções), hemorrágico (em neoplasias ou trauma) ou opalescente. Esta avaliação macroscópica fornece pistas diagnósticas iniciais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os valores de pH e glicose típicos do líquido pleural no transudato versus exsudato?",
+    "options": [
+      "Transudato: pH ácido (<7,2) e glicose baixa (<40 mg/dL); Exsudato: pH alcalino (>7,6) e glicose elevada (>100 mg/dL)",
+      "Transudato: pH sempre >7,5 e glicose sempre >80 mg/dL; Exsudato: pH sempre <7,0 e glicose sempre <30 mg/dL",
+      "Transudato: pH variável (6,8-7,8) e glicose flutuante; Exsudato: pH constante (7,35-7,45) e glicose estável (70-110 mg/dL)",
+      "Transudato: pH normal (7,4-7,55) e glicose normal; Exsudato: pH pode estar diminuído (<7,3) e glicose pode estar diminuída (<60 mg/dL)",
+      "Transudato: pH neutro (7,0) e glicose ausente; Exsudato: pH básico (8,0) e glicose muito elevada (>200 mg/dL)"
+    ],
+    "correctIndex": 3,
+    "explanation": "O transudato geralmente apresenta pH normal (7,4-7,55) e glicose normal, refletindo o desequilíbrio hidrostático/oncótico sem processo inflamatório significativo. O exsudato pode apresentar pH diminuído (<7,3 em infecções ou neoplasias) e glicose diminuída (<60 mg/dL em infecção, neoplasia, artrite reumatoide), indicando metabolismo celular aumentado e consumo de glicose.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com derrame pleural apresenta líquido turvo, proteínas 4,2 g/dL, LDH 380 UI/L, pH 7,18, glicose 45 mg/dL. Como classificar este derrame?",
+    "options": [
+      "Exsudato com características de infecção/empiema pela combinação de pH <7,2, glicose baixa, LDH elevada e proteínas elevadas",
+      "Transudato modificado com características de síndrome nefrótica pela combinação de proteínas elevadas e glicose normal",
+      "Transudato com características de cirrose hepática pelas proteínas elevadas mas pH alcalino e glicose normal",
+      "Transudato com características de insuficiência cardíaca pelas proteínas elevadas mas LDH dentro da variação transudativa",
+      "Exsudato com características de neoplasia pelo pH ácido mas glicose normal e LDH moderadamente elevada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Este derrame classifica-se como EXSUDATO pelos Critérios de Light (proteínas >2,5 g/dL, LDH >200 UI/L). Além disso, apresenta características de infecção/empiema: pH <7,2 (sugere necessidade de drenagem), glicose baixa (<60 mg/dL), LDH elevada e aspecto turvo. Esta combinação é altamente sugestiva de processo infeccioso no espaço pleural.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são os três critérios de Light para caracterização de exsudato?",
+    "options": [
+      "Proteínas totais no líquido pleural <2,0 g/dL OU LDH no líquido pleural <150 UI/L OU pH no líquido pleural >7,4",
+      "Proteínas totais no líquido pleural >3,0 g/dL E LDH no líquido pleural >300 UI/L E pH no líquido pleural <7,3",
+      "Relação proteína líquido pleural/sérica >0,6 E relação LDH líquido pleural/sérica >0,8 E LDH no líquido pleural >limite superior sérico",
+      "Relação proteína líquido pleural/sérica <0,5 E relação LDH líquido pleural/sérica <0,6 E LDH no líquido pleural <200 UI/L",
+      "Relação proteína líquido pleural/sérica >0,5 OU relação LDH líquido pleural/sérica >0,6 OU LDH no líquido pleural >2/3 do limite superior sérico"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os Critérios de Light estabelecem que o derrame é EXSUDATO se apresentar PELO MENOS UM dos seguintes: 1) relação proteína líquido pleural/sérica >0,5; 2) relação LDH líquido pleural/sérica >0,6; 3) LDH no líquido pleural >2/3 do limite superior sérico. A presença de qualquer um destes critérios é suficiente para caracterizar exsudato.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como são caracterizados os transudatos segundo os Critérios de Light?",
+    "options": [
+      "Transudatos apresentam CRITÉRIOS VARIÁVEIS: relação proteína líquido/séro entre 0,4-0,6 E relação LDH líquido/séro entre 0,5-0,7 E LDH líquido 150-250 UI/L",
+      "Transudatos apresentam CRITÉRIOS INVERTIDOS: relação proteína líquido/séro <0,3 OU relação LDH líquido/séro <0,4 OU LDH líquido <100 UI/L",
+      "Transudatos apresentam TODOS os três critérios negativos: relação proteína líquido/séro ≤0,5 E relação LDH líquido/séro ≤0,6 E LDH líquido ≤2/3 do limite superior sérico",
+      "Transudatos apresentam APENAS DOIS critérios positivos: relação proteína líquido/séro >0,5 E relação LDH líquido/séro >0,6 mas LDH líquido <200 UI/L",
+      "Transudatos apresentam PELO MENOS UM critério positivo: relação proteína líquido/séro >0,5 OU relação LDH líquido/séro >0,6 OU LDH líquido >200 UI/L"
+    ],
+    "correctIndex": 2,
+    "explanation": "Segundo os Critérios de Light, os transudatos são caracterizados pela presença dos TRÊS critérios negativos: relação proteína líquido pleural/sérica ≤0,5 E relação LDH líquido pleural/sérica ≤0,6 E LDH no líquido pleural ≤2/3 do limite superior sérico. A ausência de TODOS os critérios de exsudato define o transudato.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com líquido pleural: proteína líquido 2,8 g/dL (sérica 6,5 g/dL), LDH líquido 180 UI/L (sérica 300 UI/L). Qual classificação pelos Critérios de Light?",
+    "options": [
+      "Transudato pois relação proteína líquido/sérica = 0,43 (<0,5) e relação LDH líquido/sérica = 0,6 (≤0,6) e LDH líquido 180 <200 (<2/3 de 300=200)",
+      "Exsudato pois relação proteína líquido/sérica = 2,8/6,5 = 0,43 (>0,5? NÃO = 0,43<0,5) mas relação LDH líquido/sérica = 180/300 = 0,6 (NÃO >0,6) e LDH líquido 180 <2/3 de 300 (200) = NÃO, portanto TRANSUDATO",
+      "Transudato pois LDH líquido 180 <200 UI/L independente das relações com valores séricos e valor de proteínas",
+      "Exsudato pois relação proteína líquido/sérica = 0,43 (>0,5) e relação LDH líquido/sérica = 0,6 (>0,6) e LDH líquido 180 >200?",
+      "Exsudato pois proteína líquido 2,8 >2,5 g/dL independente das relações com valores séricos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pelos Critérios de Light: relação proteína líquido/sérica = 2,8/6,5 = 0,43 (≤0,5); relação LDH líquido/sérica = 180/300 = 0,6 (≤0,6); LDH líquido 180 UI/L ≤2/3 do limite superior sérico (2/3 de 300 = 200). Como TODOS os três critérios são negativos, classifica-se como TRANSUDATO. Os Critérios de Light têm precedência sobre os valores absolutos isolados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Paciente com líquido pleural: proteína líquido 4,0 g/dL (sérica 7,0 g/dL), LDH líquido 250 UI/L (sérica 400 UI/L). Qual classificação pelos Critérios de Light?",
+    "options": [
+      "Transudato pois relação proteína líquido/sérica = 0,57 (>0,5) mas relação LDH líquido/sérica = 0,625 (>0,6) e LDH líquido 250 <266,6",
+      "Exsudato pois relação proteína líquido/sérica = 4,0/7,0 = 0,57 (>0,5) e relação LDH líquido/sérica = 250/400 = 0,625 (>0,6) e LDH líquido 250 >2/3 de 400 (267? NÃO, 2/3 de 400=266,6, 250<266,6) mas presença de pelo menos um critério (dois na verdade) já define exsudato",
+      "Transudato pois precisa ter todos os critérios negativos e aqui temos pelo menos um positivo",
+      "Exsudato pois LDH líquido 250 >200 UI/L e proteína líquido 4,0 >2,5 g/dL independente das relações séricas",
+      "Exsudato pois relação proteína líquido/sérica = 0,57 (>0,5) - este critério positivo já é suficiente para caracterizar exsudato"
+    ],
+    "correctIndex": 4,
+    "explanation": "Pelos Critérios de Light, a presença de QUALQUER UM dos três critérios positivos caracteriza exsudato. Neste caso: relação proteína líquido/sérica = 4,0/7,0 = 0,57 (>0,5) - este primeiro critério já é suficiente para classificar como EXSUDATO. Não é necessário avaliar os demais critérios uma vez que já se caracterizou como exsudato.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual é o sintoma mais comum no derrame pleural?",
+    "options": [
+      "Tosse seca irritativa e não produtiva sem relação com posição ou horário específico",
+      "Febre alta com calafrios e sudorese profusa indicando processo infeccioso sistêmico",
+      "Dor torácica tipo pleurítica (pontada, piora com inspiração ou tosse) de caráter agudo e intenso",
+      "Hemoptise (expectoração com sangue) em pequenos volumes relacionada à congestão pulmonar",
+      "Dispneia (falta de ar) geralmente insidiosa e progressiva, relacionada ao volume do derrame e compressão pulmonar"
+    ],
+    "correctIndex": 4,
+    "explanation": "O sintoma mais comum no derrame pleural é a dispneia (falta de ar), geralmente insidiosa e progressiva. A intensidade está relacionada ao volume do derrame e ao grau de compressão pulmonar. Derrames pequenos podem ser assintomáticos, enquanto volumes maiores causam dispneia significativa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais achados ao exame físico no derrame pleural?",
+    "options": [
+      "Inspeção: retração supraclavicular; Palpação: ponto doloroso à punho-percussão; Percussão: timpanismo; Ausculta: roncos basais",
+      "Inspeção: tórax em tonel; Palpação: frêmito toracovocal aumentado; Percussão: hipersonoridade; Ausculta: sibilos difusos",
+      "Inspeção: abaulamento paravertebral; Palpação: crepitação subcutânea; Percussão: som submacico; Ausculta: estertores crepitantes",
+      "Inspeção: tiragem intercostal; Palpação: desvio traqueal; Percussão: macicez móvel; Ausculta: sopro anfórico",
+      "Inspeção: assimetria torácica; Palpação: frêmito toracovocal diminuído/abolido; Percussão: macicez; Ausculta: murmúrios vesiculares abolidos/diminuídos"
+    ],
+    "correctIndex": 4,
+    "explanation": "Os achados ao exame físico no derrame pleural incluem: Inspeção - assimetria torácica com redução da expansibilidade do lado acometido; Palpação - frêmito toracovocal diminuído ou abolido; Percussão - macicez (contrastando com som claro-pulmonar normal); Ausculta - murmúrios vesiculares abolidos ou muito diminuídos. Pode haver sopro pleurítico na borda superior do derrame.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais elementos da anamnese são importantes na investigação do derrame pleural?",
+    "options": [
+      "Traumas dentários, uso de próteses dentárias, história de cáries, gengivite, bruxismo, halitose",
+      "Cirurgias oftalmológicas, uso de lentes de contato, história familiar de glaucoma, acuidade visual, daltonismo",
+      "Doenças dermatológicas, uso de cosméticos, história de queimaduras solares, alergias a bijuterias, sudorese excessiva",
+      "Alergias alimentares, intolerância à lactose, história de apendicectomia, uso de vitaminas, prática de esportes radicais",
+      "Tabagismo (câncer), exposição à tuberculose, ICC/lúpus/AR/doenças hepáticas/renais, uso de amiodarona/nitrofurantoína/metotrexato, exposição a asbestos"
+    ],
+    "correctIndex": 4,
+    "explanation": "Na anamnese do derrame pleural, são importantes: tabagismo (fator de risco para câncer), exposição à tuberculose, história de ICC/lúpus/artrite reumatoide/doenças hepáticas ou renais, uso de medicamentos como amiodarona/nitrofurantoína/metotrexato (podem causar derrame), e exposição a asbestos (risco para mesotelioma).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a característica da dor torácica no derrame pleural?",
+    "options": [
+      "Dor opressiva retroesternal com irradiação para membro superior esquerdo e mandíbula sugestiva de isquemia miocárdica",
+      "Dor pontual bem localizada com dor à palpação na parede torácica indicando origem musculoesquelética",
+      "Dor em faixa no hemitórax com distribuição dermatômica específica característica de neuralgia herpética",
+      "Dor tipo pleurítica (pontada, piora com inspiração profunda ou tosse) indicando irritação da pleura parietal",
+      "Dor em queimação retroesternal contínua relacionada à ingestão alimentar e posição supina típica de refluxo"
+    ],
+    "correctIndex": 3,
+    "explanation": "A dor torácica no derrame pleural é tipicamente do tipo pleurítica: em pontada, que piora com a inspiração profunda ou com a tosse. Esta característica indica irritação da pleura parietal, que é ricamente inervada. A dor pleurítica diferencia-se de outros tipos de dor torácica pelo seu caráter e fatores desencadeantes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente idoso com dispneia progressiva, ortopneia, edema de MMII e macicez em base direita ao exame físico. Qual a etiologia mais provável do derrame pleural?",
+    "options": [
+      "Pneumonia bacteriana com derrame parapneumônico exsudativo por aumento da permeabilidade capilar pleural",
+      "Insuficiência cardíaca congestiva com derrame pleural transudativo por aumento da pressão hidrostática capilar",
+      "Neoplasia pulmonar com derrame pleural metastático exsudativo por obstrução linfática e inflamação local",
+      "Embolia pulmonar com derrame pleural exsudativo por infarto pulmonar e reação inflamatória pleural",
+      "Tuberculose pleural com derrame exsudativo por reação inflamatória granulomatosa à micobactéria"
+    ],
+    "correctIndex": 1,
+    "explanation": "O quadro clínico descrito (idoso, dispneia progressiva, ortopneia, edema de MMII) é altamente sugestivo de insuficiência cardíaca congestiva. Nesta condição, o derrame pleural é transudativo por mecanismo de aumento da pressão hidrostática nos capilares. A macicez em base direita é compatível com derrame pleural, frequentemente bilateral na ICC, mas pode ser mais evidente à direita.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais são as principais indicações da toracocentese diagnóstica?",
+    "options": [
+      "Apenas derrames traumáticos com suspeita de hemotórax em vítimas de trauma torácico fechado",
+      "Exclusivamente derrames pós-operatórios em pacientes hemodinamicamente instáveis com febre alta",
+      "Apenas derrames volumosos com dispneia intensa independente da etiologia ou característica do líquido",
+      "Exclusivamente derrames em pacientes oncológicos conhecidos com recidiva de doença maligna",
+      "Derrame pleural novo ou inexplicado, suspeita de tuberculose, câncer ou infecção no espaço pleural"
+    ],
+    "correctIndex": 4,
+    "explanation": "As indicações da toracocentese diagnóstica incluem: derrame pleural novo ou inexplicado, suspeita de tuberculose, câncer ou infecção no espaço pleural. A toracocentese está indicada na maioria dos derrames pleurales (exceto em derrames muito pequenos ou claramente benignos, como em ICC descompensada conhecida).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual valor de pH no líquido pleural sugere necessidade de drenagem pleural?",
+    "options": [
+      "pH < 7,2 sugere empiema ou infecção complicada e indica necessidade de drenagem pleural imediata",
+      "pH entre 7,35-7,45 sugere normalidade e contraindicada qualquer intervenção no espaço pleural",
+      "pH > 8,0 sugeste contaminação bile e indica necessidade de intervenção cirúrgica para fístula biliar",
+      "pH < 6,8 sugere acidose respiratória grave e indica necessidade de ventilação mecânica invasiva",
+      "pH > 7,6 sugere alcalose metabólica e indica necessidade de correção dos distúrbios ácido-base sistêmicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O pH do líquido pleural < 7,2 é um marcador importante que sugere empiema ou infecção complicada e indica necessidade de drenagem pleural. Valores de pH entre 7,2-7,3 são limítrofes e devem ser interpretados em conjunto com outros parâmetros. pH >7,3 geralmente não requer drenagem, a menos que haja outros indicadores de infecção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual o valor de ADA (adenosina deaminase) no líquido pleural sugestivo de tuberculose pleural?",
+    "options": [
+      "ADA > 40 U/L no líquido pleural sugere alta probabilidade de tuberculose pleural, especialmente em regiões endêmicas",
+      "ADA entre 20-30 U/L no líquido pleural é indeterminado e requer confirmação por biópsia pleural",
+      "ADA < 10 U/L no líquido pleural sugere baixa probabilidade de tuberculose pleural e afasta este diagnóstico",
+      "ADA entre 30-40 U/L no líquido pleural sugere neoplasia pleural e indica citologia oncótica urgente",
+      "ADA > 100 U/L no líquido pleural sugere infecção bacteriana piogênica e contraindicada terapia para TB"
+    ],
+    "correctIndex": 0,
+    "explanation": "O valor de ADA (adenosina deaminase) > 40 U/L no líquido pleural sugere alta probabilidade de tuberculose pleural, especialmente em regiões endêmicas e em pacientes jovens. A ADA é uma enzima que se eleva na ativação linfocitária, característica da resposta imune na tuberculose pleural.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais exames devem ser solicitados na análise do líquido pleural na suspeita de infecção?",
+    "options": [
+      "Dosagem de triglicerídeos, colesterol, quilomicrons, eletroforese de proteínas, pesquisa de células LE",
+      "Bacterioscopia (Gram), cultura bacteriana, pH, glicose, LDH, diferencial de leucócitos (predomínio de neutrófilos)",
+      "Citologia oncótica, marcadores tumorais, pH, glicose, LDH, diferencial de leucócitos (predomínio de linfócitos)",
+      "Dosagem de amilase, lipase, bilirrubina, culturas fungicas e parasitológicas, exame parasitológico",
+      "Pesquisa de BAAR, cultura para micobactéria, ADA, PCR para TB, biópsia pleural com histopatologia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Na suspeita de infecção (derrame parapneumônico ou empiema), devem ser solicitados no líquido pleural: bacterioscopia (coloração de Gram), cultura bacteriana, pH, glicose, LDH e diferencial de leucócitos (que mostrará predomínio de neutrófilos). Estes exames ajudam a caracterizar a infecção e orientar a necessidade de drenagem.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com derrame pleural, líquido com pH 6,9, glicose 25 mg/dL, LDH 850 UI/L, proteínas 4,8 g/dL, Gram positivo para cocos Gram+. Qual conduta mais adequada?",
+    "options": [
+      "Pleurodese química imediata com talco para evitar recidiva do derrame infeccioso no espaço pleural",
+      "Apenas antibioticoterapia endovenosa de amplo espectro com reavaliação clínica e radiológica em 48-72 horas",
+      "Drenagem pleural imediata (toracostomia com dreno) por empiema estabelecido com indicação absoluta de esvaziamento do espaço pleural",
+      "Toracocentese terapêutica única com aspiração de máximo volume possível e antibioticoterapia oral ambulatorial",
+      "Videotoracoscopia diagnóstica com biópsia pleural para confirmação histológica do processo infeccioso"
+    ],
+    "correctIndex": 2,
+    "explanation": "Este quadro caracteriza empiema estabelecido: pH <7,2, glicose baixa (<60 mg/dL), LDH muito elevada, proteínas elevadas (exsudato) e bacterioscopia positiva. A conduta é drenagem pleural imediata (toracostomia com dreno) para esvaziar o espaço pleural, associada à antibioticoterapia adequada. A drenagem é crucial para resolução do empiema.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Qual volume mínimo de derrame pleural detectável na radiografia de tórax em posição ortostática?",
+    "options": [
+      "1000-1500 mL são necessários para produzir sinais radiológicos evidentes de derrame pleural significativo",
+      "Apenas volumes superiores a 2000 mL produzem alterações detectáveis na radiografia de tórax padrão",
+      "500-600 mL são o volume mínimo para detecção radiológica de derrame pleural em exames convencionais",
+      "50-100 mL são suficientes para detectar derrame pleural na radiografia de tórax em qualquer posição técnica",
+      "200-300 mL são necessários para detectar derrame pleural na radiografia de tórax em posição ortostática (PA e perfil)"
+    ],
+    "correctIndex": 4,
+    "explanation": "Na radiografia de tórax em posição ortostática (PA e perfil), são necessários aproximadamente 200-300 mL de derrame pleural para detecção. O sinal mais precoce é o velamento do seio costofrênico. Volumes menores podem ser detectados no decúbito lateral (~50 mL) ou pela ultrassonografia (~5-50 mL).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os sinais radiológicos característicos do derrame pleural na radiografia de tórax?",
+    "options": [
+      "Sinal de Westermark (oligoemia focal) e cunha de Hampton (opacidade triangular periférica)",
+      "Sinal de Silhueta (perda dos bordos cardíacos ou diafragmáticos) e arco de Righi (linha aérea)",
+      "Sinal do menisco (elevação do líquido com contorno côncavo para cima) e velamento do seio costofrênico",
+      "Sinal do halo (opacidade perihilar difusa) e infiltrado intersticial em vidro fosco bilateral",
+      "Sinal do duplo contorno (imagem em rail) e sinal de Golden (broncograma aéreo persistente)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Os sinais radiológicos característicos do derrame pleural na radiografia de tórax incluem: sinal do menisco (elevação do líquido com contorno côncavo para cima) e velamento do seio costofrênico (um dos sinais mais precoces). Em decúbito lateral, pode-se detectar volumes menores (~50 mL) com nível hidroaéreo se houver fístula broncopleural.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual método de imagem é mais sensível para detectar pequenos volumes de derrame pleural?",
+    "options": [
+      "Ressonância magnética de tórax é sensível para volumes a partir de 200 mL com sequências T2 ponderadas",
+      "Radiografia de tórax em PA e perfil é o método mais sensível para volumes a partir de 50 mL com técnica adequada",
+      "Ultrassonografia torácica é muito sensível para pequenos volumes (~5-50 mL), diferencia líquido livre vs loculado e orienta toracocentese com segurança",
+      "Cintilografia ventilação-perfusão é sensível para volumes a partir de 300 mL com padrão característico",
+      "Tomografia computadorizada de tórax é sensível apenas para volumes superiores a 100 mL com reconstruções especiais"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ultrassonografia torácica é o método mais sensível para detectar pequenos volumes de derrame pleural (~5-50 mL). Além da alta sensibilidade, diferencia líquido livre vs loculado, pode sugerir exsudato (líquido ecogênico, septado) e é fundamental para orientar toracocentese com segurança, reduzindo complicações.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a principal utilidade da tomografia computadorizada de tórax na avaliação do derrame pleural?",
+    "options": [
+      "Orientação de procedimentos de toracocentese e drenagem pleural com maior precisão que a ultrassonografia",
+      "Avaliação detalhada da pleura e parênquima pulmonar, diferenciação entre causas malignas, infecção e espessamento pleural quando diagnóstico é incerto",
+      "Quantificação exata do volume de derrame pleural com reconstruções tridimensionais e cálculos volumétricos precisos",
+      "Avaliação dinâmica do movimento diafragmático e da mecânica ventilatória durante o ciclo respiratório",
+      "Detecção de pequenos volumes de derrame pleural não visualizados em outros métodos de imagem convencionais"
+    ],
+    "correctIndex": 1,
+    "explanation": "A tomografia computadorizada de tórax é particularmente útil para avaliação detalhada da pleura e parênquima pulmonar, diferenciando entre causas malignas, infecção e espessamento pleural. É especialmente indicada quando o diagnóstico é incerto após investigação inicial, permitindo caracterizar melhor a etiologia do derrame.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com derrame pleural à esquerda, radiografia mostra velamento de seio costofrênico e pequena área de consolidação pulmonar adjacente. Qual método de imagem seria mais adequado para melhor caracterização?",
+    "options": [
+      "Tomografia computadorizada de tórax para avaliação detalhada da pleura, parênquima pulmonar e caracterização da consolidação adjacente ao derrame",
+      "Cintilografia com Gálio-67 para pesquisa de foco infeccioso ou inflamatório oculto no parênquima pulmonar",
+      "Ultrassonografia torácica apenas para confirmação da presença de líquido livre e orientação de toracocentese diagnóstica",
+      "Radiografia em decúbito lateral para quantificação precisa do volume do derrame pleural e avaliação de mobilidade do líquido",
+      "Ressonância magnética de tórax para caracterização tecidual da pleura e diferenciação entre processos inflamatórios e neoplásicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tomografia computadorizada de tórax é o método mais adequado neste caso, pois permite avaliação detalhada da pleura, do parênquima pulmonar (caracterizando a consolidação adjacente) e da relação entre o derrame e as alterações parenquimatosas. Isto é crucial para diferenciar entre derrame parapneumônico, neoplasia ou outras etiologias.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Quais exames laboratoriais sistêmicos são importantes na investigação do derrame pleural?",
+    "options": [
+      "Hemograma (anemia, leucocitose, eosinofilia), proteinograma (hipoalbuminemia), função renal/hepática, provas reumatológicas se suspeita autoimune",
+      "Dosagem de vitaminas, minerais, oligoelementos, perfil lipídico completo e hormônios tireoidianos",
+      "Gasometria arterial, eletrólitos séricos, osmolaridade urinária, dosagem de peptídeo natriurético cerebral",
+      "Sorologias virais, testes cutâneos de hipersensibilidade, complemento sérico, crioglobulinas, autoanticorpos específicos",
+      "Marcadores tumorais séricos, cariótipo, estudo molecular, imunofenotipagem de linfócitos sanguíneos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os exames laboratoriais sistêmicos importantes na investigação do derrame pleural incluem: hemograma (avaliar anemia, leucocitose, eosinofilia), proteinograma (hipoalbuminemia sugere transudato), função renal e hepática (avaliar causas de transudato), e provas reumatológicas (FAN, FR, anti-CCP) se houver suspeita de doença autoimune.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual achado no hemograma pode sugerir etiologia específica do derrame pleural?",
+    "options": [
+      "Anemia macrocítica pode sugerir derrame pleural por doença hepática crônica com deficiência de folato e B12",
+      "Eosinofilia periférica pode sugerir derrame pleural eosinofílico relacionado a medicamentos, hemotórax ou doenças parasitárias",
+      "Trombocitose reacional pode sugerir derrame pleural tuberculoso com reação inflamatória sistêmica granulomatosa",
+      "Neutrofilia com desvio à esquerda pode sugerir derrame pleural neoplásico com reação leucemoide paraneoplásica",
+      "Linfocitose absoluta pode sugerir derrame pleural por insuficiência cardíaca congestiva descompensada com sobrecarga volêmica"
+    ],
+    "correctIndex": 1,
+    "explanation": "A eosinofilia periférica no hemograma pode sugerir derrame pleural eosinofílico, que pode estar relacionado a medicamentos (nitrofurantoína, dantroleno), hemotórax, doenças parasitárias ou doenças do tecido conjuntivo. A eosinofilia no líquido pleural (>10% de eosinófilos) tem significado semelhante.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o princípio fundamental do tratamento do derrame pleural?",
+    "options": [
+      "Instituir antibioticoterapia empírica de amplo espectro em todos os derrames até exclusão de etiologia infecciosa",
+      "Indicar drenagem pleural com tubo em todos os derrames volumosos independente das características do líquido",
+      "Realizar toracocentese terapêutica imediata em todos os casos independente da etiologia e volume do derrame",
+      "Realizar pleurodese química profilática em todos os derrames para prevenir recidiva e complicações a longo prazo",
+      "Tratar a causa de base sempre como primeiro passo, pois o tratamento etiológico resolve muitos derrames pleurales"
+    ],
+    "correctIndex": 4,
+    "explanation": "O princípio fundamental do tratamento do derrame pleural é tratar a causa de base sempre como primeiro passo. O tratamento etiológico resolve muitos derrames: ICC → diuréticos; pneumonia → antibióticos; TB → esquema RIPE; neoplasia → quimioterapia/radioterapia; doenças autoimunes → corticoides/imunossupressores.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é o tratamento específico para o derrame pleural na tuberculose?",
+    "options": [
+      "Antibioticoterapia com ceftriaxona e azitromicina por 14 dias para cobertura de patógenos atípicos",
+      "Corticoterapia em altas doses com prednisona 1 mg/kg/dia para supressão de resposta autoimune",
+      "Diuréticos de alça como furosemida para controle de sobrecarga volêmica e edemas periféricos",
+      "Quimioterapia combinada baseada em platina para tratamento de neoplasia pulmonar primária ou metastática",
+      "Esquema RIPE (rifampicina, isoniazida, pirazinamida, etambutol) por 6 meses como tratamento da doença de base"
+    ],
+    "correctIndex": 4,
+    "explanation": "O tratamento específico para o derrame pleural na tuberculose é o esquema RIPE: rifampicina, isoniazida, pirazinamida e etambutol, geralmente por 6 meses. O derrame pleural tuberculoso responde ao tratamento antituberculoso, sendo rara a necessidade de intervenções adicionais, a menos que haja complicações.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a indicação da drenagem pleural (toracostomia com dreno) no derrame pleural?",
+    "options": [
+      "Apenas derrames neoplásicos sintomáticos em pacientes paliativos sem perspectiva de tratamento da doença de base",
+      "Exclusivamente derrames pós-operatórios em pacientes submetidos à cirurgia cardíaca ou torácica recente",
+      "Todos os derrames pleurales independente da etiologia, volume ou características do líquido obtido por toracocentese",
+      "Empiema (pus no espaço pleural), hidropneumotórax, derrames loculados com sinais infecciosos que requerem esvaziamento do espaço pleural",
+      "Apenas derrames traumáticos com hemotórax em vítimas de trauma contuso ou penetrante de tórax"
+    ],
+    "correctIndex": 3,
+    "explanation": "As indicações da drenagem pleural (toracostomia com dreno) incluem: empiema (pus no espaço pleural), hidropneumotórax, derrames loculados com sinais infecciosos. A drenagem é necessária para esvaziar o espaço pleural nestas condições, evitando complicações como fibrose pleural e restrição ventilatória.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a indicação da pleurodese química no derrame pleural?",
+    "options": [
+      "Derrames malignos recorrentes e sintomáticos quando não há perspectiva de cura da doença de base, para prevenir recidivas",
+      "Derrames pós-traumáticos com hemotórax residual após drenagem convencional por mais de 7 dias",
+      "Derrames por insuficiência cardíaca refratários à terapia diurética máxima e restrição hídrica rigorosa",
+      "Derrames parapneumônicos complicados com empiema organizado e septações múltiplas no espaço pleural",
+      "Derrames tuberculosos persistentes após completar esquema RIPE adequado por 6 meses com adesão comprovada"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pleurodese química (ex: com talco) está indicada em derrames malignos recorrentes e sintomáticos quando não há perspectiva de cura da doença de base. O objetivo é criar sinéquias pleurais que obliterem o espaço pleural, prevenindo recidivas do derrame e aliviando os sintomas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Paciente com câncer de pulmão avançado, derrame pleural maligno recidivante após 3 toracocenteses terapêuticas, com dispneia importante. Qual a melhor abordagem terapêutica?",
+    "options": [
+      "Pleurodese química com talco para obliteração do espaço pleural e prevenção de recidivas do derrame maligno sintomático",
+      "Drenagem pleural com tubo de grande calibre por 48 horas seguida de remoção independente do débito",
+      "Videotoracoscopia diagnóstica com biópsias pleurais múltiplas para confirmação histológica da neoplasia",
+      "Toracocentese terapêutica seriada sempre que houver recidiva do derrame, sem outras intervenções no espaço pleural",
+      "Tratamento sistêmico exclusivo com quimioterapia paliativa sem intervenções locais no derrame pleural"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em paciente com derrame pleural maligno recidivante e sintomático, a pleurodese química com talco é a abordagem de escolha. Esta procedimento cria inflamação controlada e fibrose pleural, obliterando o espaço pleural e prevenindo recidivas. É indicada quando não há perspectiva de cura da doença de base e o derrame causa sintomas significativos.",
+    "type": "raciocínio"
+  }
+]

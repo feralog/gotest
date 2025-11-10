@@ -1,0 +1,249 @@
+[
+  {
+    "question": "De acordo com a semiologia cardiovascular, qual é a diferença fundamental entre um 'sinal' e um 'sintoma' no exame clínico?",
+    "options": [
+      "Ambos são manifestações objetivas, mas o sinal está associado ao prognóstico da doença e o sintoma está relacionado apenas à queixa principal do paciente.",
+      "O sintoma é uma manifestação objetiva que pode ser medida ou comprovada no exame físico, enquanto o sinal é uma percepção subjetiva relatada pelo paciente, como a dispneia.",
+      "O sintoma é a descrição cronológica da história da doença atual (HDA), e o sinal é a análise comparativa das enfermidades prováveis que podem compor um quadro clínico.",
+      "O sintoma é uma percepção subjetiva, sentido e relatado pelo paciente, enquanto o sinal é uma manifestação objetiva que pode ser observada e medida pelo examinador no exame físico.",
+      "O sinal é uma manifestação patognomônica (específica de uma doença), e o sintoma é um conjunto de manifestações clínicas que ocorrem associadamente em uma síndrome."
+    ],
+    "correctIndex": 3,
+    "explanation": "O sintoma é subjetivo e sentido pelo paciente, como a dor ou dispneia, enquanto o sinal é objetivo e pode ser medido de alguma forma (se pode ser comprovado pelo exame físico, é sinal) [1].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na anamnese, o Celmo Celeno Porto ressalta a importância da história clínica. Qual é a causa mais frequente de erro diagnóstico mencionada pelo autor?",
+    "options": [
+      "A sugestão de respostas ou a formulação de perguntas indutivas, o que impede que o paciente relate o quadro de forma espontânea e completa [3].",
+      "O registro incorreto dos antecedentes familiares, ignorando doenças genéticas que podem compor o quadro clínico atual, como a hipercolesterolemia familiar.",
+      "A incapacidade de identificar os fatores de risco clássicos (SAD CHF), como tabagismo e diabetes, na história da doença atual (HDA) do paciente.",
+      "A falha em adaptar a linguagem do examinador ao vocabulário do paciente, utilizando termos técnicos ou rebuscados de difícil compreensão.",
+      "Uma história mal colhida, ou seja, a responsabilidade do examinador de não extrair as informações necessárias, fazendo as perguntas certas e criando um ambiente favorável [2]."
+    ],
+    "correctIndex": 4,
+    "explanation": "A causa mais frequente de erro diagnóstico é uma história mal colhida, sendo responsabilidade do examinador extrair a informação necessária [2].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Durante a inspeção inicial do exame físico, o examinador deve estar atento a detalhes que podem fornecer informações clínicas importantes. Qual achado pode sugerir edema de membros inferiores ou a tentativa de esconder marcas de uso de agulhas, respectivamente?",
+    "options": [
+      "A postura genupeitoral ou ortopneica, que indica estratégias voluntárias do paciente para aliviar os sintomas respiratórios [5].",
+      "Movimentos involuntários e alterações do nível de consciência, que estão mais associados a acometimentos neurológicos subjacentes [5].",
+      "O surgimento de icterícia, desidratação e o biotipo do paciente, que indicam o estado nutricional e a condição geral.",
+      "A presença de 'fácies mitral' e cianose central, indicando valvulopatia de longa data e dessaturação sistêmica.",
+      "Calçados desamarrados ou sandálias (sugerindo edema de MMII) ou roupas em excesso (tentativa de esconder marcas de uso de agulhas em um drogadito) [4]."
+    ],
+    "correctIndex": 4,
+    "explanation": "Calçados desamarrados ou sandálias podem ser por edema de MMII. Roupas em excesso podem ser para esconder marcas de uso de agulhas [4].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A ausculta cardíaca é um pilar da propedêutica. Qual é o evento que gera a primeira bulha cardíaca (B1), e qual o evento que gera a segunda bulha cardíaca (B2)?",
+    "options": [
+      "B1 é gerada pela abertura das valvas átrio-ventriculares; B2 é gerada pela abertura das valvas ventrículo-arteriais.",
+      "B1 é o desdobramento da segunda bulha no ápice (TRUM-TÁ); B2 é o desdobramento da primeira bulha no ápice (TUM-TRÁ).",
+      "B1 é gerada pelo fechamento das valvas átrio-ventriculares (TUM); B2 é gerada pelo fechamento das valvas ventrículo-arteriais (TÁ) [6].",
+      "B1 é gerada pelo enchimento ventricular rápido (TUM); B2 é gerada pela sístole ventricular (TÁ).",
+      "B1 é gerada pelo fechamento das valvas ventrículo-arteriais; B2 é gerada pelo fechamento das valvas átrio-ventriculares."
+    ],
+    "correctIndex": 2,
+    "explanation": "B1 é a composição dos sons de fechamento das valvas átrio-ventriculares (TUM), e B2 é a composição dos sons de fechamento das valvas ventrículo-arteriais (TÁ) [6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "O ciclo cardíaco inclui bulhas e sons patológicos. De acordo com o material, como é descrito o B3 (Terceira Bulha) e qual é a descrição onomatopeica de sua ausculta no ciclo?",
+    "options": [
+      "Ocorre no desdobramento da segunda bulha na ponta, resultando no som: TRUM – TÁ – TRUM – TÁ – TRUM – TÁ [7].",
+      "Sopro diastólico que ocorre entre B2 e B1, indicando Estenose Mitral.",
+      "É um som derivado da abertura de folhetos nativos ou de próteses (clicks e estalidos) no meio da sístole.",
+      "Sopro sistólico que ocorre entre B1 e B2, indicando Insuficiência Mitral.",
+      "Ocorre no desdobramento da primeira bulha na ponta, resultando no som: TUM – TRÁ – TUM – TRÁ – TUM – TRÁ [7]."
+    ],
+    "correctIndex": 0,
+    "explanation": "B3 é o desdobramento da segunda bulha na ponta [7]. A descrição onomatopeica no ciclo é: TRUM – TÁ – TRUM – TÁ – TRUM – TÁ [7]. (Nota: O material pode simplificar a descrição clínica do B3).",
+    "type": "conteudista"
+  },
+  {
+    "question": "Os sopros cardíacos são classificados temporalmente. Em que momento do ciclo cardíaco ocorre um Sopro Sistólico e quais são as duas patologias valvares clássicas associadas a este tipo de sopro?",
+    "options": [
+      "Ocorre entre B1 e B2 (Sístole); associado à Estenose Aórtica e Insuficiência Mitral [7].",
+      "Ocorre na Protodiástole (imediatamente após B2); associado à Estenose Aórtica e Estenose Pulmonar.",
+      "Ocorre entre B2 e B1 (Diástole); associado à Estenose Mitral e Insuficiência Aórtica [8].",
+      "Ocorre entre B1 e B2 (Sístole); associado à Estenose Mitral e Insuficiência Tricúspide.",
+      "Ocorre na Telessístole (imediatamente antes de B2); associado à Insuficiência Aórtica e Estenose Mitral."
+    ],
+    "correctIndex": 0,
+    "explanation": "O Sopro Sistólico ocorre entre B1 e B2 (TUM – SHHHI – TÁ) e está associado à Estenose Aórtica e Insuficiência Mitral [7].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em que momento do ciclo cardíaco ocorre um Sopro Diastólico e quais são as duas patologias valvares clássicas associadas a este tipo de sopro, conforme o material?",
+    "options": [
+      "Ocorre entre B2 e B1 (Diástole); associado à Estenose Mitral e Insuficiência Aórtica [8].",
+      "Ocorre na Holossístole (Sístole completa); associado à Insuficiência Aórtica e Insuficiência Mitral.",
+      "Ocorre entre B1 e B2 (Sístole); associado à Insuficiência Mitral e Estenose Pulmonar.",
+      "Ocorre no início da Sístole (Proto-Sístole); associado à Estenose Aórtica e Insuficiência Mitral.",
+      "Ocorre na Telessístole e Protodiástole; associado à Estenose Tricúspide e Insuficiência Pulmonar."
+    ],
+    "correctIndex": 0,
+    "explanation": "O Sopro Diastólico ocorre entre B2 e B1 (TUM – TÁ – SHHHI) e está associado à Estenose Mitral e Insuficiência Aórtica [8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A palpação dos pulsos arteriais é essencial. Qual é a recomendação técnica fundamental que o examinador deve seguir ao palpar o pulso arterial radial?",
+    "options": [
+      "Gastar um tempo um pouco maior, de 60 segundos, para observar se o ritmo é regular, irregular ou se tem algum ritmo de base (bigeminismo, trigeminismo) [9].",
+      "Palpar o pulso com o polegar, pois é o dedo que apresenta maior sensibilidade tátil para avaliar a frequência e o ritmo cardíaco [9].",
+      "Palpar o pulso e realizar a ausculta cardíaca em momentos diferentes, para evitar que a Extrassístole (batimento sem volume adequado) atrapalhe a contagem [9].",
+      "Utilizar a inspiração do paciente para contar a frequência cardíaca, garantindo que o paciente não perceba que está sendo contada a frequência respiratória [10].",
+      "Utilizar artérias superficiais, como a radial, e nunca palpar usando o polegar, observando frequência, ritmo e amplitude [9]."
+    ],
+    "correctIndex": 4,
+    "explanation": "Deve-se utilizar artérias superficiais, como a radial, e nunca palpar usando o polegar. É necessário observar frequência, ritmo e amplitude [9].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a descrição dos sons 'Clicks e Estalidos' na ausculta cardíaca e qual é a sua origem fisiológica?",
+    "options": [
+      "Sons gerados pelo desdobramento da primeira bulha (B4), indicando insuficiência cardíaca e baixo débito.",
+      "Sons que indicam a presença de atrito pericárdico, sendo patognomônicos de pericardite fibrinosa.",
+      "Sons que ocorrem durante a protodiástole, indicando oclusão total do vaso coronário e infarto transmural.",
+      "Sons derivados da abertura de folhetos valvares nativos ou de próteses, ocorrendo durante a sístole ou diástole [8].",
+      "Sons gerados pelo desdobramento da segunda bulha (B3), indicando enchimento ventricular rápido e insuficiência cardíaca avançada."
+    ],
+    "correctIndex": 3,
+    "explanation": "Clicks e estalidos são sons derivados de abertura de folhetos valvares nativos ou de próteses [8].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Insuficiência Cardíaca é mencionada como um exemplo de síndrome. Qual é a definição de 'Síndrome' em semiologia cardiovascular?",
+    "options": [
+      "Ato de discernir, que permite reconhecer uma enfermidade por suas manifestações clínicas e estabelecer o prognóstico [11].",
+      "Conjunto de sinais e sintomas típicos que ocorrem associadamente, podendo ser determinados por diferentes causas (várias etiologias) [1, 11].",
+      "Prever a evolução e prováveis consequências de uma enfermidade estabelecida pelo diagnóstico etiológico [12].",
+      "A análise comparativa das enfermidades prováveis que podem compor um quadro clínico (diagnóstico diferencial) [12].",
+      "Sinal objetivo, medido de alguma forma, que é específico para determinada patologia, como o Sinal de Romaña [11]."
+    ],
+    "correctIndex": 1,
+    "explanation": "Síndrome é o conjunto de sinais e sintomas típicos que ocorrem associadamente, podendo ser determinadas por diferentes causas [1, 11].",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Pressão Venosa Jugular (PVJ) é avaliada no pescoço para inferir congestão sistêmica. Qual é o método correto de estimativa da Pressão Venosa Central (PVC) a partir da turgência jugular?",
+    "options": [
+      "Colocar o paciente em decúbito dorsal (0 graus) e medir a altura da turgência jugular desde o ângulo de Louis.",
+      "Palpar a jugular externa e medir a sua amplitude, pois por ser um vaso de alta pressão, é facilmente palpável.",
+      "Colocar o paciente a 45 graus, medir a altura da turgência jugular externa e somar 5 cm (distância entre o manúbrio e o Átrio Direito) [6].",
+      "Observar a simetria dos pulsos carotídeos e realizar a ausculta dos focos pulmonares e tricúspide.",
+      "Colocar o paciente em posição ortopneica e medir a distância vertical entre o ponto de pulso máximo e o processo xifoide."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para estimar a PVC, coloca-se o paciente a 45 graus, mede-se a altura da turgência jugular e soma-se 5 cm (distância entre o manúbrio e AD) [6].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na História da Doença Atual (HDA), o examinador deve registrar as características da queixa de forma cronológica. Quais são os elementos que devem ser investigados para caracterizar a dor anginosa (ou outra queixa) de forma completa?",
+    "options": [
+      "O modo de início (súbito/gradual), o fator desencadeante, a localização, a duração, o tipo de dor, os fatores de melhora e piora e a relação com outras queixas [13].",
+      "A ausculta pulmonar (crepitantes, sibilos), a palpação abdominal (hepatomegalia) e a Inspeção de Fácies Mitral [4].",
+      "O diagnóstico etiológico da enfermidade e o prognóstico em 5 anos, obtidos a partir de testes complementares (Angio-TC, Ressonância) [12, 15].",
+      "Apenas o estado civil, a profissão, a naturalidade e os antecedentes fisiológicos do paciente [13, 14].",
+      "O conjunto de sinais e sintomas típicos, a classificação de risco cardiovascular e a estratificação pela NYHA."
+    ],
+    "correctIndex": 0,
+    "explanation": "Na HDA, busca-se registrar: súbito, algo desencadeou, localização, duração, tipo, fatores de melhora e piora, relação com outras queixas, e a evolução [13].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes sinais patognomônicos é classicamente associado à Cardite Reumática, conforme mencionado na fonte?",
+    "options": [
+      "Claudicação Intermitente, indicando dor isquêmica diretamente relacionada ao exercício físico [8].",
+      "A Fusão Comissural, indicando a sequela valvar da Cardite Reumática [11].",
+      "B4 (Desdobramento de B1), indicando baixa complacência ventricular.",
+      "Fácies Mitral, indicando Estenose Mitral de longa data.",
+      "Sinal de Romaña, característico da Doença de Chagas [11]."
+    ],
+    "correctIndex": 1,
+    "explanation": "A Fusão Comissural é o sinal patognomônico associado à Cardite Reumática [11].",
+    "type": "conteudista"
+  },
+  {
+    "question": "No exame dos Membros Inferiores, a 'Claudicação Intermitente' é um sintoma importante. Qual é a descrição clássica desta condição vascular periférica?",
+    "options": [
+      "Dor tipo queimação retroesternal que irradia para o dorso e é associada à palpação de aneurismas abdominais.",
+      "Dor inflamatória nos músculos da panturrilha que piora com o uso de estatinas e melhora com a administração de anti-inflamatórios não esteroides (AINEs).",
+      "Edema assimétrico dos MMII que piora ao deitar, indicando a formação de trombo venoso profundo (TVP).",
+      "Dor de origem isquêmica relatada como dor, câimbra ou queimação, diretamente relacionada ao exercício físico e que progride com o caminhar até o paciente ter que parar [8, 16].",
+      "Dor de origem neuropática (formigamento, parestesia) que ocorre em repouso e melhora com a deambulação (caminhar)."
+    ],
+    "correctIndex": 3,
+    "explanation": "A Claudicação Intermitente é uma dor de origem isquêmica, relatada como dor, câimbra ou queimação, diretamente relacionada ao exercício físico e que progride com o caminhar [8, 16].",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um paciente em uma crise aguda de Insuficiência Cardíaca (IC) que apresenta grande congestão pulmonar, edema e dispneia, pode adotar uma postura específica para alívio. Qual é essa postura, tipicamente associada à IC grave, e como ela é classificada?",
+    "options": [
+      "Movimentos involuntários da cabeça e pescoço, que estão associados a acometimentos neurológicos subjacentes [5].",
+      "Decúbito dorsal a 45 graus, que é necessário para estimar corretamente a Pressão Venosa Central (PVC) [6].",
+      "Decúbito lateral esquerdo, que é a melhor posição para auscultar sopros diastólicos de baixa frequência no foco mitral.",
+      "Postura genupeitoral, que é uma atitude voluntária para aliviar a dor associada à pericardite fibrinosa [5].",
+      "Ortopneia (dificuldade de respirar deitado), uma atitude voluntária do paciente para aliviar os sintomas de congestão pulmonar [5]."
+    ],
+    "correctIndex": 4,
+    "explanation": "A Ortopneia é uma postura ou atitude voluntária do paciente para aliviar os sintomas, sendo caracterizada pela dificuldade de respirar deitado, comum na Insuficiência Cardíaca [5, 11].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente apresenta dispneia e palidez. No exame físico, o examinador detecta um frêmito sistólico palpável na área precordial e, na ausculta, um sopro holossistólico intenso que irradia para a axila. Qual é a correlação semiológica mais provável para esses achados?",
+    "options": [
+      "Estenose Aórtica, que causa um frêmito e sopro sistólico de ejeção que irradia para o pescoço e ápice.",
+      "Insuficiência Mitral, que causa sopro sistólico (entre B1 e B2) com frêmito palpável e irradiação para a axila (sopro regurgitativo) [7].",
+      "Estenose Mitral, que causa um frêmito e sopro diastólico (TUM – TÁ – SHHHI) audível no ápice [8].",
+      "Comunicação Interventricular (CIV), que causa sopro holossistólico, mas sem a irradiação típica para a axila.",
+      "Insuficiência Aórtica, que causa sopro diastólico de alta frequência audível no foco aórtico acessório e pulso em martelo d’água [8, 10]."
+    ],
+    "correctIndex": 1,
+    "explanation": "O sopro sistólico está associado à Insuficiência Mitral (IM) [7]. O frêmito (vibração intensa) e a irradiação para a axila são achados semiológicos clássicos de IM, caracterizada pelo sopro holossistólico.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um médico ausculta um ritmo cardíaco com a sequência 'TUM – TÁ – SHHHI' (Bulha 1 – Bulha 2 – Sopro). Qual é a patologia valvar mais provável associada a esta sequência de eventos no ciclo cardíaco, e qual é o tipo de sopro?",
+    "options": [
+      "Insuficiência Mitral; Sopro Holossistólico [7].",
+      "Insuficiência Aórtica; Sopro Sistólico [7].",
+      "Estenose Aórtica; Sopro Sistólico de Ejeção [7].",
+      "Bloqueio Atrioventricular de Terceiro Grau; Ausência de B1 e B2.",
+      "Estenose Mitral; Sopro Diastólico [8]."
+    ],
+    "correctIndex": 4,
+    "explanation": "A sequência TUM – TÁ – SHHHI ocorre entre B2 e B1, caracterizando um Sopro Diastólico. O Sopro Diastólico está associado à Estenose Mitral ou Insuficiência Aórtica [8].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Ao palpar o pulso radial de um paciente, o examinador percebe que há um batimento cardíaco audível no precórdio que não corresponde a um pulso arterial palpável na periferia. Qual é a correlação semiológica para esse achado?",
+    "options": [
+      "Pulso 'Filiforme' (pequena amplitude), indicando vasoconstrição periférica e choque cardiogênico iminente.",
+      "Pulso em 'Bisferiens' (pulso bífido), que é um achado específico de Estenose e Insuficiência Aórtica concomitantes.",
+      "Extrassístoles, que podem ser batimentos com volume de sangue inadequado (pulso sem pulso) e atrapalhar a contagem da frequência cardíaca no pulso radial [9].",
+      "Oclusão arterial periférica (Arteriopatia), que exige a avaliação de claudicação intermitente e sinais de isquemia nos dedos [8].",
+      "Pulso em 'Martelo d’Água' (grande amplitude), que é característico de Insuficiência Mitral e Hipertensão."
+    ],
+    "correctIndex": 2,
+    "explanation": "Extrassístoles podem ser batimentos sem volume de sangue adequado, resultando em batimento cardíaco sem pulso palpável, o que pode atrapalhar a contagem [9].",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um paciente relata dor torácica atípica e o exame físico é inconclusivo (ausência de sopros e bulhas normais). O ECG inicial é normal. De acordo com a hierarquia da propedêutica cardiovascular, qual é o próximo passo de investigação, antes de partir para a complementação individualizada (como Ecocardiograma ou Tomografia)?",
+    "options": [
+      "Angiografia Coronária, pois é o padrão ouro para visualizar a placa aterosclerótica e a oclusão coronária.",
+      "Passar para a fase do Exame Físico completo e, subsequentemente, solicitar os exames de Primeiro Passo (Radiografia de Tórax e Eletrocardiograma) [15].",
+      "Iniciar a complementação individualizada, sendo a Ressonância Magnética o primeiro passo para avaliar a viabilidade miocárdica e a fibrose [15].",
+      "Realização imediata do Cateterismo Cardíaco, devido à alta sensibilidade para descartar doenças valvares.",
+      "Avaliar o escore de risco TIMI/GRACE para definir se o paciente tem Angina Instável ou Infarto Agudo do Miocárdio (IM)."
+    ],
+    "correctIndex": 1,
+    "explanation": "O primeiro passo do exame clínico é a Anamnese e o Exame Físico. O segundo passo são os exames básicos: Radiografia de Tórax e Eletrocardiograma [15]. A complementação (Eco, TC, RM, Hemodinâmica) vem depois, individualizada [15].",
+    "type": "raciocínio"
+  }
+]
